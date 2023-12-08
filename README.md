@@ -1,6 +1,13 @@
 # MGL for VN
 Multimodal Graph Learning and Action Boost Memory for Visual Navigation
 
+DETR pretrained file can be found in https://github.com/sx-zhang/HOZ.git
+VTNet pretrained model can be found in https://github.com/xiaobaishu0097/ICLR_VTNet.git
+Multimodal Fusion model can be found in https://github.com/barmayo/spatial_attention.git
+We modified the multimodal fusion using GAT network and use DETR module as detector and structure of DETR like VTNet as another visual inputs. Besides, we build another SG datasets like Visual Genome datasets in Scene Prior paper.
+We public some codes in this branch and when the paper are accepted, we will release whole datasets and codes.
+
+
 
 Setup
 Clone the repository with git clone https://github.com/zhoukang12321/MGL_VN_2024.git && cd MGL_VN_2024.
