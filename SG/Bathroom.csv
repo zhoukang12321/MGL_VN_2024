@@ -1,0 +1,981 @@
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Window,-1.50735,1.32293808,-0.364812583,False,False,False,False,2.05099177,
+2,SinkBasin,-3.0814,0.936,1.5373,True,False,False,False,0.8329462,
+3,BathtubBasin,-0.1551032,0.0427340567,0.884408832,True,False,False,False,2.34632134,
+4,Bathtub,-0.2051032,0.359734058,0.924408853,True,False,False,False,2.19238329,
+5,Sink,-3.116,-0.013,1.531,True,False,False,False,1.25993645,
+6,Mirror,-3.448,1.575,1.5168829,False,False,False,False,1.37438524,
+7,BathTowel1,-1.304,1.0590961,-0.183600157,False,False,False,True,1.93758237,['TowelHolder|-01.30|+01.05|-00.29']
+8,HandTowel1,-3.419338,1.338,2.102,False,False,False,True,1.38570786,['HandTowelHolder|-03.46|+01.46|+02.10']
+9,Plunger_1,0.362,0.000617262,2.468,False,False,False,True,2.92768979,
+10,BathTowelHolder1 (1),-2.05,1.045096,-0.290500164,True,False,False,False,1.80733991,
+11,BathTowelHolder1,-1.304,1.045096,-0.290500164,True,False,False,False,2.03012156,
+12,ToiletPaperHanger1,-0.426,0.784,2.278,True,False,False,False,1.98647773,
+13,Soap_Bar_1,-0.6855477,0.6207396,1.9895947,False,False,False,True,1.6631614,['Bathtub|-00.21|+00.36|+00.92']
+14,ToiletPaper,-2.307,0.775563061,3.898,False,False,False,True,2.401987,['Shelf|-02.59|+00.78|+03.91']
+15,bin_1,-0.867,0.000617262,3.86,True,False,False,False,2.87994576,
+16,Soap_Bottle_1,-3.405,1.02509809,1.294,False,False,False,True,1.179707,['Sink|-03.12|-00.01|+01.53']
+17,Shelf (3),-2.5878,0.779,3.9098,True,False,False,False,2.436448,
+18,Shelf (1),-2.5878,1.2878,3.942,True,False,False,False,2.4953177,
+19,Shelf (2),-2.5878,1.0328,3.942,True,False,False,False,2.468741,
+20,Shelf (4),-2.5878,1.53419757,3.9098,True,False,False,False,2.51424026,
+21,HandTowelHolder1,-3.459,1.4589,2.0986,True,False,False,False,1.45964658,
+22,HandTowelHolder1 (1),-3.459,1.4589,0.817,True,False,False,False,1.49624038,
+23,ToiletPaperRoll,-2.358,1.028,3.921,False,False,False,True,2.426701,['Shelf|-02.59|+01.03|+03.94']
+24,Cloth_1,-0.271,0.041,1.019,False,False,False,True,2.21098661,['Bathtub|-00.21|+00.36|+00.92|BathtubBasin']
+25,Paper_Towel_1,-3.16796422,0.9682901,0.2793393,False,False,False,True,1.52876294,['Cart|-03.21|+00.00|+00.15']
+26,Cart,-3.1900847,0.00240975618,0.148875117,True,False,False,False,1.87559855,
+27,Candle_1,-3.17278457,0.22892189,-0.04329659,False,False,False,True,1.91984725,['Cart|-03.21|+00.00|+00.15']
+28,Spray_Bottle_1,-3.15593719,0.0170430187,0.5179799,False,False,False,True,1.60235929,
+29,Scrub_Brush_1,0.397,0.000617262,2.694,False,False,False,True,3.040402,
+30,Dish_Sponge_1,-3.2118938,0.858637452,0.02503793,False,False,False,True,1.76141989,['Cart|-03.21|+00.00|+00.15']
+31,Toilet1,0.063,0.002,3.097,True,False,True,False,2.951218,
+32,LightSwitch1,-3.45933819,1.438,2.497,False,True,False,False,1.65656734,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,BathtubBasin,-3.405,0.166000009,2.904,True,False,False,False,1.63614833,
+2,Cabinet (2),-0.124599993,0.364145935,4.634252,True,False,True,False,2.891369,
+3,bin_2,-2.202,-0.000328551978,4.948,True,False,False,False,2.61635375,
+4,SinkBasin,-0.5692,0.9866,4.886,True,False,False,False,2.7834456,
+5,Bathtub,-2.89643812,0.667317748,2.86050034,True,False,False,False,0.9939895,
+6,ShowerGlass,0.0,0.0,0.0,False,False,False,False,3.32583928,
+7,Sink,-1.525,0.927,4.874,False,False,False,False,2.421197,
+8,ShowerDoor,-0.2820804,1.22878945,1.730206,False,False,True,False,1.910888,
+9,SinkBasin,-1.5149,0.9866,4.886,True,False,False,False,2.43632984,
+10,Countertop,-1.023551,0.9540426,4.88447428,True,False,False,False,2.57721138,
+11,Mirror,-0.975537539,1.578,5.14560127,False,False,False,False,2.91676283,
+12,Cabinet,-1.962872,0.364145935,4.634251,True,False,True,False,2.200969,
+13,Cabinet (1),-1.027802,0.364145935,4.634251,True,False,True,False,2.40583777,
+14,Cabinet,-1.05967,0.364145935,4.634252,True,False,True,False,2.39313817,
+15,Sink (1),-0.5793,0.927,4.874,False,False,False,False,2.76675963,
+16,Window,-1.993,1.88826835,0.14449352,False,False,False,False,2.554175,
+17,Candle_2,-3.13404918,0.667317748,3.919932,False,False,False,True,1.83213735,['Bathtub|-02.90|+00.67|+02.86']
+18,Soap_Bottle_2,-1.060859,0.9541941,5.034496,False,False,False,True,2.70342731,['CounterTop|-01.02|+00.95|+04.88']
+19,HandTowel1,-0.1123,1.467,4.811,False,False,False,True,3.03724575,['HandTowelHolder|-00.07|+01.57|+04.81']
+20,BathTowel2,-0.181111127,1.419,2.42500019,False,False,False,True,1.89278829,['TowelHolder|-00.07|+01.41|+02.43']
+21,LightSwitch2,-2.496,1.367,5.14641571,False,True,False,False,2.73258042,
+22,BathTowelHolder1 (1),-1.72,1.214,1.74,True,False,False,False,0.8684328,
+23,BathTowelHolder1,-0.07421112,1.405,2.425,True,False,False,False,1.99214363,
+24,Soap_Bar_1,-3.65793514,0.5314243,1.34880757,False,False,False,True,2.05191016,['Shelf|-03.71|+00.53|+00.95']
+25,ToiletPaper,-0.188,1.036,3.374,False,False,False,True,2.01631713,['Toilet|-00.52|00.00|+03.22']
+26,Tissue_Box_1,-0.799843669,0.028488487,4.92658949,False,False,False,True,2.84418917,['Cabinet|-01.03|+00.36|+04.63']
+27,Cloth_2,-3.73852468,0.5314243,0.328691483,False,False,False,True,2.80595636,['Shelf|-03.71|+00.53|+00.95']
+28,Shelf,-3.713,0.5314243,0.9518,True,False,False,False,2.33829761,
+29,HandTowelHolder1,-2.094,1.544,5.146,True,False,False,False,2.72470641,
+30,HandTowelHolder1 (1),-0.074,1.569,4.811,True,False,False,False,3.0816977,
+31,ToiletPaperRoll,-0.202759862,1.0352695,3.18283153,False,False,False,True,1.92729032,['Toilet|-00.52|00.00|+03.22']
+32,ToiletPaperHanger2,-0.074,1.126,3.686,True,False,False,False,2.27306962,
+33,Spray_Bottle_2,-1.7412,0.0285,4.8736,False,False,False,True,2.54197454,['Cabinet|-01.96|+00.36|+04.63']
+34,Scrub_Brush_1,-0.231531024,-0.000328551978,3.857473,False,False,False,True,2.40458179,
+35,Plunger_2,-0.212999284,-0.000791542232,3.536999,False,False,False,True,2.25418973,
+36,Toilet1,-0.517,-0.000328551978,3.22,True,False,True,False,1.8786931,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Window,-3.44721246,1.59313428,0.6488158,False,False,False,False,2.87367,
+2,Mirror,-1.38621485,1.596,3.4644,False,False,False,False,1.65556228,['CounterTop|-01.36|+01.09|+03.15']
+3,SinkBasin,-0.837200046,0.960700035,3.091,True,False,False,False,1.10358751,
+4,ShowerDoor,-2.477836,1.77427077,2.386777,False,False,True,False,1.74673367,
+5,CounterTop,-1.35813951,1.09468281,3.151395,True,False,False,False,1.21738076,
+6,Sink,-0.846,0.952,3.144,False,False,False,False,1.15458477,
+7,Cabinet,-1.399117,0.425452054,2.86752081,True,False,True,False,1.078733,
+8,Bathtub,-2.23425722,0.28896752,0.722827733,True,False,False,False,1.88730907,
+9,Cabinet (1),-0.338,0.425452054,2.86752081,True,False,True,False,1.20108891,
+10,Sink (1),-1.935,0.952,3.144,False,False,False,False,1.47769237,
+11,Cabinet (2),-1.362671,0.425452054,2.86751938,True,False,True,False,1.06578529,
+12,Cabinet,-2.423788,0.425452054,2.86751938,True,False,True,False,1.741132,
+13,ShowerGlass,-2.89500523,1.42307067,2.34256721,False,False,False,False,1.98853159,['CounterTop|-01.36|+01.09|+03.15']
+14,Window,-2.19,1.551,0.086,False,False,False,False,2.33850145,
+15,SinkBasin,-1.92619991,0.960700035,3.091,True,False,False,False,1.43151951,
+16,bin_3,-0.127,0.0262276828,3.249,True,False,False,False,1.770291,
+17,HandTowel1,-0.242000028,1.76,3.4277,False,False,False,True,1.81835139,['HandTowelHolder|-00.24|+01.86|+03.47']
+18,Plunger_1,-0.219391584,0.0262276828,0.490775,False,False,False,True,1.923255,
+19,BathTowelHolder1 (1),0.968,1.344,2.855,True,False,False,False,2.18580627,
+20,BathTowelHolder1,0.4029,1.375,3.466085,True,False,False,False,2.077988,
+21,Soap_Bar_1,-1.53425765,1.0946461,3.319523,False,False,False,True,1.43338811,['CounterTop|-01.36|+01.09|+03.15']
+22,ToiletPaper,-0.0748,0.8717,0.376,False,False,False,True,1.86988091,['ToiletPaperHanger|-00.04|+00.96|+00.20']
+23,Soap_Bottle_3,-1.288,1.09463477,3.327,False,False,False,True,1.36817324,['CounterTop|-01.36|+01.09|+03.15']
+24,BathtubBasin,-2.32225728,0.09696752,0.634827733,True,False,False,False,2.07397938,
+25,Shelf,-2.93,0.5891813,1.436,True,False,False,False,2.03893876,
+26,LightSwitch3,0.968297958,1.432,1.129,False,True,False,False,2.21079946,
+27,HandTowelHolder1,-0.242,1.862,3.466,True,False,False,False,1.89671314,
+28,ToiletPaperRoll,-0.138,0.056,3.297,False,False,False,True,1.7844578,['GarbageCan|-00.13|+00.03|+03.25']
+29,BathTowel3,0.4028995,1.389,3.359185,False,False,False,True,2.00717354,['TowelHolder|+00.40|+01.38|+03.47']
+30,Paper_Towel_1,-0.48912555,0.156315029,3.20389724,False,False,False,True,1.5181129,['Cabinet|-00.34|+00.43|+02.87']
+31,Scrub_Brush_1,-0.351376772,0.0262276828,0.353597283,False,False,False,True,1.98573756,
+32,Cloth_3,-1.63793778,0.5892903,1.11437619,False,False,False,True,1.14258277,['Bathtub|-02.23|+00.29|+00.72']
+33,ToiletPaperHanger3,-0.039,0.959,0.201,True,False,False,False,2.03983617,
+34,Candle_3,-1.29707551,0.5893086,1.06128669,False,False,False,True,1.04097331,['Bathtub|-02.23|+00.29|+00.72']
+35,Dish_Sponge_1,-0.674835861,0.04466468,3.165393,False,False,False,True,1.49759448,['Cabinet|-00.34|+00.43|+02.87']
+36,Toilet1,-0.695,0.0262276828,0.656,True,False,True,False,1.64656031,
+37,Spray_Bottle_3,-3.140286,0.589183569,1.42312407,False,False,False,True,2.24229431,['Shelf|-02.93|+00.59|+01.44']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Mirror,-1.105,1.755,-0.884,False,False,False,False,2.10502028,
+2,Bathtub,0.221157715,0.3430243,0.63699466,True,False,False,False,1.84605253,
+3,Sink,-1.128,-0.001,-0.594,True,False,False,False,1.86995375,
+4,Candle_4,-0.613884,1.1034,2.1504786,False,False,False,True,1.4659121,['Shelf|-01.17|+01.06|+02.16']
+5,HandTowel1,-1.74399984,1.502,-0.8465902,False,False,False,True,1.9565376,['HandTowelHolder|-01.74|+01.60|-00.88']
+6,Plunger_1,-2.66660023,0.00216194987,-0.6075095,False,False,False,True,2.18101859,
+7,BathTowelHolder1,0.266604841,1.53635907,-0.559705138,True,False,False,False,2.440187,
+8,bin_4,-1.687,0.00216194987,-0.62,True,False,False,False,1.8631072,
+9,Soap_Bar_1,-1.61515045,0.2784547,2.1543963,False,False,False,True,1.31762993,['Shelf|-01.17|+00.28|+02.16']
+10,ToiletPaper,-1.7851,0.805,-0.7697,False,False,False,True,1.79520357,['ToiletPaperHanger|-01.72|+00.81|-00.89']
+11,Soap_Bottle_4,-0.894,1.05849624,2.173,False,False,False,True,1.32939613,['Shelf|-01.17|+01.06|+02.16']
+12,ToiletPaperHanger4,-1.721,0.8096,-0.8851297,True,False,False,False,1.90034437,
+13,Tissue_Box_1,-1.46120262,0.2784547,2.14501953,False,False,False,True,1.30492651,['Shelf|-01.17|+00.28|+02.16']
+14,Shelf,-1.168,0.278454661,2.1573,True,False,False,False,1.35640168,
+15,SinkBasin,-1.13330007,0.836400032,-0.580199957,True,False,False,False,1.62356329,
+16,BathtubBasin,0.277157724,0.03302431,0.6119947,True,False,False,False,2.01642656,
+17,Shelf (1),-1.168,1.06,2.1573,True,False,False,False,1.21415222,
+18,HandTowelHolder1,-1.744,1.604,-0.8848902,True,False,False,False,2.02571535,
+19,HandTowelHolder1 (1),-0.542,1.604,-0.885,True,False,False,False,2.22759151,
+20,Cloth_4,-0.933421731,0.278454661,2.18684864,False,False,False,True,1.4559803,['Shelf|-01.17|+00.28|+02.16']
+21,ToiletPaperRoll,-1.68392265,1.05849624,2.196592,False,False,False,True,1.22056913,['Shelf|-01.17|+01.06|+02.16']
+22,BathTowel3,0.266604841,1.55035913,-0.452805132,False,False,False,True,2.37705731,['TowelHolder|+00.27|+01.54|-00.56']
+23,Scrub_Brush_1,-2.86305285,0.00216194987,-0.6620358,False,False,False,True,2.33068132,
+24,LightSwitch4,-3.05784273,1.433,0.762,False,True,False,False,1.66260254,
+25,Toilet1,-2.15,0.00216194987,-0.413,True,False,True,False,1.79746175,
+26,Spray_Bottle_4,-0.7647039,0.278454661,2.14321637,False,False,False,True,1.49594855,['Shelf|-01.17|+00.28|+02.16']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,BathTowel2,-1.61500061,1.398,1.80063808,False,False,False,True,1.90623128,['TowelHolder|-01.62|+01.38|+01.91']
+2,Cabinet,-2.76171,0.44667995,0.5999055,True,False,True,False,1.072385,
+3,Cabinet,-2.7567842,0.42158556,-0.7596634,True,False,True,False,1.17616165,
+4,Cabinet,-2.905029,2.09813929,1.87864923,True,False,True,False,2.40256882,
+5,Sink,-3.016,0.866,0.207,False,False,False,False,1.0376004,
+6,Bathtub,-0.603960156,0.2866531,0.8323523,True,False,False,False,1.73893821,
+7,SinkBasin,-3.0168,0.8747,0.2175,True,False,False,False,1.0402391,
+8,Cabinet,-2.7567842,0.42158556,-0.272978246,True,False,True,False,0.9385015,
+9,Cabinet,-2.9002192,2.05340958,1.0057646,True,False,True,False,1.77232718,
+10,BathtubBasin,-0.558060169,0.0232211053,0.811352253,True,False,False,False,1.87476778,
+11,Mirror,-3.348,1.477,0.02042636,False,False,False,False,1.46453941,
+12,CounterTop,-3.049,1.0396,-0.443,True,False,False,False,1.14665043,
+13,HandTowel1,-2.96,1.593,-0.728403032,False,False,False,True,1.38770318,['HandTowelHolder|-02.96|+01.70|-00.77']
+14,BathTowelHolder1,-1.615,1.384,1.907538,True,False,False,False,2.00412321,
+15,Soap_Bar_1,-3.28,0.9933603,0.513,False,False,False,True,1.38181138,['CounterTop|-03.05|+01.04|-00.44']
+16,ToiletPaper,-3.24608088,1.03981376,1.14301383,False,False,False,True,1.696294,['Toilet|-02.93|+00.00|+01.27']
+17,bin_5,-3.04,0.00385227427,0.846,True,False,False,False,1.6152755,
+18,HandTowelHolder1,-2.96,1.695,-0.766703,True,False,False,False,1.46074259,
+19,HandTowelHolder1 (1),-3.36,1.566,0.763,True,False,False,False,1.69377887,
+20,ToiletPaperRoll,-3.28216124,1.03938746,1.431352,False,False,False,True,1.92634523,['Toilet|-02.93|+00.00|+01.27']
+21,LightSwitch5,-2.313336,1.42653978,-0.766768456,False,True,False,False,0.978913844,
+22,Candle_1,-2.9969,0.09928298,-0.1189,False,False,False,True,1.28720117,['Cabinet|-02.76|+00.42|-00.27']
+23,Scrub_Brush_1,-3.236,0.00385227427,1.79,False,False,False,True,2.354484,
+24,Plunger_2,-3.04350257,0.003389284,1.68351626,False,False,False,True,2.17617965,
+25,Soap_Bottle_5,-3.245,0.9933603,-0.152,False,False,False,True,1.25736332,['CounterTop|-03.05|+01.04|-00.44']
+26,Cloth_5,-0.494496882,0.0231758058,1.30828738,False,False,False,True,2.18071246,['Bathtub|-00.60|+00.29|+00.83|BathtubBasin']
+27,Spray_Bottle_5,-3.12044644,0.09928298,0.4822089,False,False,False,True,1.46180212,['Cabinet|-02.76|+00.45|+00.60']
+28,ToiletPaperHanger5,-3.10526681,0.8283,0.626,True,False,False,False,1.27253711,
+29,Toilet1,-2.932,0.00385227427,1.267,True,False,True,False,1.81265318,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sink,0.427,1.038,2.947,True,False,False,False,1.71791971,['CounterTop|+00.49|+01.02|+03.09']
+2,Window,-2.54826713,1.67397213,2.40593076,False,False,False,False,1.77641547,
+3,Cabinet,0.0686453,0.366893649,3.77201176,True,False,True,False,2.13773155,
+4,Bathtub,-1.043,0.155,0.558,True,False,False,False,1.62522459,
+5,BathTowel2,-2.3931,1.478,0.5800003,False,False,False,True,2.07057047,['TowelHolder|-02.50|+01.46|+00.58']
+6,SinkBasin,0.404,0.927,2.926,True,False,False,False,1.68203688,
+7,Mirror,0.8583499,1.86388922,2.97254086,False,False,False,False,2.30690026,
+8,CounterTop,0.487025976,1.01500618,3.09076929,True,False,False,False,1.847559,
+9,Cabinet,0.0749658644,0.379236639,2.04540682,True,False,True,False,1.19682419,
+10,Candle_2,-2.37627149,0.693737566,1.07053018,False,False,False,True,1.67391956,['Bathtub|-01.04|+00.16|+00.56']
+11,Cloth_6,-1.99736857,0.6939439,0.473359823,False,False,False,True,1.83555365,['Bathtub|-01.04|+00.16|+00.56']
+12,HandTowel1,0.397999972,1.656,2.0393,False,False,False,True,1.58818007,['HandTowelHolder|+00.40|+01.76|+02.00']
+13,Plunger_1,0.480519533,0.00242729113,4.79384375,False,False,False,True,3.28775,
+14,BathTowelHolder1,-2.5,1.464,0.58,True,False,False,False,2.14024377,
+15,ToiletPaperHanger6,-0.081,0.9713,5.0,True,False,False,False,3.13833833,
+16,Soap_Bar_1,-1.953403,0.6938172,0.8400219,False,False,False,True,1.5160681,['Bathtub|-01.04|+00.16|+00.56']
+17,ToiletPaper,0.718468845,1.03849244,4.626319,False,False,False,True,3.14148521,['Toilet|+00.38|+00.00|+04.47']
+18,LightSwitch6,-1.121,1.334,5.00047159,False,True,False,False,3.03362226,
+19,bin_6,-0.145,0.00242729113,1.383,True,False,False,False,1.38690782,
+20,BathtubBasin,-1.062,0.154,0.556000054,True,False,False,False,1.62807238,
+21,HandTowelHolder1,0.398,1.758,2.001,True,False,False,False,1.63850582,
+22,ToiletPaperRoll,0.749086261,1.04327035,4.08321667,False,False,False,True,2.72372,['CounterTop|+00.49|+01.02|+03.09']
+23,Soap_Bottle_6,-0.121,0.693741739,1.052,False,False,False,True,1.30969942,['Bathtub|-01.04|+00.16|+00.56']
+24,Spray_Bottle_6,0.724,1.038,4.409,False,False,False,True,2.965395,['Toilet|+00.38|+00.00|+04.47']
+25,Scrub_Brush_1,0.688,0.00242729113,4.867,False,False,False,True,3.44685841,
+26,Toilet1,0.376310229,0.00242729113,4.470429,True,False,True,False,2.96800423,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet (1),-1.05268371,0.3400938,-1.327212,True,False,True,False,1.54303467,
+2,Cabinet,-1.039065,0.3400938,-1.327212,True,False,True,False,1.53820944,
+3,ShowerGlass,0.9194,1.4177,-0.206,False,False,False,False,1.52468824,
+4,Sink (1),-1.5607,0.812,-1.599,False,False,False,False,1.92086172,
+5,Countertop,-1.041,0.8848,-1.532,True,False,False,False,1.62479234,
+6,ShowerDoor,0.4515615,0.9268118,0.696335256,False,False,True,False,1.17942643,
+7,Cabinet,-0.07164864,0.3400938,-1.327212,True,False,True,False,1.502991,
+8,Mirror,-1.015,1.501,-1.841,False,False,False,False,2.00378633,
+9,Bathtub,0.88389647,0.392485,-1.154036,True,False,False,False,1.8721652,
+10,Cabinet (2),-2.0201,0.3400938,-1.327212,True,False,True,False,2.094326,
+11,Sink,-0.526,0.812,-1.599,False,False,False,False,1.60165584,
+12,Window,1.53297114,1.67212427,-1.03796709,False,False,False,False,2.40952682,
+13,BathTowel1,0.89,1.368,-1.7551,False,False,False,True,2.2871542,['TowelHolder|+00.89|+01.35|-01.86']
+14,HandTowel1,-2.02846885,1.492063,-1.48263109,False,False,False,True,2.21007037,['HandTowelHolder|-02.07|+01.59|-01.48']
+15,BathTowelHolder1,0.89,1.354,-1.862,True,False,False,False,2.36745572,
+16,ToiletPaperHanger7,-1.182,0.919,0.768,True,False,False,False,1.027274,
+17,Soap_Bar_1,-0.9336195,0.8999612,-1.72910261,False,False,False,True,1.78264463,['CounterTop|-01.04|+00.88|-01.53']
+18,ToiletPaper,-1.0984273,0.8998383,-1.39375627,False,False,False,True,1.51679659,['CounterTop|-01.04|+00.88|-01.53']
+19,LightSwitch7,0.225,1.334,0.7623273,False,True,False,False,1.13786149,
+20,SinkBasin,-0.5366,0.9174,-1.5327,True,False,False,False,1.53323054,
+21,BathtubBasin,0.9388965,0.160485,-1.126036,True,False,False,False,1.97127783,
+22,SinkBasin,-1.5713,0.9174,-1.5327,True,False,False,False,1.87006414,
+23,HandTowelHolder1,-2.066769,1.594063,-1.48263109,True,False,False,False,2.26584435,
+24,ToiletPaperRoll,-1.89419866,1.03548431,0.023377493,False,False,False,True,1.40091729,['Toilet|-01.61|00.00|+00.21']
+25,bin_7,0.099,-0.0005439371,-1.568,True,False,False,False,1.90505254,
+26,Cloth_1,-1.1324991,0.89994967,-1.70934367,False,False,False,True,1.82261109,['CounterTop|-01.04|+00.88|-01.53']
+27,Spray_Bottle_1,-1.3488,0.008684982,-1.4679,False,False,False,True,1.915841,['Cabinet|-01.05|+00.34|-01.33']
+28,Scrub_Brush_1,-1.6482352,-0.0005439371,0.649161935,False,False,False,True,1.59739017,
+29,Plunger_2,-1.88542414,-0.00100692362,0.6098786,False,False,False,True,1.7618134,
+30,Candle_3,0.531,0.583,-0.441,False,False,False,True,1.165427,['Bathtub|+00.88|+00.39|-01.15']
+31,Toilet1,-1.61,-0.0005439371,0.21,True,False,True,False,1.44499147,
+32,Soap_Bottle_7,-0.107,0.899951935,-1.732,False,False,False,True,1.77602744,['CounterTop|-01.04|+00.88|-01.53']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-3.09487081,0.3906768,0.421356916,True,False,True,False,1.80439258,
+2,Countertop,-2.298,0.953,0.689,True,False,False,False,1.23333752,
+3,Cabinet,-2.305049,0.41535458,0.4251692,True,False,True,False,1.15794086,
+4,Bathtub,0.2865271,0.29061377,-0.07722926,True,False,False,False,1.89614868,
+5,Cabinet (1),-1.49617815,0.41535458,0.4251692,True,False,True,False,0.832308769,
+6,Cabinet (2),-2.286,0.3906768,0.421356916,True,False,True,False,1.15326321,
+7,Sink,-1.924,0.931,0.676,False,False,False,False,1.01886714,
+8,Mirror,-2.307,1.527,1.00130594,False,False,False,False,1.61480069,
+9,Sink (1),-2.6814,0.931,0.676,False,False,False,False,1.50133955,
+10,BathTowel3,-0.490000516,1.3670001,0.9026544,False,False,False,True,1.60152817,['TowelHolder|-00.49|+01.35|+01.01']
+11,Candle_4,-0.154133916,0.5537,0.8018366,False,False,False,True,1.74329042,['Bathtub|+00.29|+00.29|-00.08']
+12,LightSwitch8,-1.39,1.263,-1.6936729,False,True,False,False,1.49217236,
+13,bin_8,-2.924,0.00104796886,-1.56,True,False,False,False,2.13440275,
+14,HandTowel1,-3.09641314,1.587,0.744,False,False,False,True,2.00143218,['HandTowelHolder|-03.13|+01.69|+00.74']
+15,BathTowelHolder1,-0.49,1.353,1.00955439,True,False,False,False,1.67628622,
+16,Soap_Bar_1,-0.168,0.509,0.529,False,False,False,True,1.59234142,['Bathtub|+00.29|+00.29|-00.08']
+17,ToiletPaper,-0.9974749,1.03672981,0.918217063,False,False,False,True,1.27882838,['Toilet|-01.05|+00.00|+00.55']
+18,Cloth_2,-1.177,1.03709006,0.901,False,False,False,True,1.20306551,['Toilet|-01.05|+00.00|+00.55']
+19,SinkBasin,-2.6663,0.9617,0.6693,True,False,False,False,1.48624587,
+20,BathtubBasin,0.3498,0.023999989,-0.135,True,False,False,False,2.05084181,
+21,SinkBasin,-1.9089,0.9617,0.6693,True,False,False,False,1.00790381,
+22,HandTowelHolder1,-3.13471317,1.689,0.744,True,False,False,False,2.06872368,
+23,ToiletPaperRoll,-0.865391731,1.03680527,0.9463929,False,False,False,True,1.36097145,['Toilet|-01.05|+00.00|+00.55']
+24,ToiletPaperHanger8,-1.485,0.805,0.692,True,False,False,False,0.9471046,
+25,Spray_Bottle_2,-2.9287,0.0738,0.6171,False,False,False,True,1.8652184,['Cabinet|-03.09|+00.39|+00.42']
+26,Scrub_Brush_1,-0.4850965,0.00104796886,0.873910666,False,False,False,True,1.76210213,
+27,Soap_Bottle_8,-1.526,0.9532553,0.907,False,False,False,True,1.1584245,['CounterTop|-02.30|+00.95|+00.69']
+28,Plunger_2,-0.710990548,0.000584982336,0.828180134,False,False,False,True,1.61172032,
+29,Toilet1,-1.054,0.00104796886,0.553,True,False,True,False,1.286672,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (1),0.443480343,0.624500036,3.3103,True,False,True,False,1.7938298,
+2,bin_9,0.498,0.000166088343,3.824,True,False,False,False,2.386688,
+3,Drawer (5),0.443480343,0.3234,2.1942,True,False,True,False,1.34012,
+4,ShowerDoor,-0.9232318,1.033,1.15556335,False,False,True,False,0.8720453,
+5,Sink,0.496,0.6618,2.756,False,False,False,False,1.47693872,"['CounterTop|+00.46|+00.79|+02.76', 'Sink|+00.50|+00.66|+02.76|SinkBasin']"
+6,Drawer,0.443480343,0.624500036,2.1937,True,False,True,False,1.24034619,
+7,Mirror,0.63,1.533,2.697,False,False,False,False,1.670157,
+8,Showerglass,-0.153,1.266,1.1568,False,False,False,False,1.0956732,
+9,Countertop,0.4584802,0.7895999,2.76,True,False,False,False,1.43194664,
+10,Drawer (4),0.443480343,0.3234,2.5662,True,False,True,False,1.44180107,
+11,Drawer (3),0.443480343,0.3234,2.9378,True,False,True,False,1.62409258,
+12,Drawer (2),0.443480343,0.3234,3.3103,True,False,True,False,1.86416054,
+13,Soap_Bottle_9,0.596,0.8098796,3.415,False,False,False,True,1.95506358,['CounterTop|+00.46|+00.79|+02.76']
+14,HandTowel1 (1),0.634889,1.512,1.8920002,False,False,False,True,1.51746523,['HandTowelHolder|+00.67|+01.61|+01.89']
+15,BathTowel2,-0.4423,1.3751,1.282367,False,False,False,True,0.913395166,['TowelHolder|-00.44|+01.36|+01.18']
+16,BathTowelHolder1 (1),0.716528356,1.362,0.583,True,False,False,False,2.090685,
+17,BathTowelHolder1,-0.4423,1.3611,1.175467,True,False,False,False,0.993012547,
+18,Soap_Bar_1,0.584,0.810402453,2.32,False,False,False,True,1.37484324,['CounterTop|+00.46|+00.79|+02.76']
+19,ToiletPaper,0.3618,0.504500031,2.1744,False,False,False,True,1.19325507,['Drawer|+00.44|+00.62|+02.19']
+20,LightSwitch9,-1.74999976,1.429,3.325,False,True,False,False,1.74190533,
+21,ToiletPaperHanger9,0.3769,0.6489,2.0095,True,False,False,False,1.15482962,
+22,SinkBasin,0.440199971,0.667609,2.7464,True,False,False,False,1.424162,
+23,HandTowelHolder1 (1),0.673189,1.614,1.892,True,False,False,False,1.59538841,
+24,HandTowelHolder1,0.673189,1.614,3.564,True,False,False,False,2.23152328,
+25,ToiletPaperRoll,0.499,0.2,3.815,False,False,False,True,2.31211138,['GarbageCan|+00.50|+00.00|+03.82']
+26,Candle_1,0.5995331,1.036233,1.62467766,False,False,False,True,1.407249,['Toilet|+00.27|+00.00|+01.46']
+27,Scrub_Brush_1,0.5530571,0.000166088343,1.725937,False,False,False,True,1.60775232,
+28,Cloth_3,0.34246552,0.809879661,3.42810655,False,False,False,True,1.80036175,['CounterTop|+00.46|+00.79|+02.76']
+29,Plunger_2,0.5940484,-0.0002968982,1.89854741,False,False,False,True,1.62154007,
+30,Toilet1,0.271,0.000166088343,1.464,True,False,True,False,1.46339893,
+31,Spray_Bottle_3,0.384908319,0.810402453,2.1240356,False,False,False,True,1.14526832,['CounterTop|+00.46|+00.79|+02.76']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,CounterTop,-2.178,0.782,1.89,True,False,False,False,1.40260518,
+2,Drawer,-1.30757,0.6063,1.890688,True,False,True,False,1.831969,
+3,Drawer (4),-1.30757,0.3379,1.890688,True,False,True,False,1.89367867,
+4,ShowerDoor,-4.873393,1.236,3.94729018,False,False,True,False,2.49636531,
+5,Drawer (5),-3.0292,0.3379,1.890688,True,False,True,False,1.563388,
+6,Drawer (1),-2.1699,0.6063,1.890688,True,False,True,False,1.42940092,
+7,Drawer (2),-3.0292,0.6063,1.890688,True,False,True,False,1.48804355,
+8,Bathtub,-4.081,0.297081053,2.48,False,False,False,False,1.85915244,
+9,Drawer (3),-2.1699,0.3379,1.890688,True,False,True,False,1.50767875,
+10,Mirror,-2.17703032,1.85659266,1.390617,False,False,False,False,2.11563921,
+11,Sink,-1.421,0.837,1.777,False,False,False,False,1.82701647,
+12,Sink (1),-2.943,0.837,1.777,False,False,False,False,1.53947949,
+13,Candle_2,-1.04812658,1.03468418,4.306485,False,False,False,True,1.80059183,['Toilet|-01.34|00.00|+04.46']
+14,HandTowel1,-0.923299968,1.59,2.018,False,False,False,True,2.11645055,['HandTowelHolder|-00.89|+01.69|+02.02']
+15,Plunger_1,-1.06452632,-0.0006047785,4.838613,False,False,False,True,2.32294559,
+16,BathTowelHolder1,-4.846,1.508,3.359,True,False,False,False,2.425857,
+17,BathTowelHolder1 (1),-4.846,1.508,2.425,True,False,False,False,2.55998564,
+18,LightSwitch10,-2.16517138,1.45086336,4.97254467,False,True,False,False,1.83909929,
+19,bin_10,-1.065,-0.0006047785,3.712,True,False,False,False,1.75626552,
+20,Soap_Bar_1,-1.94043052,0.807591,2.04013062,False,False,False,True,1.33623147,['CounterTop|-02.18|+00.78|+01.89']
+21,ToiletPaper,-0.992956638,1.03545523,4.587109,False,False,False,True,2.019228,['Toilet|-01.34|00.00|+04.46']
+22,BathtubBasin,-4.30962324,0.192,2.32867169,True,False,False,False,2.15067554,
+23,SinkBasin,-1.4423,0.874,1.78599989,True,False,False,False,1.80630076,
+24,SinkBasin,-2.96430016,0.874,1.78599989,True,False,False,False,1.53608847,
+25,HandTowelHolder1,-0.885,1.692,2.018,True,False,False,False,2.180066,
+26,HandTowelHolder1,-3.726,1.748,1.292,True,False,False,False,2.46074677,
+27,Cloth_4,-4.313,0.193,2.409,False,False,False,True,2.120061,['Bathtub|-04.08|+00.30|+02.48|BathtubBasin']
+28,ToiletPaperRoll,-1.979,0.808,1.695,False,False,False,True,1.64255977,['CounterTop|-02.18|+00.78|+01.89']
+29,BathTowel3,-4.7391,1.52200007,3.359,False,False,False,True,2.32633686,['TowelHolder|-04.85|+01.51|+03.36']
+30,Scrub_Brush_1,-1.06544423,-0.0006047785,4.05289841,False,False,False,True,1.87467217,
+31,Soap_Bottle_10,-2.37853575,0.807590961,1.51755381,False,False,False,True,1.73917675,['CounterTop|-02.18|+00.78|+01.89']
+32,Toilet1,-1.341,-0.0006047785,4.457,True,False,True,False,1.90050769,
+33,Spray_Bottle_4,-0.964,0.808,1.552,False,False,False,True,2.29151416,['CounterTop|-02.18|+00.78|+01.89']
+34,ToiletPaperHanger10,-0.885,0.888,3.912,True,False,False,False,1.74545765,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Window,-2.808153,0.962988436,0.5142153,False,False,False,False,2.53913951,
+2,Bathtub,-1.062,0.3003216,0.4273145,False,False,False,False,1.712627,['Bathtub|-01.06|+00.30|+00.43|BathtubBasin']
+3,Drawer (2),0.4096,0.5511,1.4863,True,False,True,False,1.31602383,
+4,Mirror,0.9869435,1.67627966,1.897,False,False,False,False,1.90436018,
+5,ShowerDoor,-2.671,1.00197244,2.797093,False,False,True,False,2.08219314,
+6,Countertop,0.733,0.697,1.955,True,False,False,False,1.49782252,
+7,Drawer (1),0.4096,0.315,2.420587,True,False,True,False,1.366205,
+8,ShowerGlass,-1.713,1.276,3.298,False,False,False,False,1.658857,
+9,CounterTop,-0.299,0.1575365,0.531,True,False,False,False,1.7076509,
+10,Sink,0.8121022,0.7033736,1.920099,False,False,False,False,1.57674634,['Sink|+00.81|+00.70|+01.92|SinkBasin']
+11,Drawer,0.4096,0.5511,2.420587,True,False,True,False,1.28254616,
+12,Window,-0.957778931,1.56365645,-0.05919847,False,False,False,False,2.172747,
+13,Drawer (3),0.4096,0.315,1.4863,True,False,True,False,1.39768028,
+14,HandTowel1,1.033002,1.671,3.127,False,False,False,True,2.245014,['HandTowelHolder|+01.07|+01.77|+03.13']
+15,BathTowel2,0.9316859,1.19300008,0.495,False,False,False,True,2.27543068,['TowelHolder|+01.04|+01.18|+00.50']
+16,BathTowelHolder1,1.0385859,1.179,0.495,True,False,False,False,2.35385084,
+17,BathTowelHolder1,0.474383861,1.16875565,0.0277960021,True,False,False,False,2.336598,
+18,Soap_Bar_1,-1.924,0.578509033,0.642,False,False,False,True,1.824088,['CounterTop|-00.30|+00.16|+00.53']
+19,ToiletPaper,-2.57685518,0.5784096,0.465695441,False,False,False,True,2.4075737,['CounterTop|-00.30|+00.16|+00.53']
+20,ToiletPaperHanger11,-2.695403,0.929,1.2,True,False,False,False,2.10364079,
+21,bin_11,0.784,0.06732557,3.04,True,False,False,False,2.032727,
+22,SinkBasin,0.7209022,0.8129736,1.896099,True,False,False,False,1.47727191,
+23,BathtubBasin,-0.721,0.171,0.48,True,False,False,False,1.687032,
+24,Soap_Bottle_11,0.904723,0.7314452,2.38278913,False,False,False,True,1.706996,['CounterTop|+00.73|+00.70|+01.96']
+25,HandTowelHolder1,1.071302,1.773,3.127,True,False,False,False,2.31200027,
+26,LightSwitch11,0.220262453,1.416,3.99832916,False,True,False,False,2.280042,
+27,ToiletPaperRoll,-2.60395455,1.037411,1.51409686,False,False,False,True,1.921327,['Toilet|-02.23|+00.00|+01.63']
+28,Scrub_Brush_1,-2.55781722,0.0013255775,2.200881,False,False,False,True,2.029866,
+29,Plunger_2,-2.56840324,0.000862590969,1.99243784,False,False,False,True,2.02960134,
+30,Cloth_5,0.6106614,0.5785254,0.8007354,False,False,False,True,1.84241176,['CounterTop|-00.30|+00.16|+00.53']
+31,Candle_3,-1.94799948,0.5785297,0.813206553,False,False,False,True,1.71712685,['CounterTop|-00.30|+00.16|+00.53']
+32,Spray_Bottle_5,-2.537484,0.5785425,0.850069344,False,False,False,True,2.14994764,['CounterTop|-00.30|+00.16|+00.53']
+33,Toilet1,-2.232,0.0013255775,1.629,True,False,True,False,1.77363038,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-3.16941953,0.370109737,-2.18850875,True,False,True,False,1.67276227,
+2,Window,-1.73777366,1.29283607,-2.28601861,False,False,False,False,1.7591821,
+3,ShowerDoor,-0.4475,0.909852564,-2.19168615,False,False,True,False,2.508249,
+4,Cabinet (1),-3.16941953,0.370109737,-1.3798,True,False,True,False,1.06088364,
+5,Mirror,-3.731,1.4815,-1.427,False,False,False,False,1.5205,
+6,Cabinet,-3.16941619,0.370109677,-1.39868712,True,False,True,False,1.07220173,
+7,Showerglass,-0.9644702,0.9074181,-0.1200984,False,False,False,False,1.65972412,
+8,Sink (1),-3.391,0.841,-0.932,False,False,False,False,0.9113052,
+9,Sink,-3.391,0.841,-1.829,False,False,False,False,1.4005692,
+10,Cabinet (2),-3.16941619,0.370109677,-0.5926,True,False,True,False,0.868099332,
+11,Countertop,-3.426,0.8839,-1.385,True,False,False,False,1.12292385,
+12,BathTowel1,0.136,1.121,-2.0801,False,False,False,True,2.96083355,['TowelHolder|+00.14|+01.11|-02.19']
+13,Candle_4,-3.4459374,0.07551371,-1.26958621,False,False,False,True,1.35809433,['Cabinet|-03.17|+00.37|-01.38']
+14,Cloth_6,-2.00233054,1.034452,-2.08603382,False,False,False,True,1.43204713,['Toilet|-01.90|00.00|-01.74']
+15,HandTowel1,-3.332,1.519,-2.16069984,False,False,False,True,1.750872,['HandTowelHolder|-03.33|+01.62|-02.20']
+16,Plunger_1,-2.2071774,-0.00107459724,-2.07605076,False,False,False,True,1.62971008,
+17,BathTowelHolder1,0.136,1.107,-2.187,True,False,False,False,3.00937629,
+18,Soap_Bottle_12,-3.624906,0.8990563,-1.38723254,False,False,False,True,1.29285717,['CounterTop|-03.43|+00.88|-01.39']
+19,Soap_Bar_1,-3.399546,0.0755137056,-1.12580073,False,False,False,True,1.27673876,['Cabinet|-03.17|+00.37|-01.38']
+20,ToiletPaper,-3.49398327,0.07551372,-1.63527393,False,False,False,True,1.56568384,['Cabinet|-03.17|+00.37|-01.40']
+21,bin_12,-3.598,0.0689253956,-0.461,True,False,False,False,1.40701258,
+22,SinkBasin,-3.3925,0.917,-0.9238,True,False,False,False,0.9094252,
+23,SinkBasin,-3.3925,0.917,-1.8208,True,False,False,False,1.3940804,
+24,HandTowelHolder1 (1),-3.75000024,1.576,-0.410903871,True,False,False,False,1.461015,
+25,HandTowelHolder1,-3.332,1.621,-2.199,True,False,False,False,1.81982827,
+26,ToiletPaperRoll,-3.401,0.07551372,-0.7791622,False,False,False,True,1.2215991,['Cabinet|-03.17|+00.37|-00.59']
+27,Spray_Bottle_6,-3.34520674,0.07551372,-1.97909093,False,False,False,True,1.70431566,['Cabinet|-03.17|+00.37|-02.19']
+28,ToiletPaperHanger12,-2.37501144,0.886701941,-2.199693,True,False,False,False,1.45513117,
+29,Scrub_Brush_1,-2.407,-0.00107459724,-2.092,False,False,False,True,1.61907756,
+30,Toilet1,-1.896,-0.00107459724,-1.738,True,False,True,False,1.46722841,
+31,LightSwitch12,-2.053,1.293,1.000458,False,True,False,False,1.8488971,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,bin_13,-1.764,-0.0212,2.22,True,False,False,False,1.5480566,
+2,Dresser,0.205,0.809,3.773,True,False,False,False,2.46717668,
+3,Bathtub,-1.414,-0.002,0.563,True,False,False,False,1.46072459,
+4,CounterTop,-1.79930055,0.7464496,3.12294936,True,False,False,False,1.93875909,"['Sink|-01.83|+00.69|+03.47|SinkBasin', 'Sink|-01.83|+00.69|+02.78|SinkBasin']"
+5,BahttubBasin,-1.613,0.05233822,0.54,True,False,False,False,1.54469144,
+6,Cabinet,-1.61357617,0.3095169,2.4938798,True,False,True,False,1.44327676,
+7,ShowerDoor,0.527,1.03775585,2.116,False,False,True,False,1.42441964,
+8,Drawer,0.205,0.9409478,3.792,True,False,True,False,2.48332644,
+9,Mirror,-1.994,1.424,3.107,False,False,False,False,2.0985322,
+10,Drawer (1),0.205,0.6802,3.792,True,False,True,False,2.49277067,
+11,Drawer (2),0.205,0.416,3.792,True,False,True,False,2.52986455,
+12,Cabinet (1),-1.61357474,0.3096615,3.7547,True,False,True,False,2.485709,
+13,Drawer (3),0.205,0.156800032,3.792,True,False,True,False,2.59203839,
+14,Sink,-1.83400059,0.6854496,2.77794933,False,False,False,False,1.6895386,
+15,Sink (1),-1.834,0.6854496,3.4727,False,False,False,False,2.261179,
+16,Cabinet,-1.61357474,0.3096615,3.10595751,True,False,True,False,1.91681421,
+17,Cabinet (2),-1.61357617,0.3095169,3.1405,True,False,True,False,1.94589078,
+18,BathTowel1,-0.07,1.284,0.1069,False,False,False,True,1.59688866,['TowelHolder|-00.07|+01.27|+00.00']
+19,HandTowel1,-1.731,1.333,3.9617,False,False,False,True,2.68499875,['HandTowelHolder|-01.73|+01.44|+04.00']
+20,BathTowelHolder1,-0.07,1.27,0.0,True,False,False,False,1.68783557,
+21,Soap_Bar_1,-0.127439812,1.15486217,3.77817345,False,False,False,True,2.3753438,['Dresser|+00.21|+00.81|+03.77']
+22,ToiletPaper,-1.873024,1.0352273,1.870716,False,False,False,True,1.19025767,['Toilet|-01.57|00.00|+01.82']
+23,HandTowelHolder1,-1.731,1.435,4.0,True,False,False,False,2.7382195,
+24,ToiletPaperRoll,-1.918308,0.761578441,2.518014,False,False,False,True,1.55584323,['CounterTop|-01.80|+00.75|+03.12']
+25,Cloth_1,-1.89116073,1.03572607,1.6697644,False,False,False,True,1.16159463,['Toilet|-01.57|00.00|+01.82']
+26,Window,-1.04,1.393,0.019,False,False,False,False,1.58739686,
+27,Window (1),-1.987,1.3925,0.7068,False,False,False,False,1.54958427,
+28,Spray_Bottle_6,0.101460651,1.15486217,3.82895064,False,False,False,True,2.49270916,['Dresser|+00.21|+00.81|+03.77']
+29,ToiletPaperHanger13,-1.7766,0.6813,2.4743,True,False,False,False,1.43223608,
+30,Candle_1,0.4781769,1.15486217,3.84905124,False,False,False,True,2.662905,['Dresser|+00.21|+00.81|+03.77']
+31,Scrub_Brush_1,-1.66445529,-0.00030824542,3.89782381,False,False,False,True,2.71985054,
+32,Plunger_2,-1.88882077,-0.0007712394,3.88542414,False,False,False,True,2.79281139,
+33,SinkBasin,-1.7955,0.6944496,3.4767,True,False,False,False,2.24565125,
+34,SinkBasin,-1.79550064,0.6944496,2.78194928,True,False,False,False,1.66703367,
+35,Soap_Bottle_13,-1.896,0.7615784,3.068,False,False,False,True,1.94712424,['CounterTop|-01.80|+00.75|+03.12']
+36,LightSwitch14,1.25000012,1.33,3.622,False,True,False,False,2.947404,
+37,Toilet1,-1.568,-0.00030824542,1.816,True,False,True,False,1.25729072,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-2.4101,0.371801436,2.862453,True,False,True,False,1.92618668,
+2,Mirror,-2.973729,1.613,2.265,False,False,False,False,1.92524135,
+3,Bathtub,-0.435,0.183,1.576,False,False,False,False,1.32610118,
+4,Cabinet,-2.4101,0.371801436,3.57012987,True,False,True,False,2.54817438,
+5,Cabinet (1),-2.4101,0.371801436,2.040908,True,False,True,False,1.3174696,
+6,Cabinet,-2.4101,1.261494,2.91371679,True,False,True,False,1.93000817,['CounterTop|-02.69|+00.97|+02.26']
+7,Cabinet,-2.4101,1.261494,3.57012987,True,False,True,False,2.5179317,
+8,Sink,-2.723265,0.8620176,2.23199987,False,False,False,False,1.569191,['CounterTop|-02.69|+00.97|+02.26']
+9,Cabinet (2),-2.4101,2.022,2.91371679,True,False,True,False,2.20203352,
+10,Cabinet,-2.4101,0.371801436,1.5854789,True,False,True,False,1.10577416,
+11,Drawer,-2.639,0.7677,3.23958182,True,False,True,False,2.29651833,
+12,Cabinet (3),-2.4101,2.022,3.57012987,True,False,True,False,2.7320323,
+13,Cabinet,-2.4101,0.371801436,2.91371679,True,False,True,False,1.96930039,
+14,BathTowel1,-0.106900014,1.51000011,1.943,False,False,False,True,1.67024755,['TowelHolder|+00.00|+01.50|+01.94']
+15,Candle_2,-2.36234665,1.19568479,1.45794952,False,False,False,True,0.9341811,['CounterTop|-02.61|+01.24|+01.46']
+16,Countertop,-2.689,0.9661,2.261,True,False,False,False,1.56200337,
+17,Countertop,-2.611,1.243,1.456,True,False,False,False,1.18005335,
+18,Soap_Bottle_14,-2.861,0.919861436,2.656,False,False,False,True,1.956898,['CounterTop|-02.69|+00.97|+02.26']
+19,HandTowel1,-2.69821835,1.521,2.867809,False,False,False,True,2.10600662,['HandTowelHolder|-02.70|+01.62|+02.91']
+20,Plunger_1,-2.83731842,0.00175310671,0.131988525,False,False,False,True,1.96218491,
+21,BathTowelHolder1,0.0,1.496,1.943,True,False,False,False,1.75561738,
+22,Soap_Bar_1,-2.8191402,0.919861436,1.779057,False,False,False,True,1.42138135,['CounterTop|-02.69|+00.97|+02.26']
+23,ToiletPaper,-2.541635,1.19568479,1.45345521,False,False,False,True,1.10100281,['CounterTop|-02.61|+01.24|+01.46']
+24,Cloth_2,-0.459873736,0.219,1.50084555,False,False,False,True,1.269765,['Bathtub|-00.44|+00.18|+01.58|BathtubBasin']
+25,HandTowelHolder1,-2.69821835,1.623,2.906109,True,False,False,False,2.16729832,
+26,ToiletPaperRoll,-2.92722654,1.19568479,1.459031,False,False,False,True,1.47189641,['CounterTop|-02.61|+01.24|+01.46']
+27,Window,-2.256,1.656,0.003,False,False,False,False,1.6413188,
+28,ToiletPaperHanger14,-2.288075,0.9106156,0.000314661767,True,False,False,False,1.47744286,
+29,Spray_Bottle_2,-2.6439,0.8967,3.0887,False,False,False,True,2.16549349,['Cabinet|-02.41|+01.26|+02.91']
+30,Paper_Towel_1,-2.892864,1.18026817,0.56164974,False,False,False,True,1.57826221,['Toilet|-02.58|+00.03|+00.66']
+31,Scrub_Brush_1,-2.83165288,0.00175310671,0.295444965,False,False,False,True,1.86983252,
+32,BathtubBasin,-0.435,0.185,1.544,True,False,False,False,1.3175087,
+33,SinkBasin,-2.736265,0.929017544,2.24199986,True,False,False,False,1.58527744,
+34,LightSwitch14,-1.676,1.442,3.61049,False,True,False,False,2.42768979,
+35,bin_14,-0.207,0.00175310671,0.246,True,False,False,False,1.86859941,
+36,Dish_Sponge_1,-2.89707351,1.06811619,0.783259034,False,False,False,True,1.48223031,['Toilet|-02.58|+00.03|+00.66']
+37,Toilet1,-2.58,0.03271421,0.656,True,False,True,False,1.5087086,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Bathtub,-2.104,0.525,-0.828,True,False,False,False,0.7155895,
+2,Drawer (1),-0.24999994,0.6802,-3.394,True,False,True,False,2.932894,
+3,Dresser,-0.269,0.809,-3.394,True,False,False,False,2.91796327,
+4,Sink,-0.308,0.0,-2.077,False,False,False,False,1.99827325,
+5,Drawer (3),-0.25,0.156800032,-3.394,True,False,True,False,3.017724,
+6,Drawer (2),-0.24999994,0.416,-3.394,True,False,True,False,2.96448851,
+7,Mirror,-2.984,1.566,-2.9,False,False,False,False,2.69580221,['CounterTop|-02.71|+01.03|-02.92']
+8,Drawer,-0.24999994,0.9409478,-3.394,True,False,True,False,2.92486835,
+9,CounterTop (1),-2.581,0.395,-2.923,True,False,False,False,2.47916245,
+10,CounterTop (2),-2.54,0.131,-2.923,True,False,False,False,2.52903223,
+11,CounterTop,-2.705,1.03,-2.923,True,False,False,False,2.488105,
+12,HandTowel1 (1),-0.0383,1.481,-2.661,False,False,False,True,2.47491574,['HandTowelHolder|+00.00|+01.58|-02.66']
+13,BathTowelHolder1,-1.339,1.179,0.0,True,False,False,False,0.8160017,
+14,bin_15,-0.229,-0.0002756752,-2.803,True,False,False,False,2.57721734,
+15,Soap_Bar_1,-2.10798931,0.484816551,-0.176899061,False,False,False,True,0.9333136,['Bathtub|-02.10|+00.53|-00.83']
+16,ToiletPaper,-0.104094177,1.03575444,-0.3856002,False,False,False,True,1.44899058,['Toilet|-00.41|00.00|-00.55']
+17,LightSwitch15,-0.363574147,1.33090413,-3.99954915,False,True,False,False,3.46930671,
+18,HandTowelHolder1 (1),0.0,1.583,-2.661,True,False,False,False,2.523375,
+19,HandTowelHolder1,0.0,1.583,-1.549,True,False,False,False,1.83136618,
+20,ToiletPaperRoll,-2.516202,0.3465099,-2.18011141,False,False,False,True,1.83984721,['Shelf|-02.58|+00.40|-02.92']
+21,BathTowel3,-1.33899987,1.19300008,-0.1069,False,False,False,True,0.7245166,['TowelHolder|-01.34|+01.18|+00.00']
+22,Soap_Bottle_15,-2.865,0.9803812,-3.789,False,False,False,True,3.33243012,['CounterTop|-02.71|+01.03|-02.92']
+23,Scrub_Brush_1,-0.136,-0.0002756752,-0.105,False,False,False,True,1.75736177,
+24,Cloth_3,-0.108,1.035,-0.669,False,False,False,True,1.40080512,['Toilet|-00.41|00.00|-00.55']
+25,Plunger_2,-0.370999247,-0.000738665462,-0.09700089,False,False,False,True,1.58546042,
+26,SinkBasin,-0.311,0.8596,-2.077,True,False,False,False,1.78222919,
+27,BathtubBasin,-2.587,0.071053,-0.802,True,False,False,False,1.3684392,
+28,ToiletPaperHanger15,0.0,0.866393864,-0.9687671,True,False,False,False,1.51625776,
+29,Candle_3,-2.5303762,0.34685123,-3.1678896,False,False,False,True,2.68600821,['Shelf|-02.58|+00.40|-02.92']
+30,Toilet1,-0.411,-0.0002756752,-0.548,True,False,True,False,1.42776906,
+31,Spray_Bottle_3,-2.7168808,0.979721069,-1.92258751,False,False,False,True,1.69174492,['CounterTop|-02.71|+01.03|-02.92']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (1),-1.3354,0.3013,3.3295,True,False,True,False,1.88506639,
+2,Sink (1),-1.696,0.617,3.365,False,False,False,False,2.029736,
+3,CounterTop,-1.609,0.7016,2.831,True,False,False,False,1.56159413,
+4,ShowerDoor,0.565,1.018,1.115,False,False,True,False,1.2453599,
+5,Drawer,-1.3354,0.3013,2.132902,True,False,True,False,1.09784746,
+6,Mirror,-1.924047,1.41475809,2.75965881,False,False,False,False,1.81942534,
+7,Sink,-1.696,0.617,2.284,False,False,False,False,1.34043264,
+8,Candle_4,-1.42349744,0.771,3.83888578,False,False,False,True,2.28767014,
+9,HandTowel1,-1.513,1.461,3.96224976,False,False,False,True,2.496552,['HandTowelHolder|-01.51|+01.56|+04.00']
+10,Plunger_1,-1.685,0.0009356141,0.327,False,False,False,True,2.05935764,
+11,BathTowel2,0.871,1.172,2.3569,False,False,False,True,1.52345133,['TowelHolder|+00.87|+01.16|+02.25']
+12,BathTowelHolder1,0.871,1.158,2.25,True,False,False,False,1.48162425,
+13,Soap_Bottle_16,-1.834,0.7212364,2.95,False,False,False,True,1.80338788,['CounterTop|-01.61|+00.70|+02.83']
+14,Soap_Bar_1,-1.67978454,0.7209162,1.84839749,False,False,False,True,1.19764,
+15,ToiletPaper,-1.5663,0.6398,0.0544,False,False,False,True,2.02009153,['ToiletPaperHanger|-01.50|+00.72|+00.00']
+16,HandTowelHolder1 (1),-1.513,1.563,4.00055,True,False,False,False,2.55502462,
+17,HandTowelHolder1,-2.0,1.6906662,1.32331872,True,False,False,False,1.74761379,
+18,Cloth_4,-1.76714873,0.7208375,1.6327107,False,False,False,True,1.28538668,
+19,ToiletPaperRoll,-1.87469935,0.7209177,1.86032462,False,False,False,True,1.39094818,
+20,Window,-1.038,1.399,0.0190155879,False,False,False,False,1.87958109,
+21,Window (1),-1.987,1.396,0.707,False,False,False,False,1.8823173,
+22,ToiletPaperHanger16,-1.49819291,0.7215513,0.0002493439,True,False,False,False,2.022512,
+23,LightSwitch17,1.25,1.273,3.635,False,True,False,False,2.59873319,
+24,Scrub_Brush_1,-1.849,0.0009356141,0.137,False,False,False,True,2.28765583,
+25,bin_16,-1.74,0.0009356141,1.337,True,False,False,False,1.58744085,
+26,SinkBasin,-1.6741,0.633,3.3555,True,False,False,False,2.00710416,
+27,SinkBasin,-1.6741,0.633,2.2745,True,False,False,False,1.31374919,
+28,Toilet1,-1.547,0.0009356141,0.686,True,False,True,False,1.74358964,
+29,Spray_Bottle_4,-1.86,1.037,0.516,False,False,False,True,1.84135783,['Toilet|-01.55|+00.00|+00.69']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,ShowerDoor,-2.20403314,1.045,-2.50388384,False,False,True,False,1.57745266,
+2,Mirror,-2.947,1.559,-1.194,False,False,False,False,1.37932253,
+3,Cabinet,-2.50428176,0.4004054,-2.20872188,True,False,True,False,1.5103687,
+4,Sink (1),-2.908,0.987,-0.7329,False,False,False,False,1.19146466,
+5,CounterTop,-2.745,0.987,-1.243,True,False,False,False,1.0277915,
+6,Cabinet (2),-2.50428176,0.4004054,-1.23875213,True,False,True,False,0.936593533,
+7,ShowerGlass,-2.07978153,1.48250914,-3.264105,False,False,False,False,2.36057281,
+8,Cabinet (1),-2.50809169,0.42613107,-0.29030025,True,False,True,False,1.14215231,
+9,Sink,-2.908,0.987,-1.762,False,False,False,False,1.38884461,
+10,Cabinet,-2.50809169,0.42613107,-1.26026988,True,False,True,False,0.9319756,
+11,BathTowel1,-1.05195081,1.53500009,-2.887,False,False,False,True,2.10930133,['TowelHolder|-01.16|+01.52|-02.89']
+12,HandTowel1,-2.5914,1.6351,-0.04791402,False,False,False,True,1.467087,['HandTowelHolder|-02.59|+01.74|-00.01']
+13,BathTowelHolder1,-1.15885079,1.521,-2.887,True,False,False,False,2.07214856,
+14,bin_17,-1.528,0.000668982044,-0.182,True,False,False,False,1.23701525,
+15,Soap_Bar_1,-2.87030649,0.9865645,-1.324719,False,False,False,True,1.16950262,['CounterTop|-02.75|+00.99|-01.24']
+16,ToiletPaper,-2.64004731,0.06999543,-1.88877666,False,False,False,True,1.50790811,['Cabinet|-02.50|+00.40|-02.21']
+17,ToiletPaperHanger17,0.0,0.984,-3.332,True,False,False,False,2.91676235,
+18,HandTowelHolder1 (1),-2.5914,1.7371,-0.009614021,True,False,False,False,1.544916,
+19,ToiletPaperRoll,-1.588,0.053,-0.128,False,False,False,True,1.22754431,['GarbageCan|-01.53|+00.00|-00.18']
+20,Soap_Bottle_17,-2.865,0.986564636,-0.334,False,False,False,True,1.3015331,['CounterTop|-02.75|+00.99|-01.24']
+21,Window,-0.567,1.73,-3.98581,False,False,False,False,3.316728,
+22,LightSwitch17,-1.332,1.391,0.001,False,True,False,False,1.19002986,
+23,Candle_1,-2.5849452,0.9865645,-2.186815,False,False,False,True,1.4535718,['CounterTop|-02.75|+00.99|-01.24']
+24,Scrub_Brush_1,-1.04891253,0.000668982044,-3.830687,False,False,False,True,3.0522306,
+25,Plunger_2,-1.06689429,0.0002059862,-3.52784014,False,False,False,True,2.7693398,
+26,SinkBasin,-2.725,0.916099966,-0.7263,True,False,False,False,1.01279056,
+27,SinkBasin,-2.725,0.916099966,-1.7554,True,False,False,False,1.23347569,
+28,Cloth_5,-0.4325158,1.03665459,-3.86168528,False,False,False,True,3.1532886,['Toilet|-00.55|+00.00|-03.53']
+29,Spray_Bottle_5,-2.682,0.07,-1.4657,False,False,False,True,1.333106,['Cabinet|-02.51|+00.43|-01.26']
+30,Toilet1,-0.552,0.000668982044,-3.534,True,False,True,False,2.94417357,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet (1),-2.293651,0.324501961,-3.2547,True,False,True,False,2.32780313,
+2,Mirror,-3.0,1.65973949,-3.069,False,False,False,False,2.327654,
+3,Sink,-2.661,0.785,-3.07,False,False,False,False,2.11362863,
+4,ShowerGlass,-0.599547565,1.09731889,-1.12411678,False,False,False,False,1.66663957,
+5,Cabinet,-2.299317,0.345259577,-2.250915,True,False,True,False,1.369957,
+6,Cabinet,-2.293651,0.324501961,-3.81466,True,False,True,False,2.873553,
+7,ShowerDoor,-1.18,1.091,-1.22,False,False,True,False,1.10867333,
+8,Candle_2,-2.91911,0.797459543,-2.28026342,False,False,False,True,1.448322,['CounterTop|-02.63|+00.84|-03.04']
+9,CounterTop,-2.633,0.844,-3.041,True,False,False,False,2.07742429,
+10,Cloth_6,-2.848,0.797,-2.452,False,False,False,True,1.57380354,['CounterTop|-02.63|+00.84|-03.04']
+11,HandTowel1 (1),-2.9620862,1.584,-3.55099988,False,False,False,True,2.73501,['HandTowelHolder|-03.00|+01.69|-03.55']
+12,Plunger_1,-0.1256311,0.0006431546,-3.49332213,False,False,False,True,3.39726329,
+13,BathTowelHolder1,-1.185,1.372,-0.63,True,False,False,False,1.22162259,
+14,Soap_Bar_1,-2.81892657,0.797459543,-2.70242786,False,False,False,True,1.79799676,['CounterTop|-02.63|+00.84|-03.04']
+15,ToiletPaper,-0.365,0.054,-3.86,False,False,False,True,3.52864313,['GarbageCan|-00.35|+00.00|-03.85']
+16,bin_18,-0.353,0.0006431546,-3.845,True,False,False,False,3.536161,
+17,ToiletPaperHanger18,0.0,0.943,-2.537,True,False,False,False,2.72517514,
+18,HandTowelHolder1 (2),-3.00038624,1.686,-3.55099988,True,False,False,False,2.772345,
+19,HandTowelHolder1 (1),-3.00038624,1.686,-2.569,True,False,False,False,1.90789366,
+20,ToiletPaperRoll,-2.46866083,0.797459543,-2.33507776,False,False,False,True,1.35687113,['CounterTop|-02.63|+00.84|-03.04']
+21,Window,-0.5673,1.7067,-3.88532233,False,False,False,False,3.43579435,
+22,BathTowel3,-1.29189992,1.386,-0.63,False,False,False,True,1.13554323,['TowelHolder|-01.19|+01.37|-00.63']
+23,Soap_Bottle_18,-2.857,0.797459543,-3.515,False,False,False,True,2.58931041,['CounterTop|-02.63|+00.84|-03.04']
+24,Spray_Bottle_6,-2.871,0.797459543,-3.794,False,False,False,True,2.864076,['CounterTop|-02.63|+00.84|-03.04']
+25,Scrub_Brush_1,-0.325021982,0.0006431546,-3.342877,False,False,False,True,3.16329122,
+26,SinkBasin,-2.6691,0.8639,-3.06359982,True,False,False,False,2.106066,
+27,LightSwitch18,-1.945,1.503,0.000474461238,False,True,False,False,1.20648479,
+28,Toilet1,-0.452709556,0.0006431546,-3.05237865,True,False,True,False,2.87303138,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Bathtub,-0.978225768,-0.718871057,-2.932831,True,False,False,False,2.52296138,
+2,Sink,-2.097,-0.003,-2.029,True,False,False,False,1.75564253,
+3,Drawer,-2.124,0.463,-1.313,True,False,True,False,1.24681759,
+4,Mirror,-2.452,1.638,-2.027,False,False,False,False,1.92455482,
+5,Dresser,-2.124,0.463,-1.313,True,False,False,False,1.24681759,
+6,Drawer (1),-2.124,0.1713,-1.313,True,False,True,False,1.37698221,
+7,bin_19,-0.218,0.00155606866,-1.415,True,False,False,False,1.26315045,
+8,HandTowel1,-2.37158966,1.52350891,-1.505357,False,False,False,True,1.588152,['HandTowelHolder|-02.41|+01.63|-01.51']
+9,BathTowelHolder1,0.056,1.83300006,-1.893,True,False,False,False,1.666827,
+10,Soap_Bar_1,-0.237,0.4745844,-2.541,False,False,False,True,1.772007,['Bathtub|-00.98|-00.72|-02.93']
+11,ToiletPaper,-2.126,0.3733,-1.2026,False,False,False,True,1.260569,['Drawer|-02.12|+00.46|-01.31']
+12,ToiletPaperHanger19,0.0,0.994,-1.401,True,False,False,False,1.08127844,
+13,Tissue_Box_1,-2.18817,0.6734711,-1.12047124,False,False,False,True,1.21603489,['Dresser|-02.12|+00.46|-01.31']
+14,HandTowelHolder1,-2.4098897,1.6255089,-1.505357,True,False,False,False,1.66308033,
+15,ToiletPaperRoll,-0.0859789252,1.03762472,-1.74938774,False,False,False,True,1.18964708,['Toilet|-00.47|+00.00|-01.88']
+16,LightSwitch19,-1.247,1.419,0.000477931753,False,True,False,False,1.15268373,
+17,Cloth_1,-2.19378924,0.6734711,-1.35576308,False,False,False,True,1.26656222,['Dresser|-02.12|+00.46|-01.31']
+18,BathTowel3,-0.0508999974,1.84700012,-1.89299965,False,False,False,True,1.60941446,['TowelHolder|+00.06|+01.83|-01.89']
+19,Soap_Bottle_19,-2.268,0.6734711,-1.521,False,False,False,True,1.38987207,['Dresser|-02.12|+00.46|-01.31']
+20,Spray_Bottle_1,-0.2,1.037,-1.966,False,False,False,True,1.26144016,['Toilet|-00.47|+00.00|-01.88']
+21,Scrub_Brush_1,-0.161493659,0.00155606866,-2.15768433,False,False,False,True,1.68971181,
+22,Plunger_2,-0.123310566,0.00109308213,-2.37855053,False,False,False,True,1.86591017,
+23,BathtubBasin,-1.227,0.0523894429,-2.99,True,False,False,False,2.17587042,
+24,SinkBasin,-2.06658888,0.79494,-2.02323413,True,False,False,False,1.48195851,
+25,Candle_3,-0.09595615,0.47458452,-2.57552767,False,False,False,True,1.86621058,['Bathtub|-00.98|-00.72|-02.93']
+26,Toilet1,-0.47,0.00155606866,-1.8833524,True,False,True,False,1.3685801,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Bathtub,-1.281,0.278,-2.53,True,False,False,False,1.49903417,
+2,Mirror,-2.512,1.7642,-1.518,False,False,False,False,1.18183446,
+3,EndTable,-0.164,0.0,-1.461,True,False,False,False,1.83646536,
+4,Drawer,-0.209762067,0.766785145,-1.461053,True,False,True,False,1.5604558,
+5,Sink,-2.273,0.0,-1.52,True,False,False,False,1.07662308,
+6,BathTowel1,-0.1069,1.541,-2.487,False,False,False,True,2.15381455,['TowelHolder|+00.00|+01.53|-02.49']
+7,Candle_4,-0.130563453,0.7713,-2.095135,False,False,False,True,1.83133221,['Bathtub|-01.28|+00.28|-02.53']
+8,HandTowel1,-2.496286,1.836,-0.9077003,False,False,False,True,1.24395192,['HandTowelHolder|-02.53|+01.94|-00.91']
+9,Plunger_1,-2.366446,0.000493491068,-0.6532457,False,False,False,True,1.24415445,
+10,BathTowelHolder1 (1),-2.531,1.527,-2.487,True,False,False,False,1.59103417,
+11,BathTowelHolder1,0.0,1.527,-2.487,True,False,False,False,2.23247147,
+12,Soap_Bottle_20,-0.146,0.867,-1.296,False,False,False,True,1.60503006,['TableTop|-00.16|+00.00|-01.46']
+13,Soap_Bar_1,-0.08028075,0.705849648,-2.23011971,False,False,False,True,1.94598889,['Bathtub|-01.28|+00.28|-02.53']
+14,ToiletPaper,-2.402663,1.03606677,-0.1735714,False,False,False,True,1.26600862,['Toilet|-02.05|+00.00|-00.36']
+15,LightFixture,0.0,1.3245,-1.1465,False,True,False,False,1.80337119,
+16,ToiletPaperHanger20,-1.428,1.049,0.0,True,False,False,False,1.2992084,
+17,Cloth_2,-2.025048,0.278443277,-2.49147415,False,False,False,True,1.41601539,['Bathtub|-01.28|+00.28|-02.53|SinkBasin']
+18,HandTowelHolder1 (1),-2.534586,1.938,-0.9077002,True,False,False,False,1.34428144,
+19,bin_20,-2.272,0.000493491068,-1.009,True,False,False,False,1.06881428,
+20,ToiletPaperRoll,-2.343,0.044,-1.065,False,False,False,True,1.0588516,['GarbageCan|-02.27|+00.00|-01.01']
+21,Window,-1.291,1.815,-2.98530126,False,False,False,False,2.01406264,
+22,Spray_Bottle_2,-2.3888855,1.03642678,-0.436563849,False,False,False,True,1.04310131,['Toilet|-02.05|+00.00|-00.36']
+23,Scrub_Brush_1,-2.114191,0.000493491068,-0.695155263,False,False,False,True,1.11905611,
+24,SinkBasin,-2.2163,0.9053,-1.504,True,False,False,False,0.5310049,
+25,BathtubBasin,-1.306,0.281,-2.517,True,False,False,False,1.47899806,
+26,Houseplant_23,-0.108,0.8665478,-1.649,False,False,False,False,1.69014382,['TableTop|-00.16|+00.00|-01.46']
+27,Toilet1,-2.045,0.000493491068,-0.358,True,False,True,False,1.30172491,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (7),-0.3190752,0.6157998,3.01296377,True,False,True,False,1.23692131,
+2,Drawer (6),-0.3190752,0.3160442,3.01296377,True,False,True,False,1.33817184,
+3,CounterTop,-0.35,0.005,1.453664,True,False,False,False,1.49888444,
+4,Drawer (1),-0.3190752,0.6158,1.97894192,True,False,True,False,1.01061022,
+5,Drawer,-0.3190752,0.3160442,1.97894192,True,False,True,False,1.13228214,
+6,Drawer (2),-0.3190752,0.3160442,1.46356392,True,False,True,False,1.3516922,
+7,Drawer (5),-0.3190752,0.6157998,2.49546385,True,False,True,False,1.00404835,
+8,ShowerDoor,-1.5144465,0.91,1.167547,False,False,True,False,1.11432517,
+9,Drawer (3),-0.3190752,0.6157998,1.46356392,True,False,True,False,1.251536,
+10,Drawer (4),-0.3190752,0.3160442,2.49546385,True,False,True,False,1.1264292,
+11,ShowerGlass,-0.7668651,0.541000068,0.4857562,False,False,False,False,1.86425591,
+12,ToiletPaperHanger21,-1.201,0.897,4.0,True,False,False,False,1.7506901,
+13,HandTowel1,-0.03691358,1.658,3.44300032,False,False,False,True,1.86229467,['HandTowelHolder|+00.00|+01.76|+03.44']
+14,BathTowelHolder1,-1.106,1.137,1.18305314,True,False,False,False,1.10222054,
+15,bin_21,-2.146,-0.000173203647,3.843,True,False,False,False,2.03771043,
+16,Soap_Bar_1,-0.218,0.8043732,2.103,False,False,False,True,1.04686975,['CounterTop|-00.35|+00.01|+01.45']
+17,ToiletPaper,-0.180218875,0.945194542,3.71929717,False,False,False,True,1.81803036,['Toilet|-00.60|00.00|+03.67']
+18,Plunger_3,-0.139841557,-0.0006361902,3.369947,False,False,False,True,1.81641579,
+19,Candle_5,-0.446,0.805,1.29,False,False,False,True,1.25586569,['CounterTop|-00.35|+00.01|+01.45']
+20,Soap_Bottle_21,-0.14460443,0.8046577,1.32575345,False,False,False,True,1.44408429,['CounterTop|-00.35|+00.01|+01.45']
+21,HandTowelHolder1 (1),0.00138641894,1.76,3.443,True,False,False,False,1.930647,
+22,ToiletPaperRoll,-0.09010881,0.804006338,3.210516,False,False,False,True,1.5090766,['CounterTop|-00.35|+00.01|+01.45']
+23,Spray_Bottle_7,-0.283,0.804277,3.175,False,False,False,True,1.34165406,['CounterTop|-00.35|+00.01|+01.45']
+24,BathTowel3,-1.106,1.151,1.28995311,False,False,False,True,1.00250351,['TowelHolder|-01.11|+01.14|+01.18']
+25,Cloth_7,-0.204826355,0.804307759,2.33822727,False,False,False,True,1.0533222,['CounterTop|-00.35|+00.01|+01.45']
+26,Toilet2,-0.6,-0.000173203647,3.671,True,False,True,False,1.80375719,
+27,Scrub_Brush_1,-0.346180737,-0.000173203647,3.34195137,False,False,False,True,1.6795969,
+28,Dish_Sponge_1,-0.1479401,0.9452067,3.532332,False,False,False,True,1.69141388,['Toilet|-00.60|00.00|+03.67']
+29,LightSwitch21,-2.31232214,1.387,3.297,False,True,False,False,1.5687902,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-2.344562,0.457057357,0.52411747,True,False,True,False,1.71963155,
+2,Drawer (1),-0.813202,0.956500053,0.38477695,True,False,True,False,1.13212836,
+3,Cabinet,-1.891953,0.4432426,1.98280191,True,False,True,False,1.11268544,
+4,Cabinet,-0.6052897,0.457057357,0.52411747,True,False,True,False,1.1424017,
+5,Drawer,-2.032851,0.9421945,2.190126,True,False,True,False,1.242886,
+6,Bathtub,-3.451,0.178,1.029241,True,False,False,False,2.598366,
+7,CounterTop,-1.919,0.0,0.288368881,True,False,False,False,1.76751649,
+8,Sink,-1.925,0.772,0.327,True,False,False,False,1.49938393,
+9,Mirror,-1.935,1.6664,0.107,False,False,False,False,1.84411585,
+10,Cabinet,-1.891953,1.88403428,2.391826,True,False,True,False,1.59925425,
+11,Cabinet,-0.6052897,1.98877406,0.52411747,True,False,True,False,1.513854,
+12,Countertop,-0.8126647,0.09381482,0.288368881,True,False,False,False,1.46779633,
+13,Shelf (1),-2.03,1.18328524,2.1898,True,False,False,False,1.27141738,
+14,Shelf,-2.1237,1.39358521,2.1898,True,False,False,False,1.40759659,
+15,HandTowel1,-1.29699993,1.765,0.0403,False,False,False,True,1.72212481,['HandTowelHolder|-01.30|+01.87|+00.00']
+16,BathTowelHolder1,-2.76097,1.55531633,0.000538816152,True,False,False,False,2.40369415,
+17,Soap_Bar_1,-1.99386787,1.292354,2.07463741,False,False,False,True,1.21295857,"['Shelf|-02.03|+01.18|+02.19', 'Shelf|-02.12|+01.39|+02.19']"
+18,ToiletPaper,-0.921371,1.1245687,0.2105791,False,False,False,True,1.31104743,['CounterTop|-00.81|+00.09|+00.29']
+19,LightSwitch22,0.0,1.428,1.994,False,True,False,False,1.2336688,
+20,Plunger_3,-0.7359993,-0.000627331436,2.732999,False,False,False,True,1.550038,
+21,Candle_5,-1.994174,1.082305,2.2640295,False,False,False,True,1.26690733,['Shelf|-02.03|+01.18|+02.19']
+22,Tissue_Box_1,-2.073306,1.292354,2.28252053,False,False,False,True,1.3847785,"['Shelf|-02.03|+01.18|+02.19', 'Shelf|-02.12|+01.39|+02.19']"
+23,ToiletPaperHanger22,0.0,1.015,2.238,True,False,False,False,1.24806952,
+24,HandTowelHolder1 (1),-1.297,1.867,0.002,True,False,False,False,1.80712128,
+25,ToiletPaperRoll,-1.53089631,0.803925037,0.159635186,False,False,False,True,1.44492912,['CounterTop|-01.92|+00.00|+00.29']
+26,Soap_Bottle_22,-0.947,1.124,0.416,False,False,False,True,1.10800159,['CounterTop|-00.81|+00.09|+00.29']
+27,Window,-3.979195,1.717,1.154,False,False,False,False,3.10828638,
+28,Spray_Bottle_7,-0.8416013,1.640998,0.354041934,False,False,False,True,1.3733722,['Cabinet|-00.61|+01.99|+00.52']
+29,BathTowel3,-2.76097,1.56931639,0.107438818,False,False,False,True,2.342458,['TowelHolder|-02.76|+01.56|+00.00']
+30,Toilet2,-0.456,-0.0001643449,2.258,True,False,True,False,1.2970351,
+31,Cloth_8,-0.513112068,0.945248067,2.724994,False,False,False,True,1.31895506,['Toilet|-00.46|00.00|+02.26']
+32,Scrub_Brush_1,-0.657668,-0.0001643449,2.5607872,False,False,False,True,1.43326926,
+33,BathtubBasin,-3.521,0.210026056,0.941,True,False,False,False,2.6730392,
+34,SinkBasin,-1.9318,0.8416,0.3205,True,False,False,False,1.5043205,
+35,bin_22,-0.229,-0.0001643449,0.24,True,False,False,False,1.73027194,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (4),-0.325211972,0.319999874,2.155199,True,False,True,False,1.89021361,
+2,Mirror (1),0.0,1.473,1.918,False,False,False,False,2.12150455,
+3,Drawer (5),-0.325211972,0.319999874,1.7172,True,False,True,False,1.78628039,
+4,Drawer (3),-0.325211972,0.319999874,2.593,True,False,True,False,2.08285165,
+5,Bathtub,-3.59,0.107,1.521,True,False,False,False,1.77779138,
+6,Drawer (1),-0.325211972,0.619603336,2.593,True,False,True,False,2.01972842,
+7,Drawer (1),-2.249361,0.319000036,0.2800001,True,False,True,False,1.3749373,
+8,Drawer (2),-0.325211972,0.319999874,3.03099871,True,False,True,False,2.34255815,
+9,Mirror (2),0.0,1.473,2.701,False,False,False,False,2.40176153,
+10,Drawer,-0.325211972,0.619603336,3.03099871,True,False,True,False,2.28661561,
+11,ShowerGlass,-0.4943405,1.49046755,0.528702855,False,False,False,False,1.88593209,
+12,Sink,-2.54,0.661,0.252,False,False,False,False,1.38100612,
+13,Sink (1),-0.2602,0.661,1.9225,False,False,False,False,1.80651164,
+14,Countertop,-2.541,0.805,0.28,True,False,False,False,1.33809078,
+15,Drawer,-2.84499121,0.319000036,0.2800001,True,False,True,False,1.59445345,
+16,ShowerDoor,-1.074862,1.033694,0.519089937,False,False,True,False,1.35477376,
+17,CounterTop,-0.277144074,0.7856972,1.93105626,True,False,False,False,1.77976537,
+18,HandTowel1 (1),-3.1727,1.487,0.340999782,False,False,False,True,1.74949956,['HandTowelHolder|-03.21|+01.59|+00.34']
+19,BathTowel2,-1.513,1.496,0.109,False,False,False,True,1.5889945,['TowelHolder|-01.51|+01.48|+00.00']
+20,BathTowelHolder1,-1.513,1.482,0.0021,True,False,False,False,1.6784786,
+21,Cloth_9,-3.569,0.183,1.704,False,False,False,True,1.73790586,['Bathtub|-03.59|+00.11|+01.52|BathtubBasin']
+22,Soap_Bar_1,-3.324,0.534,2.186,False,False,False,True,1.53589869,['Bathtub|-03.59|+00.11|+01.52']
+23,ToiletPaper,-2.686447,0.946346,3.18257284,False,False,False,True,1.81775367,['Toilet|-02.84|+00.00|+02.76']
+24,Plunger_3,-2.53099918,0.000522919,3.026999,False,False,False,True,1.85103226,
+25,Candle_5,-2.91322422,0.8045545,0.14109306,False,False,False,True,1.64015222,['CounterTop|-02.54|+00.81|+00.28']
+26,LightSwitch23,-0.7768873,1.37146175,3.30047321,False,True,False,False,2.226683,
+27,Soap_Bottle_23,-0.127,0.8045546,2.347,False,False,False,True,2.057919,['CounterTop|-00.28|+00.79|+01.93']
+28,bin_23,-1.792,0.000985913,0.166,True,False,False,False,1.62315118,
+29,HandTowelHolder1 (3),-3.211,1.589,0.341,True,False,False,False,1.81157148,
+30,HandTowelHolder1 (2),0.004,1.639,3.105,True,False,False,False,2.67118549,
+31,HandTowelHolder1 (1),0.004,1.639,2.309,True,False,False,False,2.28335,
+32,HandTowelHolder1,0.004,1.639,1.542,True,False,False,False,2.135643,
+33,ToiletPaperRoll,-2.407,0.827,3.2182,False,False,False,True,1.7673378,['ToiletPaperHanger|-02.35|+00.83|+03.30']
+34,Window,-3.952648,1.52,1.495,False,False,False,False,2.04812121,
+35,Spray_Bottle_7,-2.09658813,0.8045546,0.199085265,False,False,False,True,1.30812883,['CounterTop|-02.54|+00.81|+00.28']
+36,Toilet2,-2.842,0.000985913,2.755,True,False,True,False,1.75948548,
+37,Scrub_Brush_1,-2.33284664,0.000985913,3.163393,False,False,False,True,1.92079747,
+38,SinkBasin,-2.5425,0.7061,0.2697,True,False,False,False,1.35879183,
+39,SinkBasin,-0.2779,0.7061,1.92000008,True,False,False,False,1.78336751,
+40,BathtubBasin,-3.6065,0.183,1.536,True,False,False,False,1.76041985,
+41,ToiletPaperHanger23,-2.35,0.825,3.3,True,False,False,False,1.83532739,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Mirror,-0.0309999976,1.544,2.864,False,False,False,False,1.62661207,
+2,Sink,-0.299954265,0.7960963,3.26375127,False,False,False,False,1.584508,
+3,Cabinet,-0.4919102,0.404999971,2.863684,True,False,True,False,1.25167751,
+4,Cabinet (2),-0.4957248,0.384,2.842367,True,False,True,False,1.2433157,
+5,ShowerDoor,-1.64705026,1.0175941,1.18082976,False,False,True,False,0.917755842,
+6,ShowerGlass,-0.909780145,0.788798,0.4857562,False,False,False,False,1.55604637,
+7,CounterTop,-0.2618743,0.9273539,2.84318066,True,False,False,False,1.29924548,
+8,Cabinet,-0.4957248,0.384,3.65099955,True,False,True,False,1.88733971,
+9,Cabinet (1),-0.4919102,0.404999971,2.05505133,True,False,True,False,0.907621741,
+10,Sink (1),-0.3,0.7960963,2.4195,False,False,False,False,1.04378712,
+11,HandTowel1 (1),-0.0381999835,1.61900008,1.88700032,False,False,False,True,1.41304922,['HandTowelHolder|+00.00|+01.72|+01.89']
+12,BathTowel2,-1.082,1.32600009,1.3029,False,False,False,True,0.833529532,['TowelHolder|-01.08|+01.31|+01.20']
+13,BathTowelHolder1,-1.082,1.312,1.196,True,False,False,False,0.9184421,
+14,Soap_Bar_1,-0.21776849,0.9462649,3.60744333,False,False,False,True,1.91086948,
+15,ToiletPaper,-0.11757946,0.945415854,1.62913585,False,False,False,True,1.19242883,['Toilet|-00.54|+00.00|+01.49']
+16,Plunger_3,-0.11264658,-0.0004318878,1.84868312,False,False,False,True,1.45914507,
+17,Candle_5,-0.154679373,0.9462649,2.07221031,False,False,False,True,1.09862983,
+18,LightSwitch24,-2.42462587,1.448,3.338,False,True,False,False,1.86256957,
+19,ToiletPaperHanger24,-0.266,0.786,2.04370117,True,False,False,False,0.9916642,
+20,HandTowelHolder1 (1),0.000100016594,1.72100008,1.88700008,True,False,False,False,1.49928939,
+21,HandTowelHolder1 (2),0.000100016594,1.72100008,3.799,True,False,False,False,2.339124,
+22,ToiletPaperRoll,-0.310022473,0.0670266449,2.58526659,False,False,False,True,1.38623857,['Cabinet|-00.50|+00.38|+02.84']
+23,Spray_Bottle_7,-0.128261209,0.94538784,1.4319154,False,False,False,True,1.25816762,['Toilet|-00.54|+00.00|+01.49']
+24,Cloth_7,-0.351,0.9462649,2.074,False,False,False,True,0.9031739,
+25,Toilet2,-0.543,3.10987234e-05,1.494,True,False,True,False,1.25207233,
+26,bin_24,-2.227,3.10987234e-05,3.782,True,False,False,False,2.223028,
+27,Scrub_Brush_1,-0.32201755,3.10987234e-05,1.95030177,False,False,False,True,1.29438078,
+28,Soap_Bottle_24,-0.213552058,0.9462649,2.86599255,False,False,False,True,1.35137475,['CounterTop|-00.26|+00.93|+02.84']
+29,SinkBasin,-0.305845737,0.8175963,2.422649,True,False,False,False,1.037796,
+30,SinkBasin,-0.3058,0.8175963,3.2669,True,False,False,False,1.58224857,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sink (1),-1.326,0.960229158,3.5129,False,False,False,False,1.66962183,
+2,Cabinet (2),-1.187062,0.3943323,3.03056765,True,False,True,False,1.39581931,
+3,ShowerDoor,-1.631,1.01455593,1.1703,False,False,True,False,2.10735369,
+4,Cabinet (1),-1.18706393,0.39433217,2.12736559,True,False,True,False,1.34375238,
+5,Sink,-1.32628667,0.960229158,2.56700015,False,False,False,False,1.32925534,
+6,ShowerGlass,0.254500031,0.7883539,0.4857562,False,False,False,False,2.03343463,
+7,Mirror,-1.70351148,1.661,2.48,False,False,False,False,1.86506891,
+8,Cabinet,-1.18706393,0.39433217,3.06325769,True,False,True,False,1.40857136,
+9,CounterTop,-1.348254,0.97220695,2.9450655,True,False,False,False,1.42155039,
+10,Mirror (1),-1.70351148,1.661,3.514,False,False,False,False,2.12279963,
+11,Cabinet,-1.187062,0.3943323,3.96645975,True,False,True,False,1.95379472,
+12,BathTowel1,-0.200716048,1.17456257,1.28631938,False,False,False,True,1.26000631,['TowelHolder|-00.20|+01.16|+01.18']
+13,HandTowel1,-1.27526248,1.6,3.96109152,False,False,False,True,2.06114841,['HandTowelHolder|-01.28|+01.70|+04.00']
+14,BathTowelHolder1,-0.200716048,1.16056252,1.1794194,True,False,False,False,1.36054826,
+15,bin_25,0.286,0.0009679496,3.838,True,False,False,False,1.63824284,
+16,Soap_Bar_1,-1.525,0.984,2.85800028,False,False,False,True,1.568604,['CounterTop|-01.35|+00.97|+02.95']
+17,ToiletPaper,-1.33256948,0.0586774945,2.26118612,False,False,False,True,1.59496427,['Cabinet|-01.19|+00.39|+02.13']
+18,Plunger_3,0.248000726,0.0005049631,1.30699921,False,False,False,True,1.51571417,
+19,Candle_5,-1.64076126,0.9842293,3.089026,False,False,False,True,1.74522674,['CounterTop|-01.35|+00.97|+02.95']
+20,Tissue_Box_1,-1.30772352,0.9842293,3.18541574,False,False,False,True,1.47875035,['CounterTop|-01.35|+00.97|+02.95']
+21,Soap_Bottle_25,-1.56329882,0.9534656,2.21222186,False,False,False,True,1.59039974,['CounterTop|-01.35|+00.97|+02.95']
+22,HandTowelHolder1,-1.27526248,1.702,3.99939156,True,False,False,False,2.12474036,
+23,ToiletPaperRoll,-1.40522921,0.0586774945,2.35381675,False,False,False,True,1.64534986,['Cabinet|-01.19|+00.39|+02.13']
+24,Window,-0.728,1.6655978,0.1104729,False,False,False,False,2.612079,
+25,Spray_Bottle_7,-1.3832,0.0587000251,2.7728,False,False,False,True,1.64279079,['Cabinet|-01.19|+00.39|+03.03']
+26,Toilet2,-0.039,0.09069,1.734,True,False,True,False,1.11644423,
+27,Cloth_8,0.356,0.8852743,1.8,False,False,False,True,0.785502851,['Toilet|-00.04|+00.09|+01.73']
+28,Scrub_Brush_1,0.0350000858,0.0009679496,1.301,False,False,False,True,1.5002085,
+29,SinkBasin,-1.31758666,0.998529136,2.5673,True,False,False,False,1.32283342,
+30,SinkBasin,-1.3173,0.998529136,3.5132,True,False,False,False,1.66468549,
+31,ToiletPaperHanger25,0.445,0.809,1.351,True,False,False,False,1.23566544,
+32,LightSwitch25,0.444597483,1.369,3.324,False,True,False,False,1.04630888,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,-1.324722,0.3120442,0.3110748,True,False,True,False,1.13070989,
+2,Drawer (6),-0.2907002,0.3120442,0.3110739,True,False,True,False,1.93499649,
+3,Sink,-0.464,-0.013,3.047,True,False,False,False,2.71780777,
+4,Mirror,-0.504,1.741,3.30428028,False,False,False,False,2.87260747,
+5,Drawer (5),-0.8082001,0.6117998,0.311074376,True,False,True,False,1.40681994,
+6,Drawer (4),-0.8082,0.3120442,0.311074376,True,False,True,False,1.49762893,
+7,CounterTop,-1.85,0.001,0.342,True,False,False,False,1.12561917,
+8,Bathtub,-3.499,0.148,0.94,True,False,False,False,1.67896128,
+9,Drawer (2),-1.8401,0.3120442,0.3110752,True,False,True,False,0.920908153,
+10,Drawer (7),-0.290700078,0.6117998,0.3110739,True,False,True,False,1.86559975,
+11,Drawer (1),-1.324722,0.6118,0.3110748,True,False,True,False,1.00735044,
+12,Drawer (3),-1.8401,0.6117998,0.3110752,True,False,True,False,0.764409661,
+13,BathTowel1,-2.554,0.873,0.1069,False,False,False,True,1.051369,['TowelHolder|-02.55|+00.86|+00.00']
+14,Cloth_10,-0.147,0.8000257,0.377,False,False,False,True,1.95757735,['CounterTop|-01.85|+00.00|+00.34']
+15,Candle_6,-1.96033728,0.8006518,0.367309451,False,False,False,True,0.6419612,['CounterTop|-01.85|+00.00|+00.34']
+16,HandTowel1,-0.0383,1.68,2.956,False,False,False,True,2.877447,['HandTowelHolder|+00.00|+01.78|+02.96']
+17,BathTowelHolder1 (1),-2.554,1.583,0.0,True,False,False,False,1.33073783,
+18,BathTowelHolder1,-2.554,0.859,0.0,True,False,False,False,1.14400744,
+19,bin_26,-0.846,0.00086376816,3.149,True,False,False,False,2.60033,
+20,ToiletPaperHanger26,-1.629,0.843,3.305,True,False,False,False,2.33540821,
+21,Soap_Bar_1,-3.09799957,0.6827611,1.74359119,False,False,False,True,1.34407461,['Bathtub|-03.50|+00.15|+00.94']
+22,ToiletPaper,-2.25010514,0.9462135,2.67032933,False,False,False,True,1.6895324,['Toilet|-01.84|+00.00|+02.50']
+23,Plunger_3,-2.307833,0.000400774181,3.23158574,False,False,False,True,2.42639041,
+24,Spray_Bottle_8,-1.53257561,0.80050385,0.223685935,False,False,False,True,0.911823869,['CounterTop|-01.85|+00.00|+00.34']
+25,Tissue_Box_1,-1.4562397,0.8004775,0.394390464,False,False,False,True,0.8201934,['CounterTop|-01.85|+00.00|+00.34']
+26,HandTowelHolder1,0.0,1.782,2.956,True,False,False,False,2.93267417,
+27,ToiletPaperRoll,-2.313,0.946272135,2.496,False,False,False,True,1.52903807,['Toilet|-01.84|+00.00|+02.50']
+28,LightSwitch27,0.0,1.369,1.993,False,True,False,False,2.281286,
+29,Window,-3.979195,1.736,1.163,False,False,False,False,2.15396523,
+30,Toilet2,-1.836,0.00086376816,2.503,True,False,True,False,1.76002991,
+31,Scrub_Brush_1,-2.18917274,0.00086376816,3.02522182,False,False,False,True,2.22465944,
+32,SinkBasin,-0.452800035,0.8884,2.9691,True,False,False,False,2.50426912,
+33,SinkBasin,-3.51800013,0.211,0.939,True,False,False,False,1.668933,
+34,Soap_Bottle_26,-0.6415,0.949,3.2181,False,False,False,True,2.60148263,['Sink|-00.46|-00.01|+03.05']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (7),-1.44499612,0.5317741,-0.620874166,True,False,True,False,1.66353726,
+2,Sink,-1.91999984,0.441,2.032,True,False,False,False,1.20581234,
+3,Drawer (1),-2.34354281,0.5317743,-0.620873451,True,False,True,False,1.86437476,
+4,Drawer,-2.34354281,0.271291852,-0.620873451,True,False,True,False,1.93303919,
+5,Drawer (4),-1.89469433,0.271291852,-0.620873868,True,False,True,False,1.78349686,
+6,Drawer (2),-2.791397,0.271291852,-0.6208731,True,False,True,False,2.166283,
+7,CounterTop,-2.8,0.001,-0.594,True,False,False,False,2.24559832,
+8,Drawer (5),-1.89469445,0.5317741,-0.620873868,True,False,True,False,1.70883417,
+9,Mirror,-1.909,1.748,2.281,False,False,False,False,1.58867478,
+10,Drawer (3),-2.791397,0.5317741,-0.6208731,True,False,True,False,2.10523963,
+11,Drawer (6),-1.44499624,0.271291852,-0.620874166,True,False,True,False,1.74014473,
+12,Bathtub,-3.70615768,0.342296362,0.63699466,True,False,False,False,2.30482531,
+13,BathTowel1,-3.66,1.567,-0.459400028,False,False,False,True,2.690282,['TowelHolder|-03.66|+01.55|-00.56']
+14,Candle_6,-2.53080225,0.6957569,-0.683190167,False,False,False,True,1.98449886,['CounterTop|-02.80|+00.00|-00.59']
+15,HandTowel1,-1.275,1.683,2.2444,False,False,False,True,1.48628819,['HandTowelHolder|-01.28|+01.79|+02.28']
+16,BathTowelHolder1,-3.66,1.553,-0.558,True,False,False,False,2.74166226,
+17,Soap_Bar_1,-2.58423781,0.6957753,-0.5376308,False,False,False,True,1.89272976,['CounterTop|-02.80|+00.00|-00.59']
+18,ToiletPaper,-1.38050878,0.695359349,-0.751498342,False,False,False,True,1.767694,['CounterTop|-02.80|+00.00|-00.59']
+19,Plunger_3,-1.08817315,0.0005790219,-0.5260009,False,False,False,True,1.819592,
+20,Spray_Bottle_8,-2.86341071,0.69587183,-0.5237368,False,False,False,True,2.05503488,['CounterTop|-02.80|+00.00|-00.59']
+21,Soap_Bottle_27,-0.8961491,0.94640553,-0.744824231,False,False,False,True,1.84689343,['Toilet|-00.72|+00.00|-00.31']
+22,Tissue_Box_1,-1.65772223,0.6954552,-0.507600069,False,False,False,True,1.52984059,['CounterTop|-02.80|+00.00|-00.59']
+23,HandTowelHolder1 (1),-2.576,1.785,2.283,True,False,False,False,1.89300835,
+24,HandTowelHolder1,-1.275,1.785,2.2827,True,False,False,False,1.5733912,
+25,ToiletPaperRoll,-3.199584,0.5999315,-0.474029,False,False,False,True,2.26993775,['Bathtub|-03.71|+00.34|+00.64']
+26,LightSwitch27,-0.558,1.283,2.28104639,False,True,False,False,1.63510644,
+27,bin_27,-1.586,0.0010420084,2.062,True,False,False,False,1.39536381,
+28,Paper_Towel_1,-2.8259933,0.8075245,-0.718044341,False,False,False,True,2.17229557,['CounterTop|-02.80|+00.00|-00.59']
+29,Toilet2,-0.72,0.0010420084,-0.310724676,True,False,True,False,1.77149642,
+30,Scrub_Brush_1,-1.041,0.0010420084,-0.707,False,False,False,True,1.98401868,
+31,ToiletPaperHanger27,-0.42715764,0.941,0.188,True,False,False,False,1.34605074,
+32,Cloth_11,-1.403,0.695359,-0.542,False,False,False,True,1.55881071,['CounterTop|-02.80|+00.00|-00.59']
+33,BathtubBasin,-3.788,0.0289999843,0.595,True,False,False,False,2.48217058,
+34,SinkBasin,-1.9089998,1.011,1.98100007,True,False,False,False,1.0684166,
+35,Dish_Sponge_1,-3.251,0.6,-0.366,False,False,False,True,2.24124646,['Bathtub|-03.71|+00.34|+00.64']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-1.479281,0.3481936,2.362492,True,False,True,False,1.28073311,
+2,Sink (1),-1.746102,0.884,2.72366142,True,False,False,False,1.58148432,
+3,Cabinet,-1.48309088,0.3728714,3.152313,True,False,True,False,1.792314,
+4,Sink,-1.746,0.884,3.554,True,False,False,False,2.19254136,
+5,CounterTop,-1.75810194,0.669,3.164,True,False,False,False,1.90690041,"['Cabinet|-01.48|+00.37|+03.15', 'Cabinet|-01.48|+00.37|+03.96']"
+6,Mirror,-1.94399989,1.533,3.44399977,False,False,False,False,2.31377888,
+7,Cabinet (2),-1.479281,0.3481936,3.17017913,True,False,True,False,1.81164,
+8,ShowerDoor,0.527,1.039,2.098611,False,False,True,False,1.09323692,
+9,Painting,-0.5668569,1.59100008,1.1736,False,False,False,False,0.9011814,
+10,Cabinet (1),-1.48309088,0.3728714,3.96,True,False,True,False,2.47588515,
+11,Candle_6,-1.858,0.945853531,1.692,False,False,False,True,1.35996175,['Toilet|-01.45|+00.00|+01.87']
+12,HandTowel1,-1.67064345,1.49639475,3.96225166,False,False,False,True,2.57261968,"['CounterTop|-01.76|+00.67|+03.16', 'HandTowelHolder|-01.67|+01.60|+04.00']"
+13,Soap_Bottle_28,-1.823,0.910479069,3.156,False,False,False,True,1.93060756,['CounterTop|-01.76|+00.67|+03.16']
+14,BathTowel2,0.8339847,1.16006589,2.35729623,False,False,False,True,1.48834944,['TowelHolder|+00.83|+01.15|+02.25']
+15,BathTowelHolder1,0.8339847,1.14606583,2.25039625,True,False,False,False,1.44558907,
+16,Cloth_12,-1.69543636,0.0312405825,3.040513,False,False,False,True,1.962608,['Cabinet|-01.48|+00.37|+03.15']
+17,Soap_Bar_1,-1.66072011,0.910479,2.37130976,False,False,False,True,1.316578,['CounterTop|-01.76|+00.67|+03.16']
+18,ToiletPaper,-1.6104,0.0312,2.5829,False,False,False,True,1.63832819,['Cabinet|-01.48|+00.35|+02.36']
+19,Plunger_3,-1.8769592,3.4853816e-05,2.277852,False,False,False,True,1.728372,
+20,ToiletPaperHanger28,-1.20080638,1.01309454,1.16410112,True,False,False,False,0.920251131,
+21,Spray_Bottle_8,-1.90817094,0.945884645,1.94361639,False,False,False,True,1.42211235,['Toilet|-01.45|+00.00|+01.87']
+22,HandTowelHolder1,-1.67064345,1.59839475,4.0005517,True,False,False,False,2.63079119,
+23,ToiletPaperRoll,-1.476,0.041,1.372,False,False,False,True,1.35495639,['GarbageCan|-01.45|+00.00|+01.40']
+24,LightSwitch28,1.24999988,1.323,3.636,False,True,False,False,2.6071372,
+25,Toilet2,-1.447,0.000493228436,1.872,True,False,True,False,1.31281841,
+26,Scrub_Brush_1,-1.70388472,0.000493228436,2.217829,False,False,False,True,1.57480216,
+27,SinkBasin,-1.6718,0.9357,3.57199979,True,False,False,False,2.16655684,
+28,SinkBasin,-1.671902,0.9357,2.74166131,True,False,False,False,1.535551,
+29,bin_28,-1.451,0.000493228436,1.402,True,False,False,False,1.355472,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sink,-2.172,0.295,-0.66,True,False,False,False,1.65430248,
+2,Bathtub,-2.122778,-0.0882017,-3.116464,False,False,False,False,2.51904321,
+3,Mirror,-2.503952,1.423197,-0.7033229,False,False,False,False,1.91010475,
+4,Soap_Bottle_29,-1.812702,0.8091426,-0.155564308,False,False,False,True,1.52822,['Shelf|-01.57|+00.81|-00.14']
+5,Cloth_10,0.833367,0.8091426,-1.54676247,False,False,False,True,1.61352122,['Shelf|+00.82|+00.81|-01.76']
+6,Candle_6,-0.163,0.944775939,-3.85922933,False,False,False,True,2.67481112,['Toilet|+00.00|00.00|-03.44']
+7,HandTowel1,-2.166232,1.50052226,-0.0377430953,False,False,False,True,1.95841873,['HandTowelHolder|-02.17|+01.60|+00.00']
+8,BathTowel2,-1.525,1.68500006,-0.1059,False,False,False,True,1.58907413,['TowelHolder|-01.53|+01.67|+00.00']
+9,BathTowelHolder1,-1.525,1.671,0.001,True,False,False,False,1.66115034,
+10,Soap_Bar_1,0.188835576,0.9448198,-3.8710146,False,False,False,True,2.784439,['Toilet|+00.00|00.00|-03.44']
+11,ToiletPaper,-0.5568966,0.0829262137,-3.77841759,False,False,False,True,2.664297,['GarbageCan|-00.51|00.00|-03.76']
+12,Plunger_3,0.854430556,-0.000899396837,-3.90581059,False,False,False,True,3.23108387,
+13,Spray_Bottle_8,0.8054254,0.8091426,-2.059739,False,False,False,True,1.755949,['Shelf|+00.82|+00.81|-01.76']
+14,Tissue_Box_1,0.8326767,0.8091426,-0.3587439,False,False,False,True,1.81866276,['Shelf|+00.81|+00.81|-00.61']
+15,Shelf (1),0.824,0.8091426,-1.75900006,True,False,False,False,1.65677047,
+16,Shelf,0.811,0.8091426,-0.609,True,False,False,False,1.6899507,
+17,Shelf,-1.57,0.8091426,-0.137,True,False,False,False,1.38546038,
+18,HandTowelHolder1,-2.166232,1.60252225,0.000556904241,True,False,False,False,2.015578,
+19,ToiletPaperRoll,-0.444,0.08292621,-3.793,False,False,False,True,2.688639,['GarbageCan|-00.51|00.00|-03.76']
+20,LightSwitch29,0.321,1.327,0.000444004254,False,True,False,False,1.70077109,
+21,Window,-0.54,1.625,-3.996933,False,False,False,False,2.8486414,
+22,Toilet2,0.004,-0.00058028847,-3.436,True,False,True,False,2.48171568,
+23,Scrub_Brush_1,0.684140265,-0.00058028847,-3.90567446,False,False,False,True,3.14978814,
+24,SinkBasin,-2.1764,0.824200034,-0.659800053,True,False,False,False,1.54556215,
+25,BathtubBasin,-1.862778,0.0337983,-2.723464,True,False,False,False,2.03970671,
+26,bin_29,-0.513,-0.00058028847,-3.762,True,False,False,False,2.67920017,
+27,ToiletPaperHanger29,0.462749869,0.8410983,-3.97870636,True,False,False,False,2.986657,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Bathtub,-1.95771325,0.494787931,-1.23327065,False,False,False,False,2.15353942,
+2,ShowerDoor,0.650111437,1.41346645,2.16920447,False,False,True,False,2.23539329,
+3,ShowerGlass,0.0,0.0,0.0,False,False,False,False,1.28302014,
+4,Drawer (2),0.30043143,0.3042,-1.82036757,True,False,True,False,2.618816,
+5,Mirror,-0.04631528,1.512028,-2.538259,False,False,False,False,3.17568541,
+6,Countertop,0.1966077,0.431,-2.011,True,False,False,False,2.72645354,
+7,Sink,-2.797,0.328,0.756,False,False,False,False,2.14429855,
+8,Drawer (3),0.30043143,0.834,-1.82036757,True,False,True,False,2.54828548,
+9,Drawer (1),0.30043143,0.6824,-1.82036757,True,False,True,False,2.55748057,
+10,Drawer,0.30043143,0.492574453,-1.82036757,True,False,True,False,2.581531,
+11,Candle_6,-0.5851234,0.9534595,-2.24963617,False,False,False,True,2.75487161,['CounterTop|+00.20|+00.43|-02.01']
+12,HandTowel1,-0.885,1.617,-2.5037,False,False,False,True,3.08804131,['HandTowelHolder|-00.89|+01.72|-02.54']
+13,BathTowel2,0.465890378,1.21,-1.095,False,False,False,True,2.02746153,['TowelHolder|+00.57|+01.20|-01.10']
+14,BathTowelHolder1,0.5727904,1.196,-1.095,True,False,False,False,2.091379,
+15,Soap_Bottle_30,0.41210103,0.953470945,-2.28276014,False,False,False,True,3.01593542,['CounterTop|+00.20|+00.43|-02.01']
+16,Soap_Bar_1,-0.248445883,0.95347023,-2.280754,False,False,False,True,2.825913,['CounterTop|+00.20|+00.43|-02.01']
+17,ToiletPaper,-0.209749848,0.957429349,2.268322,False,False,False,True,1.84954143,['Toilet|-00.06|+00.01|+01.84']
+18,Plunger_3,0.5063196,0.0115768015,2.268863,False,False,False,True,2.349436,
+19,Spray_Bottle_8,-2.934,0.866,1.596,False,False,False,True,2.44403052,['Cart|-02.92|+00.01|+01.48']
+20,Tissue_Box_1,0.08635901,0.953477859,-2.30291033,False,False,False,True,2.92531,['CounterTop|+00.20|+00.43|-02.01']
+21,ToiletPaperHanger30,-0.574,0.927,2.408,True,False,False,False,1.916151,
+22,Shelf,1.537,0.6139272,-2.242,True,False,False,False,3.58307147,
+23,HandTowelHolder1,-0.885,1.719,-2.542,True,False,False,False,3.149851,
+24,ToiletPaperRoll,-0.515,0.8087,2.338677,False,False,False,True,1.856568,['ToiletPaperHanger|-00.57|+00.93|+02.41']
+25,Window (1),-3.17,1.813,-1.698,False,False,False,False,3.39080119,
+26,Window (3),-3.17,1.813,1.597,False,False,False,False,2.80530548,
+27,Window,-2.145,1.81,-2.57351661,False,False,False,False,3.49243,
+28,Window (2),-3.17,1.813,-0.055,False,False,False,False,2.64090037,
+29,bin_30,-2.933,0.0120397806,2.088,True,False,False,False,2.84588,
+30,Cart,-2.915,0.012,1.481,True,False,False,False,2.54193974,
+31,Toilet2,-0.064,0.0120397955,1.839,True,False,True,False,1.75365818,
+32,Scrub_Brush_1,0.342862785,0.0120397955,2.072015,False,False,False,True,2.11598229,
+33,LightSwitch30,-1.4063,1.4725,2.40765786,False,True,False,False,2.093534,
+34,Cloth_11,-0.4963858,0.953371048,-1.99386716,False,False,False,True,2.507054,['CounterTop|+00.20|+00.43|-02.01']
+35,SinkBasin,-2.7961,0.8754,0.7653,True,False,False,False,2.063571,
+36,BathtubBasin,-1.98671329,0.06678793,-1.19327068,True,False,False,False,2.26114273,
+37,Dish_Sponge_1,-2.90736175,0.238132343,1.33637965,False,False,False,True,2.41023636,['Cart|-02.92|+00.01|+01.48']
+38,Footstool4,-0.325,0.297,-1.98,False,False,False,True,2.59046912,

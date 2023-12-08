@@ -1,0 +1,1197 @@
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Painting,-2.04899979,1.615132,-0.3036,False,False,False,False,2.7508173,
+2,ArmChair (1),-0.78,0.0139999995,6.077,True,False,False,False,5.66630745,
+3,SideTable,-3.201731,0.5881582,0.2065555,True,False,False,False,1.552141,
+4,TelevisionStand,-2.385267,0.004,6.29658365,True,False,False,False,5.14024925,
+5,Chair (3),-1.87209332,-0.00591504574,1.750807,False,False,False,False,2.32731485,
+6,Chair (4),-2.48250151,0.003244102,1.74628544,False,False,False,False,1.78112352,
+7,Chair (1),-1.41599011,-0.005909115,1.43005681,False,False,False,False,2.73998022,
+8,CoffeeTable,-2.318988,0.0034,4.887073,True,False,False,False,3.88673735,
+9,Chair (2),-3.03002357,-0.00590932369,1.39595258,False,False,False,False,1.33310628,
+10,Chair (5),-1.86193466,-0.00209108,1.13902235,False,False,False,False,2.34951,
+11,ArmChair,-4.412,0.0139999995,6.008,True,False,False,False,4.6131897,
+12,Curtains,-0.08341706,2.420698,0.9696214,False,False,False,False,4.23383665,['TableTop|-00.24|+00.00|+03.37']
+13,Laptop_1,-1.69864607,0.6808196,1.65939677,False,True,True,True,2.31750917,['TableTop|-02.27|-00.02|+01.42']
+14,DecorativeBox1,-2.26605558,0.5967225,4.80876541,True,False,False,True,3.74807787,['TableTop|-02.32|+00.00|+04.89']
+15,Television_1,-2.357,1.21,6.283,False,False,False,False,5.06665564,['TableTop|-02.39|+00.00|+06.30']
+16,LongEndTable,-2.114,0.005,-0.14,True,False,False,False,2.65563226,
+17,EndTable,-0.238,0.0001,3.369,True,False,False,False,4.29655838,
+18,Houseplant_1,-3.0157,0.5909,-0.0233,False,False,False,False,1.84023952,['TableTop|-03.20|+00.59|+00.21']
+19,Drawer,-2.114,0.6574466,-0.0694921538,True,False,True,False,2.4658525,
+20,Tissue_Box_1,-2.744,0.7147634,6.131,False,False,False,True,4.801979,['TableTop|-02.39|+00.00|+06.30']
+21,CreditCard_1,-1.936,0.681,1.8,False,False,False,True,2.09743381,['TableTop|-02.27|-00.02|+01.42']
+22,Sofa,-2.404,-0.066,3.417,True,False,False,False,2.67589259,
+23,Keychain_1,-0.272907078,0.699363232,3.1280663,False,False,False,True,4.07224131,['TableTop|-00.24|+00.00|+03.37']
+24,bin_1,-4.868,0.00165782869,0.267,True,False,False,False,1.75656259,
+25,Floor_Lamp_1,-0.567446351,0.00165782869,0.0252254,False,True,False,False,3.84306955,
+26,Vase_4,-0.2650639,0.698675632,3.41421771,False,False,False,True,4.20185471,['TableTop|-00.24|+00.00|+03.37']
+27,Desk_Lamp_11,-0.2812133,0.698675632,3.612,False,True,False,False,4.28153324,['TableTop|-00.24|+00.00|+03.37']
+28,Chair,-2.49495244,-0.006040275,1.10577083,False,False,False,False,1.80175328,
+29,Pencil_5,-2.83170867,0.6855471,1.5100162,False,False,False,True,1.18833566,['TableTop|-02.27|-00.02|+01.42']
+30,pillow_1,-3.271,0.661,3.44,False,False,False,True,2.08648968,['Sofa|-02.40|-00.07|+03.42']
+31,Drawer,-0.301500022,0.6243013,3.369,True,False,True,False,4.153257,
+32,LongTable,-2.269,-0.0158369988,1.423,True,False,False,False,1.96110189,
+33,Remote_1,-2.58299,0.7380217,-0.1459975,False,False,False,True,2.17814827,['TableTop|-02.11|+00.01|-00.14']
+34,Watch_1,-2.10165644,0.736552,-0.0576787181,False,False,False,True,2.46123171,['TableTop|-02.11|+00.01|-00.14']
+35,Open_Book_2,-2.85874915,0.6874144,1.68284321,False,False,False,True,1.17567611,['TableTop|-02.27|-00.02|+01.42']
+36,Pen_1,-2.99903083,0.686464369,1.46354318,False,False,False,True,1.02469873,['TableTop|-02.27|-00.02|+01.42']
+37,Newspaper_1,-2.75920224,0.6885978,1.17735636,False,False,False,True,1.29980731,['TableTop|-02.27|-00.02|+01.42']
+38,WindowLarge (1),-0.057,0.925,1.764,False,False,False,False,3.95189142,
+39,WindowLarge,-0.057,1.13001847,4.886,False,False,False,False,5.2023015,
+40,Statue_Waving_Man_2,-1.76378977,0.7363218,-0.130165085,False,False,False,True,2.77231717,['TableTop|-02.11|+00.01|-00.14']
+41,LightSwitch1,-3.306,1.341,-0.315,False,True,False,False,1.99198544,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Painting,-3.05,1.690066,4.341034,False,False,False,False,3.72001481,
+2,Table,-1.567,0.004,3.869,True,False,False,False,2.53640318,
+3,Curtains,-3.97399974,2.25499988,1.454,False,False,False,False,3.74025154,
+4,ArmChair,-3.075,0.472564578,0.373,True,False,False,False,2.95133018,
+5,CoffeeTable,-1.735,0.003,2.361,True,False,False,False,1.64469838,
+6,Sofa,-1.161,4.67896461e-05,0.452,True,False,False,False,1.71275342,
+7,Painting,-1.09600008,1.77399993,-0.017,False,False,False,False,2.05901766,
+8,Table,0.627,0.002,0.34,True,False,False,False,2.0165596,
+9,LightSwitch2,-0.13,1.408,4.349,False,True,False,False,2.67370582,
+10,bin_2,-0.377,4.67896461e-05,4.104,True,False,False,False,2.523538,
+11,Television_2,-1.506,1.189,4.126,False,False,False,False,2.59621429,['TableTop|-01.57|+00.00|+03.87']
+12,Houseplant_2,-2.015,0.440838665,2.358,False,False,False,False,1.69607782,['TableTop|-01.74|+00.00|+02.36']
+13,Laptop_2,-3.217,0.5463181,0.582,False,True,True,True,2.97861457,['ArmChair|-03.08|+00.47|+00.37']
+14,Keychain_1,-1.0079931,0.70427984,3.530013,False,False,False,True,1.86151028,['TableTop|-01.57|+00.00|+03.87']
+15,pillow_2,-0.506,0.664,0.431,False,False,False,True,1.34014475,['Sofa|-01.16|+00.00|+00.45']
+16,Statue_Waving_Man_1,0.85866,0.710885,0.327783257,False,False,False,True,1.97606146,['TableTop|+00.63|+00.00|+00.34']
+17,DecorativeBox2,0.345294118,0.7108449,0.3862291,True,False,False,True,1.61572576,['TableTop|+00.63|+00.00|+00.34']
+18,Floor_Lamp_2,-3.687,4.67896461e-05,4.014,False,True,False,False,4.01179075,
+19,Remote_2,-1.27384853,0.4415876,2.152707,False,False,False,True,0.9859597,['TableTop|-01.74|+00.00|+02.36']
+20,CreditCard_2,-2.104,0.440838665,2.581,False,False,False,True,1.86418033,['TableTop|-01.74|+00.00|+02.36']
+21,Watch_1,-1.22002482,0.703736246,3.469974,False,False,False,True,1.875014,['TableTop|-01.57|+00.00|+03.87']
+22,WindowLarge,-4.051,1.198,1.312,False,False,False,False,3.59021282,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,-1.03000021,0.7816065,0.238922819,True,False,True,False,3.19407964,
+2,Chair,-3.9049983,0.0156712234,-0.827006757,False,False,False,False,3.79586124,
+3,LongTable,-4.295,0.006054215,-0.379,True,False,False,False,3.50420666,
+4,Chair (5),-3.42500043,0.0156722963,-0.3210047,False,False,False,False,3.22587276,
+5,Sofa,-1.527,0.018,2.559,True,False,False,False,1.73107648,
+6,Drawer (2),0.5972012,0.0651,2.605,True,False,True,False,3.697265,
+7,Drawer (5),0.214799985,0.06510004,2.605,True,False,True,False,3.32638669,
+8,Chair (1),-4.573001,0.0156717,-0.8270025,False,False,False,False,4.007972,
+9,Ottoman,0.494,0.002,4.309,True,False,False,False,3.93162036,
+10,Drawer (4),0.214799687,0.3852838,2.605,True,False,True,False,3.26009274,
+11,Chair (3),-4.664999,0.0156691968,0.164998263,False,False,False,False,3.201409,
+12,Chair (4),-3.99700046,0.0156711638,0.09199695,False,False,False,False,2.97549176,
+13,ArmChair,0.42,-0.0026,5.129,True,False,False,False,4.264213,
+14,Drawer,0.597201169,0.3852838,2.605,True,False,True,False,3.637736,
+15,Drawer (3),0.214799687,0.226199955,2.605,True,False,True,False,3.28930426,
+16,Painting,-6.5,1.759849,-0.3415181,False,False,False,False,4.74707747,
+17,EndTable,-1.03,0.006054215,0.161,True,False,False,False,3.37574,
+18,CoffeeTable,0.406,0.011,2.605,True,False,False,False,3.524879,
+19,Drawer (1),0.5972012,0.226200014,2.605,True,False,True,False,3.66393828,
+20,Chair (2),-4.98600531,0.0156773031,-0.405003965,False,False,False,False,3.8331213,
+21,Painting,0.704773068,1.77890623,0.782252431,False,False,False,False,4.28456545,
+22,pillow_3,0.438,0.581,5.162,False,False,False,True,4.212351,['ArmChair|+00.42|00.00|+05.13']
+23,Watering_Can_1,-0.8161158,0.005194366,0.18929626,False,False,False,True,3.48423648,
+24,Tissue_Box_1,-0.9939826,0.8740145,0.236617029,False,False,False,True,3.21594334,['TableTop|-01.03|+00.01|+00.16']
+25,Television_3,1.5,1.691,2.562,False,False,False,False,4.571643,
+26,Newspaper_4,0.424978942,0.418807924,4.301363,False,False,False,True,3.79151559,['Ottoman|+00.49|+00.00|+04.31']
+27,CreditCard_1,-1.195,0.8740145,0.205,False,False,False,True,3.120279,['TableTop|-01.03|+00.01|+00.16']
+28,Floor_Lamp_3,1.11186862,0.006054215,6.80502224,False,True,False,False,5.844867,
+29,Keychain_1,0.117859647,0.429839522,4.84789228,False,False,False,True,3.78813052,['ArmChair|+00.42|00.00|+05.13']
+30,bin_3,-6.12875,0.006054215,2.80032015,True,False,False,False,3.25628734,
+31,LightSwitch3,-6.5,1.498,1.346,False,True,False,False,3.817124,
+32,Boot_1,-6.30999327,0.006700963,1.25298953,False,False,False,True,3.74269,
+33,Pencil_5,-4.49015951,0.752438366,-0.185823232,False,False,False,True,3.29598832,['TableTop|-04.30|+00.01|-00.38']
+34,Laptop_3,0.379,0.541804969,2.834,False,True,True,True,3.399721,['TableTop|+00.41|+00.01|+02.61']
+35,DecorativeBox3,0.463227123,0.541804969,2.24819565,True,False,False,True,3.51840234,['TableTop|+00.41|+00.01|+02.61']
+36,Vase_6,-4.196847,0.905,-0.332438856,False,False,False,True,3.30664134,
+37,Remote_1,-1.27166069,0.444746137,3.29442167,False,False,False,True,1.87010145,['Sofa|-01.53|+00.02|+02.56']
+38,Watch_1,0.239396259,0.541959941,2.5165062,False,False,False,True,3.26825666,['TableTop|+00.41|+00.01|+02.61']
+39,Cellphone_8,-3.75130773,0.7484193,-0.0955624,False,False,False,True,2.947347,['TableTop|-04.30|+00.01|-00.38']
+40,Houseplant_3,-0.753,0.8740145,0.209,False,False,False,False,3.39216471,['TableTop|-01.03|+00.01|+00.16']
+41,Open_Book_2,-4.056,0.7543086,-0.10599827,False,False,False,True,3.048802,['TableTop|-04.30|+00.01|-00.38']
+42,WindowLarge (1),1.497,1.712,4.455,False,False,False,False,4.876266,
+43,WindowLarge,-4.21,1.578,-1.98,False,False,False,False,4.92820168,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Chair (1),-0.411,0.0017664,4.452,False,False,False,False,1.90347362,
+2,Chair (6),-1.359,0.019,-2.577,False,False,False,False,5.64757,
+3,Sofa,-2.161,0.00131513178,6.115,True,False,False,False,3.36822557,
+4,Painting,-3.369,1.741,-0.2985,False,False,False,False,4.00919676,
+5,Shelf (1),-4.2537,1.3069,0.771,True,False,False,False,3.76222587,
+6,Chair (2),-0.637,0.0017664,0.994,False,False,False,False,2.2827158,
+7,GlassTable,-1.96584785,0.0037908,4.187356,True,False,False,False,1.6521492,
+8,Painting,-1.756,1.424,-3.596,False,False,False,False,6.63591766,
+9,Chair (3),-1.38,0.019,-1.592,False,False,False,False,4.677992,
+10,Table,-1.784,0.007,-2.039825,True,False,False,False,5.14651155,
+11,Chair,-0.365,0.0017664,3.595736,False,False,False,False,1.39610636,
+12,Drawer (2),-0.00141860545,0.1656,1.24307489,True,False,True,False,2.27782559,
+13,Shelf (2),-4.2537,1.691,0.771,True,False,False,False,3.82265329,
+14,Chair (5),-2.263,0.019,-2.64,False,False,False,False,5.797932,
+15,Desk,-0.247,0.003,1.40899992,True,False,False,False,2.08471966,
+16,Table,-0.201,-0.0057,5.898,True,False,False,False,3.21298838,
+17,ArmChair,-2.629,-0.004,2.421,True,False,False,False,1.748796,
+18,Sofa (1),-3.811,0.00131513178,4.152,True,False,False,False,2.94917369,
+19,Chair (4),-2.151,0.019,-1.621,False,False,False,False,4.790166,
+20,Drawer (1),-0.00141860545,0.5813,1.24307489,True,False,True,False,2.17917228,
+21,Shelf,-4.261,0.8332,0.771,True,False,False,False,3.74691081,
+22,Drawer (4),0.414000034,0.3736169,1.24307489,True,False,True,False,2.47693419,
+23,Drawer,-0.00141860545,0.3736169,1.24307477,True,False,True,False,2.21929336,
+24,Drawer (5),0.414000034,0.165600047,1.24307489,True,False,True,False,2.52951169,
+25,Drawer (3),0.414000034,0.5813,1.24307489,True,False,True,False,2.44105148,
+26,Floor_Lamp_4,0.392,0.00131513178,5.157,False,True,False,False,2.85667872,
+27,DecorativeBox1,-1.68015718,0.4405635,4.450987,True,False,False,True,1.58228052,['TableTop|-01.97|+00.00|+04.19']
+28,Vase_Tall_4,-4.20941448,1.64629436,1.156257,False,False,False,True,3.56525278,['Shelf|-04.25|+01.69|+00.77']
+29,Cellphone_1,-2.21699977,0.4412228,3.809,False,False,False,True,1.3424511,['TableTop|-01.97|+00.00|+04.19']
+30,Stone_Statue_2,-1.9488107,0.506,4.12230539,False,False,False,True,1.38020682,['TableTop|-01.97|+00.00|+04.19']
+31,Watering_Can_1,-3.58073759,0.000455342233,5.50084543,False,False,False,True,3.535522,
+32,Keychain_1,-1.19855607,0.7359591,1.53815913,False,False,False,True,1.472175,['Desk|-00.25|+00.00|+01.41']
+33,Vase_Tall_1,-4.24254131,0.7890503,1.18166792,False,False,False,True,3.503493,['Shelf|-04.26|+00.83|+00.77']
+34,Glass_Vase_2,-4.22882175,0.7890503,0.756116331,False,False,False,True,3.73111534,['Shelf|-04.26|+00.83|+00.77']
+35,Dog_Statue_3,-4.235,1.26349437,1.015,False,False,False,True,3.602902,['Shelf|-04.25|+01.31|+00.77']
+36,Laptop_4,-0.595,0.734983444,1.308,False,True,True,True,1.82205617,['Desk|-00.25|+00.00|+01.41']
+37,Window (1),-4.411,1.702,1.788,False,False,False,False,3.47855735,
+38,Window (3),-3.638,1.702,6.735,False,False,False,False,4.504694,
+39,Window,-4.410583,1.702,2.791,False,False,False,False,3.2668736,
+40,Window (4),-0.132,1.702,6.735,False,False,False,False,3.97990537,
+41,Window (2),-4.411,1.702,5.98,False,False,False,False,4.417218,
+42,pillow_4,-3.58702278,0.643,5.016,False,False,False,True,3.097285,['Sofa|-03.81|+00.00|+04.15']
+43,Television_4,-0.236,1.174,5.815,False,False,False,False,3.00436926,['TableTop|-00.20|-00.01|+05.90']
+44,bin_4,0.423,0.00131513178,2.044,True,False,False,False,2.12712574,
+45,Remote_2,-0.0575174876,0.6843611,5.396462,False,False,False,True,2.68561864,['TableTop|-00.20|-00.01|+05.90']
+46,Desk_Lamp_13,0.277,0.734983444,1.381,False,True,False,False,2.23179054,['Desk|-00.25|+00.00|+01.41']
+47,Houseplant_4,-3.935,0.001,5.974,False,False,False,False,4.10685635,
+48,CreditCard_2,-1.157902,0.734983444,1.67479527,False,False,False,True,1.33889854,['Desk|-00.25|+00.00|+01.41']
+49,Vase_3,-4.22549725,0.7890503,0.3822019,False,False,False,True,3.96475458,['Shelf|-04.26|+00.83|+00.77']
+50,LightSwitch4,-2.741,1.495,-0.405,False,True,False,False,3.764091,
+51,Hand_Statue_3,-4.22306252,1.26349437,0.399028182,False,False,False,True,3.966687,['Shelf|-04.25|+01.31|+00.77']
+52,Safe,0.1974,0.00131513178,-0.1021,True,False,True,False,3.53974438,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,WickerArmChair,-3.545,0.0,3.58,True,False,False,False,1.89880264,
+2,Curtains,-0.03767286,2.148098,0.9992118,False,False,False,False,3.366289,
+3,WickerChair (3),-1.627,0.0,0.779,False,False,False,False,2.04645944,
+4,Drawer (2),-3.4752,0.160204,6.711102,True,False,True,False,4.792626,
+5,Drawer,-2.927182,0.160204,6.711102,True,False,True,False,4.76956463,
+6,WickerChair,-2.151,0.0,1.285,False,False,False,False,1.42970359,
+7,GlassTable,-1.592008,0.3145463,1.274078,True,False,False,False,1.68922436,
+8,EndTable (1),-2.071,-0.001,6.699,True,False,False,False,4.87416363,
+9,Painting,-0.0165,2.061496,5.38,False,False,False,False,4.655334,
+10,EndTable,-0.24373059,0.00359106064,3.52417278,True,False,False,False,3.27501,
+11,WickerChair (1),-1.55,0.0,1.781,False,False,False,False,1.72118783,
+12,Drawer (1),-2.927182,0.469600022,6.711102,True,False,True,False,4.73138428,
+13,Drawer (3),-3.4752,0.469600022,6.711102,True,False,True,False,4.75463057,
+14,Ottoman,-2.43,0.0286,4.413,True,False,False,False,2.62845373,
+15,Dresser,-3.201,-0.008,6.791,True,False,False,False,4.88063431,
+16,WickerChair (2),-1.076,0.0,1.293,False,False,False,False,2.23911834,
+17,bin_5,-0.2569995,0.000126183033,6.79974556,True,False,False,False,5.601197,
+18,Watch_2,-2.19760132,0.833278239,6.58306646,False,False,False,True,4.65327263,['TableTop|-02.07|00.00|+06.70']
+19,ArmChair,-2.449,0.009774671,3.501,True,False,False,False,1.830603,
+20,Floor_Lamp_5,-4.721,0.000126183033,3.687,False,True,False,False,2.57286024,
+21,Watering_Can_1,-0.208213255,-0.000733479857,3.225628,False,False,False,True,3.17955756,
+22,Laptop_5,-1.68310452,0.747589,1.48901808,False,True,True,True,1.42087638,['TableTop|-01.59|+00.31|+01.27']
+23,Television_5,-3.193,1.177,6.782,False,False,False,False,4.793838,['Dresser|-03.20|-00.01|+06.79']
+24,CreditCard_1,-2.233719,0.832119644,6.68207264,False,False,False,True,4.744866,['TableTop|-02.07|00.00|+06.70']
+25,Keychain_1,-1.46029437,0.7482812,1.72728121,False,False,False,True,1.57112384,['TableTop|-01.59|+00.31|+01.27']
+26,Sofa,-4.425621,0.009774671,5.062,True,False,False,False,3.4932425,
+27,Houseplant_5,-0.172744751,0.615160763,3.99460363,False,False,False,False,3.47182822,['TableTop|-00.24|+00.00|+03.52']
+28,LightSwitch5,-3.484,1.471,0.001,False,True,False,False,2.134248,
+29,Statue_Waving_Man_3,-1.44095409,0.747589,1.22974753,False,False,False,True,1.74570513,['TableTop|-01.59|+00.31|+01.27']
+30,DecorativeBox2,-2.01423049,0.832119644,6.65813732,True,False,False,True,4.761801,['TableTop|-02.07|00.00|+06.70']
+31,pillow_5,-4.335,0.465,4.398,False,False,False,True,2.77899861,['Sofa|-04.43|+00.01|+05.06']
+32,Remote_1,-3.729047,0.6918287,6.78452,False,False,False,True,4.84426975,['Dresser|-03.20|-00.01|+06.79']
+33,Desk_Lamp_8,-0.257995278,0.6160885,3.31200528,False,True,False,False,3.053063,['TableTop|-00.24|+00.00|+03.52']
+34,EndTable,-4.191,-0.001,3.588,True,False,False,False,2.18037939,
+35,WindowLarge,-0.009,1.341,1.725,False,False,False,False,3.035654,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,TVStand (1),-1.738,0.0,-1.058,True,False,False,False,3.7546382,"['Shelf|-01.64|+00.41|-01.62', 'Shelf|-01.64|+00.56|-01.62', 'Shelf|-01.74|+00.16|-01.05', 'Shelf|-01.63|+00.16|-01.62', 'Shelf|-01.66|+00.16|-00.46', 'Shelf|-01.64|+00.47|-00.46']"
+2,Shelf (1),-1.63599837,0.4117,-1.62099969,True,False,False,False,3.78576779,
+3,Shelf (2),-1.64099836,0.5615,-1.62099969,True,False,False,False,3.77382684,
+4,Shelf (5),-1.73672593,0.163,-1.04860091,True,False,False,False,3.715032,
+5,Shelf,-1.63299835,0.1637,-1.62099969,True,False,False,False,3.82307839,
+6,CoffeeTable,0.017,-0.000500002352,-1.109,True,False,False,False,2.24630165,
+7,Shelf (6),-1.8316,1.3169,-2.4117,True,False,False,False,4.33787155,
+8,Shelf (4),-1.66300178,0.163,-0.4649998,True,False,False,False,3.52270484,
+9,Shelf (7),-1.8316,1.612,-2.4117,True,False,False,False,4.37603426,
+10,Sofa,0.133,0.0,1.191,True,False,False,False,2.2011292,
+11,ArmChair,2.293,0.013,-2.021,True,False,False,False,2.27328658,
+12,Shelf (3),-1.64400172,0.4675,-0.464999735,True,False,False,False,3.45302677,
+13,Painting,0.173,1.782,1.934,False,False,False,False,2.64640284,
+14,Houseplant_6,-1.65101671,0.753083646,-1.79213321,False,False,False,False,3.84714627,['TableTop|-01.74|+00.00|-01.06']
+15,Shelf (2),0.3595,0.5638,-2.28,True,False,False,False,2.691764,
+16,Dog_Statue_2,-1.696471,0.753083646,-1.29476047,False,False,False,True,3.68462276,['TableTop|-01.74|+00.00|-01.06']
+17,LightSwitch6,1.406,1.294,1.651,False,True,False,False,1.73164272,
+18,Shelf (3),-0.3756,0.4727,-2.252,True,False,False,False,3.126199,
+19,Shelf (5),-0.006,0.1708,-2.3895,True,False,False,False,3.05392146,
+20,Keychain_1,0.5075468,0.7537759,-2.21021175,False,False,False,True,2.539764,['TableTop|+00.00|+00.00|-02.39']
+21,Shelf (4),-0.3751,0.1703,-2.23,True,False,False,False,3.165892,
+22,Television_6,-0.00779739,1.234,-2.444,False,False,False,False,3.02884078,['TableTop|+00.00|+00.00|-02.39']
+23,Glass_Vase_2,-1.58839607,0.1680836,-0.5314866,False,False,False,True,3.45897841,['Shelf|-01.66|+00.16|-00.46']
+24,TVStand,0.0,0.0,-2.391,True,False,False,False,3.09696317,
+25,Hand_Statue_1,-1.802,1.31599987,-2.467,False,False,False,True,4.344539,['Shelf|-01.83|+01.32|-02.41']
+26,pillow_6,-0.495,0.593,0.955,False,False,False,True,2.45904732,['Sofa|+00.13|+00.00|+01.19']
+27,Shelf,0.3595,0.1692,-2.238,True,False,False,False,2.73453188,
+28,Laptop_6,-1.732,0.753083646,-0.696,False,True,True,True,3.55395818,['TableTop|-01.74|+00.00|-01.06']
+29,Vase_Flat_2,-1.8085258,1.61599994,-2.59743261,False,False,False,True,4.46329355,['Shelf|-01.83|+01.61|-02.41']
+30,Stone_Statue_1,0.145677745,0.551,-1.1290803,False,False,False,True,1.99277985,['TableTop|+00.02|00.00|-01.11']
+31,Remote_2,2.16101956,0.5044507,-1.855824,False,False,False,True,1.94171846,['ArmChair|+02.29|+00.01|-02.02']
+32,Floor_Lamp_6,-1.573,0.0,1.303,False,True,False,False,3.68129563,
+33,Glass_Vase_1,0.009522438,0.1680836,-2.2649262,False,False,False,True,2.948952,['Shelf|-00.01|+00.17|-02.39']
+34,CreditCard_2,-0.459527522,0.7530836,-2.22740555,False,False,False,True,3.14089561,['TableTop|+00.00|+00.00|-02.39']
+35,DecorativeBox3,-1.65444565,0.1680836,-1.07044506,True,False,False,True,3.64324951,['Shelf|-01.74|+00.16|-01.05']
+36,Shelf (1),0.3595,0.4137,-2.238,True,False,False,False,2.6794765,
+37,bin_6,0.735,0.0,-2.529,True,False,False,False,2.87016821,
+38,Vase_Flat_5,-1.82115209,1.616,-2.33279634,False,False,False,True,4.325077,['Shelf|-01.83|+01.61|-02.41']
+39,WindowLarge (1),-0.817,1.535,-2.719,False,False,False,False,3.792678,
+40,WindowLarge,0.791,1.535,-2.71861362,False,False,False,False,2.951694,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sofa,-1.445,-0.028,0.42,True,False,False,False,2.581175,
+2,ArmChair,-0.633,0.0,2.194,True,False,False,False,3.50672555,
+3,ArmChair (1),0.397,0.0,2.194,True,False,False,False,3.32024765,
+4,Shelf (7),-1.8261,1.6178,-1.6134,True,False,False,False,2.51014018,
+5,Table,-1.568,0.0,1.8187,True,False,False,False,3.61019278,
+6,CoffeeTable,-0.15,-0.000500002352,0.421,True,False,False,False,1.80400717,
+7,Shelf (6),-1.8261,1.318,-1.6134,True,False,False,False,2.44149327,
+8,Shelf (2),1.558001,0.5638,0.6025003,True,False,False,False,1.949635,
+9,Television_7,1.933,1.239,0.248,False,False,False,False,1.93008745,['TableTop|+01.67|+00.00|+00.24']
+10,Shelf (3),1.5299989,0.4727,-0.132599622,True,False,False,False,1.41305387,
+11,Laptop_7,-0.196,0.470179319,0.407,False,True,True,True,1.62778091,['TableTop|-00.15|00.00|+00.42']
+12,LightSwitch7,-2.0,1.333,3.92,False,True,False,False,5.53561449,
+13,Shelf (5),1.6674999,0.1708,0.237,True,False,False,False,1.851058,
+14,CreditCard_1,1.528026,0.753083646,0.733750165,False,False,False,True,2.02104068,['TableTop|+01.67|+00.00|+00.24']
+15,Keychain_1,1.73794913,0.7539858,0.761451364,False,False,False,True,2.15797162,['TableTop|+01.67|+00.00|+00.24']
+16,Shelf (4),1.507999,0.1703,-0.132099509,True,False,False,False,1.51764107,
+17,Glass_Vase_2,-1.79079461,1.31599975,-1.77816224,False,False,False,True,2.45468974,['Shelf|-01.83|+01.32|-01.61']
+18,TVStand,1.669,0.0,0.243,True,False,False,False,1.92961383,
+19,Vase_4,-1.80041933,1.616,-1.78580987,False,False,False,True,2.53390074,['Shelf|-01.83|+01.62|-01.61']
+20,Window,-0.217,1.495,-1.879,False,False,False,False,1.28045571,
+21,Shelf,1.51600111,0.1692,0.602500439,True,False,False,False,2.03366566,
+22,Dog_Statue_4,1.472,0.168,-0.149,False,False,False,True,1.48535275,['Shelf|+01.51|+00.17|-00.13']
+23,Houseplant_7,-1.78,0.481942832,1.965,False,False,False,False,3.76367283,['TableTop|-01.57|+00.00|+01.82']
+24,pillow_7,-1.235,0.461,-0.025,False,False,False,True,2.03824663,['Sofa|-01.45|-00.03|+00.42']
+25,Painting,-2.0,1.577,0.419,False,False,False,False,2.95305562,
+26,bin_7,1.76731229,0.0,3.90618062,True,False,False,False,5.14669657,
+27,DecorativeBox3,-0.0737582743,0.470179319,0.929106,True,False,False,True,2.05821633,['TableTop|-00.15|00.00|+00.42']
+28,Remote_1,1.51364124,0.75478363,-0.212939277,False,False,False,True,1.29163158,['TableTop|+01.67|+00.00|+00.24']
+29,Watch_1,1.45788157,0.7532324,0.54170084,False,False,False,True,1.82104743,['TableTop|+01.67|+00.00|+00.24']
+30,Floor_Lamp_7,1.229,0.0,3.798,False,True,False,False,4.935995,
+31,Shelf (1),1.51600111,0.4137,0.602500439,True,False,False,False,1.95901155,
+32,Vase_5,-1.79980278,1.31599987,-1.47010064,False,False,False,True,2.38376021,['Shelf|-01.83|+01.32|-01.61']
+33,Painting (1),-0.096,1.579,4.05,False,False,False,False,5.130049,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,1.7468369,0.7781688,1.0928,True,False,True,False,2.81275868,
+2,Sofa 1,0.781,0.0,-0.51,True,False,False,False,2.236931,
+3,Ottoman,-0.576,0.008174643,1.053,True,False,False,False,1.13257265,
+4,Shelf (6),-0.6125,0.8808,-2.832,True,False,False,False,3.3545177,
+5,Shelf (7),-0.6125,1.317,-2.832,True,False,False,False,3.38015342,
+6,ArmChair,-0.56,0.0,1.951,True,False,False,False,1.76374614,
+7,LongTable,-3.101,0.0,-3.614,True,False,False,False,4.706485,
+8,EndTable,1.826,0.0,1.0928,True,False,False,False,3.024812,
+9,LightSwitch8,-2.6,1.255,-0.775,False,True,False,False,2.07628059,
+10,DecorativeBox1,-0.661,0.883,-2.815,True,False,False,True,3.33233714,['Shelf|-00.61|+00.88|-02.83']
+11,Shelf (2),-2.13300323,0.5638,0.403499,True,False,False,False,1.186049,
+12,Shelf (3),-2.10499668,0.4727,1.1385988,True,False,False,False,1.3462044,
+13,bin_8,-1.34368372,0.0,-4.825172,True,False,False,False,5.41178131,
+14,Shelf (5),-2.24249983,0.1708,0.769,True,False,False,False,1.46606886,
+15,Houseplant_8,0.506,1.0940001,2.236,False,False,False,False,2.30629182,
+16,Keychain_1,1.79172671,0.8715807,1.40392041,False,False,False,True,2.93456554,['TableTop|+01.83|+00.00|+01.09']
+17,Shelf (4),-2.08299661,0.1703,1.1380986,True,False,False,False,1.45395076,
+18,Laptop_8,-2.915,0.7795995,-3.09,False,True,True,True,4.07063437,['TableTop|-03.10|+00.00|-03.61']
+19,Dog_Statue_3,-0.42,0.8825625,-2.805,False,False,False,True,3.35555744,['Shelf|-00.61|+00.88|-02.83']
+20,TVStand,-2.244,0.0,0.763,True,False,False,False,1.558366,
+21,Painting,-0.51,1.74255311,2.404579,False,False,False,False,2.1390965,
+22,Statue_Waving_Man_1,-3.035,0.78,-3.752,False,False,False,True,4.71543932,['TableTop|-03.10|+00.00|-03.61']
+23,Shelf,-2.09100318,0.1692,0.40349862,True,False,False,False,1.31724358,
+24,pillow_8,1.03691125,0.581,-0.213495046,False,False,False,True,2.181853,['Sofa|+00.78|+00.00|-00.51']
+25,Remote_2,-0.3322025,0.414597243,1.08412647,False,False,False,True,1.01180243,['Ottoman|-00.58|+00.00|+01.05']
+26,Floor_Lamp_8,1.71203983,0.0,0.374162555,False,True,False,False,2.86055851,
+27,Painting (1),-5.0,1.626,-3.548,False,False,False,False,5.736892,
+28,Fertility_Statue_1,-0.734992,1.320063,-2.723275,False,False,False,True,3.26118779,['Shelf|-00.61|+01.32|-02.83']
+29,CreditCard_2,-2.10509419,0.7530838,1.218272,False,False,False,True,1.3262831,['TableTop|-02.24|+00.00|+00.76']
+30,Television_8,-2.253,1.244,0.756,False,False,False,False,1.32408249,['TableTop|-02.24|+00.00|+00.76']
+31,Shelf (1),-2.09100318,0.4137,0.40349862,True,False,False,False,1.19877481,
+32,Chair1 (2),-2.687,0.0,-3.301,False,False,False,False,4.25504065,
+33,Chair1 (3),-3.183,0.0,-2.813,False,False,False,False,4.068569,
+34,Chair1,-3.501,0.0,-3.716,False,False,False,False,4.98412037,
+35,Chair1 (1),-3.131,0.0,-4.418,False,False,False,False,5.43504238,
+36,Vase_1,-0.428646326,1.320063,-2.7093482,False,False,False,True,3.28663588,['Shelf|-00.61|+01.32|-02.83']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Dresser,-3.506,0.002,-5.102,True,False,False,False,3.23012447,
+2,EndTable (1),-5.429,-0.005,-5.124,True,False,False,False,3.78210783,
+3,ArmChair,-4.388,0.00170238316,-3.545,True,False,False,False,1.99683964,
+4,Drawer,-4.0221467,0.16822353,-5.014,True,False,True,False,3.145837,
+5,Drawer (3),-2.97800016,0.4764997,-5.014,True,False,True,False,3.08841825,
+6,Sofa 1,-4.355,0.00170238316,-2.09,True,False,False,False,1.24536121,
+7,CoffeeTable,-2.469,0.00272041583,-2.492001,True,False,False,False,1.45430112,
+8,EndTable,-2.016,-0.005,-5.076,True,False,False,False,3.53383017,
+9,Drawer (1),-4.0221467,0.4765,-5.014,True,False,True,False,3.088443,
+10,Mirror,-3.402672,2.028718,0.000379085483,False,False,False,False,2.2975862,
+11,Drawer (2),-2.97800016,0.16822353,-5.014,True,False,True,False,3.14581275,
+12,Newspaper_5,-4.265,0.34,-2.164,False,False,False,True,0.9637187,['Sofa|-04.36|+00.00|-02.09']
+13,Watch_2,-2.79139662,0.5815003,-2.07309985,False,False,False,True,0.7814298,['TableTop|-02.47|+00.00|-02.49']
+14,Pen_3,-2.82901454,0.7034995,-4.96298361,False,False,False,True,3.04453182,['Dresser|-03.51|+00.00|-05.10']
+15,Floor_Lamp_9,-4.8211,0.00170238316,-5.119,False,True,False,False,3.50503445,
+16,LightSwitch9,-5.763,1.33,0.011,False,True,False,False,3.05742931,
+17,Watering_Can_1,-7.99135447,0.000842951238,-4.62946272,False,False,False,True,5.282016,
+18,pillow_9,-4.2824,0.4545,-1.736,False,False,False,True,0.939537466,['Sofa|-04.36|+00.00|-02.09']
+19,bin_9,-0.969964266,0.00170238316,-5.05800343,True,False,False,False,4.069922,
+20,CreditCard_1,-2.22419357,0.580341637,-3.04929447,False,False,False,True,1.683038,['TableTop|-02.47|+00.00|-02.49']
+21,Open_Book_3,-2.60905123,0.7044524,-5.120821,False,False,False,True,3.251556,['Dresser|-03.51|+00.00|-05.10']
+22,Glass_Vase_3,-4.477,0.697854638,-5.076,False,False,False,True,3.23392463,['Dresser|-03.51|+00.00|-05.10']
+23,Keychain_1,-4.214479,0.311938554,-3.65453434,False,False,False,True,1.89656663,
+24,Glass_Vase_2,-4.218,0.697854638,-5.046,False,False,False,True,3.13617635,['Dresser|-03.51|+00.00|-05.10']
+25,Laptop_9,-2.56851029,0.580341637,-2.51465273,False,True,True,True,1.11196065,['TableTop|-02.47|+00.00|-02.49']
+26,Houseplant_9,-5.629,0.4751049,-5.126,False,False,False,False,3.806226,['TableTop|-05.43|-00.01|-05.12']
+27,Statue_Jacket_1,-2.02043962,0.47522217,-5.09493256,False,False,False,True,3.4569416,['TableTop|-02.02|-00.01|-05.08']
+28,DecorativeBox2,-2.308,0.580341637,-2.109,True,False,False,True,1.23962116,['TableTop|-02.47|+00.00|-02.49']
+29,Glass_Vase_1,-3.901,0.697854638,-5.103,False,False,False,True,3.135502,['Dresser|-03.51|+00.00|-05.10']
+30,Painting,-3.373,1.801,-5.39277744,False,False,False,False,3.51198077,
+31,Remote_1,-4.29292727,0.321489871,-2.66294885,False,False,False,True,1.18576634,['Sofa|-04.36|+00.00|-02.09']
+32,Television_9,-0.606,1.674,-2.603,False,False,False,False,3.055118,
+33,Vase_Flat_5,-2.6093955,0.580341637,-2.9428525,False,False,False,True,1.33643675,['TableTop|-02.47|+00.00|-02.49']
+34,WindowLarge (1),-8.237,1.411,-1.51,False,False,False,False,4.78932571,
+35,WindowLarge,-8.237035,1.411,-4.082,False,False,False,False,5.19928741,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,-0.350000024,0.5859002,4.226466,True,False,True,False,4.970462,
+2,Drawer (2),-0.35,0.207999989,4.226466,True,False,True,False,5.00899649,
+3,Table (1),-6.721,0.005,0.0,True,False,False,False,3.16594386,
+4,Curtains,-0.089,2.461,2.112,False,False,False,False,5.165971,
+5,Drawer (1),-0.35,0.5859002,3.794,True,False,True,False,4.83727646,
+6,Ottaman,-1.773,0.0076,1.807,True,False,False,False,3.42059326,
+7,Dresser,-0.238,0.005,4.013,True,False,False,False,5.077122,
+8,Drawer (3),-2.842,0.7549999,4.16899967,True,False,True,False,2.73226118,
+9,Drawer,-2.28941274,0.266373843,4.16899967,True,False,True,False,3.246791,
+10,Curtains,-1.146,1.38333488,4.530149,False,False,False,False,4.382112,
+11,Chair,-6.022,0.005,0.092,False,False,False,False,2.76664162,
+12,Table,-4.293,0.005,0.414,True,False,False,False,2.37962246,
+13,Dresser,-2.56,0.003,4.299,True,False,False,False,3.16306281,
+14,Drawer (2),-2.842,0.266373843,4.16899967,True,False,True,False,2.8020227,
+15,Sofa,-2.525,0.017,0.264,True,False,False,False,3.45184088,
+16,Drawer (3),-0.35,0.208000064,3.794,True,False,True,False,4.87686348,
+17,ArmChair,-4.385,0.008,1.396,True,False,False,False,1.55016232,
+18,Drawer (1),-2.28941274,0.755,4.16899967,True,False,True,False,3.18678045,
+19,DecorativeBox1,-0.293,0.8530107,3.741,True,False,False,True,4.868132,['Dresser|-00.24|+00.01|+04.01']
+20,LightSwitch10,-7.0,1.363,2.606,False,True,False,False,2.05433917,
+21,Watch_2,-2.99402976,1.09398544,4.12597227,False,False,False,True,2.589041,['Dresser|-02.56|+00.00|+04.30']
+22,pillow_10,-1.83093882,0.597,0.222617581,False,False,False,True,3.91468358,['Sofa|-02.53|+00.02|+00.26']
+23,Television_10,-2.534,1.581,4.398,False,False,False,False,3.18426061,['Dresser|-02.56|+00.00|+04.30']
+24,Watering_Can_1,-0.269002,0.00389544666,2.36109829,False,False,False,True,4.818193,
+25,Newspaper_3,-1.82014668,0.5136798,0.583140254,False,False,False,True,3.73356962,['Sofa|-02.53|+00.02|+00.26']
+26,Keychain_1,-4.144133,0.40925324,0.427168369,False,False,False,True,2.29687881,['TableTop|-04.29|+00.01|+00.41']
+27,Floor_Lamp_10,-0.2347498,0.00475524366,-0.12977922,False,True,False,False,5.516806,
+28,Painting,0.0,1.5833,4.0061,False,False,False,False,5.26568174,
+29,Laptop_10,-3.29246473,0.4868095,0.396124363,False,True,True,True,2.74180317,['Sofa|-02.53|+00.02|+00.26']
+30,Remote_2,-4.131408,0.4331487,1.20729566,False,False,False,True,1.62754178,['ArmChair|-04.39|+00.01|+01.40']
+31,Desk_Lamp_2,-6.766,0.4094502,-0.0279981848,False,True,False,False,3.12343526,['TableTop|-06.72|+00.01|+00.00']
+32,bin_10,-4.11548138,0.00475524366,-0.161142588,True,False,False,False,2.94547987,
+33,Painting,-3.705,1.719,4.601,False,False,False,False,2.59857535,
+34,CreditCard_2,-4.314444,0.40858537,0.5791248,False,False,False,True,2.09926772,['TableTop|-04.29|+00.01|+00.41']
+35,Fertility_Statue_3,-4.367695,0.40858537,0.348604053,False,False,False,True,2.29684377,['TableTop|-04.29|+00.01|+00.41']
+36,WindowLarge,-0.037,1.705,2.097,False,False,False,False,5.04307127,
+37,WindowLarge (1),-1.158,1.698,4.5932,False,False,False,False,4.44635868,
+38,Houseplant_10,-0.287050247,0.3910216,2.11049485,False,False,False,False,4.75694847,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,TVStand,-1.96499991,-0.0032,0.564,True,False,False,False,1.72275853,
+2,ArmChair (1),-1.762,0.0,-1.489,True,False,False,False,2.52201581,
+3,CoffeeTable,0.168,-0.0038,0.424,True,False,False,False,1.12723625,
+4,Table,3.58399987,0.0008,-1.165,True,False,False,False,4.50129271,
+5,Shelf (3),-1.81599987,0.3818,0.564,True,False,False,False,1.41616356,
+6,Shelf (4),-1.82499993,0.1288,0.564,True,False,False,False,1.53493071,
+7,Sofa,1.41699994,-0.001,0.391,True,False,False,False,2.12140822,
+8,Newspaper_2,3.32449031,0.6318855,-0.832033753,False,False,False,True,4.05875158,['TableTop|+03.58|+00.00|-01.17']
+9,EndTable,1.5214,0.0,-0.6955,True,False,False,False,2.51536822,
+10,Shelf (2),-0.199999973,0.870999932,1.92859983,True,False,False,False,1.46006763,
+11,Shelf (3),-0.200399578,0.543036163,1.92789984,True,False,False,False,1.50226355,
+12,CreditCard_1,0.379723549,0.326234519,0.7624439,False,False,False,True,1.08311808,['TableTop|+00.17|00.00|+00.42']
+13,Television_11,-2.0348,1.0762,0.556,False,False,False,False,1.54578209,['TableTop|-01.97|00.00|+00.56']
+14,Glass_Vase_3,3.704152,0.631654263,-1.00925469,False,False,False,True,4.47496271,['TableTop|+03.58|+00.00|-01.17']
+15,Keychain_1,0.00500495732,0.169938982,1.82100236,False,False,False,True,1.59201956,['Shelf|-00.20|+00.16|+01.93']
+16,LightSwitch11,2.1,1.354,-0.828,False,True,False,False,2.954453,
+17,Laptop_11,3.525028,0.631654263,-1.43840861,False,True,True,True,4.475581,['TableTop|+03.58|+00.00|-01.17']
+18,Houseplant_11,-0.805,0.0,-2.188,False,False,False,False,2.85134482,
+19,Floor_Lamp_11,1.689,0.0,1.777,False,True,False,False,2.689656,
+20,DecorativeBox2,-0.332,0.169404268,1.847,True,False,False,True,1.54203248,['Shelf|-00.20|+00.16|+01.93']
+21,Drawer,1.52139974,0.6242013,-0.759,True,False,True,False,2.39744759,
+22,Dog_Statue_4,0.009023741,0.8712029,1.93301964,False,False,False,True,1.521032,['Shelf|-00.20|+00.87|+01.93']
+23,Shelf (1),-0.2006,0.162699521,1.92789984,True,False,False,False,1.6351223,
+24,Painting,1.983,1.585,0.326,False,False,False,False,2.58136058,
+25,Cellphone_4,0.0278915651,0.3269849,0.695547938,False,False,False,True,0.8039906,['TableTop|+00.17|00.00|+00.42']
+26,Remote_1,1.440066,0.7002963,-0.727301836,False,False,False,True,2.30443215,['TableTop|+01.52|+00.00|-00.70']
+27,pillow_11,1.43508458,0.515,-0.1256359,False,False,False,True,2.07001638,['Sofa|+01.42|00.00|+00.39']
+28,bin_11,-1.89124727,0.0,-0.409207046,True,False,False,False,1.89050937,
+29,Vase_3,-0.442838669,0.5417102,1.9249543,False,False,False,True,1.47066343,['Shelf|-00.20|+00.54|+01.93']
+30,WindowLarge (1),2.775,1.281,-2.0185,False,False,False,False,4.14883947,
+31,WindowLarge,-0.013,1.289,-2.45,False,False,False,False,3.0149982,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,SideTable,-0.29,0.035,-0.77,True,False,False,False,1.557066,
+2,Shelf (1),1.8892,0.1254,-0.7291999,True,False,False,False,1.5591867,
+3,ArmChair (1),2.656,0.0,1.858,True,False,False,False,2.8101244,
+4,Drawer,3.867837,0.7781688,0.865,True,False,True,False,3.23793435,
+5,CoffeeTable,1.591,-0.000500002352,0.446,True,False,False,False,1.31106746,
+6,Sofa,1.174,0.0,1.865,True,False,False,False,2.11419034,
+7,Shelf,-0.3058,0.5168,-0.7291999,True,False,False,False,1.33942342,
+8,Shelf (1),-0.3058,0.1277,-0.7291999,True,False,False,False,1.49814475,
+9,ArmChair,-0.27,0.0,1.87,True,False,False,False,2.312812,
+10,Shelf,1.8892,0.5137,-0.7291999,True,False,False,False,1.40695047,
+11,EndTable,3.947,0.0,0.865,True,False,False,False,3.432322,
+12,SideTable (1),1.905,0.035,-0.77,True,False,False,False,1.63611722,
+13,Floor_Lamp_12,3.60894418,0.0,2.16352344,False,True,False,False,3.69678164,
+14,Newspaper_2,2.14515781,0.44243592,-0.719618142,False,False,False,True,1.63541913,['Shelf|+01.89|+00.51|-00.73']
+15,Laptop_12,1.805,0.47,0.499,False,True,True,True,1.24410057,['TableTop|+01.59|00.00|+00.45']
+16,Watering_Can_1,1.62122512,0.0563454553,-0.697303534,False,False,False,True,1.39953756,['Shelf|+01.89|+00.13|-00.73']
+17,Tissue_Box_1,3.918,0.8708885,0.681,False,False,False,True,3.24050784,['TableTop|+03.95|+00.00|+00.87']
+18,bin_12,3.83398819,0.0,-0.495194077,True,False,False,False,3.250846,
+19,Keychain_1,1.50155818,0.471072078,0.5304786,False,False,False,True,1.0154233,['TableTop|+01.59|00.00|+00.45']
+20,Pen_2,3.93059659,0.8765333,1.03993416,False,False,False,True,3.34637952,['TableTop|+03.95|+00.00|+00.87']
+21,Dog_Statue_3,-0.08160353,0.05720465,-0.6923385,False,False,False,True,1.37218308,['Shelf|-00.31|+00.13|-00.73']
+22,Boot_1,4.00566864,0.001239866,1.707024,False,False,False,True,3.78455758,
+23,Television_12,1.898,1.316,-0.839,False,False,False,False,1.48123276,['TableTop|+01.91|+00.04|-00.77']
+24,Pencil_5,3.89369226,0.8756161,1.17996013,False,False,False,True,3.35793853,['TableTop|+03.95|+00.00|+00.87']
+25,Remote_2,1.87074792,0.319673747,1.73276973,False,False,False,True,2.14394641,['Sofa|+01.17|+00.00|+01.87']
+26,Painting,4.070577,1.951,0.849,False,False,False,False,3.58462477,
+27,CreditCard_2,1.40682375,0.4703799,0.653351665,False,False,False,True,1.02162552,['TableTop|+01.59|00.00|+00.45']
+28,DecorativeBox3,-0.048,0.83,-0.772,True,False,False,True,1.11257756,['TableTop|-00.29|+00.04|-00.77']
+29,Houseplant_12,0.388,0.830204666,-0.725756645,False,False,False,False,0.8141121,
+30,WindowLarge,0.023,2.072,2.485,False,False,False,False,2.84165382,
+31,WindowLarge (1),1.57,2.072,2.485,False,False,False,False,2.86685658,
+32,Hand_Statue_3,-0.5323,0.443098754,-0.7381,False,False,False,True,1.54879236,['Shelf|-00.31|+00.52|-00.73']
+33,pillow_12,0.6510968,0.3955,1.7089169,False,False,False,True,1.78485525,['Sofa|+01.17|+00.00|+01.87']
+34,LightSwitch12,-1.39999986,1.29,1.835,False,True,False,False,2.853252,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sofa,11.448,-0.066,3.203,True,False,False,False,3.87202621,
+2,ArmChair,9.499,-0.021,3.266,True,False,False,False,3.3941505,
+3,EndTable,14.616,0.00300000026,-0.777,True,False,False,False,5.252325,
+4,Dresser,14.331,0.019,1.324,True,False,False,False,5.086525,
+5,Drawer (6),14.1846495,0.391338766,1.048,True,False,True,False,4.827617,
+6,Drawer (8),14.1846495,0.185800016,1.048,True,False,True,False,4.8537,
+7,Drawer (3),14.1846495,0.391338766,1.5598,True,False,True,False,4.963926,
+8,Drawer (1),14.1846495,0.597000062,2.073529,True,False,True,False,5.13215446,
+9,Drawer (7),14.1846495,0.597000062,1.048,True,False,True,False,4.81017542,
+10,Drawer (9),14.1846495,0.391338766,0.5352,True,False,True,False,4.74278641,
+11,Drawer (4),14.1846495,0.597000062,1.5598,True,False,True,False,4.94696474,
+12,WickerChair (1),8.155,0.0,1.5,False,False,False,False,2.20775127,
+13,Table,12.30837,0.007,-1.155,True,False,False,False,3.16599345,
+14,Drawer (5),14.1846495,0.185800016,1.5598,True,False,True,False,4.98929644,
+15,WickerArmChair,8.232,0.0,0.77,True,False,False,False,1.73662412,
+16,Drawer (11),14.1846495,0.185800016,0.5352,True,False,True,False,4.76933336,
+17,CoffeeTable,10.82387,0.013,0.947371,True,False,False,False,1.8552568,
+18,WickerArmChair (1),8.225,0.0,-0.082,True,False,False,False,1.564445,
+19,Drawer (10),14.1846495,0.597000062,0.5352,True,False,True,False,4.725032,
+20,Drawer,14.1846495,0.391338766,2.073529,True,False,True,False,5.14850569,
+21,EndTable,11.378,0.003,-1.16,True,False,False,False,2.38374019,
+22,Drawer (2),14.1846495,0.185800016,2.073529,True,False,True,False,5.172971,
+23,DecorativeBox1,10.3307848,0.5823944,1.084146,True,False,False,True,1.40294993,['TableTop|+10.82|+00.01|+00.95']
+24,Floor_Lamp_13,7.86401558,0.00185248256,3.396572,False,True,False,False,3.87620258,
+25,bin_13,7.78574276,0.00185248256,-1.14575624,True,False,False,False,2.250163,
+26,Open_Book_1,12.1512089,0.6058728,-1.10159433,False,False,False,True,2.88628054,['TableTop|+12.31|+00.01|-01.16']
+27,CreditCard_1,11.48463,0.5823944,1.20299339,False,False,False,True,2.34278464,['TableTop|+10.82|+00.01|+00.95']
+28,Keychain_1,14.0773468,0.7483473,2.25054622,False,False,False,True,5.10303164,['Dresser|+14.33|+00.02|+01.32']
+29,Painting,7.49228334,1.835,-0.495,False,False,False,False,2.26822686,
+30,Painting (1),7.492,1.835,2.792,False,False,False,False,3.56317687,
+31,Television_13,14.451,1.235,0.926,False,False,False,False,5.047792,['Dresser|+14.33|+00.02|+01.32']
+32,pillow_13,12.0487576,0.52,3.22808361,False,False,False,True,4.13077068,['Sofa|+11.45|-00.07|+03.20']
+33,Statue_Jacket_1,10.9096193,0.582511663,0.986131966,False,False,False,True,1.7498858,['TableTop|+10.82|+00.01|+00.95']
+34,LightSwitch13,12.9792833,1.399,3.767284,False,True,False,False,5.152087,
+35,Painting,7.492,1.779,1.116,False,False,False,False,2.45869,
+36,Painting (2),14.764,1.754,1.126,False,False,False,False,5.44995642,
+37,Laptop_13,14.24,0.747655,2.067,False,True,True,True,5.17341,['Dresser|+14.33|+00.02|+01.32']
+38,Remote_1,12.5256662,0.6009805,-1.10325027,False,False,False,True,3.23464727,['TableTop|+12.31|+00.01|-01.16']
+39,Watch_1,14.5737524,0.5117017,-0.6594302,False,False,False,True,5.131356,['TableTop|+14.62|+00.00|-00.78']
+40,Houseplant_13,11.374,0.481,-1.143,False,False,False,False,2.23523641,['TableTop|+11.38|+00.00|-01.16']
+41,WindowLarge (1),12.029,1.688,-1.595,False,False,False,False,3.09133077,
+42,WindowLarge,10.228,1.688,-1.59468532,False,False,False,False,1.92079759,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Curtains,-2.82700014,2.473,0.04,False,False,False,False,2.90765762,
+2,ArmChair,-4.447,0.001,6.45,True,False,False,False,5.07535,
+3,Curtains,-2.185,2.473,0.04,False,False,False,False,2.73564768,
+4,Curtains,-0.046,2.475,2.6332,False,False,False,False,2.33818626,
+5,SideTable,-0.594,0.0166,0.842,True,False,False,False,2.03364849,
+6,CoffeeTable,-2.64803481,0.0187,4.058023,True,False,False,False,2.21100616,
+7,Sofa,-2.494,0.033,0.725,True,False,False,False,1.91486561,
+8,Sofa (1),-4.3606,0.033,2.9298,True,False,False,False,2.83987856,
+9,Vase_Flat_3,-0.473373383,0.27104,5.422853,False,False,False,True,3.48116255,['Shelf|-00.40|+00.27|+05.96']
+10,Desk_Lamp_12,-0.4512445,0.6082047,0.693215847,False,True,False,False,2.05130053,['TableTop|-00.59|+00.02|+00.84']
+11,Watering_Can_1,-0.4312995,0.270275623,5.147342,False,False,False,True,3.24904227,['Shelf|-00.40|+00.27|+05.96']
+12,Newspaper_4,-4.31332731,0.556636751,3.50198913,False,False,False,True,2.87584352,['Sofa|-04.36|+00.03|+02.93']
+13,Glass_Vase_3,-0.58591187,1.4528048,6.43442059,False,False,False,True,4.37583,['Shelf|-00.39|+01.45|+05.95']
+14,Shelf,-0.392,1.453,5.954,True,False,False,False,3.98087931,
+15,Shelf,-0.398,0.271,5.962,True,False,False,False,4.003576,
+16,Keychain_1,-0.743452966,0.60889703,1.0687902,False,False,False,True,1.58286214,['TableTop|-00.59|+00.02|+00.84']
+17,pillow_14,-1.57868218,0.608,0.667186558,False,False,False,True,1.62242627,['Sofa|-02.49|+00.03|+00.73']
+18,Television_14,-0.75,1.661,3.936,False,False,False,False,2.09547734,
+19,bin_14,-0.515058756,0.019441098,2.82199574,True,False,False,False,1.63219416,
+20,Statue_Waving_Man_1,-0.4613188,0.270949334,5.703547,False,False,False,True,3.74293,['Shelf|-00.40|+00.27|+05.96']
+21,Remote_2,-2.949,0.4428963,4.691,False,False,False,True,2.76118255,['TableTop|-02.65|+00.02|+04.06']
+22,Painting,-2.67,1.574,7.001,False,False,False,False,4.88318968,
+23,CreditCard_2,-2.77050972,0.4421473,3.74959373,False,False,False,True,1.87589586,['TableTop|-02.65|+00.02|+04.06']
+24,Dog_Statue_1,-0.525,1.45307183,5.351,False,False,False,True,3.376466,['Shelf|-00.39|+01.45|+05.95']
+25,DecorativeBox3,-0.4762751,0.270625,6.623765,True,False,False,True,4.601571,['Shelf|-00.40|+00.27|+05.96']
+26,Fertility_Statue_3,-0.5987849,1.45268047,6.79437828,False,False,False,True,4.718045,['Shelf|-00.39|+01.45|+05.95']
+27,LightSwitch14,-5.0,1.247,5.858,False,True,False,False,4.866909,
+28,Laptop_14,-4.342,0.523209631,2.224,False,True,True,True,2.62239051,['Sofa|-04.36|+00.03|+02.93']
+29,WindowLarge (1),-1.374,1.566,0.008,False,False,False,False,2.36319447,
+30,WindowLarge,-0.014,1.568,1.497,False,False,False,False,2.00000978,
+31,WindowLarge (2),-3.726,1.566,0.008,False,False,False,False,3.0574317,
+32,Floor_Lamp_14,-4.514,0.019441098,0.664,False,True,False,False,3.31162953,
+33,Houseplant_14,-2.659,0.442,4.166,False,False,False,False,2.173992,['TableTop|-02.65|+00.02|+04.06']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,CoffeeTable (1),-5.556,0.0195,6.835,True,False,False,False,4.09751749,
+2,Mirror,-1.308802,0.02235365,0.19708,False,False,False,False,4.931334,
+3,CoffeeTable,-2.492,0.0195,4.044,True,False,False,False,1.39042664,
+4,EndTable (1),-0.586,-0.001,5.979,True,False,False,False,1.94208419,
+5,Chair (1),-3.539,0.0,2.008,True,False,False,False,3.4831934,
+6,EndTable,-0.586,-0.001,2.002,True,False,False,False,3.43529534,
+7,Sofa,-0.773,-0.006891221,3.91542673,True,False,False,False,1.8725239,
+8,Chair,-2.269,0.0,1.956,True,False,False,False,3.18596125,
+9,DecorativeBox1,-3.522029,1.27139068,7.15185928,True,False,False,True,2.661608,['Shelf|-02.87|+01.27|+07.19']
+10,Vase_Flat_3,-5.92148542,0.8719544,3.9867,False,False,False,True,4.050392,['Shelf|-05.96|+00.87|+04.35']
+11,Desk_Lamp_6,-0.600663841,0.7902774,1.95596313,False,True,False,False,3.35210276,['TableTop|-00.59|00.00|+02.00']
+12,Desk_Lamp_6 (1),-0.5939686,0.7902468,6.02296829,False,True,False,False,1.74232185,['TableTop|-00.59|00.00|+05.98']
+13,Vase_Tall_3,-5.9209075,0.4427954,4.915141,False,False,False,True,3.948518,['Shelf|-05.96|+00.44|+04.35']
+14,Newspaper_2,-3.44575524,0.443462849,7.182689,False,False,False,True,2.65778255,['Shelf|-02.87|+00.44|+07.19']
+15,Floor_Lamp_15,-4.615,0.000138938427,0.315,False,True,False,False,5.44051933,
+16,Laptop_15,-2.44793439,0.5250819,4.05562544,False,True,True,True,1.11081374,['TableTop|-02.49|+00.02|+04.04']
+17,Watering_Can_1,-2.228863,0.137257189,7.107189,False,False,False,True,2.25302887,['Shelf|-02.87|+00.14|+07.19']
+18,Television_15,-5.641,1.015,6.95,False,False,False,False,4.13186932,['TableTop|-05.56|+00.02|+06.84']
+19,Vase_Flat_1,-5.90969944,0.8716302,4.924823,False,False,False,True,3.91053343,['Shelf|-05.96|+00.87|+04.35']
+20,CreditCard_1,-2.534818,0.5250819,3.56134963,False,False,False,True,1.58024156,['TableTop|-02.49|+00.02|+04.04']
+21,Glass_Vase_3,-5.903661,1.27094221,4.98896646,False,False,False,True,3.92115355,['Shelf|-05.96|+01.27|+04.35']
+22,Shelf (6),-5.95835,0.8717789,4.349991,True,False,False,False,4.011472,
+23,Shelf (5),-5.95835,1.27157891,4.349991,True,False,False,False,4.02843332,
+24,Shelf (2),-2.866,0.4445789,7.185,True,False,False,False,2.39429069,
+25,Shelf (7),-5.95835,0.4445789,4.349991,True,False,False,False,4.03726339,
+26,Shelf (3),-2.866,0.138578892,7.185,True,False,False,False,2.470967,
+27,Shelf (4),-5.95835,0.138578892,4.349991,True,False,False,False,4.083203,
+28,Shelf,-2.866,1.27157891,7.185,True,False,False,False,2.37937117,
+29,Shelf (1),-2.866,0.8717789,7.185,True,False,False,False,2.35054088,
+30,Keychain_1,-0.553484142,0.788905144,2.44566059,False,False,False,True,2.93762732,['TableTop|-00.59|00.00|+02.00']
+31,Vase_Tall_1,-5.92075539,0.44298327,4.37154055,False,False,False,True,3.9971478,['Shelf|-05.96|+00.44|+04.35']
+32,LightSwitch15,-4.419,1.279,0.0,False,True,False,False,5.567256,
+33,Glass_Vase_2,-5.91002131,0.4431793,3.8042078,False,False,False,True,4.114354,['Shelf|-05.96|+00.44|+04.35']
+34,Dog_Statue_3,-2.71644449,0.4429399,7.115967,False,False,False,True,2.28047228,['Shelf|-02.87|+00.44|+07.19']
+35,Painting (1),0.0,1.661,4.451,False,False,False,False,2.20879841,
+36,Painting,0.0,1.661,3.415,False,False,False,False,2.66263318,
+37,pillow_15,-0.7562302,0.542,4.79368448,False,False,False,True,1.31091952,['Sofa|-00.77|-00.01|+03.92']
+38,Glass_Vase_1,-5.8670845,1.27138352,3.71202612,False,False,False,True,4.09271336,['Shelf|-05.96|+01.27|+04.35']
+39,Stone_Statue_3,-2.18683481,1.36633408,7.17789936,False,False,False,True,2.23485112,['Shelf|-02.87|+01.27|+07.19']
+40,Fertility_Statue_3,-2.696574,1.27110529,7.103425,False,False,False,True,2.246439,['Shelf|-02.87|+01.27|+07.19']
+41,Remote_1,-2.35035062,0.5267856,4.49328,False,False,False,True,0.7208681,['TableTop|-02.49|+00.02|+04.04']
+42,Watch_1,-2.74086642,0.525277734,4.20865726,False,False,False,True,1.147335,['TableTop|-02.49|+00.02|+04.04']
+43,Houseplant_15,-5.87972546,1.27110553,4.515936,False,False,False,False,3.9272716,['Shelf|-05.96|+01.27|+04.35']
+44,bin_15,-5.689637,0.000138938427,0.2428751,True,False,False,False,6.08731937,
+45,WindowLarge,-6.28742552,1.673,2.179,False,False,False,False,5.189974,
+46,Hand_Statue_3,-5.854704,1.27215016,4.07492638,False,False,False,True,3.98147631,['Shelf|-05.96|+01.27|+04.35']
+47,Statue_Waving_Man_2,-3.12859082,1.27132893,7.13932848,False,False,False,True,2.44693375,['Shelf|-02.87|+01.27|+07.19']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sofa,0.057,0.0,-1.387,True,False,False,False,2.639473,
+2,Drawer,-0.158150077,0.732750058,1.03260016,True,False,True,False,2.11824965,
+3,Drawer,1.5765,0.5169,-1.46100008,True,False,True,False,3.88244843,
+4,ArmChair,-1.833,0.0,-1.35,True,False,False,False,1.63162148,
+5,EndTable,1.582,-0.001,-1.489,True,False,False,False,3.98264337,
+6,Table,-3.941,0.0,0.257,True,False,False,False,2.15530252,
+7,EndTable,1.103,0.0,1.118,True,False,False,False,3.419113,
+8,Drawer (1),-1.023,0.732750058,1.03260016,True,False,True,False,1.43146777,
+9,SideTable,-0.589,0.005,1.227,True,False,False,False,2.07346678,
+10,Drawer,1.118,0.519899845,1.06819963,True,False,True,False,3.31786251,
+11,Desk_Lamp_7,1.6571424,0.6502199,-1.60525775,False,True,False,False,4.001804,['TableTop|+01.58|00.00|-01.49']
+12,Vase_Flat_1,-0.97179544,0.114890076,1.19714463,False,False,False,True,1.763045,['Shelf|-00.63|+00.12|+01.20']
+13,Tissue_Box_1,0.9229338,0.651631951,0.9576454,False,False,False,True,3.08590531,['TableTop|+01.10|+00.00|+01.12']
+14,Shelf,-0.626,0.119,1.202,True,False,False,False,1.98600173,
+15,Newspaper_3,-3.997,1.05817723,-0.032,False,False,False,True,2.00343156,['TableTop|-03.94|+00.00|+00.26']
+16,Keychain_1,-1.61709332,0.5000989,-1.08033764,False,False,False,True,1.21427679,['ArmChair|-01.83|+00.00|-01.35']
+17,Vase_Tall_1,-0.025564909,0.114890076,1.19325411,False,False,False,True,2.437256,['Shelf|-00.63|+00.12|+01.20']
+18,Floor_Lamp_16,-4.569,0.0,-1.616,False,True,False,False,3.16591477,
+19,LightSwitch16,-2.46460533,1.23016953,-1.95,False,True,False,False,2.031431,
+20,bin_16,-4.581,0.0,1.127,True,False,False,False,2.956939,
+21,Television_16,-0.549,1.516,1.45,False,False,False,False,2.14152455,
+22,Remote_2,-0.636023045,0.533116341,-1.23707,False,False,False,True,1.87779474,['Sofa|+00.06|+00.00|-01.39']
+23,pillow_16,-1.82506526,0.574692249,-1.254528,False,False,False,True,1.30802107,['ArmChair|-01.83|+00.00|-01.35']
+24,Stone_Statue_3,0.7437823,0.7470393,1.18205285,False,False,False,True,2.991537,['TableTop|+01.10|+00.00|+01.12']
+25,CreditCard_2,-3.65633082,1.05802441,0.05801384,False,False,False,True,1.66476858,['TableTop|-03.94|+00.00|+00.26']
+26,DecorativeBox3,-3.76862884,1.05802441,0.362531275,True,False,False,True,1.812218,['TableTop|-03.94|+00.00|+00.26']
+27,Laptop_16,0.434110135,0.541742444,-1.1877985,False,True,True,True,2.73218274,['Sofa|+00.06|+00.00|-01.39']
+28,Houseplant_16,1.555,0.651631951,1.166,False,False,False,False,3.74963522,['TableTop|+01.10|+00.00|+01.12']
+29,Chair1 (2),-3.826,0.0,-0.223,False,False,False,False,2.04836631,
+30,Chair1 (1),-4.398,0.0,0.275,False,False,False,False,2.57639813,
+31,Vase_1,-0.5166645,0.114890076,1.20104086,False,False,False,True,2.06415868,['Shelf|-00.63|+00.12|+01.20']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Curtains,-2.535,2.597,0.111,False,False,False,False,2.821787,
+2,Cabinet,-4.490679,0.4963789,2.588781,True,False,True,False,1.34829116,
+3,Sofa,-2.465,-0.00099999,0.701,True,False,False,False,1.956907,
+4,Dresser,-4.832,0.0,2.595,True,False,False,False,1.85305262,
+5,Drawer,-4.5783987,0.898977757,1.81899214,True,False,True,False,1.39657283,
+6,SideTable,-0.042,-0.0033,4.619,True,False,False,False,4.08918571,
+7,Cabinet,-4.490679,0.4963789,1.569706,True,False,True,False,1.47170532,
+8,WickerChair (1),-4.723441,0.0302734971,4.60394144,False,False,False,False,2.910409,
+9,Cabinet,-4.490679,0.4963789,3.62607527,True,False,True,False,1.89649665,
+10,Cabinet,-4.490679,0.4963789,2.607,True,False,True,False,1.352984,
+11,Drawer (1),-4.5783987,0.898977757,2.335,True,False,True,False,1.33111715,
+12,ArmChair,-0.314728439,-0.0284242425,1.714,True,False,False,False,3.1252532,
+13,Drawer (2),-4.5783987,0.898977757,2.856,True,False,True,False,1.46009707,
+14,Drawer (3),-4.5783987,0.898977757,3.369,True,False,True,False,1.73689628,
+15,ArmChair (1),-0.314728439,-0.0284242425,3.311,True,False,False,False,3.256629,
+16,CoffeeTable,-2.405972,0.002,2.547,True,False,False,False,1.26848233,
+17,DecorativeBox1,-2.16333675,0.4454787,2.39269066,True,False,False,True,1.18693972,['TableTop|-02.41|+00.00|+02.55']
+18,Floor_Lamp_17,-4.66159,0.000142097473,0.422103882,False,True,False,False,2.47903013,
+19,Television_17,-4.884,1.471,2.43,False,False,False,False,1.73985469,['Dresser|-04.83|+00.00|+02.60']
+20,Stone_Statue_2,-2.5703783,0.540886045,2.57992029,False,False,False,True,0.836968839,['TableTop|-02.41|+00.00|+02.55']
+21,Watering_Can_1,-0.277612925,-0.0007176474,4.860574,False,False,False,True,4.05752754,
+22,CreditCard_1,-4.59060764,0.981199443,3.57533979,False,False,False,True,1.88683963,['Dresser|-04.83|+00.00|+02.60']
+23,Keychain_1,-2.005223,0.446196,2.789962,False,False,False,True,1.43108487,['TableTop|-02.41|+00.00|+02.55']
+24,pillow_17,-3.294,0.624,0.801,False,False,False,True,1.47592151,['Sofa|-02.47|00.00|+00.70']
+25,Laptop_17,-4.873,0.981,3.44,False,True,True,True,2.014102,['Dresser|-04.83|+00.00|+02.60']
+26,bin_17,-4.811,0.000142097473,1.237,True,False,False,False,2.067532,
+27,Painting,-0.293,1.821,0.0169781111,False,False,False,False,3.817902,
+28,LightSwitch17,-1.017,1.244,5.0,False,True,False,False,3.55898023,
+29,Painting (2),-5.119,1.48,4.397,False,False,False,False,2.904797,
+30,Painting (1),-5.11865854,1.48,0.656,False,False,False,False,2.52344966,
+31,Remote_1,-0.09542896,0.701257,4.44893,False,False,False,True,3.85052776,['TableTop|-00.04|00.00|+04.62']
+32,Watch_1,-0.270482838,0.6997725,4.64171267,False,False,False,True,3.82601118,['TableTop|-00.04|00.00|+04.62']
+33,WindowLarge,-1.715,1.554,0.006,False,False,False,False,2.796066,
+34,WindowLarge (1),-3.245,1.554,0.006,False,False,False,False,2.33704638,
+35,Desk_Lamp_10,0.015,0.6995783,4.677,False,True,False,False,4.07322741,['TableTop|-00.04|00.00|+04.62']
+36,Houseplant_17,-4.824,0.981,1.573,False,False,False,False,1.715279,['Dresser|-04.83|+00.00|+02.60']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (2),0.735999942,0.230616152,4.096903,True,False,True,False,1.462663,
+2,Dresser,0.847,0.004316151,3.714,True,False,False,False,1.79887748,
+3,Chair (5),-6.037,0.000316202641,5.236,False,False,False,False,5.65782738,
+4,Chair (1),-5.581,0.000316202641,4.1,False,False,False,False,5.17566442,
+5,Chair (6),-0.139,0.0243161917,6.413,False,False,False,False,2.13499045,
+6,Chair (2),-5.182,0.000316202641,5.294,False,False,False,False,4.8334775,
+7,Sofa,-2.466,-0.0006838441,3.281,True,False,False,False,2.48271275,
+8,Drawer,0.7359999,0.6693161,4.096903,True,False,True,False,1.32052493,
+9,Table (1),-3.407,0.004316151,1.639,True,False,False,False,4.17609,
+10,Table,-5.63932276,-0.00451040268,4.910936,True,False,False,False,5.234612,
+11,Chair,-5.625,0.000316202641,5.751,False,False,False,False,5.351782,
+12,Chair,-3.159,0.0243161917,0.87,False,False,False,False,4.584264,
+13,Drawer (3),0.735999942,0.230616391,3.323,True,False,True,False,1.833637,
+14,Chair (3),-5.193,0.000316202641,4.683,False,False,False,False,4.7821207,
+15,Drawer (1),0.735999942,0.6693161,3.323,True,False,True,False,1.72239029,
+16,Chair (4),-6.047,0.000316202641,4.561,False,False,False,False,5.619953,
+17,Curtain,-1.046836,3.50069213,2.880321,False,False,False,False,3.1115303,
+18,CoffeeTable,-1.546,0.0233162045,2.529,True,False,False,False,2.39770818,
+19,Table,0.732,0.004316151,6.635,True,False,False,False,2.62293816,
+20,Cellphone_1,-5.344905,0.7803783,4.417779,False,False,False,True,4.8471,['TableTop|-05.64|00.00|+04.91']
+21,Houseplant_18,-3.583,0.5437752,1.642016,False,False,False,False,4.219059,['TableTop|-03.41|+00.00|+01.64']
+22,Television_18,0.834,1.465,3.726,False,False,False,False,1.6422267,['Dresser|+00.85|+00.00|+03.71']
+23,Watering_Can_1,0.829924762,-0.001019001,2.339594,False,False,False,True,2.69247174,
+24,Newspaper_3,0.8008026,0.5439281,6.537087,False,False,False,True,2.443194,['TableTop|+00.73|+00.00|+06.64']
+25,Keychain_1,0.488038719,0.544467449,6.40466452,False,False,False,True,2.175079,['TableTop|+00.73|+00.00|+06.64']
+26,pillow_18,-2.719,0.6093162,2.768,False,False,False,True,2.82997727,['Sofa|-02.47|00.00|+03.28']
+27,Dog_Statue_3,-1.58668077,0.306610525,2.82175827,False,False,False,True,2.08578014,['TableTop|-01.55|+00.02|+02.53']
+28,Painting,-3.814,1.81,1.008,False,False,False,False,4.899309,
+29,Desk_Lamp_4,0.890989065,0.5446448,6.82200336,False,True,False,False,2.73009634,['TableTop|+00.73|+00.00|+06.64']
+30,DecorativeBox2,-1.567465,0.3002106,2.513547,True,False,False,True,2.33371663,['TableTop|-01.55|+00.02|+02.53']
+31,Remote_2,-1.98531854,0.307359517,2.46707344,False,False,False,True,2.58673167,['TableTop|-01.55|+00.02|+02.53']
+32,bin_18,-7.104,-0.000159561634,2.289,True,False,False,False,7.022331,
+33,CreditCard_2,-1.101,0.306999981,2.607,False,False,False,True,2.07299185,['TableTop|-01.55|+00.02|+02.53']
+34,Floor_Lamp_18,-3.494,-0.000159561634,0.372,False,True,False,False,5.17843771,
+35,LightSwitch18,-5.234,1.392,7.031,False,True,False,False,5.39054346,
+36,WindowLarge,-1.986,1.647,-0.01,False,False,False,False,4.80677176,
+37,WindowLarge (2),-4.91,0.99,2.015,False,False,False,False,5.06273365,
+38,WindowLarge (1),-5.797,1.073,1.872,False,False,False,False,5.915592,
+39,Laptop_18,-5.464,0.7793162,5.252,False,True,True,True,5.022108,['TableTop|-05.64|00.00|+04.91']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-5.02094555,0.5571161,4.203849,True,False,True,False,3.00989461,
+2,Drawer (3),-2.99061441,1.01141047,4.30283833,True,False,True,False,2.3055,
+3,Sofa,-0.738,0.0,2.753,True,False,False,False,2.548638,
+4,Drawer,-4.73999929,1.01141047,4.302833,True,False,True,False,2.88839316,
+5,Dresser,-3.864,-0.003,4.589,True,False,False,False,2.875193,
+6,Cabinet,-2.700529,0.5571161,4.20385551,True,False,True,False,2.250546,
+7,Cabinet,-3.85045815,0.5571161,4.203852,True,False,True,False,2.38716125,
+8,Drawer,-5.02456331,0.883920848,0.3709537,True,False,True,False,2.59864235,
+9,Cabinet,-3.8710165,0.5571161,4.203852,True,False,True,False,2.39456248,
+10,Safe,-2.298,-0.006,0.269,True,False,True,False,2.07651544,
+11,ArmChair,-1.835,-0.014,4.505,True,False,False,False,2.910254,
+12,Drawer (1),-4.1573844,1.01141047,4.302835,True,False,True,False,2.5796833,
+13,Drawer (2),-3.56948566,1.01141047,4.30283642,True,False,True,False,2.374773,
+14,EndTable,-5.024453,-0.011,0.268,True,False,False,False,2.81604,
+15,Watch_2,-1.49409938,1.078734,0.202985913,False,False,False,True,2.35129023,['Shelf|-01.24|+01.09|+00.27']
+16,pillow_19,-2.03107262,0.668,4.42173243,False,False,False,True,2.61876369,['ArmChair|-01.84|-00.01|+04.51']
+17,Desk_Lamp_12,-4.648,1.03196776,0.267,False,True,False,False,2.39506364,"['TableTop|-05.02|-00.01|+00.27', 'Shelf|-05.24|+01.39|+00.09']"
+18,Desk_Lamp_12 (1),-2.814,1.104,4.522,False,True,False,False,2.53697968,['Dresser|-03.86|00.00|+04.59']
+19,Floor_Lamp_19 (1),-0.651,0.266,4.431,False,True,False,False,3.43960166,
+20,Floor_Lamp_19,-5.601,5.74588776e-05,4.641,False,True,False,False,3.8146925,
+21,Tissue_Box_1,-4.668,1.10418987,4.721,False,False,False,True,3.19801974,['Dresser|-03.86|00.00|+04.59']
+22,Newspaper_4,-5.19566774,1.033565,0.322901636,False,False,False,True,2.76607561,['TableTop|-05.02|-00.01|+00.27']
+23,CreditCard_1,-4.43481159,1.03196776,0.442720354,False,False,False,True,2.12154222,['TableTop|-05.02|-00.01|+00.27']
+24,Shelf (1),-0.2192,0.584,0.853,True,False,False,False,3.02472854,
+25,Shelf (5),-1.24019992,0.584,0.267,True,False,False,False,2.49012256,
+26,Shelf (4),-1.282,0.065,0.267,True,False,False,False,2.57949686,
+27,Shelf,-0.261,0.065,0.853,True,False,False,False,3.08491826,
+28,Shelf (10),-5.238,1.776,0.07,True,False,False,False,3.082056,
+29,Shelf (3),-0.273,1.583,0.859,True,False,False,False,3.03372,
+30,Shelf (2),-0.2192,1.093,0.853,True,False,False,False,3.01418328,
+31,Shelf (11),-5.239,1.968,0.085,True,False,False,False,3.13348269,
+32,Shelf (6),-1.24019992,1.093,0.267,True,False,False,False,2.47730255,
+33,Shelf (8),-5.242,1.391,0.086,True,False,False,False,2.98831129,
+34,Shelf (7),-1.29399991,1.583,0.273000032,True,False,False,False,2.52151,
+35,Shelf (9),-5.2413,1.583,0.066,True,False,False,False,3.03789878,
+36,Keychain_1,-4.555999,1.03270149,0.455999821,False,False,False,True,2.195996,['TableTop|-05.02|-00.01|+00.27']
+37,Cellphone_7,-4.93483829,1.10498512,4.415363,False,False,False,True,3.10147762,['Dresser|-03.86|00.00|+04.59']
+38,LightSwitch19,-6.0028677,1.353,3.404,False,True,False,False,3.34554672,
+39,bin_19,-5.795,5.74588776e-05,4.074,True,False,False,False,3.59517717,
+40,Painting,-6.017,1.803,4.178,False,False,False,False,3.82876945,
+41,Houseplant_19,-3.966,1.637,0.136,False,False,False,False,2.22469425,
+42,Statue_Waving_Man_1,-1.32854867,1.58342326,0.334293634,False,False,False,True,2.45641041,['Shelf|-01.29|+01.58|+00.27']
+43,Laptop_19,-3.393373,1.10418987,4.492851,False,True,True,True,2.53185916,['Dresser|-03.86|00.00|+04.59']
+44,DecorativeBox3,-1.3031522,0.0654844046,0.260757327,True,False,False,True,2.569521,['Shelf|-01.28|+00.07|+00.27']
+45,Remote_1,-4.86532068,1.0336659,0.296921134,False,False,False,True,2.52932477,['TableTop|-05.02|-00.01|+00.27']
+46,Vase_5,-0.2218193,0.5714825,0.771148443,False,False,False,True,3.05564761,['Shelf|-00.22|+00.58|+00.85']
+47,Television_19,-3.349,0.6994,0.125,False,False,False,False,1.917835,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sofa,-3.786,0.005,3.893,True,False,False,False,2.43897128,
+2,Drawer,-0.381400168,1.0697,3.61029959,True,False,True,False,1.969329,
+3,Drawer,-0.366,0.5731003,0.516207159,True,False,True,False,2.592033,
+4,Drawer (1),-0.381400228,0.786,3.61029959,True,False,True,False,1.96670079,
+5,Dresser,-0.265,0.003,3.61,True,False,False,False,2.25039625,
+6,Sofa,-2.683,-0.046,-0.1246,True,False,False,False,2.8754518,
+7,SideTable,-0.277,0.0121,0.516207159,True,False,False,False,2.77663541,
+8,TVStand,0.204,0.5842,1.982,True,False,False,False,2.287321,
+9,Drawer (3),-0.381400228,0.1833999,3.61029959,True,False,True,False,2.092851,
+10,ArmChair,-2.063,-0.004064634,4.217,True,False,False,False,1.94598985,
+11,CoffeeTable,-2.646,-0.000500002352,1.1503,True,False,False,False,1.75137758,
+12,Drawer (1),-0.366,0.2103,0.516207159,True,False,True,False,2.66353846,
+13,Chair,-1.347,0.02,4.244,False,False,False,False,2.06382346,
+14,Drawer (2),-0.381400228,0.476000041,3.61029959,True,False,True,False,2.01013827,
+15,DecorativeBox1,-2.335814,0.4701794,1.18896949,True,False,False,True,1.42291236,['TableTop|-02.65|00.00|+01.15']
+16,bin_20,-5.17,0.008620486,-0.408,True,False,False,False,4.39512968,
+17,Television_20,0.225,1.525,1.995,False,False,False,False,2.36312151,['TableTop|+00.20|+00.58|+01.98']
+18,LightSwitch20,-6.0,1.382,2.883,False,True,False,False,4.045965,
+19,Tissue_Box_1,-2.928935,0.4701794,1.17079,False,False,False,True,1.68012714,['TableTop|-02.65|00.00|+01.15']
+20,Keychain_1,-3.13265872,0.470871627,1.13951075,False,False,False,True,1.82382739,['TableTop|-02.65|00.00|+01.15']
+21,TableTop_Physics,0.194,0.9056,1.9961,True,False,False,False,2.25112581,
+22,TableTop_Physics (1),0.194,0.7197,1.9961,True,False,False,False,2.25911951,
+23,Boot_1,-0.443989724,0.0092895925,-0.5490104,False,False,False,True,3.53952336,
+24,Painting,-0.048,1.913,3.687,False,False,False,False,2.49520445,
+25,Painting (1),-5.353,1.99,-0.695,False,False,False,False,4.75582361,
+26,Candle_1,-0.215083688,0.8342335,0.7500372,False,False,False,True,2.5007956,['Dresser|-00.28|+00.01|+00.52']
+27,Remote_2,-2.66795278,0.470928371,1.12314224,False,False,False,True,1.59196353,['TableTop|-02.65|00.00|+01.15']
+28,Houseplant_20,-0.289314538,0.8342335,0.301780343,False,False,False,False,2.786449,['Dresser|-00.28|+00.01|+00.52']
+29,CreditCard_2,-3.162458,0.4701794,1.29190981,False,False,False,True,1.73317564,['TableTop|-02.65|00.00|+01.15']
+30,Laptop_20,-2.01134562,0.447578073,-0.08692805,False,True,True,True,2.62789035,['Sofa|-02.68|-00.05|-00.12']
+31,pillow_20,-3.707,0.635,3.745,False,False,False,True,2.13056087,['Sofa|-03.79|+00.01|+03.89']
+32,Floor_Lamp_20,-4.1,0.008620486,-0.468,False,True,False,False,3.745774,
+33,WindowLarge (2),-4.132,1.558,-0.827,False,False,False,False,4.0043416,
+34,WindowLarge,-0.972,1.558,-0.827,False,False,False,False,3.542049,
+35,WindowLarge (1),-2.554,1.558,-0.827,False,False,False,False,3.43456578,
+36,Hand_Statue_3,-0.30078274,1.29465365,3.92645144,False,False,False,True,2.25174475,['Dresser|-00.27|+00.00|+03.61']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,EndTable,-0.031,0.09749198,-2.552,True,False,False,False,3.84174,
+2,CoffeeTable,-1.091,0.0986,-0.738,True,False,False,False,1.94196534,
+3,CoffeeTable,-1.064,0.0961,-2.4736,True,False,False,False,3.20848918,
+4,Sofa,-0.906,0.099,0.96,True,False,False,False,1.963166,
+5,ArmChair,0.663,0.096,-1.782,True,False,False,False,3.86627531,
+6,Chair,-3.068,0.09,-0.882,False,False,False,False,1.55865467,
+7,Stool (1),0.766,0.089,-2.461,False,False,False,False,4.34090471,
+8,Chair (2),-3.81,0.09,-1.549,False,False,False,False,2.40371728,
+9,Table,-3.429,0.095,-1.188936,True,False,False,False,1.93645918,
+10,Curtains,-3.014,1.558,-3.082,False,False,False,False,3.41752386,
+11,Drawer,-0.030999992,0.8733777,-2.47306919,True,False,True,False,3.677869,
+12,Stool,0.766,0.089,-1.148,False,False,False,False,3.66719723,
+13,Chair (3),-3.073,0.09,-1.515,False,False,False,False,2.06613421,
+14,Chair (1),-3.793,0.09,-0.841,False,False,False,False,1.920283,
+15,Television_21,-1.063,0.923,-2.462,False,False,False,False,3.0701158,['TableTop|-01.06|+00.10|-02.47']
+16,pillow_21,0.629369438,0.482,-1.667,False,False,False,True,3.706023,['ArmChair|+00.66|+00.10|-01.78']
+17,CreditCard_3,-2.67203474,0.874602854,-1.45978212,False,False,False,True,1.72287524,['TableTop|-03.43|+00.10|-01.19']
+18,Houseplant_21 (1),0.756,0.8445172,-2.468,False,False,False,False,4.244145,
+19,Houseplant_21,0.74,0.8445172,-1.16,False,False,False,False,3.536864,
+20,Floor_Lamp_21,-2.18634462,0.09749198,1.112,False,True,False,False,1.28577745,
+21,bin_21,-1.898,0.09749198,-2.981,True,False,False,False,3.407868,
+22,Laptop_21,-0.193,0.966,-2.505,False,True,True,True,3.5935123,['TableTop|-00.03|+00.10|-02.55']
+23,Remote_3,-1.50635707,0.447477072,-0.7582256,False,False,False,True,1.51903319,['TableTop|-01.09|+00.10|-00.74']
+24,Glass_Vase_2,-3.37477469,0.874602854,-1.16142488,False,False,False,True,1.66514242,['TableTop|-03.43|+00.10|-01.19']
+25,Painting,-4.326,1.818,-1.223,False,False,False,False,2.48507547,
+26,DecorativeBox2,-1.30977345,0.446124047,-0.771784663,True,False,False,True,1.66306734,['TableTop|-01.09|+00.10|-00.74']
+27,Keychain_2,-0.9140523,0.447214723,-0.5386605,False,False,False,True,1.855026,['TableTop|-01.09|+00.10|-00.74']
+28,Pen_1,0.0432228632,0.9714704,-2.524942,False,False,False,True,3.76417542,['TableTop|-00.03|+00.10|-02.55']
+29,WindowLarge,0.011,1.087,0.001,False,False,False,False,2.5248673,
+30,WindowLarge (1),-2.984,1.545,-3.221,False,False,False,False,3.546938,
+31,LightSwitch21,-3.907,1.371,1.387,False,True,False,False,1.84693825,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (5),0.101743206,0.046441406,-0.165,True,False,True,False,1.57828629,
+2,EndTable,1.996,0.0,1.746,True,False,False,False,1.7090441,
+3,CoffeeTable,0.227,0.011,-0.165,True,False,False,False,1.51024926,
+4,Curtains,1.19999993,0.0,-2.44,False,False,False,False,3.07536983,
+5,Drawer (3),0.101743013,0.151979357,-0.165,True,False,True,False,1.523729,
+6,Sofa (1),-1.07,-0.0007751227,-0.201,True,False,False,False,2.58592319,
+7,SideTable,2.957,0.0,1.568,True,False,False,False,2.205963,
+8,SideTable (1),-0.684,0.0,-1.601,True,False,False,False,2.99438739,
+9,Drawer,1.996,0.7709758,1.70420194,True,False,True,False,1.42250645,
+10,Drawer (4),0.101743,0.2561966,-0.165,True,False,True,False,1.47529316,
+11,ArmChair,0.224,0.008,-1.725,True,False,False,False,2.60782456,
+12,Drawer,0.3522576,0.2561966,-0.165,True,False,True,False,1.28993678,
+13,TVStand,0.838,-0.0002,1.582,True,False,False,False,1.46718371,
+14,Drawer (1),0.35225758,0.151979417,-0.165,True,False,True,False,1.345064,
+15,Drawer (2),0.35225758,0.0464413837,-0.165,True,False,True,False,1.40656877,
+16,Sofa,2.869,-0.0007751227,0.248,True,False,False,False,1.87025714,
+17,Laptop_22,0.228966713,0.358735025,-0.3061229,False,True,True,True,1.40939474,['TableTop|+00.23|+00.01|-00.17']
+18,CreditCard_3,0.156991661,0.358735025,0.126382664,False,False,False,True,1.27605152,['TableTop|+00.23|+00.01|-00.17']
+19,Newspaper_5,0.216016561,0.522273839,-1.56731081,False,False,False,True,2.34229136,['ArmChair|+00.22|+00.01|-01.73']
+20,Houseplant_22,1.919,1.718,-2.188,False,False,False,False,2.88797426,
+21,Floor_Lamp_22,-1.16007054,0.0,1.04045641,False,True,False,False,2.62913132,
+22,LightSwitch22,-1.006,1.287,1.95,False,True,False,False,2.709434,
+23,Remote_3,0.339524031,0.36008805,0.0466660447,False,False,False,True,1.15198219,['TableTop|+00.23|+00.01|-00.17']
+24,Television_22,0.858,0.896,1.73,False,False,False,False,1.29096437,['TableTop|+00.84|00.00|+01.58']
+25,Painting,3.415,1.709,-0.15657,False,False,False,False,2.40232682,
+26,pillow_22,-0.875,0.575,-0.798,False,False,False,True,2.51131535,['Sofa|-01.07|00.00|-00.20']
+27,Keychain_2,1.828683,0.8649295,1.68173134,False,False,False,True,1.316307,['TableTop|+02.00|+00.00|+01.75']
+28,Painting,-1.44999969,1.788,-0.343,False,False,False,False,2.964358,
+29,bin_22,1.29634511,0.0,-2.187426,True,False,False,False,2.83482027,
+30,DecorativeBox3,-0.6590885,0.5966452,-1.57484829,True,False,False,True,2.83588529,['TableTop|-00.68|+00.00|-01.60']
+31,Watch_1,2.80847073,0.596801341,1.40507913,False,False,False,True,1.82771325,['TableTop|+02.96|+00.00|+01.57']
+32,Statue_Jacket_3,2.944615,0.5967624,1.57015383,False,False,False,True,2.02719235,['TableTop|+02.96|+00.00|+01.57']
+33,WindowLarge,0.65363,1.551,-2.471,False,False,False,False,3.09919333,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,ArmChair (1),-0.43,0.0,1.062,True,False,False,False,1.3944689,
+2,TVStand,-1.858,-0.009,2.788001,True,False,False,False,3.23190546,
+3,Chair,1.638,-0.003,-0.848,False,False,False,False,2.471308,
+4,Chair (1),2.288,-0.003,-0.78,False,False,False,False,3.03291249,
+5,ArmChair,-2.005,0.0,-1.579,True,False,False,False,2.36009884,
+6,Table,1.884,-0.0037,-0.292,True,False,False,False,2.566554,
+7,ArmChair (2),-0.437,0.0,1.923,True,False,False,False,2.12454653,
+8,Chair (2),1.462,-0.003,0.195,False,False,False,False,2.16902828,
+9,Sofa,-3.439,-0.006,-0.0419999957,True,False,False,False,3.07605767,
+10,Chair (3),2.224,-0.003,0.15,False,False,False,False,2.87400246,
+11,CoffeeTable,-2.023,-0.0058,0.018,True,False,False,False,1.77260756,
+12,Candle_6,-1.53671145,0.2244602,2.741526,False,False,False,True,3.0080626,['TableTop|-01.88|+00.27|+02.79']
+13,Vase_Flat_3,1.56505716,0.776816368,-0.313657582,False,False,False,True,2.09243,['TableTop|+01.88|00.00|-00.29']
+14,CreditCard_3,-1.834,0.442,0.276,False,False,False,True,1.437502,['TableTop|-02.02|-00.01|+00.02']
+15,Vase_Tall_3,1.84070361,0.776816368,-0.298591346,False,False,False,True,2.362937,['TableTop|+01.88|00.00|-00.29']
+16,Watering_Can_1,-3.25224662,-0.0008592233,-1.8618449,False,False,False,True,3.443062,
+17,LightSwitch23,-3.9,1.284,1.684,False,True,False,False,3.81346917,
+18,Laptop_23,-2.01556277,0.44227165,-0.115777321,False,True,True,True,1.587692,['TableTop|-02.02|-00.01|+00.02']
+19,bin_23,0.289707065,0.0,1.26358962,True,False,False,False,1.74129128,
+20,Remote_3,-2.2924273,0.7059445,2.74508786,False,False,False,True,3.284258,['TableTop|-01.86|-00.01|+02.79']
+21,TableTop_Physics,-1.8795,0.2712,2.7879,True,False,False,False,3.17365,
+22,Floor_Lamp_23,-0.3311175,0.0,2.72807121,False,True,False,False,2.877967,
+23,Keychain_2,-2.2234273,0.44336006,-0.343062878,False,False,False,True,1.81585443,['TableTop|-02.02|-00.01|+00.02']
+24,Dog_Statue_4,-2.044047,0.2244602,2.74865818,False,False,False,True,3.224424,['TableTop|-01.88|+00.27|+02.79']
+25,Painting (1),-0.056,1.602,1.733,False,False,False,False,1.92141283,
+26,Painting,4.136,1.591,-0.297,False,False,False,False,4.6964674,
+27,pillow_23,-1.921,0.36,-1.50013351,False,False,False,True,2.13595915,['ArmChair|-02.01|+00.00|-01.58']
+28,Television_23,-1.861,1.198,2.692,False,False,False,False,3.03107142,['TableTop|-01.86|-00.01|+02.79']
+29,DecorativeBox4,1.19600832,0.776816368,-0.124117672,True,False,False,True,1.70507216,['TableTop|+01.88|00.00|-00.29']
+30,Houseplant_23,-3.47576714,0.705239356,-1.59191632,False,False,False,False,3.38048959,
+31,WindowLarge,1.479,1.507,-1.927,False,False,False,False,2.827898,
+32,WindowLarge (1),-2.004,1.507,-1.927,False,False,False,False,2.51844835,
+33,WindowLarge (2),3.48,1.507,-1.927,False,False,False,False,4.463291,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,EndTable (1),3.163,0.016,1.401,True,False,False,False,5.256311,
+2,Drawer,-0.171725929,0.451388836,-2.04251027,True,False,True,False,3.57995248,
+3,ArmChair,-2.86,0.016,-2.037,True,False,False,False,3.282439,
+4,Drawer (8),-0.1593063,0.215018928,1.46571994,True,False,True,False,2.02423859,
+5,Drawer,-3.13443756,0.34309265,-0.498,True,False,True,False,1.96471119,
+6,Drawer (4),-0.1593063,0.718218565,1.941694,True,False,True,False,2.07710719,
+7,Drawer (11),-0.1593063,0.215018928,0.988815963,True,False,True,False,1.96996748,
+8,Sofa,-2.957,0.0767,1.394,True,False,False,False,1.33298516,
+9,Drawer (9),-0.1593063,0.466543734,0.988815963,True,False,True,False,1.89499521,
+10,Dresser,-0.0232,0.0109,1.7224,True,False,False,False,2.2913425,
+11,Drawer,2.98843765,0.34309265,-0.573998868,True,False,True,False,5.262235,
+12,Drawer (1),2.98843765,0.0948,0.37600103,True,False,True,False,5.094072,
+13,Drawer (6),-0.1593063,0.466543734,1.46571994,True,False,True,False,1.9513526,
+14,Drawer (2),-0.1593063,0.215018928,2.419462,True,False,True,False,2.428069,
+15,Drawer,-0.159306347,0.466543734,2.419462,True,False,True,False,2.36764741,
+16,Drawer (3),-0.1593063,0.466543734,1.941694,True,False,True,False,2.11605048,
+17,Chair,1.631,0.016,2.211,False,False,False,False,3.93219018,
+18,Drawer (10),-0.1593063,0.718218565,0.988815963,True,False,True,False,1.85140812,
+19,Drawer (1),2.98843765,0.0948,1.4010011,True,False,True,False,5.07158661,
+20,Drawer (1),2.98843765,0.0948,-0.573998868,True,False,True,False,5.29506,
+21,EndTable (2),3.163,0.016,0.376,True,False,False,False,5.27800941,
+22,Chair,1.049,0.0,-2.311,False,False,False,False,4.593435,
+23,Drawer,2.98843765,0.34309265,1.4010011,True,False,True,False,5.037306,
+24,EndTable,-3.309,0.016,-0.498,True,False,False,False,2.18378615,
+25,Cabinet,0.3337883,0.5141855,-2.0152328,True,False,True,False,3.83409619,
+26,Stool,3.136,0.016,-1.626,False,False,False,False,5.838305,
+27,Drawer (7),-0.1593063,0.718218565,1.46571994,True,False,True,False,1.90905273,
+28,Chair (1),2.038,0.0,-2.352,False,False,False,False,5.32746363,
+29,Drawer (1),-3.13443756,0.0948,-0.498,True,False,True,False,2.05100775,
+30,EndTable,-0.17,0.013,-2.241,True,False,False,False,3.83012152,
+31,Drawer (5),-0.1593063,0.215018928,1.941694,True,False,True,False,2.18344569,
+32,Drawer (1),-0.1593063,0.718218565,2.419462,True,False,True,False,2.332908,
+33,EndTable (3),3.163,0.016,-0.5739999,True,False,False,False,5.47224665,
+34,Drawer,2.98843765,0.34309265,0.37600103,True,False,True,False,5.05994272,
+35,CreditCard_3,-0.062275216,0.902580142,0.8458315,False,False,False,True,1.94390011,['Dresser|-00.02|+00.01|+01.72']
+36,Laptop_24,-2.78081179,0.365461469,-1.874968,False,True,True,True,3.02969956,['ArmChair|-02.86|+00.02|-02.04']
+37,Desk_Lamp_3,3.14109063,0.5854852,1.46614254,False,True,False,False,5.17280054,['Dresser|+03.16|+00.02|+01.40']
+38,LightSwitch24,-0.9271823,1.3160553,2.846592,False,True,False,False,2.17261267,
+39,Watering_Can_1,2.89399958,0.0149392039,-1.91599953,False,False,False,True,5.76781,
+40,Newspaper_4,3.18,0.586334169,-0.543,False,False,False,True,5.41502142,['Dresser|+03.16|+00.02|-00.57']
+41,Open_Book_3,0.06675309,0.9091778,1.13340807,False,False,False,True,2.07106829,['Dresser|-00.02|+00.01|+01.72']
+42,Glass_Vase_3,-2.16899252,1.19524324,-2.1836822,False,False,False,True,3.20030046,
+43,Cellphone_7,-0.2048611,0.9033754,2.48516226,False,False,False,True,2.329895,['Dresser|-00.02|+00.01|+01.72']
+44,Remote_3,-0.2565729,0.903933167,0.9099228,False,False,False,True,1.7457999,['Dresser|-00.02|+00.01|+01.72']
+45,Glass_Vase_2,-1.04643679,1.19524324,-2.15178347,False,False,False,True,3.30462623,
+46,Houseplant_24,0.491246164,0.8734506,-1.58112812,False,False,False,False,3.58753514,
+47,Television_24,0.07,1.387,1.69838691,False,False,False,False,2.23466635,['Dresser|-00.02|+00.01|+01.72']
+48,Statue_Waving_Man_3,-0.15578185,0.531835437,-2.252493,False,False,False,True,3.75872946,['TableTop|-00.17|+00.01|-02.24']
+49,bin_24,3.16415358,0.0157988258,0.891,True,False,False,False,5.243297,
+50,pillow_24,-2.893,0.616,0.818,False,False,False,True,0.9597146,['Sofa|-02.96|+00.08|+01.39']
+51,Keychain_2,-0.238476738,0.903668046,2.346585,False,False,False,True,2.21730185,['Dresser|-00.02|+00.01|+01.72']
+52,Painting (1),-1.5613,1.4086,-2.318,False,False,False,False,3.38281727,
+53,Painting,3.367,1.79,-0.94936,False,False,False,False,5.776433,
+54,Painting (2),-3.48801541,1.386,-0.507,False,False,False,False,2.169191,
+55,DecorativeBox4,3.1545465,0.584736943,0.461166739,True,False,False,True,5.19326067,['Dresser|+03.16|+00.02|+00.38']
+56,Floor_Lamp_24,3.104,0.0157988258,-2.342,False,True,False,False,6.166975,
+57,WindowLarge (2),1.133,1.219,-2.74,False,False,False,False,4.88821173,
+58,WindowLarge (5),-3.369,1.181,-1.539,False,False,False,False,2.89663339,
+59,WindowLarge,2.898,1.219,-2.74,False,False,False,False,6.170035,
+60,WindowLarge (1),2.007,1.219,-2.74,False,False,False,False,5.48953342,
+61,WindowLarge (3),-0.193,1.158,-2.564,False,False,False,False,4.003189,
+62,WindowLarge (4),-2.97,1.158,-2.564,False,False,False,False,3.70150971,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Shelf,-0.46499896,0.1742,3.03900051,True,False,False,False,2.27672529,
+2,Table,-4.613,0.006,3.3463,True,False,False,False,2.33221245,
+3,Shelf (5),-0.336500168,0.1758,2.674,True,False,False,False,2.52445912,
+4,Curtains,-1.03033,2.113802,0.0,False,False,False,False,4.204669,
+5,Curtains (1),-3.927,2.113802,0.0,False,False,False,False,4.189945,
+6,Sofa,-2.125,-0.004,4.558,True,False,False,False,1.27400064,
+7,Shelf (1),-0.46499896,0.4187,3.03900051,True,False,False,False,2.21020555,
+8,Chair,-4.56,-0.0021,3.868,False,False,False,False,2.25469613,
+9,Shelf (3),-0.461500973,0.4777,2.30390048,True,False,False,False,2.535907,
+10,CoffeeTable,-1.973,0.0021,2.6154,True,False,False,False,1.54387808,
+11,Shelf (4),-0.465001,0.1753,2.30440044,True,False,False,False,2.60117221,
+12,Drawer,-4.433324,0.47347495,3.34449983,True,False,True,False,2.02236438,
+13,Sofa (1),-4.57,-0.004,1.9,True,False,False,False,2.92181277,
+14,ArmChair,-0.876,-0.0329,0.566,True,False,False,False,3.695714,
+15,Shelf (2),-0.46499896,0.5688,3.03900051,True,False,False,False,2.18197274,
+16,TVStand,-0.335,0.005,2.68,True,False,False,False,2.57786727,
+17,Houseplant_25,-3.127,1.50434291,0.119,False,False,False,False,3.732871,
+18,CreditCard_3,-0.494096577,0.758083642,3.18493938,False,False,False,True,2.08927369,['TableTop|-00.34|+00.01|+02.68']
+19,Television_25,0.0,1.376,2.661,False,False,False,False,2.76695728,
+20,bin_25,-0.22729063,0.005818177,4.77884769,True,False,False,False,2.65245843,
+21,Desk_Lamp_1,-4.65800047,0.505064845,3.31800079,False,True,False,False,2.23718452,['TableTop|-04.61|+00.01|+03.35']
+22,Tissue_Box_1,-1.9930681,0.3047347,2.360078,False,False,False,True,1.59729981,
+23,Laptop_25,-0.335,0.758,2.38,False,True,True,True,2.566373,['TableTop|-00.34|+00.01|+02.68']
+24,Glass_Vase_3,-2.88048768,1.518822,0.144867167,False,False,False,True,3.6764524,
+25,Remote_3,-0.161285192,0.759436667,3.114679,False,False,False,True,2.42795,['TableTop|-00.34|+00.01|+02.68']
+26,Dog_Statue_3,-1.869989,1.518822,0.145256266,False,False,False,True,3.71020746,
+27,Painting,-2.508,1.818,0.109,False,False,False,False,3.75329161,
+28,Fertility_Statue_2,-0.4399774,0.176568478,2.6529336,False,False,False,True,2.44550848,['Shelf|-00.34|+00.18|+02.67']
+29,pillow_25,-1.379,0.479,4.5207963,False,False,False,True,1.42611217,['Sofa|-02.13|00.00|+04.56']
+30,Floor_Lamp_25,-4.636,0.005818177,0.359,False,True,False,False,4.10769749,
+31,Keychain_2,-0.8838021,0.371606,0.7517496,False,False,False,True,3.44790554,['ArmChair|-00.88|-00.03|+00.57']
+32,DecorativeBox3,-2.12793446,0.3047347,2.69506526,True,False,False,True,1.27036369,
+33,Watch_1,-0.5760696,0.7584034,3.07302952,False,False,False,True,2.044951,['TableTop|-00.34|+00.01|+02.68']
+34,LightSwitch25,-3.234,1.343,5.0,False,True,False,False,1.5137738,
+35,Newspaper_1,-4.53022242,0.420306236,1.18743372,False,False,False,True,3.30533552,['Sofa|-04.57|00.00|+01.90']
+36,WindowLarge (1),-1.011,1.391,0.03,False,False,False,False,4.03608131,
+37,WindowLarge,-3.9,1.391,0.03,False,False,False,False,4.004102,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (2),-0.71,0.0541,-0.1717988,True,False,True,False,0.9691504,
+2,Blinds (2),-0.399,1.605,0.934,False,False,False,False,0.9867493,
+3,CoffeeTable,-0.71,0.0,-0.363,True,False,False,False,1.1098057,
+4,Blinds (1),-2.01,1.605,0.959,False,False,False,False,1.81063473,
+5,Drawer (4),-0.71,0.3742838,-0.5542003,True,False,True,False,0.9840057,
+6,Drawer (3),-0.71,0.215199947,-0.5542003,True,False,True,False,1.07757068,
+7,ArmChair,1.509,0.0,-0.589,True,False,False,False,2.356226,
+8,EndTable,1.808,0.0,0.326,True,False,False,False,2.47879815,
+9,Sofa,-0.5,0.0,-1.887,True,False,False,False,2.31917429,
+10,Drawer,-0.71,0.3742838,-0.17179881,True,False,True,False,0.7067131,
+11,Drawer (1),-0.71,0.2152,-0.1717988,True,False,True,False,0.832066536,
+12,Drawer,1.76620185,0.7709758,0.326,True,False,True,False,2.271201,
+13,Blinds,-2.751,1.602665,-0.005,False,False,False,False,2.37157345,
+14,Drawer (5),-0.71,0.0541000366,-0.5542,True,False,True,False,1.18662369,
+15,Keychain_3,-1.158001,0.531477869,-0.122982547,False,False,False,True,0.8418,['TableTop|-00.71|+00.00|-00.36']
+16,bin_26,-2.575,0.0,0.739,True,False,False,False,2.31442118,
+17,Watch_2,-0.252397239,0.5319802,-0.186759472,False,False,False,True,0.62308985,['TableTop|-00.71|+00.00|-00.36']
+18,Dog_Statue_2,-0.9668475,1.66980457,-2.3,False,False,False,True,2.70398,
+19,Newspaper_2,-1.07441258,0.3154036,-1.84251213,False,False,False,True,2.24754953,['Sofa|-00.50|+00.00|-01.89']
+20,pillow_26,0.151,0.561,-1.794,False,False,False,True,2.17194319,['Sofa|-00.50|+00.00|-01.89']
+21,CreditCard_4,-1.17141867,0.530805051,-0.5982901,False,False,False,True,1.14343464,['TableTop|-00.71|+00.00|-00.36']
+22,Remote_3,-0.764717758,0.5321581,-0.167790383,False,False,False,True,0.616983056,['TableTop|-00.71|+00.00|-00.36']
+23,Laptop_27,-0.981,0.530805051,-0.37,False,True,True,True,0.8676432,['TableTop|-00.71|+00.00|-00.36']
+24,LightSwitch26,0.4052142,1.37347269,-2.4,False,True,False,False,2.83991981,
+25,Floor_Lamp_26,1.73,0.0,-2.093,False,True,False,False,3.35772967,
+26,Dog_Statue_4,0.014216803,1.595279,-2.3,False,False,False,True,2.69238615,
+27,Houseplant_26,-0.562,0.531,-0.353,False,False,False,False,0.7101777,['TableTop|-00.71|+00.00|-00.36']
+28,Painting,1.91,1.458,0.3,False,False,False,False,2.474035,
+29,DecorativeBox4,1.79657006,0.863839,0.3382854,True,False,False,True,2.29856682,['Drawer|+01.81|+00.00|+00.33']
+30,Television_26,-2.3193,1.746,-1.9946,False,False,False,False,3.01033354,
+31,WindowLarge (1),-2.01,1.524,1.031,False,False,False,False,1.81057751,
+32,WindowLarge (2),-0.433,1.524,1.031,False,False,False,False,1.00128925,
+33,WindowLarge,-2.828,1.511,-0.025,False,False,False,False,2.42225313,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Shelf (1),-1.77609944,0.988999963,0.184999421,True,False,False,False,4.324269,
+2,Chair,-5.413,0.024,1.781,False,False,False,False,4.84974575,
+3,Cabinet,-5.365438,1.170795,5.03172,True,False,True,False,3.90944338,
+4,Chair (1),-5.388,0.024,3.37,False,False,False,False,4.148367,
+5,Chair (4),-6.211,0.024,2.517,False,False,False,False,5.190502,
+6,Shelf (1),-3.93790054,0.988999963,5.17,True,False,False,False,2.52905059,
+7,Table,-5.817,0.001654989,2.564,True,False,False,False,4.82088661,
+8,Shelf,-6.572,1.145,5.17,True,False,False,False,5.120702,
+9,Cabinet,-4.18110037,1.87357283,5.0299,True,False,True,False,2.89223,
+10,Sofa,-3.329,0.017,3.632,True,False,False,False,2.21965337,
+11,Shelf (1),-5.6069,0.445,5.17,True,False,False,False,4.189022,
+12,Drawer,-6.325,0.8237,5.0011,True,False,True,False,4.85205173,
+13,Cabinet,-2.017562,1.71479487,0.323279053,True,False,True,False,4.28175259,
+14,Cabinet,-2.46510029,1.32957292,5.0299,True,False,True,False,1.17227781,
+15,Drawer,-1.09385419,0.2333,0.462,True,False,True,False,4.11724329,
+16,Shelf (2),-4.67299938,1.317,5.17000055,True,False,False,False,3.266326,
+17,Shelf (3),-4.67299938,0.998999953,5.17000055,True,False,False,False,3.24376369,
+18,Shelf (1),-2.22190046,0.445,5.17,True,False,False,False,1.09654689,
+19,Drawer (1),-6.325,0.508,5.0011,True,False,True,False,4.869017,
+20,Shelf (3),-1.0410006,0.998999953,0.184999749,True,False,False,False,4.33994055,
+21,Drawer (2),-4.2644,0.2333,0.462,True,False,True,False,4.942534,
+22,Shelf,-0.810999632,1.68899989,0.185000479,True,False,False,False,4.43559551,
+23,Surface,-2.671,0.61,0.272,True,False,False,False,4.39860725,
+24,Drawer (1),-2.6819,0.2333,0.462,True,False,True,False,4.26422644,
+25,Drawer (1),-2.94,0.508,5.0011,True,False,True,False,1.58123577,
+26,ArmChair (1),-1.519,0.017,3.313,True,False,False,False,1.49583614,
+27,Cabinet,-3.69643831,1.71479487,5.03172,True,False,True,False,2.39324164,
+28,ArmChair,-1.012,0.017,2.084,True,False,False,False,2.62743139,
+29,CoffeeTable,-2.668,0.024,1.999,True,False,False,False,2.9042604,
+30,Shelf (2),-1.0410006,1.317,0.184999675,True,False,False,False,4.35683,
+31,Cabinet,-1.53289974,1.87357283,0.325099677,True,False,True,False,4.28097868,
+32,Chair (2),-5.382,0.024,2.695,False,False,False,False,4.3753233,
+33,Shelf,-4.90300035,1.68899989,5.17,True,False,False,False,3.5510385,
+34,Shelf,-3.18700027,1.145,5.17,True,False,False,False,1.82821524,
+35,Drawer,-2.94,0.8237,5.0011,True,False,True,False,1.5281961,
+36,Chair (3),-6.252,0.024,3.428,False,False,False,False,4.954411,
+37,Cabinet,-5.8501,1.32957292,5.0299,True,False,True,False,4.400703,
+38,Cabinet,-1.98043823,1.170795,5.03172,True,False,True,False,0.7569396,
+39,Chair (5),-6.296,0.024,1.672,False,False,False,False,5.64045238,
+40,CoffeeTable (1),-3.003,0.024,1.726,True,False,False,False,3.28170538,
+41,Keychain_3,-3.09472823,0.177425385,1.62559891,False,False,False,True,3.37153983,['TableTop|-03.00|+00.02|+01.73']
+42,Statue_Jacket_2,-5.865033,0.634823561,2.78673387,False,False,False,True,4.698318,['TableTop|-05.82|+00.00|+02.56']
+43,Vase_Flat_3,-1.70107973,0.93094933,0.179179981,False,False,False,True,4.325498,['Shelf|-01.78|+00.99|+00.18']
+44,Floor_Lamp_27,-0.369,0.026053369,4.992,False,True,False,False,1.52742422,
+45,Stone_Statue_2,-3.174636,1.105,5.193249,False,False,False,True,1.8211714,['Shelf|-03.19|+01.15|+05.17']
+46,bin_27,-6.855,0.026053369,0.22,True,False,False,False,6.9142046,
+47,Television_27,-3.503,1.506,0.001,False,False,False,False,4.958648,
+48,Glass_Vase_3,-0.7641,0.9409,0.2033,False,False,False,True,4.359286,['Shelf|-01.04|+01.00|+00.18']
+49,Glass_Vase_3 (1),-2.2752862,0.386933446,5.12988329,False,False,False,True,1.13558376,['Shelf|-02.22|+00.45|+05.17']
+50,Newspaper_3,-4.34642553,0.4762369,0.2567984,False,False,False,True,5.12934065,['Shelf|-02.67|+00.61|+00.27']
+51,CreditCard_4,-2.72717381,0.292979032,2.35501218,False,False,False,True,2.55126977,['TableTop|-02.67|+00.02|+02.00']
+52,Remote_3,-2.297254,0.2943321,2.05737829,False,False,False,True,2.64619541,['TableTop|-02.67|+00.02|+02.00']
+53,Dog_Statue_3,-3.8513546,0.930947,5.16920042,False,False,False,True,2.44473171,['Shelf|-03.94|+00.99|+05.17']
+54,Laptop_27,-5.76491976,0.6347063,2.37601185,False,True,True,True,4.7735033,['TableTop|-05.82|+00.00|+02.56']
+55,pillow_27,-1.51520538,0.438748926,3.31957245,False,False,False,True,1.27752924,['ArmChair|-01.52|+00.02|+03.31']
+56,LightSwitch27,0.0,1.185,4.411,False,True,False,False,1.52461731,
+57,Vase_Flat_2,-5.713303,0.38693583,5.136794,False,False,False,True,4.295248,['Shelf|-05.61|+00.45|+05.17']
+58,DecorativeBox4,-2.70273852,0.292979032,2.05583477,True,False,False,True,2.79688644,['TableTop|-02.67|+00.02|+02.00']
+59,Dog_Statue_1,-4.845,1.25847483,5.153,False,False,False,True,3.42421865,['Shelf|-04.67|+01.32|+05.17']
+60,Fertility_Statue_3,-5.033,1.566,5.212,False,False,False,True,3.6602304,['Shelf|-04.90|+01.69|+05.17']
+61,Houseplant_27,-1.106,0.313,2.74,False,False,False,False,1.90522873,
+62,Hand_Statue_2,-0.764,1.5660665,0.174,False,False,False,True,4.43444633,['Shelf|-00.81|+01.69|+00.19']
+63,Vase_2,-1.35239077,1.258489,0.228351533,False,False,False,True,4.28702927,['Shelf|-01.04|+01.32|+00.18']
+64,Vase_Flat_5,-4.95822239,0.940958,5.20115042,False,False,False,True,3.52861261,['Shelf|-04.67|+01.00|+05.17']
+65,Painting,-5.769,1.395,-0.026,False,False,False,False,6.23923159,
+66,Window,0.001,1.247,2.472,False,False,False,False,2.54325628,
+67,Window,0.001,1.247,3.5583,False,False,False,False,1.8006016,
+68,Window,0.001,1.247,1.368,False,False,False,False,3.487806,
+69,Painting,-0.968,1.397,5.268,False,False,False,False,1.04580057,
+70,Statue_Waving_Man_2,-6.589,1.022049,5.172,False,False,False,True,5.134056,['Shelf|-06.57|+01.15|+05.17']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sofa,-3.655,-0.016,0.461,True,False,False,False,2.93400717,
+2,Table,-1.396,0.002,1.448,True,False,False,False,2.103079,
+3,Chair (2),-1.933,-0.01,2.413,False,False,False,False,1.21779621,
+4,Table,-3.793,-0.009559274,4.463521,True,False,False,False,2.15172386,
+5,CoffeeTable,-4.003725,0.0105,2.454,True,False,False,False,1.8274672,
+6,Chair,-5.147,-0.007,0.818,False,False,False,False,3.546729,
+7,Drawer,-2.560954,0.5273976,4.484088,True,False,True,False,1.52987909,
+8,Chair,-0.354,-0.01,1.655,False,False,False,False,2.68910956,
+9,Chair (1),-0.667,-0.01,0.656,False,False,False,False,3.10985446,
+10,Sofa,-5.401,-0.015,2.426,True,False,False,False,3.09375334,
+11,EndTable,-2.561,-0.007,4.738,True,False,False,False,1.95855057,
+12,Keychain_3,-3.772461,0.4253076,2.3380332,False,False,False,True,1.50894058,['TableTop|-04.00|+00.01|+02.45']
+13,DecorativeBox1,-4.006293,0.4246344,2.62482166,True,False,False,True,1.62168217,['TableTop|-04.00|+00.01|+02.45']
+14,Television_28,-3.762,1.126,4.582,False,False,False,False,2.036972,['TableTop|-03.79|-00.01|+04.46']
+15,Newspaper_4,-3.1970048,0.433,0.515174747,False,False,False,True,2.62155819,['Sofa|-03.66|-00.02|+00.46']
+16,bin_28,-0.224,-0.007134944,4.732,True,False,False,False,2.99863267,
+17,CreditCard_4,-4.180153,0.4246344,2.94393086,False,False,False,True,1.74534631,['TableTop|-04.00|+00.01|+02.45']
+18,Remote_3,-3.76529,0.425987422,2.87468672,False,False,False,True,1.35483229,['TableTop|-04.00|+00.01|+02.45']
+19,Floor_Lamp_28,-5.663,-0.007134944,4.68,False,True,False,False,3.69307041,
+20,Houseplant_28,-5.705,0.5814376,3.943,False,False,False,False,3.355426,
+21,Laptop_28,-3.955696,0.4246344,2.02034378,False,True,True,True,1.81630218,['TableTop|-04.00|+00.01|+02.45']
+22,LightSwitch28,0.0,1.292,3.379,False,True,False,False,2.55971742,
+23,pillow_28,-4.161,0.542,0.575,False,False,False,True,2.96029615,['Sofa|-03.66|-00.02|+00.46']
+24,Painting,-4.156,1.657,-0.002,False,False,False,False,3.51236629,
+25,Painting (1),-1.623,1.565,-0.002,False,False,False,False,3.19868064,
+26,Vase_6,-1.40397489,0.997,1.50477409,False,False,False,True,1.85677373,['TableTop|-01.40|+00.00|+01.45']
+27,Watch_1,-4.177412,0.42478323,2.248753,False,False,False,True,1.89687109,['TableTop|-04.00|+00.01|+02.45']
+28,Window (2),-6.041,1.551,2.103,False,False,False,False,3.71148443,
+29,Window,-6.041,1.532,0.859,False,False,False,False,4.186858,
+30,Window (1),-6.041,1.532,4.237,False,False,False,False,3.80474257,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Dresser,-5.77,0.021,2.401,True,False,False,False,4.87089252,
+2,Drawer,-5.578254,0.5176612,2.127,True,False,True,False,4.597833,
+3,ArmChair,-1.319,0.0,3.645,True,False,False,False,1.91258073,
+4,Table,-0.205,0.021,1.521,True,False,False,False,1.29358411,
+5,Chair (1),-2.162,0.021,3.876,False,False,False,False,2.38359261,
+6,Chair (2),-0.727,0.021,0.499,False,False,False,False,1.77184188,
+7,CoffeeTable,-3.041977,0.026,2.340179,True,False,False,False,2.255726,
+8,Table,-5.569,0.021,0.293,True,False,False,False,4.95999,
+9,Sofa,-3.126,0.02401483,0.41,True,False,False,False,2.80257845,
+10,Drawer (3),-5.578254,0.206,2.683,True,False,True,False,4.6839757,
+11,Drawer (1),-5.578254,0.5176612,2.683,True,False,True,False,4.64655066,
+12,Drawer (2),-5.578254,0.205999941,2.127,True,False,True,False,4.635652,
+13,Chair,-4.005,0.021,3.896,False,False,False,False,3.66561532,
+14,Table,-0.306,0.021,0.62,True,False,False,False,1.78827572,
+15,Keychain_3,-2.576999,0.410343319,2.49801731,False,False,False,True,1.73112464,['TableTop|-03.04|+00.03|+02.34']
+16,pillow_29,-2.147,0.615,0.59,False,False,False,True,1.84336376,['Sofa|-03.13|+00.02|+00.41']
+17,Floor_Lamp_29,-0.199,0.02105236,4.493,False,True,False,False,2.76919651,
+18,Watering_Can_1,-5.23875952,0.0201934874,0.136438161,False,False,False,True,4.71733952,
+19,Tissue_Box_1,-0.3121711,0.7645197,1.07190454,False,False,False,True,1.16588426,['TableTop|-00.31|+00.02|+00.62']
+20,bin_29,-5.822422,0.02105236,4.656466,True,False,False,False,5.57892132,
+21,Open_Book_1,-2.821,0.416268438,2.180002,False,False,False,True,1.89848852,['TableTop|-03.04|+00.03|+02.34']
+22,Houseplant_29,-5.53835773,0.7217709,0.3030692,False,False,False,False,4.84936857,['TableTop|-05.57|+00.02|+00.29']
+23,CreditCard_4,-0.396,0.765,0.367,False,False,False,True,1.74819052,['TableTop|-00.31|+00.02|+00.62']
+24,Remote_3,-2.51947832,0.412885427,0.5717587,False,False,False,True,2.14661074,['Sofa|-03.13|+00.02|+00.41']
+25,Dog_Statue_3,-2.99,0.41,2.473,False,False,False,True,2.10856,['TableTop|-03.04|+00.03|+02.34']
+26,Boot_1,0.03400735,0.0218886733,3.09199071,False,False,False,True,1.7526859,
+27,LightSwitch29,-2.499,1.526,4.851,False,True,False,False,3.277187,
+28,Window (1),0.13,2.384,2.415,False,False,False,False,1.89378417,
+29,Painting,-0.048,1.221,0.462,False,False,False,False,1.83333528,
+30,Painting,-0.048,1.868,0.50487,False,False,False,False,2.00911331,
+31,Cellphone_3,-5.33967733,0.72269696,0.240107968,False,False,False,True,4.687191,['TableTop|-05.57|+00.02|+00.29']
+32,Pen_4,-0.38241303,0.770164549,0.239342362,False,False,False,True,1.87200391,['TableTop|-00.31|+00.02|+00.62']
+33,Television_29,-5.763,1.206,2.394,False,False,False,False,4.787696,['Dresser|-05.77|+00.02|+02.40']
+34,Laptop_29,-0.334,0.765,0.722,False,True,True,True,1.449657,['TableTop|-00.31|+00.02|+00.62']
+35,Window,0.173,1.736,3.508,False,False,False,False,2.076657,
+36,Window,0.173,1.736,1.384,False,False,False,False,1.55495882,
+37,Window,0.173,1.021,2.4429,False,False,False,False,1.2577281,
+38,DecorativeBox4,-3.446,0.41,2.418,True,False,False,True,2.53373981,['TableTop|-03.04|+00.03|+02.34']
+39,Statue_Jacket_3,-0.181592539,0.7597089,1.55292177,False,False,False,True,0.9465859,['TableTop|-00.21|+00.02|+01.52']
+40,Painting (1),-0.995,1.704,0.035,False,False,False,False,2.11487436,
+41,Painting,-3.3093,1.667,0.035,False,False,False,False,3.12234521,
+42,Pencil_3,-0.317829639,0.769247353,0.159250051,False,False,False,True,1.96902668,['TableTop|-00.31|+00.02|+00.62']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Table,-2.903,0.0143,2.225,True,False,False,False,2.38226581,
+2,Chair,-0.329,0.021,0.998,False,False,False,False,5.0752306,
+3,Chair,-3.327,0.007,1.702,False,False,False,False,2.52636,
+4,CoffeeTable,-3.237,0.01,6.599,True,False,False,False,3.24327517,
+5,Sofa,-1.735,-0.084,6.448,True,False,False,False,3.9886086,
+6,Chair (3),-3.327,0.007,2.74,False,False,False,False,1.79117036,
+7,Chair (2),-2.353,0.007,2.745,False,False,False,False,2.53611827,
+8,ArmChair (1),-3.663,0.0009313226,4.56,True,False,False,False,1.47645056,
+9,Table (1),-0.527,0.661,8.522,True,False,False,False,6.21432638,
+10,CoffeeTable (1),-3.13,0.0195,8.534,True,False,False,False,5.055042,
+11,Chair (1),-2.477,0.007,1.629,False,False,False,False,3.06650162,
+12,ArmChair,-2.691,0.0009313226,4.616,True,False,False,False,2.20128942,
+13,Table,-0.396,0.661,0.357,True,False,False,False,5.33070374,
+14,Mirror,-5.49,1.825,6.505,False,False,False,False,3.06766129,
+15,Floor_Lamp_30,-5.64571667,0.007256858,8.526525,False,True,False,False,4.99396133,
+16,Keychain_3,-1.9476707,0.775852561,1.80608821,False,False,False,True,3.211029,['TableTop|-02.90|+00.01|+02.23']
+17,Candle_6,-0.5625617,0.667834938,0.3968589,False,False,False,True,5.177333,['TableTop|-00.40|+00.66|+00.36']
+18,pillow_30,-1.721,0.519,5.725,False,False,False,True,3.43147,['Sofa|-01.74|-00.08|+06.45']
+19,Houseplant_30,-3.204,0.451,6.799,False,False,False,False,3.344413,['TableTop|-03.24|+00.01|+06.60']
+20,Houseplant_30,-5.359,1.475,5.443,False,False,False,False,1.98124433,
+21,Candle_5,-0.6246592,0.667834938,8.444735,False,False,False,True,6.09234,['TableTop|-00.53|+00.66|+08.52']
+22,bin_30,-5.745,0.007256858,0.261,True,False,False,False,3.81247234,
+23,Tissue_Box_1,-2.988,0.525082,8.331,False,False,False,True,4.83926964,['TableTop|-03.13|+00.02|+08.53']
+24,Laptop_30,-3.216764,0.4506064,6.33357048,False,True,True,True,2.92078328,['TableTop|-03.24|+00.01|+06.60']
+25,Television_30,-3.114,1.016,8.708,False,False,False,False,5.14921045,['TableTop|-03.13|+00.02|+08.53']
+26,Newspaper_3,-3.299,0.775,2.456,False,False,False,True,1.77047837,['TableTop|-02.90|+00.01|+02.23']
+27,CreditCard_4,-2.361024,0.7751794,2.75662374,False,False,False,True,2.362144,['TableTop|-02.90|+00.01|+02.23']
+28,Remote_3,-3.52593851,0.451959431,7.08106136,False,False,False,True,3.50042439,['TableTop|-03.24|+00.01|+06.60']
+29,Boot_1,-5.786994,0.00790077448,4.81798744,False,False,False,True,1.89936566,
+30,Candle_1,-3.31317,0.4506064,7.04997969,False,False,False,True,3.53664732,['TableTop|-03.24|+00.01|+06.60']
+31,Dog_Statue_4,-3.417,0.525082,8.406,False,False,False,True,4.795628,['TableTop|-03.13|+00.02|+08.53']
+32,Stone_Statue_1,-2.71359587,0.902,2.29446149,False,False,False,True,2.30431581,['TableTop|-02.90|+00.01|+02.23']
+33,LightSwitch30,-6.0,1.338,3.433,False,True,False,False,1.5922215,
+34,Painting,-5.955,1.527,1.1532,False,False,False,False,3.04026937,
+35,DecorativeBox4,-3.76523972,0.7751794,2.58557367,True,False,False,True,1.38328254,['TableTop|-02.90|+00.01|+02.23']
+36,Watch_1,-2.98241544,0.450789541,7.20179844,False,False,False,True,3.7983222,['TableTop|-03.24|+00.01|+06.60']
+37,Window (6),0.051,1.204,6.896,False,False,False,False,5.5404315,
+38,Window,-4.8559,1.204,-0.045,False,False,False,False,3.823108,
+39,Window (5),0.051,1.204,4.924,False,False,False,False,4.7092824,
+40,Window (4),0.051,1.204,2.986,False,False,False,False,4.62415,
+41,Window (3),0.051,1.204,1.088,False,False,False,False,5.28065443,
+42,Window (1),-2.942,1.204,-0.045,False,False,False,False,4.11301041,
+43,Window (2),-1.057,1.204,-0.045,False,False,False,False,5.132615,
+44,Desk_Lamp_10,-0.4319012,0.6788865,8.643852,False,True,False,False,6.368032,['TableTop|-00.53|+00.66|+08.52']
+45,Desk_Lamp_10 (1),-0.346580058,0.6788865,0.335445374,False,True,False,False,5.38169956,['TableTop|-00.40|+00.66|+00.36']

@@ -1,0 +1,148 @@
+id	name	x	y	z	receptacle	toggleable	openable	pickupable	distance	parentReceptacles
+1	GasBurner (1)	-0.0361	0.9151	-2.3722	True	False	False	False	0.658091843	
+2	Drawer (4)	0.95	0.8328	-2.197	True	False	True	False	1.28236508	
+3	Drawer (8)	-1.561	0.8396	0.2045	True	False	True	False	2.3542645	
+4	GasBurner (3)	-0.4652	0.9151	-2.372	True	False	False	False	0.658326566	
+5	Drawer (7)	-1.561	0.8396	-0.1971	True	False	True	False	2.03322148	
+6	CounterTop_Physics	-0.079	1.1471	-0.001	True	False	False	False	1.774488	
+7	StoveKnob (1)	-0.180900007	0.8814	-2.1876	False	False	False	False	0.4434553	
+8	Cabinet	-1.55	0.494999975	-1.96499991	True	False	True	False	1.37878942	
+9	CounterTop_Physics (1)	0.693	0.9462	-2.484	True	False	False	False	1.1958462	
+10	GasBurner	-0.0361	0.9151	-2.5762	True	False	False	False	0.8535564	
+11	Drawer (2)	0.95	0.394	-2.201	True	False	True	False	1.37856781	
+12	Drawer (3)	0.95	0.7081	-2.2002	True	False	True	False	1.29610586	
+13	StoveKnob (2)	-0.326	0.8814	-2.1876	False	False	False	False	0.444582731	
+14	Cabinet	-1.55	0.494999975	0.38	True	False	True	False	2.52818823	
+15	StoveKnob	-0.0220000148	0.8814	-2.1876	False	False	False	False	0.493823647	
+16	Drawer	0.95	0.56	-2.2011	True	False	True	False	1.326564	
+17	GasBurner (2)	-0.4652	0.9151	-2.576	True	False	False	False	0.853689551	
+18	Window	-2.23	1.43	-1.204	False	False	False	False	2.12093329	
+19	StoveKnob (3)	-0.4804	0.8814	-2.1876	False	False	False	False	0.494936317	
+20	Sink	-1.9	0.965	-1.5	False	False	False	False	1.67005873	
+21	Cabinet (1)	-0.7278	2.015	-2.46	True	False	True	False	1.40477431	
+22	Drawer (5)	-1.5604	0.6552	-0.197	True	False	True	False	2.046796	
+23	Cabinet	-1.6853	2.015	-2.4616	True	False	True	False	1.951271	
+24	Cabinet	0.68	0.494999975	-2.2	True	False	True	False	1.110061	
+25	Cabinet	-1.18	0.494999975	-2.2	True	False	True	False	1.11006093	
+26	Cabinet	-1.8499999	2.015	0.38	True	False	True	False	2.887542	
+27	Drawer (1)	0.95	0.221	-2.201	True	False	True	False	1.45113742	
+28	Cabinet	0.719999969	2.015	-2.46	True	False	True	False	1.63890147	
+29	Drawer (6)	-1.5604	0.331	-0.197	True	False	True	False	2.11041617	
+30	Cabinet	0.68	2.015	-2.46	True	False	True	False	1.61554885	
+31	CounterTop_Physics (1)	-1.868	0.9469	-1.206	True	False	False	False	1.70762026	
+32	Chair_4	0.6651435	0.726663351	0.566275358	False	False	False	False	2.49660015	
+33	Bottle_1	1.573	0.871	-2.553	False	False	False	True	1.99224436	['Shelf|+01.80|+00.87|-02.56']
+34	Knife_1	-1.68350029	0.7909155	-0.241200075	False	False	False	True	2.084111	['Drawer|-01.56|+00.84|-00.20']
+35	Microwave_1	-0.237	1.689	-2.5251	True	False	True	False	1.10539329	
+36	bread_1	-0.5223836	1.170449	-0.02827997	False	False	False	True	1.76383555	['CounterTop|-00.08|+01.15|00.00']
+37	Fork_1	0.949	0.7665	-2.3557	False	False	False	True	1.35002351	['Drawer|+00.95|+00.83|-02.20']
+38	Shelf (2)	1.804	0.8699999	-2.5636	True	False	False	False	2.20948458	
+39	Potato_1	-1.6557	0.9245	-2.1506	False	False	False	True	1.46185672	['CounterTop|-01.87|+00.95|-01.21']
+40	Houseplant_1	-0.926	0.9	-2.578	False	False	False	False	1.06890655	['CounterTop|-01.87|+00.95|-01.21']
+41	toaster_1	-1.844	0.900000453	0.127	False	False	False	False	2.462512	['CounterTop|-01.87|+00.95|-01.21']
+42	Soap_Bottle_1	-1.99149311	0.9	-2.03231072	False	False	False	True	1.76422751	['CounterTop|-01.87|+00.95|-01.21']
+43	Kettle_1	1.03734124	0.9	-2.59614682	False	False	False	True	1.54052353	['CounterTop|+00.69|+00.95|-02.48']
+44	Shelf (3)	1.80439973	0.5420361	-2.5629	True	False	False	False	2.23835182	
+45	Pan_1	0.7211994	0.9	-2.41542959	True	False	False	True	1.17729592	['CounterTop|+00.69|+00.95|-02.48']
+46	Plate_1	0.9559944	1.6461308	-2.60619974	True	False	False	True	1.65611637	['Cabinet|+00.72|+02.02|-02.46']
+47	Tomato_1	-0.385065854	1.13703358	-0.8120054	False	False	False	True	0.976621151	['CounterTop|-00.08|+01.15|00.00']
+48	Glass_Vase_3	2.042472	0.5407073	-2.49500537	False	False	False	True	2.437267	['Shelf|+01.80|+00.54|-02.56']
+49	bin_1	-1.935	0.0	2.029	True	False	False	False	4.2346034	
+50	Egg_1	-2.004253	0.8275	1.30138755	False	False	False	True	3.52047873	['Fridge|-02.10|+00.00|+01.09']
+51	CreditCard_4	-0.4636646	1.0999999	0.8652697	False	False	False	True	2.63151836	['CounterTop|-00.08|+01.15|00.00']
+52	Hand_Statue_1	1.955	0.168442056	-2.543	False	False	False	True	2.45509958	['Shelf|+01.80|+00.16|-02.56']
+53	Bowl_1	0.233064026	1.10190892	-0.616588	True	False	False	True	1.24833417	['CounterTop|-00.08|+01.15|00.00']
+54	Chair_4 (1)	0.622224569	0.726425052	-0.514152169	False	False	False	False	1.52268577	
+55	Wine_Bottle_1	-1.00100935	1.64499974	-2.583835	False	False	False	True	1.34641469	['Cabinet|-00.73|+02.02|-02.46']
+56	Mug_1	-1.76081419	0.900009036	-0.620605946	True	False	False	True	1.88629043	['CounterTop|-01.87|+00.95|-01.21']
+57	Pot_1	-1.219	0.9	-2.356	True	False	False	True	1.1428901	['CounterTop|-01.87|+00.95|-01.21']
+58	Spatula_1	0.381	0.909	-2.333	False	False	False	True	0.8591356	['CounterTop|+00.69|+00.95|-02.48']
+59	Paper_Towel_1	-2.06280613	1.011653	-0.814987063	False	False	False	True	2.04273343	['CounterTop|-01.87|+00.95|-01.21']
+60	Cup_1	0.371348977	1.6447	-2.57917619	True	False	False	True	1.275421	['Cabinet|+00.68|+02.02|-02.46']
+61	Vase_Flat_2	1.73570693	0.5404984	-2.49001765	False	False	False	True	2.14956236	['Shelf|+01.80|+00.54|-02.56']
+62	Shelf (1)	1.80460024	0.1616996	-2.5629	True	False	False	False	2.32996821	
+63	Fridge_1	-2.097	0.0	1.088	True	False	True	False	3.5039196	
+64	coffee_machine_1	-1.997	0.9	-0.169	True	False	False	False	2.356177	['CounterTop|-01.87|+00.95|-01.21']
+65	SinkBasin	-1.9081	0.7592	-1.4888	True	False	False	False	1.68452609	
+66	Salt_Shaker_1	0.346776128	0.9	-2.566875	False	False	False	True	1.01164591	['CounterTop|+00.69|+00.95|-02.48']
+67	Pepper_Shaker_1	0.300027	0.9	-2.46544218	False	False	False	True	0.9024346	['CounterTop|+00.69|+00.95|-02.48']
+68	Lettuce_1	-1.8069762	0.9737617	-0.94299376	False	False	False	True	1.75520039	['CounterTop|-01.87|+00.95|-01.21']
+69	ButterKnife_1	-0.41	1.1	-0.462	False	False	False	True	1.31306708	['CounterTop|-00.08|+01.15|00.00']
+70	Apple1	-0.465135336	1.1541	0.475644678	False	False	False	True	2.250297	['CounterTop|-00.08|+01.15|00.00']
+71	Dish_Sponge_1	-1.93768656	0.750637352	-1.71058786	False	False	False	True	1.69482982	['Sink|-01.90|+00.97|-01.50|SinkBasin']
+72	Spoon_1	0.985	0.7665	-2.2654	False	False	False	True	1.344973	['Drawer|+00.95|+00.83|-02.20']
+73	LightSwitch1	2.33	1.309	-0.16	False	True	False	False	3.05793476	
+id	name	x	y	z	receptacle	toggleable	openable	pickupable	distance	parentReceptacles
+1	GasBurner (1)	-0.0361	0.9151	-2.3722	True	False	False	False	0.658091843	
+2	Drawer (4)	0.95	0.8328	-2.197	True	False	True	False	1.28236508	
+3	Drawer (8)	-1.561	0.8396	0.2045	True	False	True	False	2.3542645	
+4	GasBurner (3)	-0.4652	0.9151	-2.372	True	False	False	False	0.658326566	
+5	Drawer (7)	-1.561	0.8396	-0.1971	True	False	True	False	2.03322148	
+6	CounterTop_Physics	-0.079	1.1471	-0.001	True	False	False	False	1.774488	
+7	StoveKnob (1)	-0.180900007	0.8814	-2.1876	False	False	False	False	0.4434553	
+8	Cabinet	-1.55	0.494999975	-1.96499991	True	False	True	False	1.37878942	
+9	CounterTop_Physics (1)	0.693	0.9462	-2.484	True	False	False	False	1.1958462	
+10	GasBurner	-0.0361	0.9151	-2.5762	True	False	False	False	0.8535564	
+11	Drawer (2)	0.95	0.394	-2.201	True	False	True	False	1.37856781	
+12	Drawer (3)	0.95	0.7081	-2.2002	True	False	True	False	1.29610586	
+13	StoveKnob (2)	-0.326	0.8814	-2.1876	False	False	False	False	0.444582731	
+14	Cabinet	-1.55	0.494999975	0.38	True	False	True	False	2.52818823	
+15	StoveKnob	-0.0220000148	0.8814	-2.1876	False	False	False	False	0.493823647	
+16	Drawer	0.95	0.56	-2.2011	True	False	True	False	1.326564	
+17	GasBurner (2)	-0.4652	0.9151	-2.576	True	False	False	False	0.853689551	
+18	Window	-2.23	1.43	-1.204	False	False	False	False	2.12093329	
+19	StoveKnob (3)	-0.4804	0.8814	-2.1876	False	False	False	False	0.494936317	
+20	Sink	-1.9	0.965	-1.5	False	False	False	False	1.67005873	
+21	Cabinet (1)	-0.7278	2.015	-2.46	True	False	True	False	1.40477431	
+22	Drawer (5)	-1.5604	0.6552	-0.197	True	False	True	False	2.046796	
+23	Cabinet	-1.6853	2.015	-2.4616	True	False	True	False	1.951271	
+24	Cabinet	0.68	0.494999975	-2.2	True	False	True	False	1.110061	
+25	Cabinet	-1.18	0.494999975	-2.2	True	False	True	False	1.11006093	
+26	Cabinet	-1.8499999	2.015	0.38	True	False	True	False	2.887542	
+27	Drawer (1)	0.95	0.221	-2.201	True	False	True	False	1.45113742	
+28	Cabinet	0.719999969	2.015	-2.46	True	False	True	False	1.63890147	
+29	Drawer (6)	-1.5604	0.331	-0.197	True	False	True	False	2.11041617	
+30	Cabinet	0.68	2.015	-2.46	True	False	True	False	1.61554885	
+31	CounterTop_Physics (1)	-1.868	0.9469	-1.206	True	False	False	False	1.70762026	
+32	Chair_4	0.6651435	0.726663351	0.566275358	False	False	False	False	2.49660015	
+33	Bottle_1	1.573	0.871	-2.553	False	False	False	True	1.99224436	['Shelf|+01.80|+00.87|-02.56']
+34	Knife_1	-1.68350029	0.7909155	-0.241200075	False	False	False	True	2.084111	['Drawer|-01.56|+00.84|-00.20']
+35	Microwave_1	-0.237	1.689	-2.5251	True	False	True	False	1.10539329	
+36	bread_1	-0.5223836	1.170449	-0.02827997	False	False	False	True	1.76383555	['CounterTop|-00.08|+01.15|00.00']
+37	Fork_1	0.949	0.7665	-2.3557	False	False	False	True	1.35002351	['Drawer|+00.95|+00.83|-02.20']
+38	Shelf (2)	1.804	0.8699999	-2.5636	True	False	False	False	2.20948458	
+39	Potato_1	-1.6557	0.9245	-2.1506	False	False	False	True	1.46185672	['CounterTop|-01.87|+00.95|-01.21']
+40	Houseplant_1	-0.926	0.9	-2.578	False	False	False	False	1.06890655	['CounterTop|-01.87|+00.95|-01.21']
+41	toaster_1	-1.844	0.900000453	0.127	False	False	False	False	2.462512	['CounterTop|-01.87|+00.95|-01.21']
+42	Soap_Bottle_1	-1.99149311	0.9	-2.03231072	False	False	False	True	1.76422751	['CounterTop|-01.87|+00.95|-01.21']
+43	Kettle_1	1.03734124	0.9	-2.59614682	False	False	False	True	1.54052353	['CounterTop|+00.69|+00.95|-02.48']
+44	Shelf (3)	1.80439973	0.5420361	-2.5629	True	False	False	False	2.23835182	
+45	Pan_1	0.7211994	0.9	-2.41542959	True	False	False	True	1.17729592	['CounterTop|+00.69|+00.95|-02.48']
+46	Plate_1	0.9559944	1.6461308	-2.60619974	True	False	False	True	1.65611637	['Cabinet|+00.72|+02.02|-02.46']
+47	Tomato_1	-0.385065854	1.13703358	-0.8120054	False	False	False	True	0.976621151	['CounterTop|-00.08|+01.15|00.00']
+48	Glass_Vase_3	2.042472	0.5407073	-2.49500537	False	False	False	True	2.437267	['Shelf|+01.80|+00.54|-02.56']
+49	bin_1	-1.935	0.0	2.029	True	False	False	False	4.2346034	
+50	Egg_1	-2.004253	0.8275	1.30138755	False	False	False	True	3.52047873	['Fridge|-02.10|+00.00|+01.09']
+51	CreditCard_4	-0.4636646	1.0999999	0.8652697	False	False	False	True	2.63151836	['CounterTop|-00.08|+01.15|00.00']
+52	Hand_Statue_1	1.955	0.168442056	-2.543	False	False	False	True	2.45509958	['Shelf|+01.80|+00.16|-02.56']
+53	Bowl_1	0.233064026	1.10190892	-0.616588	True	False	False	True	1.24833417	['CounterTop|-00.08|+01.15|00.00']
+54	Chair_4 (1)	0.622224569	0.726425052	-0.514152169	False	False	False	False	1.52268577	
+55	Wine_Bottle_1	-1.00100935	1.64499974	-2.583835	False	False	False	True	1.34641469	['Cabinet|-00.73|+02.02|-02.46']
+56	Mug_1	-1.76081419	0.900009036	-0.620605946	True	False	False	True	1.88629043	['CounterTop|-01.87|+00.95|-01.21']
+57	Pot_1	-1.219	0.9	-2.356	True	False	False	True	1.1428901	['CounterTop|-01.87|+00.95|-01.21']
+58	Spatula_1	0.381	0.909	-2.333	False	False	False	True	0.8591356	['CounterTop|+00.69|+00.95|-02.48']
+59	Paper_Towel_1	-2.06280613	1.011653	-0.814987063	False	False	False	True	2.04273343	['CounterTop|-01.87|+00.95|-01.21']
+60	Cup_1	0.371348977	1.6447	-2.57917619	True	False	False	True	1.275421	['Cabinet|+00.68|+02.02|-02.46']
+61	Vase_Flat_2	1.73570693	0.5404984	-2.49001765	False	False	False	True	2.14956236	['Shelf|+01.80|+00.54|-02.56']
+62	Shelf (1)	1.80460024	0.1616996	-2.5629	True	False	False	False	2.32996821	
+63	Fridge_1	-2.097	0.0	1.088	True	False	True	False	3.5039196	
+64	coffee_machine_1	-1.997	0.9	-0.169	True	False	False	False	2.356177	['CounterTop|-01.87|+00.95|-01.21']
+65	SinkBasin	-1.9081	0.7592	-1.4888	True	False	False	False	1.68452609	
+66	Salt_Shaker_1	0.346776128	0.9	-2.566875	False	False	False	True	1.01164591	['CounterTop|+00.69|+00.95|-02.48']
+67	Pepper_Shaker_1	0.300027	0.9	-2.46544218	False	False	False	True	0.9024346	['CounterTop|+00.69|+00.95|-02.48']
+68	Lettuce_1	-1.8069762	0.9737617	-0.94299376	False	False	False	True	1.75520039	['CounterTop|-01.87|+00.95|-01.21']
+69	ButterKnife_1	-0.41	1.1	-0.462	False	False	False	True	1.31306708	['CounterTop|-00.08|+01.15|00.00']
+70	Apple1	-0.465135336	1.1541	0.475644678	False	False	False	True	2.250297	['CounterTop|-00.08|+01.15|00.00']
+71	Dish_Sponge_1	-1.93768656	0.750637352	-1.71058786	False	False	False	True	1.69482982	['Sink|-01.90|+00.97|-01.50|SinkBasin']
+72	Spoon_1	0.985	0.7665	-2.2654	False	False	False	True	1.344973	['Drawer|+00.95|+00.83|-02.20']
+73	LightSwitch1	2.33	1.309	-0.16	False	True	False	False	3.05793476	

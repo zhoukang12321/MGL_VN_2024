@@ -1,0 +1,2091 @@
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,GasBurner (1),-0.0361,0.9151,-2.3722,True,False,False,False,0.8214225,
+2,Drawer (4),0.95,0.8328,-2.197,True,False,True,False,0.637934268,
+3,Drawer (8),-1.561,0.8396,0.2045,True,False,True,False,2.84104919,
+4,GasBurner (3),-0.4652,0.9151,-2.372,True,False,False,False,1.14834392,
+5,Drawer (7),-1.561,0.8396,-0.1971,True,False,True,False,2.58127666,
+6,CounterTop_Physics,-0.079,1.1471,-0.001,True,False,False,False,1.85871124,
+7,StoveKnob (1),-0.180900007,0.8814,-2.1876,False,False,False,False,0.8096311,
+8,Cabinet,-1.55,0.494999975,-1.96499991,True,False,True,False,2.10084748,
+9,CounterTop_Physics (1),0.693,0.9462,-2.484,True,False,False,False,0.760294735,
+10,GasBurner,-0.0361,0.9151,-2.5762,True,False,False,False,0.9849916,
+11,Drawer (2),0.95,0.394,-2.201,True,False,True,False,0.8142169,
+12,Drawer (3),0.95,0.7081,-2.2002,True,False,True,False,0.6651242,
+13,StoveKnob (2),-0.326,0.8814,-2.1876,False,False,False,False,0.9349619,
+14,Cabinet,-1.55,0.494999975,0.38,True,False,True,False,2.98399663,
+15,StoveKnob,-0.0220000148,0.8814,-2.1876,False,False,False,False,0.681441,
+16,Drawer,0.95,0.56,-2.2011,True,False,True,False,0.7226837,
+17,GasBurner (2),-0.4652,0.9151,-2.576,True,False,False,False,1.2704668,
+18,Window,-2.23,1.43,-1.204,False,False,False,False,2.83387685,
+19,StoveKnob (3),-0.4804,0.8814,-2.1876,False,False,False,False,1.07380724,
+20,Sink,-1.9,0.965,-1.5,False,False,False,False,2.41383433,
+21,Cabinet (1),-0.7278,2.015,-2.46,True,False,True,False,1.8034941,
+22,Drawer (5),-1.5604,0.6552,-0.197,True,False,True,False,2.591809,
+23,Cabinet,-1.6853,2.015,-2.4616,True,False,True,False,2.55399847,
+24,Cabinet,0.68,0.494999975,-2.2,True,False,True,False,0.6322463,
+25,Cabinet,-1.18,0.494999975,-2.2,True,False,True,False,1.785983,
+26,Cabinet,-1.8499999,2.015,0.38,True,False,True,False,3.36160636,
+27,Drawer (1),0.95,0.221,-2.201,True,False,True,False,0.931826055,
+28,Cabinet,0.719999969,2.015,-2.46,True,False,True,False,1.3392154,
+29,Drawer (6),-1.5604,0.331,-0.197,True,False,True,False,2.64233923,
+30,Cabinet,0.68,2.015,-2.46,True,False,True,False,1.33322847,
+31,CounterTop_Physics (1),-1.868,0.9469,-1.206,True,False,False,False,2.43011665,
+32,Chair_4,0.6651435,0.726663351,0.566275358,False,False,False,False,2.32868981,
+33,Bottle_1,1.573,0.871,-2.553,False,False,False,True,1.34053636,['Shelf|+01.80|+00.87|-02.56']
+34,Knife_1,-1.68350029,0.7909155,-0.241200075,False,False,False,True,2.656364,['Drawer|-01.56|+00.84|-00.20']
+35,Microwave_1,-0.237,1.689,-2.5251,True,False,True,False,1.32849324,
+36,bread_1,-0.5223836,1.170449,-0.02827997,False,False,False,True,2.0204432,['CounterTop|-00.08|+01.15|00.00']
+37,Fork_1,0.949,0.7665,-2.3557,False,False,False,True,0.7658743,['Drawer|+00.95|+00.83|-02.20']
+38,Shelf (2),1.804,0.8699999,-2.5636,True,False,False,False,1.53731,
+39,Potato_1,-1.6557,0.9245,-2.1506,False,False,False,True,2.19273233,['CounterTop|-01.87|+00.95|-01.21']
+40,Houseplant_1,-0.926,0.9,-2.578,False,False,False,False,1.64895761,['CounterTop|-01.87|+00.95|-01.21']
+41,toaster_1,-1.844,0.900000453,0.127,False,False,False,False,3.00290942,['CounterTop|-01.87|+00.95|-01.21']
+42,Soap_Bottle_1,-1.99149311,0.9,-2.03231072,False,False,False,True,2.50743675,['CounterTop|-01.87|+00.95|-01.21']
+43,Kettle_1,1.03734124,0.9,-2.59614682,False,False,False,True,1.00234771,['CounterTop|+00.69|+00.95|-02.48']
+44,Shelf (3),1.80439973,0.5420361,-2.5629,True,False,False,False,1.57832813,
+45,Pan_1,0.7211994,0.9,-2.41542959,True,False,False,True,0.7012323,['CounterTop|+00.69|+00.95|-02.48']
+46,Plate_1,0.9559944,1.6461308,-2.60619974,True,False,False,True,1.22320485,['Cabinet|+00.72|+02.02|-02.46']
+47,Tomato_1,-0.385065854,1.13703358,-0.8120054,False,False,False,True,1.31106353,['CounterTop|-00.08|+01.15|00.00']
+48,Glass_Vase_3,2.042472,0.5407073,-2.49500537,False,False,False,True,1.75044644,['Shelf|+01.80|+00.54|-02.56']
+49,bin_1,-1.935,0.0,2.029,True,False,False,False,4.584961,
+50,Egg_1,-2.004253,0.8275,1.30138755,False,False,False,True,3.94811988,['Fridge|-02.10|+00.00|+01.09']
+51,CreditCard_4,-0.4636646,1.0999999,0.8652697,False,False,False,True,2.79425955,['CounterTop|-00.08|+01.15|00.00']
+52,Hand_Statue_1,1.955,0.168442056,-2.543,False,False,False,True,1.811771,['Shelf|+01.80|+00.16|-02.56']
+53,Bowl_1,0.233064026,1.10190892,-0.616588,True,False,False,True,1.18162692,['CounterTop|-00.08|+01.15|00.00']
+54,Chair_4 (1),0.622224569,0.726425052,-0.514152169,False,False,False,False,1.25408721,
+55,Wine_Bottle_1,-1.00100935,1.64499974,-2.583835,False,False,False,True,1.87132215,['Cabinet|-00.73|+02.02|-02.46']
+56,Mug_1,-1.76081419,0.900009036,-0.620605946,True,False,False,True,2.52721453,['CounterTop|-01.87|+00.95|-01.21']
+57,Pot_1,-1.219,0.9,-2.356,True,False,False,True,1.82268977,['CounterTop|-01.87|+00.95|-01.21']
+58,Spatula_1,0.381,0.909,-2.333,False,False,False,True,0.5950747,['CounterTop|+00.69|+00.95|-02.48']
+59,Paper_Towel_1,-2.06280613,1.011653,-0.814987063,False,False,False,True,2.73028731,['CounterTop|-01.87|+00.95|-01.21']
+60,Cup_1,0.371348977,1.6447,-2.57917619,True,False,False,True,1.12123823,['Cabinet|+00.68|+02.02|-02.46']
+61,Vase_Flat_2,1.73570693,0.5404984,-2.49001765,False,False,False,True,1.48477566,['Shelf|+01.80|+00.54|-02.56']
+62,Shelf (1),1.80460024,0.1616996,-2.5629,True,False,False,False,1.7056824,
+63,Fridge_1,-2.097,0.0,1.088,True,False,True,False,3.95100665,
+64,coffee_machine_1,-1.997,0.9,-0.169,True,False,False,False,2.95543075,['CounterTop|-01.87|+00.95|-01.21']
+65,SinkBasin,-1.9081,0.7592,-1.4888,True,False,False,False,2.42637157,
+66,Salt_Shaker_1,0.346776128,0.9,-2.566875,False,False,False,True,0.8311217,['CounterTop|+00.69|+00.95|-02.48']
+67,Pepper_Shaker_1,0.300027,0.9,-2.46544218,False,False,False,True,0.742864549,['CounterTop|+00.69|+00.95|-02.48']
+68,Lettuce_1,-1.8069762,0.9737617,-0.94299376,False,False,False,True,2.44513655,['CounterTop|-01.87|+00.95|-01.21']
+69,ButterKnife_1,-0.41,1.1,-0.462,False,False,False,True,1.58954239,['CounterTop|-00.08|+01.15|00.00']
+70,Apple1,-0.465135336,1.1541,0.475644678,False,False,False,True,2.43906546,['CounterTop|-00.08|+01.15|00.00']
+71,Dish_Sponge_1,-1.93768656,0.750637352,-1.71058786,False,False,False,True,2.44263744,['Sink|-01.90|+00.97|-01.50|SinkBasin']
+72,Spoon_1,0.985,0.7665,-2.2654,False,False,False,True,0.720383346,['Drawer|+00.95|+00.83|-02.20']
+73,LightSwitch1,2.33,1.309,-0.16,False,True,False,False,2.458346,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,GasBurner (1),-0.0361,0.9151,-2.3722,True,False,False,False,0.6234059,
+2,Drawer (4),0.95,0.8328,-2.197,True,False,True,False,1.05212176,
+3,Drawer (8),-1.561,0.8396,0.2045,True,False,True,False,2.5021112,
+4,GasBurner (3),-0.4652,0.9151,-2.372,True,False,False,False,0.7768487,
+5,Drawer (7),-1.561,0.8396,-0.1971,True,False,True,False,2.20272326,
+6,CounterTop_Physics,-0.079,1.1471,-0.001,True,False,False,False,1.76799536,
+7,StoveKnob (1),-0.180900007,0.8814,-2.1876,False,False,False,False,0.47392258,
+8,Cabinet,-1.55,0.494999975,-1.96499991,True,False,True,False,1.61665094,
+9,CounterTop_Physics (1),0.693,0.9462,-2.484,True,False,False,False,1.0104692,
+10,GasBurner,-0.0361,0.9151,-2.5762,True,False,False,False,0.8271085,
+11,Drawer (2),0.95,0.394,-2.201,True,False,True,False,1.16745412,
+12,Drawer (3),0.95,0.7081,-2.2002,True,False,True,False,1.06882656,
+13,StoveKnob (2),-0.326,0.8814,-2.1876,False,False,False,False,0.5460346,
+14,Cabinet,-1.55,0.494999975,0.38,True,False,True,False,2.66537714,
+15,StoveKnob,-0.0220000148,0.8814,-2.1876,False,False,False,False,0.4385907,
+16,Drawer,0.95,0.56,-2.2011,True,False,True,False,1.105564,
+17,GasBurner (2),-0.4652,0.9151,-2.576,True,False,False,False,0.9480959,
+18,Window,-2.23,1.43,-1.204,False,False,False,False,2.356026,
+19,StoveKnob (3),-0.4804,0.8814,-2.1876,False,False,False,False,0.65012455,
+20,Sink,-1.9,0.965,-1.5,False,False,False,False,1.91744518,
+21,Cabinet (1),-0.7278,2.015,-2.46,True,False,True,False,1.508241,
+22,Drawer (5),-1.5604,0.6552,-0.197,True,False,True,False,2.21519184,
+23,Cabinet,-1.6853,2.015,-2.4616,True,False,True,False,2.1418705,
+24,Cabinet,0.68,0.494999975,-2.2,True,False,True,False,0.910898149,
+25,Cabinet,-1.18,0.494999975,-2.2,True,False,True,False,1.32655013,
+26,Cabinet,-1.8499999,2.015,0.38,True,False,True,False,3.03321576,
+27,Drawer (1),0.95,0.221,-2.201,True,False,True,False,1.25231779,
+28,Cabinet,0.719999969,2.015,-2.46,True,False,True,False,1.50449264,
+29,Drawer (6),-1.5604,0.331,-0.197,True,False,True,False,2.27410555,
+30,Cabinet,0.68,2.015,-2.46,True,False,True,False,1.4857651,
+31,CounterTop_Physics (1),-1.868,0.9469,-1.206,True,False,False,False,1.9461416,
+32,Chair_4,0.6651435,0.726663351,0.566275358,False,False,False,False,2.416183,
+33,Bottle_1,1.573,0.871,-2.553,False,False,False,True,1.76636291,['Shelf|+01.80|+00.87|-02.56']
+34,Knife_1,-1.68350029,0.7909155,-0.241200075,False,False,False,True,2.26335335,['Drawer|-01.56|+00.84|-00.20']
+35,Microwave_1,-0.237,1.689,-2.5251,True,False,True,False,1.13043988,
+36,bread_1,-0.5223836,1.170449,-0.02827997,False,False,False,True,1.81928766,['CounterTop|-00.08|+01.15|00.00']
+37,Fork_1,0.949,0.7665,-2.3557,False,False,False,True,1.133827,['Drawer|+00.95|+00.83|-02.20']
+38,Shelf (2),1.804,0.8699999,-2.5636,True,False,False,False,1.97922266,
+39,Potato_1,-1.6557,0.9245,-2.1506,False,False,False,True,1.70363581,['CounterTop|-01.87|+00.95|-01.21']
+40,Houseplant_1,-0.926,0.9,-2.578,False,False,False,False,1.24220014,['CounterTop|-01.87|+00.95|-01.21']
+41,toaster_1,-1.844,0.900000453,0.127,False,False,False,False,2.631248,['CounterTop|-01.87|+00.95|-01.21']
+42,Soap_Bottle_1,-1.99149311,0.9,-2.03231072,False,False,False,True,2.0114038,['CounterTop|-01.87|+00.95|-01.21']
+43,Kettle_1,1.03734124,0.9,-2.59614682,False,False,False,True,1.3386718,['CounterTop|+00.69|+00.95|-02.48']
+44,Shelf (3),1.80439973,0.5420361,-2.5629,True,False,False,False,2.01134753,
+45,Pan_1,0.7211994,0.9,-2.41542959,True,False,False,True,0.981287956,['CounterTop|+00.69|+00.95|-02.48']
+46,Plate_1,0.9559944,1.6461308,-2.60619974,True,False,False,True,1.48398936,['Cabinet|+00.72|+02.02|-02.46']
+47,Tomato_1,-0.385065854,1.13703358,-0.8120054,False,False,False,True,1.0410676,['CounterTop|-00.08|+01.15|00.00']
+48,Glass_Vase_3,2.042472,0.5407073,-2.49500537,False,False,False,True,2.20375466,['Shelf|+01.80|+00.54|-02.56']
+49,bin_1,-1.935,0.0,2.029,True,False,False,False,4.340146,
+50,Egg_1,-2.004253,0.8275,1.30138755,False,False,False,True,3.6514926,['Fridge|-02.10|+00.00|+01.09']
+51,CreditCard_4,-0.4636646,1.0999999,0.8652697,False,False,False,True,2.663498,['CounterTop|-00.08|+01.15|00.00']
+52,Hand_Statue_1,1.955,0.168442056,-2.543,False,False,False,True,2.23327422,['Shelf|+01.80|+00.16|-02.56']
+53,Bowl_1,0.233064026,1.10190892,-0.616588,True,False,False,True,1.17443871,['CounterTop|-00.08|+01.15|00.00']
+54,Chair_4 (1),0.622224569,0.726425052,-0.514152169,False,False,False,False,1.394618,
+55,Wine_Bottle_1,-1.00100935,1.64499974,-2.583835,False,False,False,True,1.500279,['Cabinet|-00.73|+02.02|-02.46']
+56,Mug_1,-1.76081419,0.900009036,-0.620605946,True,False,False,True,2.09188867,['CounterTop|-01.87|+00.95|-01.21']
+57,Pot_1,-1.219,0.9,-2.356,True,False,False,True,1.36132216,['CounterTop|-01.87|+00.95|-01.21']
+58,Spatula_1,0.381,0.909,-2.333,False,False,False,True,0.6965012,['CounterTop|+00.69|+00.95|-02.48']
+59,Paper_Towel_1,-2.06280613,1.011653,-0.814987063,False,False,False,True,2.26752353,['CounterTop|-01.87|+00.95|-01.21']
+60,Cup_1,0.371348977,1.6447,-2.57917619,True,False,False,True,1.17410564,['Cabinet|+00.68|+02.02|-02.46']
+61,Vase_Flat_2,1.73570693,0.5404984,-2.49001765,False,False,False,True,1.92100632,['Shelf|+01.80|+00.54|-02.56']
+62,Shelf (1),1.80460024,0.1616996,-2.5629,True,False,False,False,2.1128068,
+63,Fridge_1,-2.097,0.0,1.088,True,False,True,False,3.64190221,
+64,coffee_machine_1,-1.997,0.9,-0.169,True,False,False,False,2.547071,['CounterTop|-01.87|+00.95|-01.21']
+65,SinkBasin,-1.9081,0.7592,-1.4888,True,False,False,False,1.931108,
+66,Salt_Shaker_1,0.346776128,0.9,-2.566875,False,False,False,True,0.8874342,['CounterTop|+00.69|+00.95|-02.48']
+67,Pepper_Shaker_1,0.300027,0.9,-2.46544218,False,False,False,True,0.775805831,['CounterTop|+00.69|+00.95|-02.48']
+68,Lettuce_1,-1.8069762,0.9737617,-0.94299376,False,False,False,True,1.98033237,['CounterTop|-01.87|+00.95|-01.21']
+69,ButterKnife_1,-0.41,1.1,-0.462,False,False,False,True,1.3662523,['CounterTop|-00.08|+01.15|00.00']
+70,Apple1,-0.465135336,1.1541,0.475644678,False,False,False,True,2.287773,['CounterTop|-00.08|+01.15|00.00']
+71,Dish_Sponge_1,-1.93768656,0.750637352,-1.71058786,False,False,False,True,1.94391131,['Sink|-01.90|+00.97|-01.50|SinkBasin']
+72,Spoon_1,0.985,0.7665,-2.2654,False,False,False,True,1.11980009,['Drawer|+00.95|+00.83|-02.20']
+73,LightSwitch1,2.33,1.309,-0.16,False,True,False,False,2.85016918,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-0.4950001,0.475,-1.15,True,False,True,False,3.21854019,
+2,Window,-0.011,1.583,-1.82199991,False,False,False,False,4.006361,['CounterTop|+00.00|+00.95|-01.51']
+3,Drawer,0.805,0.475000024,-1.16,True,False,True,False,3.66402769,
+4,GasBurner (4),1.765,0.9029,0.6015,True,False,False,False,3.098553,
+5,Drawer (3),1.5,0.1965,-0.02,True,False,True,False,3.29039812,
+6,Drawer (1),1.5,0.63,-0.019,True,False,True,False,3.22487235,
+7,Drawer,1.5,0.603,-0.02,True,False,True,False,3.227879,
+8,GasBurner (3),1.9753,0.9029,0.3846,True,False,False,False,3.38554716,
+9,Cabinet (2),-1.704,2.0226,-1.4537,True,False,True,False,3.69887114,
+10,Cabinet,1.78999984,2.02,-0.82,True,False,True,False,4.12173033,
+11,Cabinet,0.494999975,0.475,-1.15,True,False,True,False,3.51269126,
+12,Cabinet,0.41,0.475000024,0.445,True,False,True,False,2.14186835,
+13,Drawer (9),-0.6965,0.475000024,-1.16,True,False,True,False,3.20299649,
+14,Drawer (5),1.5,0.1408,0.5999,True,False,True,False,2.964487,
+15,Cabinet,1.39,0.475,-1.14999986,True,False,True,False,3.97694278,
+16,Drawer (4),1.5,0.306,0.6,True,False,True,False,2.92643547,
+17,GasBurner (5),1.9753,0.9029,0.6015,True,False,False,False,3.287585,
+18,Drawer (2),1.5,0.4292,-0.02,True,False,True,False,3.2485373,
+19,GasBurner,1.765,0.9029,0.8192,True,False,False,False,3.006579,
+20,Drawer,1.5,0.52,1.22,True,False,True,False,2.646424,
+21,Cabinet,1.7055,2.02,-1.44925,True,False,True,False,4.524292,
+22,CounterTop_Physics,0.002,0.947,-1.513,True,False,False,False,3.65339422,
+23,Drawer (8),1.5,0.63,0.6051,True,False,True,False,2.87561941,
+24,Cabinet (1),-0.6271,2.02,-1.44925,True,False,True,False,3.64534545,
+25,GasBurner (2),1.765,0.9029,0.3846,True,False,False,False,3.202303,
+26,Drawer,1.5,0.539,0.6,True,False,True,False,2.88808656,
+27,Sink,0.0,0.894,-1.435,False,False,False,False,3.57760715,
+28,Drawer (6),1.5,0.7826,1.22,True,False,True,False,2.62152982,
+29,Window,2.2177,1.5651,-0.385,False,False,False,False,4.05990744,['CounterTop|+00.00|+00.95|-01.51']
+30,CounterTop_Physics,-0.015,0.9611,0.506,True,False,False,False,1.79049516,
+31,Drawer (7),1.5,0.2,1.22,True,False,True,False,2.71105146,
+32,Chair,-0.0600076877,0.522586,1.37301159,False,False,False,False,1.19159412,
+33,GasBurner (1),1.9753,0.9029,0.8192,True,False,False,False,3.201047,
+34,Window,-3.24,1.616,2.693,False,False,False,False,2.45134139,
+35,Cabinet,-1.39,0.475,-1.14999986,True,False,True,False,3.2025106,
+36,Soap_Bottle_2,-0.561,0.9,-1.572,False,False,False,True,3.59887576,['CounterTop|+00.00|+00.95|-01.51']
+37,Cup_2,0.896840632,1.66817725,-1.60673857,True,False,False,True,4.146701,['Cabinet|+01.71|+02.02|-01.45']
+38,LightSwitch2,-0.154,1.291,3.7,False,True,False,False,1.93850887,
+39,Pot_2,0.8894786,0.9,-1.41237617,True,False,False,True,3.90056944,['CounterTop|+00.00|+00.95|-01.51']
+40,bin_2,-1.796,0.0,1.33,True,False,False,False,1.37634134,
+41,StoveKnob2_Range1,1.6025,0.917336,0.5706,False,False,False,False,2.96925187,
+42,StoveKnob2_Range1,1.6025,0.917336,0.6255,False,False,False,False,2.94321656,
+43,StoveKnob2_Range1,1.6025,0.917336,0.7396,False,False,False,False,2.89169168,
+44,StoveKnob2_Range1,1.6025,0.917336,0.681,False,False,False,False,2.9177103,
+45,StoveKnob2_Range1,1.6025,0.917336,0.4625,False,False,False,False,3.02277684,
+46,StoveKnob2_Range1,1.6025,0.917336,0.5171,False,False,False,False,2.995374,
+47,Fork_1,1.69282651,0.901713,1.47382319,False,False,False,True,2.74375248,['CounterTop|+00.00|+00.95|-01.51']
+48,Ladle_3,1.79695833,0.926742,1.13450265,False,False,False,True,2.92792177,['CounterTop|+00.00|+00.95|-01.51']
+49,Microwave_2,1.933,0.900000036,-0.767,True,False,True,False,4.0322175,
+50,Kettle_1,1.681,0.9,0.091,False,False,False,True,3.29120684,['CounterTop|+00.00|+00.95|-01.51']
+51,Mug_2,-0.23499985,0.9150144,-0.255999774,True,False,False,True,2.38221669,['CounterTop|-00.02|+00.96|+00.51']
+52,Egg_2,0.0620849729,0.970984757,-0.172999978,False,False,False,True,2.41967988,['CounterTop|-00.02|+00.96|+00.51']
+53,Bowl_1,0.204005525,0.9168519,1.11400032,True,False,False,True,1.49495018,['CounterTop|-00.02|+00.96|+00.51']
+54,Plate_2,1.322952,1.6700635,-1.59543,True,False,False,True,4.34910154,['Cabinet|+01.71|+02.02|-01.45']
+55,Pan_2,-1.28641355,0.9,-1.34873831,True,False,False,True,3.3609643,['CounterTop|+00.00|+00.95|-01.51']
+56,Lettuce_2,-1.71099377,0.8831288,-0.13700518,False,False,False,True,2.25224829,['Fridge|-01.76|+00.00|+00.01']
+57,Spatula_1,1.768,0.91,-0.114,False,False,False,True,3.48294449,['CounterTop|+00.00|+00.95|-01.51']
+58,coffee_machine_2,1.3554858,0.9,-1.59609818,True,False,False,False,4.298865,['CounterTop|+00.00|+00.95|-01.51']
+59,Fridge_2,-1.764,0.0,0.014,True,False,True,False,2.31077719,
+60,Apple2,-1.6506,0.8837,0.0725,False,False,False,True,2.03441286,['Fridge|-01.76|+00.00|+00.01']
+61,Knife_2,0.5998874,0.906912565,-1.44395733,False,False,False,True,3.79743552,['CounterTop|+00.00|+00.95|-01.51']
+62,SinkBasin,-0.015,0.737,-1.4355,True,False,False,False,3.5776782,
+63,Salt_Shaker_1,2.00982618,0.9,0.0287345648,False,False,False,True,3.597908,['CounterTop|+00.00|+00.95|-01.51']
+64,Pepper_Shaker_1,1.889,0.9,0.035,False,False,False,True,3.49393,['CounterTop|+00.00|+00.95|-01.51']
+65,Cellphone_4,-0.308597445,0.915750742,1.28780937,False,False,False,True,0.992708743,['CounterTop|-00.02|+00.96|+00.51']
+66,ButterKnife_1,1.66721344,0.685400844,-0.1130806,False,False,False,True,3.40963626,['Drawer|+01.50|+00.63|-00.02']
+67,bread_2,0.256162018,0.987471342,-0.07599796,False,False,False,True,2.428001,['CounterTop|-00.02|+00.96|+00.51']
+68,Tomato_2,0.168530211,0.974446535,-0.281406134,False,False,False,True,2.56430721,['CounterTop|-00.02|+00.96|+00.51']
+69,Potato_2,0.327438146,0.9447,1.31150889,False,False,False,True,1.49600184,['CounterTop|-00.02|+00.96|+00.51']
+70,Dish_Sponge_1,-0.549,0.9268,-1.387,False,False,False,True,3.41699243,['CounterTop|+00.00|+00.95|-01.51']
+71,toaster_2,1.978,0.9000002,-0.336,False,False,False,False,3.78488874,['CounterTop|+00.00|+00.95|-01.51']
+72,Spoon_1,1.62089872,0.9,1.40285349,False,False,False,True,2.68806529,['CounterTop|+00.00|+00.95|-01.51']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,0.7155,0.5946,1.02309418,True,False,True,False,2.91243434,
+2,RangeStyle3_4 (2),-0.2394,1.326,-3.3019,True,False,False,False,1.5831939,
+3,Cabinet,-1.46129608,0.775008559,-2.002118,True,False,True,False,1.52340293,
+4,RangeStyle3_4 (3),-0.6309,1.326,-3.3019,True,False,False,False,1.68737233,
+5,Drawer,0.7164,0.8444,0.6832228,True,False,True,False,2.55185962,
+6,Cabinet (1),-1.46129608,0.775008559,0.4701,True,False,True,False,2.68067837,
+7,Drawer,0.715,1.0612,0.6832981,True,False,True,False,2.53694916,
+8,Drawer,0.7147,1.0613,1.02325487,True,False,True,False,2.86455441,
+9,Cabinet (3),0.5781,0.776,-2.0548,True,False,True,False,0.7404176,
+10,CounterTop_Physics,-1.809,1.3585,1.182,True,False,False,False,3.45312738,
+11,Cabinet (2),-1.46129608,0.775008559,1.311,True,False,True,False,3.409826,
+12,Drawer,0.7147,0.8484,1.02325487,True,False,True,False,2.87709975,
+13,RangeStyle3_4,-0.749,1.326,-2.973,True,False,False,False,1.44828439,
+14,Drawer,-1.61,0.682,-0.430022568,True,False,True,False,2.12833714,
+15,Window,-2.56619835,1.79937935,-0.82285,False,False,False,False,2.81088877,
+16,Drawer (1),-1.61,0.682,-1.2177,True,False,True,False,1.75237608,
+17,TableTop_Physics,1.022,1.2433,0.8711,True,False,False,False,2.81582618,
+18,Drawer,0.715,0.5946,0.683137536,True,False,True,False,2.590688,
+19,Sink,-1.99055064,1.14358163,-0.9752326,True,False,False,False,2.13610363,
+20,RangeStyle3_4 (1),-0.125,1.326,-2.973,True,False,False,False,1.24585366,
+21,bread_3,-1.513631,1.38091612,0.6621987,False,False,False,True,2.859332,['CounterTop|-01.81|+01.36|+01.18']
+22,Pot_3,-1.5771203,1.31039941,-1.58406281,True,False,False,True,1.59674108,['CounterTop|-01.81|+01.36|+01.18']
+23,Knife_3,0.7154971,1.31734478,-2.20287514,False,False,False,True,0.8685665,['CounterTop|-01.81|+01.36|+01.18']
+24,Potato_3,-1.6101743,1.3649,-1.240665,False,False,False,True,1.705904,['Sink|-01.99|+01.14|-00.98']
+25,Soap_Bottle_3,-1.79433978,1.31039953,-0.10114944,False,False,False,True,2.443993,['CounterTop|-01.81|+01.36|+01.18']
+26,StoveKnob2_Range1,-0.1852,1.3388,-2.7417,False,False,False,False,1.03145516,
+27,StoveKnob2_Range1,-0.3362,1.3388,-2.7417,False,False,False,False,1.06893933,
+28,StoveKnob2_Range1,-0.5699,1.3388,-2.7417,False,False,False,False,1.16378117,
+29,StoveKnob2_Range1,-0.7077,1.3388,-2.7417,False,False,False,False,1.23710954,
+30,Fork_1,0.6227674,1.31211174,-2.4838984,False,False,False,True,0.980727255,['CounterTop|-01.81|+01.36|+01.18']
+31,Fridge_3,1.013,0.227996826,1.917,True,False,True,False,3.90844083,
+32,Cup_3,0.681995749,1.31012094,-0.9019968,True,False,False,True,1.10402107,['CounterTop|-01.81|+01.36|+01.18']
+33,Kettle_1,-1.69095838,1.31477892,-3.156006,False,False,False,True,2.207393,['CounterTop|-01.81|+01.36|+01.18']
+34,Microwave_3,1.162,1.194959,0.853,True,False,True,False,2.85147071,
+35,bin_3,-1.634,0.22168085,2.193,True,False,False,False,4.362501,
+36,Egg_3,-1.628777,1.3746,-1.0532496,False,False,False,True,1.78918076,['Sink|-01.99|+01.14|-00.98']
+37,LightSwitch3,1.386478,1.566,-0.658,False,True,False,False,1.81937742,
+38,Pan_3,-1.88114953,0.327762932,-2.03532434,True,False,False,True,2.06255984,['Cabinet|-01.46|+00.78|-02.00']
+39,Salt_Shaker_2,0.3279679,1.310399,-2.826016,False,False,False,True,1.14022446,['CounterTop|-01.81|+01.36|+01.18']
+40,Bowl_1,-1.84699547,1.312251,0.3290001,True,False,False,True,2.7873044,['CounterTop|-01.81|+01.36|+01.18']
+41,Wine_Bottle_1,0.9629597,1.31039953,-1.01422775,False,False,False,True,1.22612834,['CounterTop|-01.81|+01.36|+01.18']
+42,Lettuce_3,-1.89209878,1.400385,-1.07344389,False,False,False,True,2.02833581,['Sink|-01.99|+01.14|-00.98']
+43,Mug_1,-1.9716413,1.04248416,-0.429789126,True,False,False,True,2.374231,['Sink|-01.99|+01.14|-00.98|SinkBasin']
+44,Houseplant_9,-2.028,1.31039953,-0.026,False,False,False,False,2.66827631,['CounterTop|-01.81|+01.36|+01.18']
+45,Spatula_1,-1.23305047,1.323,-2.92978883,False,False,False,True,1.71811223,['CounterTop|-01.81|+01.36|+01.18']
+46,Paper_Towel_1,-2.04129052,1.422066,-1.90445,False,False,False,True,2.06870866,['CounterTop|-01.81|+01.36|+01.18']
+47,Tomato_3,0.9223894,1.95574021,1.60502088,False,False,False,True,3.57753158,['Fridge|+01.01|+00.23|+01.92']
+48,SinkBasin,-1.83555067,1.04,-0.542232633,True,False,False,False,2.198865,
+49,Plate_3,-1.4670006,1.31149065,0.2440006,True,False,False,True,2.48259449,['CounterTop|-01.81|+01.36|+01.18']
+50,Pepper_Shaker_2,0.4666107,1.310399,-3.00261068,False,False,False,True,1.34962869,['CounterTop|-01.81|+01.36|+01.18']
+51,toaster_3,-1.8859998,1.31039894,-2.51299977,False,False,False,False,2.043013,['CounterTop|-01.81|+01.36|+01.18']
+52,coffee_machine_3,1.13,1.31039941,-1.426,True,False,False,False,1.19021618,['CounterTop|-01.81|+01.36|+01.18']
+53,Chair,0.600680947,0.949456453,-1.08743465,False,False,False,False,0.91119796,
+54,Dish_Sponge_1,-2.047,1.329,-0.962,False,False,False,True,2.20299125,['Sink|-01.99|+01.14|-00.98']
+55,Spoon_1,0.614609361,1.31039917,-2.36036348,False,False,False,True,0.8860173,['CounterTop|-01.81|+01.36|+01.18']
+56,Apple3,-1.7486918,1.37319648,-1.159,False,False,False,True,1.86260426,['Sink|-01.99|+01.14|-00.98']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,GasBurner (1),-3.475,1.0978,0.2271,True,False,False,False,1.80573511,
+2,Sink,-1.394,0.983,0.4391,True,False,False,False,1.015637,
+3,GasBurner,-3.475,1.0978,0.48,True,False,False,False,1.67548656,
+4,StoveKnob (3),-3.4928,1.0537591,0.7097796,False,False,False,False,1.59487474,
+5,Table,-0.62,0.0174684636,2.486,True,False,False,False,2.05249214,
+6,Drawer,-2.0430305,0.6082893,0.5947974,True,False,True,False,0.718903065,
+7,Drawer (2),-2.0430305,0.216,0.5947974,True,False,True,False,0.9488767,
+8,Drawer (3),-2.4982,0.216,0.5947974,True,False,True,False,1.07084942,
+9,Cabinet,-1.001631,0.393438965,0.7342042,True,False,True,False,1.23304665,
+10,GasBurner (3),-3.00049949,1.0978,0.480000019,True,False,False,False,1.27774394,
+11,StoveKnob (1),-3.1625,1.0537591,0.7097796,False,False,False,False,1.29096067,
+12,StoveKnob (2),-3.3222,1.0537591,0.7097796,False,False,False,False,1.43644929,
+13,CounterTop_Physics (2),-3.8563,1.1604,0.379,True,False,False,False,2.06682849,
+14,Drawer,-2.04303074,0.9379069,0.5996587,True,False,True,False,0.6528074,
+15,Drawer (1),-2.5097,0.9379069,0.5996587,True,False,True,False,0.8271034,
+16,CounterTop_Physics,-2.2808,1.1604,0.379,True,False,False,False,0.9511983,
+17,StoveKnob,-2.98511887,1.0537591,0.7097796,False,False,False,False,1.13385737,
+18,CounterTop_Physics (1),-0.515,1.1604,0.492,True,False,False,False,1.68732858,
+19,Drawer (4),-2.4982,0.6082893,0.5947974,True,False,True,False,0.8735978,
+20,GasBurner (2),-3.0005,1.0978,0.227099985,True,False,False,False,1.444318,
+21,Cabinet (1),-1.734,0.393438965,0.7342042,True,False,True,False,0.770986,
+22,coffee_machine_4,-0.154,1.038238,3.194,True,False,False,False,2.684341,['TableTop|-00.62|+00.02|+02.49']
+23,Fridge_4,-3.519,0.0,2.717,True,False,True,False,2.29592061,
+24,Fork_1,-0.461001366,1.03995073,1.77599943,False,False,False,True,1.63232946,['TableTop|-00.62|+00.02|+02.49']
+25,Soap_Bottle_4,-0.888088763,1.11310184,0.193409652,False,False,False,True,1.54845631,['CounterTop|-00.52|+01.16|+00.49']
+26,Pot_4,-2.998,1.1444,0.481,True,False,False,True,1.28320241,['StoveBurner|-03.00|+01.10|+00.48']
+27,Ladle_2,-1.92270124,1.13970613,0.3774946,False,False,False,True,0.9078665,['CounterTop|-02.28|+01.16|+00.38']
+28,Potato_4,-2.6639,1.1459,0.2484,False,False,False,True,1.226353,['CounterTop|-02.28|+01.16|+00.38']
+29,Plate_4,-1.19360936,0.921506763,0.403256983,True,False,False,True,1.16947,['Sink|-01.39|+00.98|+00.44|SinkBasin']
+30,bread_4,-0.183999956,1.11915636,1.892,False,False,False,True,1.93845618,['TableTop|-00.62|+00.02|+02.49']
+31,Lettuce_4,-3.33989358,0.969437838,3.081294,False,False,False,True,2.270162,['Fridge|-03.52|+00.00|+02.72']
+32,Bowl_1,-0.465123326,1.04008925,2.108431,True,False,False,True,1.76411343,['TableTop|-00.62|+00.02|+02.49']
+33,Window,-1.394,1.925,0.015,False,False,False,False,1.7149452,
+34,Window (1),-3.266,1.925,0.015,False,False,False,False,2.04366255,
+35,Mug_1,-0.377899319,1.094747,3.19400072,True,False,False,True,2.539269,"['TableTop|-00.62|+00.02|+02.49', 'CoffeeMachine|-00.15|+01.04|+03.19']"
+36,toaster_4,-0.224999979,1.038238,2.866,False,False,False,False,2.40435338,['TableTop|-00.62|+00.02|+02.49']
+37,Spatula_1,-0.811,1.132,0.534,False,False,False,True,1.40703166,['CounterTop|-00.52|+01.16|+00.49']
+38,bin_4,-3.696083,0.0,2.00878215,True,False,False,False,2.06500578,
+39,Pan_4,-0.266,1.038,2.561,True,False,False,True,2.178129,['TableTop|-00.62|+00.02|+02.49']
+40,Egg_4,-3.318396,1.3080709,2.850709,False,False,False,True,2.11332536,['Fridge|-03.52|+00.00|+02.72']
+41,SinkBasin,-1.3894,0.921,0.4288,True,False,False,False,1.02352417,
+42,Cup_4,-1.58140123,0.921338439,0.339220136,True,False,False,True,1.002576,['Sink|-01.39|+00.98|+00.44|SinkBasin']
+43,Salt_Shaker_1,-3.75998235,1.11310208,0.517694533,False,False,False,True,1.91801894,['CounterTop|-03.86|+01.16|+00.38']
+44,Knife_4,-1.4800092,0.9279396,0.4189918,False,False,False,True,0.980658352,['Sink|-01.39|+00.98|+00.44|SinkBasin']
+45,Pepper_Shaker_1,-3.76002145,1.113102,0.386383176,False,False,False,True,1.97192717,['CounterTop|-03.86|+01.16|+00.38']
+46,Microwave_4,-0.367,1.1131016,0.43,True,False,True,False,1.8395859,['CounterTop|-00.52|+01.16|+00.49']
+47,ButterKnife_1,-2.6,1.113102,0.577,False,False,False,True,0.926237643,['CounterTop|-02.28|+01.16|+00.38']
+48,Apple4,-2.47999978,1.18381131,0.4800006,False,False,False,True,0.950411,['CounterTop|-02.28|+01.16|+00.38']
+49,Tomato_4,-0.7469074,1.08152544,2.39948869,False,False,False,True,1.71001589,['TableTop|-00.62|+00.02|+02.49']
+50,Dish_Sponge_1,-1.119,1.14436293,0.093,False,False,False,True,1.47446108,['Sink|-01.39|+00.98|+00.44']
+51,Houseplant_13,-2.156,1.11310184,0.169,False,False,False,False,1.11260247,['CounterTop|-02.28|+01.16|+00.38']
+52,LightSwitch4,-2.584,1.3,3.5,False,True,False,False,2.35854983,
+53,Spoon_1,-0.432,1.038238,1.902,False,False,False,True,1.70369077,['TableTop|-00.62|+00.02|+02.49']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,-0.82,0.75,-1.69,True,False,True,False,2.31166625,
+2,Cabinet (2),-1.15,2.26499987,-0.8381,True,False,True,False,2.484534,
+3,RangeStyle5_Range4,-1.0561,0.9491,-0.672,True,False,False,False,1.92766571,
+4,Cabinet (1),1.738,2.019,-2.0002,True,False,True,False,2.49536967,
+5,Cabinet,1.39,0.47,-1.06,True,False,True,False,1.31109118,
+6,RangeStyle5_Range4 (2),-1.2899,0.9491,-0.756,True,False,False,False,2.176015,
+7,Cabinet,1.75,2.02,-1.03,True,False,True,False,1.82018209,
+8,Cabinet,1.75,2.02,-1.4,True,False,True,False,2.05235529,
+9,Cabinet,1.18,2.02,-2.0,True,False,True,False,2.331751,
+10,Cabinet,0.199999988,2.02,-2.0,True,False,True,False,2.35683322,
+11,Cabinet,-1.1,2.02,-2.0,True,False,True,False,2.945278,
+12,Cabinet,-1.15,2.02,-1.9799999,True,False,True,False,2.963539,
+13,Cabinet,-1.15,2.02,-0.770000041,True,False,True,False,2.33560753,
+14,Cabinet,-1.15,2.02,0.380000055,True,False,True,False,2.237535,
+15,Cabinet,-0.82,0.47,-1.68999994,True,False,True,False,2.34664869,
+16,Cabinet,-0.84,0.47,-1.665,True,False,True,False,2.34223938,
+17,Cabinet,-0.84,0.47,-0.049999997,True,False,True,False,1.6481384,
+18,Cabinet,-0.415,0.37,-0.009999979,True,False,True,False,1.28034568,
+19,Sink,-0.118,0.876,-2.01,False,False,False,False,2.18955445,
+20,RangeStyle5_Range4 (3),-1.2899,0.9491,-1.02,True,False,False,False,2.28120685,
+21,Cabinet,0.12,2.26499987,-2.0,True,False,True,False,2.50147915,
+22,Cabinet,-0.459999979,2.26499987,-2.0,True,False,True,False,2.70639944,
+23,CounterTop_Physics,-0.6655,0.949,0.1888,True,False,False,False,1.42884207,
+24,Drawer (1),-0.4492,0.75,-0.0103,True,False,True,False,1.20871317,
+25,Cabinet (4),-0.4503,0.47,-0.01,True,False,True,False,1.27537465,
+26,CounterTop_Physics,-0.631,1.167,0.5739,True,False,False,False,1.518973,
+27,RangeStyle5_Range4 (1),-1.0561,0.9491,-1.127,True,False,False,False,2.12942243,
+28,Cabinet,1.3766,0.4601,-1.686,True,False,True,False,1.85192215,
+29,Drawer,-0.07,0.75,-0.01,True,False,True,False,0.833847,
+30,CounterTop_Physics,1.16,0.9468,-2.014,True,False,False,False,2.05581927,
+31,Cabinet (3),-1.1500001,2.26499987,-1.41810012,True,False,True,False,2.73523426,
+32,Chair2,-0.4639781,0.0123337209,0.747306466,False,False,False,False,1.6798619,
+33,Chair2 (1),-0.08499558,0.01098153,0.760997832,False,False,False,False,1.43821645,
+34,Houseplant_25,-1.246,1.11999989,0.606,False,False,False,False,2.09743023,['CounterTop|-00.63|+01.17|+00.57']
+35,Pan_5,1.743,0.9,-1.969,True,False,False,True,2.20522356,['CounterTop|+01.16|+00.95|-02.01']
+36,bin_5,1.924,0.0,0.138,True,False,False,False,1.48631072,
+37,Knife_5,0.02499973,0.9071201,0.151001871,False,False,False,True,0.740583837,['CounterTop|-00.67|+00.95|+00.19']
+38,Fork_1,-0.7504994,0.901713,0.116100363,False,False,False,True,1.5049845,['CounterTop|-00.67|+00.95|+00.19']
+39,Shelf (2),2.813,0.868999958,0.141399786,True,False,False,False,2.06808758,
+40,Microwave_5,1.827,0.900000036,-1.354,True,False,True,False,1.7301,
+41,Cup_5,0.101549312,0.751000047,-1.93821609,True,False,False,True,2.04930949,['Sink|-00.12|+00.88|-02.01|SinkBasin']
+42,Ladle_1,-0.949258447,1.14232,0.526629865,False,False,False,True,1.79528654,['CounterTop|-00.63|+01.17|+00.57']
+43,Apple5,1.85446322,0.8564593,-0.651605248,False,False,False,True,1.283126,['Fridge|+01.98|+00.00|-00.54']
+44,Kettle_1,-1.04779744,0.9043804,-2.09400487,False,False,False,True,2.759881,['CounterTop|+01.16|+00.95|-02.01']
+45,Shelf (3),2.81339955,0.5410362,0.142099753,True,False,False,False,2.099377,
+46,Mug_2,0.130999237,1.12000823,0.5670007,True,False,False,True,0.8675348,['CounterTop|-00.63|+01.17|+00.57']
+47,Glass_Vase_2,2.546835,0.5393637,0.2177921,False,False,False,True,1.84575987,['Shelf|+02.81|+00.54|+00.14']
+48,Potato_5,-0.860075831,1.1617,0.628355265,False,False,False,True,1.74789572,['CounterTop|-00.63|+01.17|+00.57']
+49,Pot_5,-1.089,0.9,0.235,True,False,False,True,1.85395443,['CounterTop|-00.67|+00.95|+00.19']
+50,bread_5,-1.148,0.9816431,-0.193,False,False,False,True,1.90949118,['CounterTop|-00.67|+00.95|+00.19']
+51,Fridge_5,1.975,0.0,-0.537,True,False,True,False,1.6126976,
+52,Bowl_1,-0.5529999,1.1218828,0.570998251,True,False,False,True,1.43966579,['CounterTop|-00.63|+01.17|+00.57']
+53,Plate_5,-1.12008047,0.900352,-1.654783,True,False,False,True,2.49709988,['CounterTop|+01.16|+00.95|-02.01']
+54,LightSwitch5,0.404,1.298,2.0,False,True,False,False,2.06816959,
+55,Spatula_1,-0.934,0.914,-0.183,False,False,False,True,1.693964,['CounterTop|-00.67|+00.95|+00.19']
+56,Paper_Towel_1,-0.824844658,0.9311038,-2.11192083,False,False,False,True,2.63462543,['CounterTop|+01.16|+00.95|-02.01']
+57,Vase_Tall_2,2.699,0.869,0.182,False,False,False,True,1.95774066,['Shelf|+02.81|+00.87|+00.14']
+58,Dog_Statue_4,2.657,0.167,0.191,False,False,False,True,2.05228782,['Shelf|+02.81|+00.16|+00.14']
+59,Shelf (1),2.8136,0.160699666,0.142099753,True,False,False,False,2.196971,
+60,Egg_5,-0.196091741,0.794,-1.93932486,False,False,False,True,2.16044426,['Sink|-00.12|+00.88|-02.01|SinkBasin']
+61,SinkBasin,-0.1298,0.7528,-2.008,True,False,False,False,2.197288,
+62,Soap_Bottle_5,-0.6171015,0.9,-2.15641356,False,False,False,True,2.55325031,['CounterTop|+01.16|+00.95|-02.01']
+63,Salt_Shaker_1,1.19177735,0.9,-2.17521763,False,False,False,True,2.21962619,['CounterTop|+01.16|+00.95|-02.01']
+64,Lettuce_5,-0.256136268,0.867284536,-1.96958852,False,False,False,True,2.21195078,['Sink|-00.12|+00.88|-02.01|SinkBasin']
+65,Pepper_Shaker_1,0.71181,0.9,-1.81980991,False,False,False,True,1.82021081,['CounterTop|+01.16|+00.95|-02.01']
+66,ButterKnife_1,-0.712643862,0.9,0.0273441523,False,False,False,True,1.4628998,['CounterTop|-00.67|+00.95|+00.19']
+67,StoveKnob (2),-0.873621762,0.903909147,-0.8278,False,False,False,False,1.82247329,
+68,StoveKnob (3),-0.873621762,0.903909147,-0.6769,False,False,False,False,1.75907636,
+69,StoveKnob (1),-0.873621762,0.903909147,-0.9661,False,False,False,False,1.88931334,
+70,StoveKnob,-0.873621762,0.903909147,-1.123,False,False,False,False,1.97415423,
+71,toaster_5,0.840627253,0.9,-2.05738258,False,False,False,False,2.059378,['CounterTop|+01.16|+00.95|-02.01']
+72,coffee_machine_5,0.5019079,0.9,-2.12519526,True,False,False,False,2.13962746,['CounterTop|+01.16|+00.95|-02.01']
+73,Dish_Sponge_1,-0.6125029,0.926,-1.95575428,False,False,False,True,2.38369751,['CounterTop|+01.16|+00.95|-02.01']
+74,Vase_Flat_5,2.9791863,0.539382756,0.12853384,False,False,False,True,2.26198125,['Shelf|+02.81|+00.54|+00.14']
+75,Spoon_1,-0.062,0.9,0.104,False,False,False,True,0.8186336,['CounterTop|-00.67|+00.95|+00.19']
+76,Tomato_5,-1.148343,0.957756,-1.65859127,False,False,False,True,2.52147818,"['CounterTop|+01.16|+00.95|-02.01', 'Plate|-01.12|+00.90|-01.65']"
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,StoveKnob (1),1.879,1.0931,0.0005,False,False,False,False,2.03243542,
+2,CounterTop_Physics,-0.36,0.9464,1.094,True,False,False,False,1.8793608,
+3,RangeStyle4_Range1,1.4123,0.9239,-0.3359,True,False,False,False,1.47193563,
+4,StoveKnob (3),1.879,1.0933,-0.4098,False,False,False,False,1.91920722,
+5,Cabinet (5),-2.446,1.94899988,2.925,True,False,True,False,4.537273,
+6,Drawer (2),-2.277,0.792499959,0.903,True,False,True,False,2.815832,
+7,Cabinet (7),-2.1455,0.402500033,1.5787,True,False,True,False,3.20538855,
+8,Cabinet (1),0.149,2.00899982,-1.6034,True,False,True,False,1.40647006,
+9,RangeStyle4_Range1 (1),1.6916,0.9239,-0.3359,True,False,False,False,1.7416985,
+10,CounterTop_Physics,1.586,0.9466,0.406,True,False,False,False,1.96311259,
+11,CounterTop_Physics (1),0.474,0.9464,-1.625,True,False,False,False,0.9961738,
+12,StoveKnob (2),1.879,1.0932,-0.2489,False,False,False,False,1.95414507,
+13,RangeStyle4_Range1 (2),1.6916,0.9239,0.0642,True,False,False,False,1.87748671,
+14,Cabinet (3),-2.446,1.94899988,1.688,True,False,True,False,3.60902548,
+15,Chair2 (1),-2.30299473,0.0122882724,1.83999979,False,False,False,False,3.577945,
+16,Cabinet (4),-2.446,1.94899988,1.6400001,True,False,True,False,3.57677555,
+17,StoveKnob,1.879,1.093,0.151,False,False,False,False,2.09267926,
+18,Cabinet (6),-2.1455,0.402500033,-0.236,True,False,True,False,2.26182842,
+19,Drawer (1),-2.277,0.792499959,0.437,True,False,True,False,2.570111,
+20,Drawer,-2.277,0.792499959,-0.0275001526,True,False,True,False,2.39134,
+21,Cabinet,1.57250011,2.00899982,0.474999726,True,False,True,False,2.28058028,
+22,Cabinet,1.57250011,2.00899982,-0.775000036,True,False,True,False,1.92381048,
+23,Cabinet,-2.44599986,2.149,-1.2750001,True,False,True,False,2.79571939,
+24,Cabinet,-2.446,2.149,-0.285,True,False,True,False,2.78507566,
+25,Cabinet,-2.446,1.94899988,0.355000079,True,False,True,False,2.881362,
+26,Cabinet,-2.446,1.94899988,0.405000061,True,False,True,False,2.90090442,
+27,Cabinet,-2.1455,0.402500033,0.644999862,True,False,True,False,2.60723925,
+28,Cabinet,-2.1455,0.402500033,0.695000052,True,False,True,False,2.63433051,
+29,Cabinet (2),-2.2854,1.969,-1.3253,True,False,True,False,2.58740187,
+30,CounterTop_Physics (2),-1.485,0.9464,1.319,True,False,False,False,2.54716444,
+31,RangeStyle4_Range1 (3),1.4114,0.9239,0.0642,True,False,False,False,1.62956917,
+32,Sink,1.373,0.81,-1.24,True,False,False,False,1.4606539,
+33,Drawer (3),-2.277,0.792499959,1.368,True,False,True,False,3.11165953,
+34,Pan_6,0.0,0.9,0.948,True,False,False,True,1.69800031,['CounterTop|-00.36|+00.95|+01.09']
+35,Fridge_6,-2.47599983,0.0,-0.783,True,False,True,False,2.63504529,
+36,Knife_1,-0.6450001,0.906807,1.62199986,False,False,False,True,2.458138,['CounterTop|-00.36|+00.95|+01.09']
+37,Apple6,-0.4755964,0.966895,0.405969352,False,False,False,True,1.25171852,['CounterTop|-00.36|+00.95|+01.09']
+38,LightSwitch6,-0.929,1.35,-1.95,False,True,False,False,1.58260643,
+39,Fork_1,1.44381583,0.901689351,0.343583941,False,False,False,True,1.81122351,['CounterTop|+01.59|+00.95|+00.41']
+40,bread_6,-0.7120001,0.9803132,0.426,False,False,False,True,1.37702966,['CounterTop|-00.36|+00.95|+01.09']
+41,Plate_6,-2.35140133,0.900351,0.0545955151,True,False,False,True,2.485249,['CounterTop|-01.49|+00.95|+01.32']
+42,toaster_6,-2.565,0.899999857,1.877,False,False,False,False,3.67156029,['CounterTop|-01.49|+00.95|+01.32']
+43,Egg_6,-2.43018174,0.617,-0.752880037,False,False,False,True,2.44672179,['Fridge|-02.48|+00.00|-00.78']
+44,Kettle_1,0.8545336,0.9043803,-1.790371,False,False,False,True,1.34633243,['CounterTop|+00.47|+00.95|-01.63']
+45,Potato_6,-2.236228,0.9397,-0.1788851,False,False,False,True,2.30832958,['CounterTop|-01.49|+00.95|+01.32']
+46,Mug_2,1.45040023,0.911854446,-1.23350036,True,False,False,True,1.52890527,['Sink|+01.37|+00.81|-01.24']
+47,Salt_Shaker_2,1.674,0.9,0.455,False,False,False,True,2.06259584,['CounterTop|+01.59|+00.95|+00.41']
+48,coffee_machine_6,0.464,0.9,-1.815,True,False,False,False,1.16168928,['CounterTop|+00.47|+00.95|-01.63']
+49,Lettuce_6,1.13777387,0.8829814,-1.39446461,False,False,False,True,1.30774176,['Sink|+01.37|+00.81|-01.24|SinkBasin']
+50,Cup_6,-0.645999,0.903473437,0.738004565,True,False,False,True,1.62218332,['CounterTop|-00.36|+00.95|+01.09']
+51,Soap_Bottle_6,1.01718509,0.9,-1.65275145,False,False,False,True,1.36000979,['CounterTop|+00.47|+00.95|-01.63']
+52,Bowl_1,-0.625,0.9,1.229,True,False,False,True,2.07534742,['CounterTop|-00.36|+00.95|+01.09']
+53,Window (1),1.509,1.534,-1.497,False,False,False,False,1.79882729,
+54,Window,1.916,1.521,1.122,False,False,False,False,2.74951649,
+55,Spatula_1,-2.313589,0.924,0.3343097,False,False,False,True,2.55518126,['CounterTop|-01.49|+00.95|+01.32']
+56,Paper_Towel_1,0.6933416,1.01166439,-1.83383536,False,False,False,True,1.29138243,['CounterTop|+00.47|+00.95|-01.63']
+57,SinkBasin,1.1286,0.805,-1.3934,True,False,False,False,1.30265772,
+58,ButterKnife_1,1.439,0.9,0.432,False,False,False,True,1.8622154,['CounterTop|+01.59|+00.95|+00.41']
+59,Pepper_Shaker_2,1.76309979,0.8999999,0.36548233,False,False,False,True,2.08634186,['CounterTop|+01.59|+00.95|+00.41']
+60,bin_6,1.646,0.0,0.679,True,False,False,False,2.35863447,
+61,Dish_Sponge_1,1.7444675,0.9,-0.900345147,False,False,False,True,1.75093448,['CounterTop|+00.47|+00.95|-01.63']
+62,Pot_6,-2.3114,0.105,0.895,True,False,False,True,2.946559,['Cabinet|-02.15|+00.40|+00.70']
+63,Spoon_1,-0.6885711,0.953999937,1.23107719,False,False,False,True,2.09800053,"['CounterTop|-00.36|+00.95|+01.09', 'Bowl|-00.63|+00.90|+01.23']"
+64,Tomato_6,1.28919375,0.9581129,-1.07805145,False,False,False,True,1.331503,['Sink|+01.37|+00.81|-01.24']
+65,Microwave_6,-2.5808,0.9,2.441,True,False,True,False,4.10402346,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sink,0.047,0.821,-1.644,True,False,False,False,1.66203034,
+2,Cabinet (1),-2.172,2.01,-1.53894377,True,False,True,False,3.74424481,
+3,Cabinet,1.44499993,2.26,-1.54275,True,False,True,False,1.72401726,
+4,RangeStyle3_Range4 (2),0.9741,0.9576474,-1.6882,True,False,False,False,1.2211262,
+5,CounterTop_Physics,-1.866,0.9476,-0.614,True,False,False,False,3.118433,
+6,Cabinet,-2.21725035,0.373500019,-1.8749,True,False,True,False,3.7670188,
+7,RoundTable,-2.663,0.833,3.21,True,False,False,False,5.392615,
+8,RangeStyle3_Range4 (1),1.3286,0.9576474,-1.6882,True,False,False,False,1.19214356,
+9,RangeStyle3_Range4,1.3286,0.9576474,-1.4201,True,False,False,False,0.925187,
+10,Cabinet,-1.47825634,0.373500019,-1.235,True,False,True,False,2.87434554,
+11,Cabinet,1.77500045,0.372500032,-1.24274993,True,False,True,False,1.05195737,
+12,Cabinet,0.775,0.372500032,-1.24274993,True,False,True,False,1.02791727,
+13,Cabinet,0.375,0.372500032,-1.24274993,True,False,True,False,1.26357186,
+14,Cabinet,-0.5749999,0.372500032,-1.23844361,True,False,True,False,2.03843927,
+15,Cabinet,1.7750001,2.01,-1.54274988,True,False,True,False,1.6102283,
+16,Cabinet,0.524999857,2.01,-1.54274988,True,False,True,False,1.68607092,
+17,Cabinet,-0.7149999,2.01,-1.54274988,True,False,True,False,2.48564577,
+18,Cabinet,-1.6716665,2.01,-1.53894377,True,False,True,False,3.29323888,
+19,Cabinet,0.8549999,2.26,-1.54275,True,False,True,False,1.75790668,
+20,Drawer,-1.637,0.6835,-0.930000067,True,False,True,False,2.92693973,
+21,Drawer,1.6500001,0.6825,-1.397,True,False,True,False,1.00615656,
+22,Drawer,0.6,0.6825,-1.397,True,False,True,False,1.12909293,
+23,RangeStyle3_Range4 (3),0.9741,0.9576474,-1.4196,True,False,False,False,0.961766064,
+24,Drawer,-2.063,0.6835,-1.57999992,True,False,True,False,3.49137139,
+25,CounterTop,1.646,0.9456,-1.528,True,False,False,False,1.10253763,
+26,Dog_Statue_2,3.67604518,0.168319836,1.41034484,False,False,False,True,3.17363071,['Shelf|+03.69|+00.16|+01.64']
+27,Fork_1,-2.03839159,0.710876942,-1.66301966,False,False,False,True,3.49317622,['Drawer|-02.06|+00.68|-01.58']
+28,Tomato_7,0.173319235,0.8302082,2.033908,False,False,False,True,2.75407743,['Fridge|-00.04|+00.00|+02.18']
+29,Shelf (2),3.68922377,0.8699664,1.64217639,True,False,False,False,3.24648976,
+30,LightSwitch7,2.83055973,1.267,-0.7481167,False,True,False,False,1.64124572,
+31,Egg_7,-1.56872177,0.929917932,-0.469872117,False,False,False,True,2.81903124,['CounterTop|-01.87|+00.95|-00.61']
+32,Kettle_1,-0.8337489,0.9046403,-1.758001,False,False,False,True,2.4340477,['CounterTop|-01.87|+00.95|-00.61']
+33,Shelf (3),3.6897006,0.5420021,1.64200008,True,False,False,False,3.26637149,
+34,Microwave_7,1.1504,1.646,-1.6125,True,False,True,False,1.34261036,
+35,Fridge_7,-0.035,0.0,2.177,True,False,True,False,3.10311985,
+36,Vase_4,3.671401,0.168322966,1.84175575,False,False,False,True,3.44729137,['Shelf|+03.69|+00.16|+01.64']
+37,Bowl_1,-2.07114,0.902851343,0.4663348,True,False,False,True,3.45886946,['CounterTop|-01.87|+00.95|-00.61']
+38,Cup_7,-1.9131813,0.9023212,-0.02491741,True,False,False,True,3.19865942,['CounterTop|-01.87|+00.95|-00.61']
+39,Window,-0.115,1.802,-1.896,False,False,False,False,2.15031242,
+40,Window (1),-4.0092,1.799,0.31,False,False,False,False,5.39645147,
+41,Wine_Bottle_1,-0.163,0.7786,1.9959,False,False,False,True,2.870726,['Fridge|-00.04|+00.00|+02.18']
+42,Mug_1,1.67000127,0.90002346,-1.31699967,True,False,False,True,0.91863513,['CounterTop|+01.65|+00.95|-01.53']
+43,Plate_7,0.1390815,0.9150266,-1.49701262,True,False,False,True,1.49277294,['Sink|+00.05|+00.82|-01.64']
+44,Spatula_1,0.09,0.937,-1.644,False,False,False,True,1.629611,['Sink|+00.05|+00.82|-01.64']
+45,Potato_7,0.220659971,1.1655,2.16011715,False,False,False,True,2.8645637,['Fridge|-00.04|+00.00|+02.18']
+46,Pot_7,-1.60200489,0.901,-0.172676325,True,False,False,True,2.870727,['CounterTop|-01.87|+00.95|-00.61']
+47,Shelf (1),3.68944168,0.16166544,1.64205861,True,False,False,False,3.32955027,
+48,Knife_2,-0.7529908,0.907110155,-1.31999779,False,False,False,True,2.1643486,['CounterTop|-01.87|+00.95|-00.61']
+49,SinkBasin,-0.336,0.771999955,-1.5693,True,False,False,False,1.91714358,
+50,Salt_Shaker_1,0.6954669,0.9,-1.52914035,False,False,False,True,1.16903281,['CounterTop|-01.87|+00.95|-00.61']
+51,bin_7,-0.871,0.0,2.136,True,False,False,False,3.50127625,
+52,Pepper_Shaker_1,0.755117536,0.9,-1.4472425,False,False,False,True,1.06872725,['CounterTop|-01.87|+00.95|-00.61']
+53,Lettuce_7,-1.654821,0.965181231,-1.05154538,False,False,False,True,2.95741558,['CounterTop|-01.87|+00.95|-00.61']
+54,ButterKnife_1,-0.964,0.9004533,-1.296,False,False,False,True,2.35274577,['CounterTop|-01.87|+00.95|-00.61']
+55,StoveKnob,1.08930874,0.9137,-1.2439,False,False,False,False,0.761163652,
+56,StoveKnob,0.9622766,0.9137,-1.2439,False,False,False,False,0.797705,
+57,StoveKnob,1.34007359,0.9137,-1.2439,False,False,False,False,0.7494409,
+58,StoveKnob,1.20809209,0.9137,-1.2439,False,False,False,False,0.7451877,
+59,bread_7,-1.60103,0.9802664,-0.837691963,False,False,False,True,2.87205338,['CounterTop|-01.87|+00.95|-00.61']
+60,Open_Book_2,-2.0680306,0.907532454,-1.66219413,False,False,False,True,3.51568842,['CounterTop|-01.87|+00.95|-00.61']
+61,Chair,-2.41075349,0.5658038,0.06442406,False,False,False,False,3.719146,
+62,Chair (1),-2.4720273,0.5658041,-0.798813641,False,False,False,False,3.74901748,
+63,Vase_2,3.68656445,0.8703134,1.41652679,False,False,False,True,3.10013914,['Shelf|+03.69|+00.87|+01.64']
+64,Toaster_7,1.63799989,0.9,-1.674,False,False,False,False,1.236455,['CounterTop|+01.65|+00.95|-01.53']
+65,Dish_Sponge_1,-0.6656867,0.900073,-1.70745146,False,False,False,True,2.26446366,['CounterTop|-01.87|+00.95|-00.61']
+66,Apple7,-0.786929667,0.9600146,-1.441575,False,False,False,True,2.24480033,['CounterTop|-01.87|+00.95|-00.61']
+67,Pan_7,0.972991765,0.9591456,-1.42607486,True,False,False,True,0.9683642,['StoveBurner|+00.97|+00.96|-01.42']
+68,Chair1,-3.499,0.0,3.451,False,False,False,False,6.243012,
+69,Chair1 (2),-2.82,0.0,2.598,False,False,False,False,5.193679,
+70,Chair1 (1),-1.919,0.0,3.47,False,False,False,False,5.158998,
+71,Hand_Statue_3,3.66876721,0.5405253,1.80049717,False,False,False,True,3.35747862,['Shelf|+03.69|+00.54|+01.64']
+72,Spoon_1,-2.05105281,0.7111,-1.46491551,False,False,False,True,3.44442654,['Drawer|-02.06|+00.68|-01.58']
+73,coffee_machine_7,-1.112,0.901,-1.727,True,False,False,False,2.66168618,['CounterTop|-01.87|+00.95|-00.61']
+74,Houseplant_10,-2.744,0.869,3.208,False,False,False,False,5.449984,['TableTop|-02.66|+00.83|+03.21']
+75,Soap_Bottle_7,0.035,0.9113618,-1.736,False,False,False,True,1.73321331,['Sink|+00.05|+00.82|-01.64']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sink,0.21,0.7942,-1.766,True,False,False,False,2.143423,
+2,Chair2,-1.994,0.017,0.882063,False,False,False,False,1.596097,
+3,Drawer,0.8600004,0.75,0.430000126,True,False,True,False,1.91502011,
+4,Drawer,0.8717,0.75,-1.135,True,False,True,False,2.1941483,
+5,Cabinet,-0.868800163,2.005,-1.691,True,False,True,False,2.02373719,
+6,Cabinet (8),-1.6616,2.06,-1.6843,True,False,True,False,2.14892149,
+7,Cabinet (7),-0.8176,2.06,-1.68999994,True,False,True,False,2.057341,
+8,Cabinet,0.8600004,0.402500033,0.665,True,False,True,False,2.03723526,
+9,Cabinet,0.8600004,0.402500033,-0.55249995,True,False,True,False,2.003337,
+10,Cabinet,0.8600004,0.402500033,-1.365,True,False,True,False,2.360366,
+11,Cabinet,-0.244999886,0.402500033,-1.39,True,False,True,False,1.65850127,
+12,Cabinet,-0.815000057,0.402500033,-1.39,True,False,True,False,1.48822927,
+13,Cabinet,1.15999961,2.06,-0.334999979,True,False,True,False,2.474087,
+14,Cabinet,0.488,2.06,-1.68999994,True,False,True,False,2.532494,
+15,Cabinet (6),-0.193,2.06,-1.68999994,True,False,True,False,2.202415,
+16,Drawer,0.8600004,0.75,-0.699499965,True,False,True,False,1.992913,
+17,Cabinet (5),1.15999961,2.06,-1.02,True,False,True,False,2.65504813,
+18,Cabinet,-1.61119986,2.005,-1.691,True,False,True,False,2.109944,
+19,Cabinet (1),0.8321,0.4017,-1.3934,True,False,True,False,2.35530329,
+20,Drawer (3),-2.1057,0.75,-1.39,True,False,True,False,1.78254688,
+21,RangeStyle7_Range1 (1),-1.0811,0.942,-1.81,True,False,False,False,1.81227982,
+22,Cabinet (2),-0.2027,0.4019,-1.3916,True,False,True,False,1.67968392,
+23,CounterTop_Physics,-1.974,0.946,-1.707,True,False,False,False,1.965846,
+24,Drawer,-0.375,0.75,-1.39,True,False,True,False,1.531511,
+25,CounterTop_Physics,1.165,0.9468,-0.65,True,False,False,False,2.260934,
+26,RangeStyle7_Range1,-1.0811,0.942,-1.5272,True,False,False,False,1.52990139,
+27,CounterTop_Physics (1),-2.097,0.946,0.291,True,False,False,False,1.13583219,
+28,Cabinet (4),-2.2371,0.402500033,-1.39,True,False,True,False,1.92640018,
+29,Drawer,0.585,0.75,-1.39,True,False,True,False,2.11355758,
+30,Drawer (2),-1.7954,0.75,-1.39,True,False,True,False,1.60859,
+31,CounterTop_Physics,1.5,1.1977,-0.655,True,False,False,False,2.60135674,
+32,Cabinet (3),-1.66709971,0.402500033,-1.39,True,False,True,False,1.62037754,
+33,RangeStyle7_Range1 (3),-1.431,0.942,-1.5257,True,False,False,False,1.585939,
+34,Drawer (1),-0.6855,0.75,-1.39,True,False,True,False,1.43311226,
+35,RangeStyle7_Range1 (2),-1.431,0.942,-1.81,True,False,False,False,1.86105931,
+36,LightSwitch8,-2.53999949,1.289,2.568,False,True,False,False,3.01939869,
+37,Tomato_8,-1.82064617,0.9426261,0.427396923,False,False,False,True,0.9262079,['CounterTop|-02.10|+00.95|+00.29']
+38,StoveKnob3_Range3,-1.36240625,1.09560037,-1.98380017,False,False,False,False,2.02599883,
+39,StoveKnob3_Range1,-0.9624064,1.0956,-1.98380017,False,False,False,False,1.99367654,
+40,StoveKnob3_Range4,-1.52240586,1.0956,-1.9838,False,False,False,False,2.06064081,
+41,StoveKnob3_Range2,-1.11240554,1.09560013,-1.9838,False,False,False,False,1.99648869,
+42,Bottle_1,1.43433332,1.14999986,-0.85080117,False,False,False,True,2.59072232,['CounterTop|+01.50|+01.20|-00.66']
+43,coffee_machine_8,1.086,0.9,-1.8849,True,False,False,False,2.81144881,['CounterTop|+01.17|+00.95|-00.65']
+44,Knife_3,1.04199982,0.906940937,0.4360001,False,False,False,True,2.088036,['CounterTop|+01.17|+00.95|-00.65']
+45,Plate_8,1.43365192,1.15029085,-0.5350388,True,False,False,True,2.50421143,['CounterTop|+01.50|+01.20|-00.66']
+46,Fork_1,-0.685972631,0.9017132,-1.55552351,False,False,False,True,1.58690488,['CounterTop|+01.17|+00.95|-00.65']
+47,Ladle_3,-1.83548307,0.9266481,0.104843512,False,False,False,True,0.84242624,['CounterTop|-02.10|+00.95|+00.29']
+48,bin_8,1.381,0.0,1.08,True,False,False,False,2.765386,
+49,Potato_8,1.20504022,0.9461,0.5666323,False,False,False,True,2.27712727,['CounterTop|+01.17|+00.95|-00.65']
+50,Lettuce_8,0.194198862,0.9602216,-1.66940629,False,False,False,True,2.05342054,['Sink|+00.21|+00.79|-01.77']
+51,Houseplant_8,1.441,1.15,0.593,False,False,False,False,2.5243082,['CounterTop|+01.50|+01.20|-00.66']
+52,Kettle_1,0.7708356,0.9043802,-1.83614743,False,False,False,True,2.55094242,['CounterTop|+01.17|+00.95|-00.65']
+53,Fridge_8,1.417,0.0,2.101,True,False,True,False,3.326844,
+54,Pen_2,-2.36222172,0.9056439,0.5501652,False,False,False,True,1.4691329,['CounterTop|-02.10|+00.95|+00.29']
+55,Salt_Shaker_2,-1.77235579,0.9,-1.68491387,False,False,False,True,1.85350192,['CounterTop|-01.97|+00.95|-01.71']
+56,Bowl_1,1.02653408,0.901851535,-0.558452666,True,False,False,True,2.102073,['CounterTop|+01.17|+00.95|-00.65']
+57,Cup_8,1.10238945,0.9005725,-0.9327945,True,False,False,True,2.300032,['CounterTop|+01.17|+00.95|-00.65']
+58,Window,-0.486466259,1.452,3.302,False,False,False,False,3.386816,
+59,Egg_8,0.2615887,0.927719235,-1.4823364,False,False,False,True,1.9467001,['CounterTop|+01.17|+00.95|-00.65']
+60,Spatula_1,-1.95426726,0.918,-1.528967,False,False,False,True,1.80240262,['CounterTop|-01.97|+00.95|-01.71']
+61,Spray_Bottle_1,-0.0148196816,0.105000004,-1.550259,False,False,False,True,2.00187349,['Cabinet|-00.20|+00.40|-01.39']
+62,Pan_8,-1.07936192,0.94527024,-1.52895641,True,False,False,True,1.5316546,['StoveBurner|-01.08|+00.94|-01.53']
+63,Soap_Bottle_8,-0.328378081,0.8999999,-1.87658334,False,False,False,True,1.9931488,['CounterTop|+01.17|+00.95|-00.65']
+64,SinkBasin,-0.07939999,0.8076,-1.6977,True,False,False,False,1.93349767,
+65,Pot_8,0.9673953,0.9,0.249277115,True,False,False,True,1.98312485,['CounterTop|+01.17|+00.95|-00.65']
+66,ButterKnife_1,-0.682,0.9,-1.71,False,False,False,True,1.73931742,['CounterTop|+01.17|+00.95|-00.65']
+67,Microwave_8,1.422,1.15,0.023,True,False,True,False,2.43487453,['CounterTop|+01.50|+01.20|-00.66']
+68,Pepper_Shaker_2,-1.70153654,0.9,-1.84339285,False,False,False,True,1.972372,['CounterTop|-01.97|+00.95|-01.71']
+69,Mug_3,1.45388818,1.64502907,-0.516322732,True,False,False,True,2.6156714,['Cabinet|+01.16|+02.06|-00.34']
+70,Dish_Sponge_1,-0.253,0.9,-1.469,False,False,False,True,1.64802027,['CounterTop|+01.17|+00.95|-00.65']
+71,Toaster_8,-2.067,0.9,-1.848,False,False,False,False,2.13391519,['CounterTop|-01.97|+00.95|-01.71']
+72,bread_8,1.164,0.9752501,-0.159999967,False,False,False,True,2.171177,['CounterTop|+01.17|+00.95|-00.65']
+73,Apple8,0.99387306,0.937226534,-1.10555077,False,False,False,True,2.28015018,['CounterTop|+01.17|+00.95|-00.65']
+74,Spoon_1,-0.540702343,0.9,-1.64906859,False,False,False,True,1.711836,['CounterTop|+01.17|+00.95|-00.65']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sink,0.05,0.902,-0.649,False,False,False,False,0.650923967,['CounterTop|+01.36|+00.95|-00.60']
+2,CounterTop_Physics (2),1.359,0.9473,-0.6,True,False,False,False,1.48627877,
+3,Cabinet (14),2.9863,2.01,1.305,True,False,True,False,3.442513,
+4,Cabinet (18),1.0222,2.01,-0.6074,True,False,True,False,1.625949,
+5,GasBurner (3),0.6788,0.9236,1.0822,True,False,False,False,1.2776686,
+6,Cabinet (5),2.3717,0.402500033,0.995,True,False,True,False,2.61982584,
+7,Drawer,-0.125,0.792499959,0.995,True,False,True,False,1.00867343,
+8,GasBurner,0.2815,0.9236,1.0827,True,False,False,False,1.11892462,
+9,Cabinet (1),1.0254,0.402500033,0.995,True,False,True,False,1.51326525,
+10,Cabinet (7),1.0237999,0.402500033,-0.297,True,False,True,False,1.17680776,
+11,Cabinet,0.9749999,2.26,1.305,True,False,True,False,2.121446,
+12,Cabinet (19),0.9794,2.01,-0.6078,True,False,True,False,1.59953988,
+13,CounterTop_Physics,-0.158,0.9473,1.299,True,False,False,False,1.30939257,
+14,Cabinet (11),1.7258,2.01,1.305,True,False,True,False,2.43131518,
+15,Drawer (7),2.2055,0.792499959,-0.295,True,False,True,False,2.227785,
+16,Drawer (8),1.8691,0.792499959,-0.295,True,False,True,False,1.89534473,
+17,GasBurner (1),0.2815,0.9236,1.3473,True,False,False,False,1.37657928,
+18,Drawer (5),2.5128,0.792499959,0.995,True,False,True,False,2.70480323,
+19,Cabinet (6),1.6734,0.402500033,-0.297,True,False,True,False,1.77115166,
+20,Drawer (2),1.525,0.792499959,0.995,True,False,True,False,1.82412219,
+21,Drawer (10),1.1741,0.792499959,-0.295,True,False,True,False,1.21544564,
+22,Cabinet (3),1.7202,0.402500033,0.995,True,False,True,False,2.048808,
+23,Cabinet (15),2.348,2.01,-0.6078,True,False,True,False,2.66690969,
+24,Cabinet (17),1.6765,2.01,-0.6078,True,False,True,False,2.09998941,
+25,Cabinet (10),1.6734,2.01,1.305,True,False,True,False,2.394405,
+26,Cabinet (12),2.3263,2.01,1.305,True,False,True,False,2.88869834,
+27,Cabinet (13),2.3707,2.01,1.305,True,False,True,False,2.92457271,
+28,Table,-0.837,0.791,-1.259,True,False,False,False,1.515833,
+29,Cabinet,0.0214996338,2.01,1.305,True,False,True,False,1.71270835,
+30,Cabinet,1.0250001,2.01,1.305,True,False,True,False,1.99587893,
+31,Cabinet,-0.274999619,0.402500033,0.995,True,False,True,False,1.14636433,
+32,Cabinet,1.67500019,0.402500033,0.995,True,False,True,False,2.01100779,
+33,Drawer (9),1.5246,0.792499959,-0.295,True,False,True,False,1.55666387,
+34,Drawer (4),2.187,0.792499959,0.995,True,False,True,False,2.405154,
+35,Cabinet (4),2.9771,0.402500033,0.995,True,False,True,False,3.17830944,
+36,Drawer (3),1.8627,0.792499959,0.995,True,False,True,False,2.11458,
+37,Cabinet,0.07250023,2.26,1.305,True,False,True,False,1.88551438,
+38,CounterTop_Physics (1),1.917,0.9473,1.299,True,False,False,False,2.316125,
+39,Cabinet (2),2.32880044,0.402500033,0.995,True,False,True,False,2.58105373,
+40,Cabinet (16),1.723,2.01,-0.6074,True,False,True,False,2.137182,
+41,GasBurner (2),0.678,0.9236,1.3458,True,False,False,False,1.50710738,
+42,Cabinet (20),0.3554,2.01,-0.6074,True,False,True,False,1.3134408,
+43,Cabinet (21),0.3324,2.01,-0.6078,True,False,True,False,1.3075906,
+44,Cabinet (8),2.3499,0.402500033,-0.297,True,False,True,False,2.42048359,
+45,Cabinet (22),-0.2846,2.01,-0.6074,True,False,True,False,1.29607666,
+46,Drawer (6),2.8376,0.792499959,0.995,True,False,True,False,3.00894856,
+47,Drawer (1),1.1756,0.792499959,0.995,True,False,True,False,1.54396653,
+48,Cabinet (9),1.7232,0.402500033,-0.297,True,False,True,False,1.81827629,
+49,Soap_Bottle_9,0.487511218,0.9,-0.730356336,False,False,False,True,0.8781165,['CounterTop|+01.36|+00.95|-00.60']
+50,StoveKnob3_Range3,0.589,1.09337223,1.557,False,False,False,False,1.6757617,
+51,StoveKnob3_Range1,0.189,1.09337187,1.557,False,False,False,False,1.58018267,
+52,StoveKnob3_Range4,0.749,1.09337187,1.557,False,False,False,False,1.73846412,
+53,StoveKnob3_Range2,0.339,1.093372,1.557,False,False,False,False,1.60504746,
+54,Plate_9,2.21167254,0.9027691,-0.4628924,True,False,False,True,2.25959468,['CounterTop|+01.36|+00.95|-00.60']
+55,Toaster_9,1.93476772,0.9,-0.7175913,False,False,False,False,2.06355619,['CounterTop|+01.36|+00.95|-00.60']
+56,Fork_1,-0.174385473,0.9017132,1.54796433,False,False,False,True,1.55775619,['CounterTop|-00.16|+00.95|+01.30']
+57,LightSwitch9,-1.663,1.428,1.65,False,True,False,False,2.40120769,
+58,Pot_9,0.297572,0.960009456,1.34640443,True,False,False,True,1.38015807,['StoveBurner|+00.28|+00.92|+01.35']
+59,bread_9,1.03,0.9533207,-0.519,False,False,False,True,1.15455556,['CounterTop|+01.36|+00.95|-00.60']
+60,Egg_9,2.722005,1.050947,-0.4826593,False,False,False,True,2.76852942,['Fridge|+03.04|+00.00|-00.71']
+61,bin_9,-1.991,0.0,1.362,True,False,False,False,2.57505822,
+62,Kettle_1,0.710103869,0.904379249,-0.7720632,False,False,False,True,1.04897118,['CounterTop|+01.36|+00.95|-00.60']
+63,coffee_machine_9,1.54216206,0.900000036,-0.75124824,True,False,False,False,1.71541214,['CounterTop|+01.36|+00.95|-00.60']
+64,Fridge_9,3.0431,0.0,-0.71,True,False,True,False,3.25213122,
+65,Tomato_9,0.156598151,0.784009635,-0.643846035,False,False,False,True,0.672865,['Sink|+00.05|+00.90|-00.65|SinkBasin']
+66,Bowl_1,1.21678579,0.9018519,1.247106,True,False,False,True,1.74236667,['CounterTop|+01.92|+00.95|+01.30']
+67,Cup_9,1.17710221,1.64550662,-0.7455965,True,False,False,True,1.57980227,['Cabinet|+01.02|+02.01|-00.61']
+68,Window,-2.183,1.502,-0.014,False,False,False,False,2.26426315,
+69,Mug_1,1.42836118,0.965981,-0.577147245,True,False,False,True,1.5419265,"['CounterTop|+01.36|+00.95|-00.60', 'CoffeeMachine|+01.54|+00.90|-00.75']"
+70,Spatula_1,1.018,0.918,1.151,False,False,False,True,1.5366894,['CounterTop|+01.92|+00.95|+01.30']
+71,Apple9,2.7694,1.343951,-0.453299761,False,False,False,True,2.84099674,['Fridge|+03.04|+00.00|-00.71']
+72,Pan_9,0.637444,0.960009456,1.09028614,True,False,False,True,1.2643342,"['StoveBurner|+00.68|+00.92|+01.08', 'StoveBurner|+00.68|+00.92|+01.35']"
+73,Lettuce_9,2.92710137,1.34408236,-0.611830831,False,False,False,True,3.02300882,['Fridge|+03.04|+00.00|-00.71']
+74,SinkBasin,0.043,0.7553,-0.6519,True,False,False,False,0.669366,
+75,Salt_Shaker_1,-0.814011931,0.811,-1.2697866,False,False,False,True,1.51098418,['TableTop|-00.84|+00.79|-01.26']
+76,Knife_4,0.0266988724,0.7587085,-0.5926078,False,False,False,True,0.610035658,['Sink|+00.05|+00.90|-00.65|SinkBasin']
+77,Potato_9,-0.868395448,0.8481,-1.06242931,False,False,False,True,1.37319517,['TableTop|-00.84|+00.79|-01.26']
+78,Pepper_Shaker_1,-0.992,0.811,-1.169,False,False,False,True,1.535814,['TableTop|-00.84|+00.79|-01.26']
+79,Microwave_9,0.531,1.66903281,1.438,True,False,True,False,1.71454966,
+80,ButterKnife_1,-0.7979,0.810927033,-1.1337,False,False,False,True,1.38925636,['TableTop|-00.84|+00.79|-01.26']
+81,Dish_Sponge_1,-0.012,0.7505855,-0.774,False,False,False,True,0.788571,['Sink|+00.05|+00.90|-00.65|SinkBasin']
+82,Chair1,-1.795,0.014,-1.36,False,False,False,False,2.42041159,
+83,Spoon_1,1.421443,0.9,1.06767011,False,False,False,True,1.77775717,['CounterTop|+01.92|+00.95|+01.30']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,GasBurner,0.842,0.9193,-1.0985,True,False,False,False,0.855716765,
+2,Cabinet,0.648812532,0.475,0.244999886,True,False,True,False,1.68447554,
+3,GasBurner (3),1.0776,0.9193,-1.5042,True,False,False,False,1.10732758,
+4,GasBurner (2),0.842,0.9193,-1.5042,True,False,False,False,0.8797253,
+5,Drawer (1),0.6376251,0.7556,-0.65,True,False,True,False,0.8875284,
+6,Cabinet (2),0.949,2.15999985,-2.376,True,False,True,False,1.93741059,
+7,CounterTop_Physics,-1.239,0.969,-0.643,True,False,False,False,1.381374,
+8,CounterTop_Physics,0.932,0.9468,-0.208,True,False,False,False,1.39874434,
+9,GasBurner (1),1.0776,0.9193,-1.0985,True,False,False,False,1.08835149,
+10,Drawer,0.6376251,0.268749982,-0.65,True,False,True,False,1.07995594,
+11,Drawer,0.6376251,0.5475,-0.65,True,False,True,False,0.9442073,
+12,Cabinet,0.6488126,0.475000024,-1.71499968,True,False,True,False,0.9047971,
+13,CounterTop_Physics,0.932,0.9468,-2.051,True,False,False,False,1.22976542,
+14,Cabinet,0.9488125,2.43999982,-1.78000009,True,False,True,False,1.88405633,
+15,Cabinet,0.9488125,2.15999985,-0.1400001,True,False,True,False,1.92806315,
+16,Cabinet (1),0.949,2.15999985,-0.7583,True,False,True,False,1.65150011,
+17,Sink,-0.7,0.928,-0.65,False,False,False,False,0.922349751,
+18,Bottle_1,-1.38019812,0.871134937,2.67599225,False,False,False,True,4.16164064,['Shelf|-01.69|+00.87|+02.72']
+19,bread_10,-0.779,0.9967339,0.209999964,False,False,False,True,1.65759039,['CounterTop|-01.24|+00.97|-00.64']
+20,CreditCard_3,-1.39619577,0.919599831,-0.219553709,False,False,False,True,1.73537552,['CounterTop|-01.24|+00.97|-00.64']
+21,Cellphone_2,-1.97746611,0.5474787,2.71456671,False,False,False,True,4.44445038,['Shelf|-01.69|+00.54|+02.72']
+22,LightSwitch10,-2.372,1.219,3.04999971,False,True,False,False,4.92112875,
+23,Potato_10,-0.694574833,0.9568,-0.053073287,False,False,False,True,1.38498425,['CounterTop|-01.24|+00.97|-00.64']
+24,Knife_5,0.8683008,0.7004145,-0.600700259,False,False,False,True,1.10261989,['Drawer|+00.64|+00.76|-00.65']
+25,StoveKnob2_Range3,0.6737,0.8997,-1.3739115,False,False,False,False,0.685001731,
+26,StoveKnob2_Range4,0.6737,0.8997,-1.51962674,False,False,False,False,0.725652754,
+27,StoveKnob2_Range1,0.6737,0.8997,-1.0862658,False,False,False,False,0.6933125,
+28,StoveKnob2_Range2,0.6737,0.8997,-1.23765826,False,False,False,False,0.673814237,
+29,Fork_1,-1.29058087,0.9213129,-1.28720212,False,False,False,True,1.29127669,['CounterTop|-01.24|+00.97|-00.64']
+30,Shelf (2),-1.689,0.870999932,2.7196,True,False,False,False,4.314087,
+31,Pan_10,0.8484889,0.9462139,-1.08015645,True,False,False,True,0.8665014,"['StoveBurner|+00.84|+00.92|-01.10', 'StoveBurner|+01.08|+00.92|-01.10']"
+32,Lettuce_10,0.866633236,1.6885556,1.20923221,False,False,False,True,2.72380638,['Fridge|+00.97|+00.00|+01.25']
+33,Toaster_10,0.984,0.900000453,0.329,False,False,False,False,1.86051011,['CounterTop|+00.93|+00.95|-00.21']
+34,Plate_10,-0.5587156,0.920366645,-1.5161376,True,False,False,True,0.619166732,['CounterTop|-01.24|+00.97|-00.64']
+35,Shelf (3),-1.6893996,0.543036163,2.7189,True,False,False,False,4.32832241,
+36,Apple10,-0.6579858,0.9734564,0.0725551844,False,False,False,True,1.47896838,['CounterTop|-01.24|+00.97|-00.64']
+37,Pot_10,-1.221,0.92,-0.49,True,False,False,True,1.438333,['CounterTop|-01.24|+00.97|-00.64']
+38,Bowl_1,0.812879264,0.9018519,-0.0118707744,True,False,False,True,1.48112714,['CounterTop|+00.93|+00.95|-00.21']
+39,Window (1),0.015,0.998,-2.64,False,False,False,False,1.39346135,
+40,Window,-2.996,0.998,-2.64,False,False,False,False,3.304168,
+41,Mug_1,-0.6729461,0.770618856,-0.8416505,True,False,False,True,0.797875166,['Sink|-00.70|+00.93|-00.65|SinkBasin']
+42,Statue_Waving_Man_3,-1.816,0.871,2.754,False,False,False,True,4.396677,['Shelf|-01.69|+00.87|+02.72']
+43,Spatula_1,1.09867859,0.912,-0.629158735,False,False,False,True,1.26200616,['CounterTop|+00.93|+00.95|-00.21']
+44,Paper_Towel_1,1.21939588,1.0117017,-0.523481,False,False,False,True,1.42373145,['CounterTop|+00.93|+00.95|-00.21']
+45,coffee_machine_10,1.018,0.9,-2.177,True,False,False,False,1.3768276,['CounterTop|+00.93|+00.95|-02.05']
+46,Shelf (1),-1.6896,0.162699521,2.7189,True,False,False,False,4.3763,
+47,Tomato_10,-0.8700691,0.9626559,-0.0960055143,False,False,False,True,1.44655621,['CounterTop|-01.24|+00.97|-00.64']
+48,bin_10,-0.947,0.0,0.576,True,False,False,False,2.2456367,
+49,Egg_10,0.8927,1.1634,1.0921,False,False,False,True,2.52015877,['Fridge|+00.97|+00.00|+01.25']
+50,SinkBasin,-0.698,0.766,-0.647,True,False,False,False,0.932221949,
+51,Salt_Shaker_1,1.19411683,0.9,-1.79810643,False,False,False,True,1.31390131,['CounterTop|+00.93|+00.95|-02.05']
+52,Microwave_10,1.0427,1.68000054,-1.296,True,False,True,False,1.30237567,
+53,Pepper_Shaker_1,1.094216,0.9,-1.82271326,False,False,False,True,1.23503447,['CounterTop|+00.93|+00.95|-02.05']
+54,Vase_6,-1.47093463,0.3164,2.67670417,False,False,False,True,4.233723,"['Shelf|-01.69|+00.54|+02.72', 'Shelf|-01.69|+00.16|+02.72']"
+55,ButterKnife_1,-1.32580292,0.9195999,-0.8847475,False,False,False,True,1.37532139,['CounterTop|-01.24|+00.97|-00.64']
+56,Fridge_10,0.966,0.0,1.254,True,False,True,False,2.83107257,
+57,Soap_Bottle_10,-0.8349448,0.91959995,-1.17639291,False,False,False,True,0.8383894,['CounterTop|-01.24|+00.97|-00.64']
+58,Vase_2,-1.6551764,0.5415219,2.72525668,False,False,False,True,4.321053,['Shelf|-01.69|+00.54|+02.72']
+59,Dish_Sponge_1,-0.714921534,0.788,-0.457716018,False,False,False,True,1.07312417,['Sink|-00.70|+00.93|-00.65|SinkBasin']
+60,Chair1,-1.931,0.0,-0.033,False,False,False,False,2.45390487,
+61,Chair1 (1),-1.9,0.0,-0.998,False,False,False,False,2.1178534,
+62,Spoon_1,-1.24191785,0.9195999,-1.20940888,False,False,False,True,1.24272025,['CounterTop|-01.24|+00.97|-00.64']
+63,Cup_10,1.0786109,0.899461567,-0.767802656,True,False,False,True,1.18148983,['CounterTop|+00.93|+00.95|-00.21']
+64,Houseplant_10,-1.35479522,0.91959995,-1.54041481,False,False,False,False,1.38569725,['CounterTop|-01.24|+00.97|-00.64']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet (4),-0.1938,1.6882,-1.6489,True,False,True,False,1.21048117,
+2,TableTop_Physics (2),-2.203,0.99,0.448,True,False,False,False,2.50924969,
+3,RangeStyle3_Range4,1.361,0.9576474,0.294,True,False,False,False,1.716236,
+4,Drawer,0.49999994,0.792499959,0.297,True,False,True,False,1.16532433,
+5,Cabinet (1),0.0956,0.401,-1.3522,True,False,True,False,0.788532436,
+6,CounterTop_Physics,0.281,0.9478,0.4581,True,False,False,False,1.24123192,
+7,CounterTop_Physics,-0.681,0.9478,-1.6548,True,False,False,False,1.13340831,
+8,Drawer,1.82500017,0.792499959,0.297,True,False,True,False,2.1068,
+9,RangeStyle3_Range4 (2),1.0071,0.9576474,0.5617,True,False,False,False,1.65469527,
+10,Drawer,-0.150000036,0.792499959,-1.497,True,False,True,False,0.769597948,
+11,Drawer (1),-0.5864,0.792499959,-1.497,True,False,True,False,0.9558483,
+12,RangeStyle3_Range4 (1),1.361,0.9576474,0.5617,True,False,False,False,1.89105439,
+13,Sink,0.776,0.821,-1.723,True,False,False,False,1.24711871,
+14,Drawer,0.0249999166,0.792499959,0.297,True,False,True,False,1.05290365,
+15,Cabinet (2),1.0799,0.4009,-1.3496,True,False,True,False,1.33259273,
+16,Cabinet,1.67,0.402500033,0.151000023,True,False,True,False,1.96193838,
+17,Cabinet,0.0550000034,0.402500033,-1.35100007,True,False,True,False,0.7827691,
+18,Cabinet,-0.180000126,0.402500033,0.151000023,True,False,True,False,1.04532409,
+19,Cabinet,0.729999959,0.402500033,0.151000023,True,False,True,False,1.26222122,
+20,RangeStyle3_Range4 (3),1.0071,0.9576474,0.2938,True,False,False,False,1.45154333,
+21,Drawer,-1.1,0.792499959,-1.497,True,False,True,False,1.33408439,
+22,Cabinet (6),-0.3965,0.402500033,-1.35100007,True,False,True,False,0.875736654,
+23,CounterTop_Physics,1.7763,0.9478,0.4581,True,False,False,False,2.148706,
+24,Cabinet (3),1.9746,1.6882,-1.6489,True,False,True,False,2.30797553,
+25,Cabinet (5),-0.8209,0.4009,-1.3496,True,False,True,False,1.1329149,
+26,bread_11,1.29989243,0.978749633,-1.53264427,False,False,False,True,1.51930821,['CounterTop|-00.68|+00.95|-01.65']
+27,Knife_1,1.032599,0.92236793,-1.65799439,False,False,False,True,1.3751986,['Sink|+00.78|+00.82|-01.72']
+28,Toaster_11,0.305,0.9,0.553,False,False,False,False,1.33822083,['CounterTop|+00.28|+00.95|+00.46']
+29,Fork_1,0.3975386,0.7690925,-1.7149502,False,False,False,True,1.051934,['Sink|+00.78|+00.82|-01.72|SinkBasin']
+30,Kettle_1,-0.0555241443,0.904378951,0.6438625,False,False,False,True,1.394972,['CounterTop|+00.28|+00.95|+00.46']
+31,Cup_11,-0.499095559,1.31512189,-1.79219961,True,False,False,True,1.22750723,['Cabinet|-00.19|+01.69|-01.65']
+32,Tomato_11,0.720481455,0.9692333,-1.47521114,False,False,False,True,1.02453923,['Sink|+00.78|+00.82|-01.72']
+33,Soap_Bottle_11,0.0185879469,0.9,-1.8494395,False,False,False,True,1.0995971,['CounterTop|-00.68|+00.95|-01.65']
+34,Plate_11,-0.1109999,0.9002336,-1.59600008,True,False,False,True,0.8532513,['CounterTop|-00.68|+00.95|-01.65']
+35,LightSwitch11,-2.757,1.307,-0.988,False,True,False,False,2.79687858,
+36,Pot_11,-2.383,0.94,0.583,True,False,False,True,2.730769,['TableTop|-02.20|+00.99|+00.45']
+37,Bowl_1,-2.474998,0.941872656,0.243996039,True,False,False,True,2.66745448,['TableTop|-02.20|+00.99|+00.45']
+38,Window (1),0.582,1.614,-1.89,False,False,False,False,1.46516013,['Sink|+00.78|+00.82|-01.72']
+39,Window,1.96999979,1.5,-0.616,False,False,False,False,2.063409,
+40,Spatula_1,-0.443,0.921,-1.468,False,False,False,True,0.8439035,['CounterTop|-00.68|+00.95|-01.65']
+41,Paper_Towel_1,1.26445353,1.0116818,-1.86170328,False,False,False,True,1.68729889,['CounterTop|-00.68|+00.95|-01.65']
+42,Microwave_11,-1.038,0.9,-1.723,True,False,True,False,1.42273474,
+43,Egg_11,-2.37646866,0.8108,-1.711315,False,False,False,True,2.565125,['Fridge|-02.14|+00.00|-01.69']
+44,Lettuce_11,0.848790467,1.00158489,-1.54630518,False,False,False,True,1.16818857,['Sink|+00.78|+00.82|-01.72']
+45,SinkBasin,0.3868232,0.77140975,-1.6439,True,False,False,False,0.9825899,
+46,Salt_Shaker_1,0.734,0.9,0.253,False,False,False,True,1.24288619,['CounterTop|+00.28|+00.95|+00.46']
+47,coffee_machine_11,0.619,0.9,0.6,True,False,False,False,1.48514712,['CounterTop|+00.28|+00.95|+00.46']
+48,Pepper_Shaker_1,1.615,0.9,0.587,False,False,False,True,2.096615,['CounterTop|+01.78|+00.95|+00.46']
+49,Apple11,-0.0267900415,0.9717871,0.393247962,False,False,False,True,1.14575064,['CounterTop|+00.28|+00.95|+00.46']
+50,ButterKnife_1,1.711,0.9,0.273,False,False,False,True,1.99350214,['CounterTop|+01.78|+00.95|+00.46']
+51,StoveKnob1_Range3,1.246,0.9137,0.118,False,False,False,False,1.51858532,
+52,StoveKnob1_Range4,1.373,0.9137,0.118,False,False,False,False,1.62441206,
+53,StoveKnob1_Range1,0.995,0.9137,0.118,False,False,False,False,1.32045841,
+54,StoveKnob1_Range2,1.127,0.9137,0.118,False,False,False,False,1.42257309,
+55,Potato_11,0.917856932,0.9486,-1.70677984,False,False,False,True,1.32670832,['Sink|+00.78|+00.82|-01.72']
+56,Pan_11,1.022105,0.9591456,0.288545281,True,False,False,True,1.45830584,['StoveBurner|+01.01|+00.96|+00.29']
+57,bin_11,-0.362,0.0,0.539,True,False,False,False,1.61380434,
+58,Mug_3,-1.76900136,0.9400249,0.3350007,True,False,False,True,2.07560015,['TableTop|-02.20|+00.99|+00.45']
+59,Chair,-2.424153,0.5647733,0.413819849,False,False,False,False,2.70998931,
+60,Dish_Sponge_1,0.773,0.9138187,-1.816,False,False,False,True,1.316833,['Sink|+00.78|+00.82|-01.72']
+61,Spoon_1,0.375232041,0.8041,-1.57191086,False,False,False,True,0.9086946,['Sink|+00.78|+00.82|-01.72|SinkBasin']
+62,Fridge_11,-2.135,0.0,-1.691,True,False,True,False,2.50110078,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,CounterTop_Physics,-0.9736,0.9734,2.3864,True,False,False,False,2.805645,
+2,Drawer (2),-0.7836,0.774892032,2.3811,True,False,True,False,2.70798254,
+3,RangeStyle7_Range1 (1),-1.109,0.9228289,1.4704,True,False,False,False,2.17977834,
+4,Drawer,1.370334,0.774892032,2.39195585,True,False,True,False,2.548497,
+5,Chair6,-0.748,0.008,3.117,False,False,False,False,3.474283,
+6,CounterTop_Physics,1.505,0.9734,2.31,True,False,False,False,2.52019167,
+7,Cabinet,1.21967232,1.38850093,0.591156662,True,False,True,False,1.05121446,
+8,Cabinet,1.50078321,2.11345816,1.16492581,True,False,True,False,1.95669985,
+9,Cabinet,1.21967232,2.01028943,0.591156662,True,False,True,False,1.44841909,
+10,Cabinet,1.219919,0.388845354,2.10502,True,False,True,False,2.28291368,
+11,Cabinet,1.21967232,0.5538315,0.591156662,True,False,True,False,0.993941844,
+12,Cabinet,-0.913588,2.11345816,1.16492581,True,False,True,False,2.19666529,
+13,Cabinet,-0.633073568,0.388845354,0.627420843,True,False,True,False,1.39277244,
+14,Cabinet,-0.9135885,2.0507586,-0.329071373,True,False,True,False,1.85161161,
+15,Cabinet,-0.9135879,2.11345816,0.5833232,True,False,True,False,1.95155108,
+16,Cabinet,-0.9135879,2.11345816,2.08226371,True,False,True,False,2.79358339,
+17,Cabinet,-0.913588,2.11345816,1.20747328,True,False,True,False,2.219522,
+18,Cabinet,1.50078309,2.11345816,2.08226371,True,False,True,False,2.609108,
+19,Cabinet,1.50078321,2.11345816,1.20747328,True,False,True,False,1.98232532,
+20,Cabinet,1.50051033,1.81028879,2.691021,True,False,True,False,3.0115478,
+21,Cabinet,1.50051033,1.81028879,2.101697,True,False,True,False,2.49899125,
+22,Cabinet,-0.633073449,0.388845354,2.10502,True,False,True,False,2.444845,
+23,Cabinet (2),-0.9117,1.81028879,2.7004,True,False,True,False,3.17991567,
+24,Drawer (3),-0.7836,0.774892032,0.915,True,False,True,False,1.58137822,
+25,RangeStyle7_Range1 (2),-1.109,0.9228289,1.8657,True,False,False,False,2.46377635,
+26,CounterTop_Physics,-0.972,0.9734,0.921,True,False,False,False,1.73789144,
+27,Cabinet (1),1.219919,0.388845354,0.6314,True,False,True,False,1.08593345,
+28,RangeStyle7_Range1 (3),-0.832399964,0.9228289,1.8657,True,False,False,False,2.29272819,
+29,RangeStyle7_Range1,-0.8318,0.9228289,1.4704,True,False,False,False,1.98399687,
+30,Drawer (1),1.370334,0.774892032,0.9166,True,False,True,False,1.270252,
+31,Sink,1.5074,0.857,1.6413,True,False,False,False,1.92630637,['CounterTop|+01.51|+00.97|+02.31']
+32,Cabinet (3),-0.9117,1.81028879,2.111076,True,False,True,False,2.69747019,
+33,Fridge_12,-1.001,0.0,0.119,True,False,True,False,1.75469744,
+34,Lettuce_12,1.45674145,1.01324856,1.684337,False,False,False,True,1.94034672,['Sink|+01.51|+00.86|+01.64']
+35,StoveKnob3_Range4,-0.6486999,0.9268054,1.92356384,False,False,False,False,2.240597,
+36,StoveKnob3_Range1,-0.6487001,0.926805735,1.36356449,False,False,False,False,1.78311133,
+37,StoveKnob3_Range2,-0.648700058,0.9268055,1.51356363,False,False,False,False,1.9002769,
+38,StoveKnob3_Range3,-0.6487,0.926805735,1.76356435,False,False,False,False,2.10483646,
+39,Toaster_12,-1.003,0.926522434,2.561,False,False,False,False,2.96957612,['CounterTop|-00.97|+00.97|+02.39']
+40,Soap_Bottle_12,1.6681509,0.926686049,1.10712421,False,False,False,True,1.609646,['CounterTop|+01.51|+00.97|+02.31']
+41,bread_12,-0.922999859,0.9906769,2.26549983,False,False,False,True,2.67683768,['CounterTop|-00.97|+00.97|+02.39']
+42,Fork_1,1.35289991,0.7385497,2.49169922,False,False,False,True,2.63863468,['Drawer|+01.37|+00.77|+02.39']
+43,bin_12,1.45194256,0.0,2.91251349,True,False,False,False,3.19385815,
+44,Microwave_12,1.632,1.48101962,1.646,True,False,True,False,2.08018327,
+45,Tomato_12,1.43671238,0.98861146,0.840917,False,False,False,True,1.26184285,['CounterTop|+01.51|+00.97|+02.31']
+46,Bowl_1,-1.079196,1.49410617,0.8999,True,False,False,True,1.91192448,['Cabinet|-00.91|+02.11|+01.16']
+47,Window,0.225,1.602,3.4618,False,False,False,False,3.54275131,
+48,Pot_12,-0.818,0.927,0.816,True,False,False,True,1.550373,['CounterTop|-00.97|+00.97|+00.92']
+49,Spatula_1,1.3420161,0.935,2.39875937,False,False,False,True,2.54247785,['CounterTop|+01.51|+00.97|+02.31']
+50,coffee_machine_12,1.692,0.926686049,2.454,True,False,False,False,2.72830343,['CounterTop|+01.51|+00.97|+02.31']
+51,Knife_2,1.3643,0.7456,0.8721,False,False,False,True,1.23762763,['Drawer|+01.37|+00.77|+00.92']
+52,SinkBasin,1.4486,0.8237,1.37809992,True,False,False,False,1.67480648,
+53,Salt_Shaker_1,1.67002463,0.926686049,2.05436778,False,False,False,True,2.36432743,['CounterTop|+01.51|+00.97|+02.31']
+54,Apple12,1.41203606,0.9850924,1.83657432,False,False,False,True,2.052288,['Sink|+01.51|+00.86|+01.64']
+55,Pepper_Shaker_1,1.59858191,0.926686049,2.16143632,False,False,False,True,2.42473674,['CounterTop|+01.51|+00.97|+02.31']
+56,ButterKnife_1,1.3765,0.736837,2.2341,False,False,False,True,2.40549469,['Drawer|+01.37|+00.77|+02.39']
+57,Potato_12,-0.7582449,0.9641,2.358674,False,False,False,True,2.674043,['CounterTop|-00.97|+00.97|+02.39']
+58,Plate_12,1.37759066,1.05944026,0.0120207006,True,False,False,True,0.8918594,['Cabinet|+01.22|+01.39|+00.59']
+59,Mug_3,1.46199834,0.926688552,1.08700085,True,False,False,True,1.45178223,['CounterTop|+01.51|+00.97|+02.31']
+60,Dish_Sponge_1,1.51,0.841,1.366,False,False,False,True,1.69989884,['Sink|+01.51|+00.86|+01.64|SinkBasin']
+61,Egg_12,1.33232272,0.9551566,1.74617648,False,False,False,True,1.93515539,['Sink|+01.51|+00.86|+01.64']
+62,Cup_12,1.30505919,0.9278953,0.7826542,True,False,False,True,1.12311673,['CounterTop|+01.51|+00.97|+02.31']
+63,Pan_12,1.3781,1.73753989,0.3929,True,False,False,True,1.27484477,['Cabinet|+01.22|+02.01|+00.59']
+64,Spoon_1,1.4286,0.736837,2.4253,False,False,False,True,2.60217738,['Drawer|+01.37|+00.77|+02.39']
+65,LightSwitch12,0.451,1.413,-1.675,False,True,False,False,1.75219,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet (1),-3.204,1.93173635,1.77755678,True,False,True,False,2.53094,
+2,Cabinet,-3.1879,0.3905,2.0892,True,False,True,False,2.10438728,
+3,Cabinet (13),-0.637,0.387700081,6.88289976,True,False,True,False,3.45467353,
+4,Drawer,-3.79749346,0.781012356,1.961777,True,False,True,False,2.53826,
+5,Cabinet (3),-3.03697252,0.3879,5.0291,True,False,True,False,1.72428083,
+6,Drawer (2),-0.509,0.7755708,5.268,True,False,True,False,2.131376,
+7,Drawer,-4.1255,0.7983309,2.49944973,True,False,True,False,2.46817,
+8,Cabinet (10),-0.3316,2.2496,4.3088,True,False,True,False,2.21778774,
+9,CounterTop_Physics,-1.8721,0.959,1.8,True,False,False,False,1.95509553,
+10,RangeStyle1_Range1 (1),-2.92400026,0.924,2.0129,True,False,False,False,1.96771252,
+11,Cabinet (7),-0.3316,2.2493,6.8061,True,False,True,False,3.73433566,
+12,CounterTop_Physics,-0.346,0.9606,5.603,True,False,False,False,2.484564,
+13,Cabinet (6),-3.04,1.936,5.3218,True,False,True,False,2.15092683,
+14,Cabinet,-3.9228,0.3976,2.0885,True,False,True,False,2.59029865,
+15,RangeStyle1_Range1,-2.46740031,0.924,2.0129,True,False,False,False,1.7990495,
+16,Cabinet (9),-0.3316,2.2493,5.5056,True,False,True,False,2.77266049,
+17,Drawer (1),-0.509,0.7755708,4.617,True,False,True,False,1.72919893,
+18,Drawer (7),-3.51,0.7771707,5.1577,True,False,True,False,2.06801462,
+19,Cabinet,-3.96101379,0.388845354,2.878123,True,False,True,False,2.20601773,
+20,Cabinet,-3.96101427,0.389,4.34253025,True,False,True,False,2.11122727,
+21,Cabinet (15),-0.637,0.387700081,5.58279943,True,False,True,False,2.340697,
+22,Cabinet (16),-0.637,0.388,4.2994,True,False,True,False,1.55603421,
+23,Cabinet (14),-0.637,0.388,5.5995,True,False,True,False,2.35373187,
+24,RangeStyle1_Range1 (2),-2.92400026,0.924,1.712,True,False,False,False,2.237816,
+25,Drawer,-1.85947633,0.7755708,1.961992,True,False,True,False,1.79779816,
+26,Cabinet (8),-0.3316,2.2496,5.6093,True,False,True,False,2.839599,
+27,CounterTop_Physics (1),-4.26,0.959,4.9436,True,False,False,False,2.55652547,
+28,Cabinet,-4.28480148,1.93173635,2.22677541,True,False,True,False,2.93360519,
+29,Cabinet (12),-0.3316,2.2496,3.0107,True,False,True,False,2.26999784,
+30,Drawer (6),-3.8011,0.7771707,5.1577,True,False,True,False,2.28922367,
+31,Cabinet (5),-4.113,1.936,5.3218,True,False,True,False,2.8301332,
+32,Cabinet,-3.968142,0.388845354,3.66257739,True,False,True,False,2.03518939,
+33,Drawer,-3.41825485,0.7771707,1.961929,True,False,True,False,2.28552175,
+34,Drawer (5),-4.0907,0.7771707,4.6612,True,False,True,False,2.28391719,
+35,Cabinet (11),-0.3316,2.2493,4.2074995,True,False,True,False,2.19427013,
+36,Cabinet,-3.96101427,0.388845354,2.11981821,True,False,True,False,2.60073829,
+37,Drawer (3),-0.509,0.7755708,5.9202,True,False,True,False,2.635945,
+38,Drawer (8),-3.1938,0.7771707,5.1577,True,False,True,False,1.84979534,
+39,Cabinet,-3.96814227,0.388845354,2.89432478,True,False,True,False,2.206022,
+40,Cabinet (4),-3.6671,0.3879,5.0291,True,False,True,False,2.16264987,
+41,RangeStyle1_Range1 (3),-2.469,0.924,1.712,True,False,False,False,2.09141231,
+42,Cabinet,-1.53946531,0.388845384,2.09097981,True,False,True,False,1.79588687,
+43,Sink,-4.1902,0.922,3.28,False,False,False,False,2.24017453,
+44,Cabinet (2),-3.64116263,0.3879,5.0291,True,False,True,False,2.14271951,
+45,Cabinet,-1.583984,1.93173635,1.77755678,True,False,True,False,2.264754,
+46,Drawer (4),-0.509,0.7755708,6.5681,True,False,True,False,3.19063115,
+47,Egg_13,-4.0442524,0.952068865,2.86752081,False,False,False,True,2.22721815,['CounterTop|-04.26|+00.96|+04.94']
+48,Apple13,-4.16359234,0.9687062,2.765177,False,False,False,True,2.378192,['CounterTop|-04.26|+00.96|+04.94']
+49,Knife_3,-3.17199969,0.9192321,5.197,False,False,False,True,1.86219811,['CounterTop|-04.26|+00.96|+04.94']
+50,coffee_machine_13,-0.28,0.912,6.557,True,False,False,False,3.29208231,['CounterTop|-00.35|+00.96|+05.60']
+51,Potato_13,-4.08,0.9487,2.684,False,False,False,True,2.33777165,['CounterTop|-04.26|+00.96|+04.94']
+52,StoveKnob2_Range1,-2.34745765,1.096,1.561,False,False,False,False,2.225098,
+53,StoveKnob2_Range3,-2.78868079,1.096,1.561,False,False,False,False,2.335027,
+54,StoveKnob2_Range4,-2.96516967,1.096,1.561,False,False,False,False,2.40039277,
+55,StoveKnob2_Range2,-2.51291537,1.096,1.561,False,False,False,False,2.25685978,
+56,Fork_1,-3.19581246,0.914031267,5.462582,False,False,False,True,2.08880734,['CounterTop|-04.26|+00.96|+04.94']
+57,bin_13,-3.712,-0.0014975667,6.376,True,False,False,False,3.26168942,
+58,Plate_13,-4.22999954,0.9148473,4.717,True,False,False,True,2.43068361,['CounterTop|-04.26|+00.96|+04.94']
+59,Lettuce_13,-4.191,1.0039,2.538,False,False,False,True,2.5060575,['CounterTop|-04.26|+00.96|+04.94']
+60,bread_13,-4.2349906,0.990527153,3.985003,False,False,False,True,2.24915433,['CounterTop|-04.26|+00.96|+04.94']
+61,Mug_2,-4.19128752,0.912322,3.70059681,True,False,False,True,2.191882,['CounterTop|-04.26|+00.96|+04.94']
+62,Tomato_13,-4.15857124,0.972916961,4.39365673,False,False,False,True,2.25368881,['CounterTop|-04.26|+00.96|+04.94']
+63,Toaster_13,-3.57864261,0.9123196,1.7634393,False,False,False,False,2.53745937,['CounterTop|-04.26|+00.96|+04.94']
+64,Bowl_1,-0.373333067,0.914170444,4.51100254,True,False,False,True,1.79593575,['CounterTop|-00.35|+00.96|+05.60']
+65,Curtains,-4.5227,2.252,3.391,False,False,False,False,2.88481331,
+66,Window,-4.7103,1.63,3.309,False,False,False,False,2.8414495,
+67,Wine_Bottle_1,-4.39700365,0.9123202,2.32232714,False,False,False,True,2.78998923,['CounterTop|-04.26|+00.96|+04.94']
+68,Spatula_1,-3.91345429,0.933,5.16889,False,False,False,True,2.382368,['CounterTop|-04.26|+00.96|+04.94']
+69,Paper_Towel_1,-4.175843,1.02397215,1.82899666,False,False,False,True,2.90517449,['CounterTop|-04.26|+00.96|+04.94']
+70,Cup_13,-1.70298779,0.912164569,1.94671941,True,False,False,True,1.82762074,['CounterTop|-01.87|+00.96|+01.80']
+71,Pencil_5,-0.54801327,0.9170461,4.42098427,False,False,False,True,1.59962285,['CounterTop|-00.35|+00.96|+05.60']
+72,Pan_13,-2.45436978,0.9335794,2.0230875,True,False,False,True,1.78601229,['StoveBurner|-02.47|+00.92|+02.01']
+73,Pot_13,-0.396172553,0.912319362,5.93382072,True,False,False,True,2.70952,['CounterTop|-00.35|+00.96|+05.60']
+74,Microwave_13,-2.694,1.43084586,1.68906248,True,False,True,False,2.23862147,
+75,LightSwitch13,-1.589,1.17,1.506,False,True,False,False,2.29730844,
+76,SinkBasin,-4.1964,0.780400932,3.276,True,False,False,False,2.25011873,
+77,Salt_Shaker_1,-2.1287055,0.912319958,1.59826517,False,False,False,True,2.15561867,['CounterTop|-01.87|+00.96|+01.80']
+78,Soap_Bottle_13,-4.398,0.912319958,3.629,False,False,False,True,2.401085,['CounterTop|-04.26|+00.96|+04.94']
+79,Pepper_Shaker_1,-2.048513,0.9123197,1.73623037,False,False,False,True,2.01439476,['CounterTop|-01.87|+00.96|+01.80']
+80,ButterKnife_1,-0.451,0.9123195,4.89,False,False,False,True,1.92332137,['CounterTop|-00.35|+00.96|+05.60']
+81,Dish_Sponge_1,-4.395,0.9123197,2.946,False,False,False,True,2.52638173,['CounterTop|-04.26|+00.96|+04.94']
+82,Spoon_1,-3.17171717,0.912319243,5.374388,False,False,False,True,2.0029285,['CounterTop|-04.26|+00.96|+04.94']
+83,Fridge_13,-0.324729681,-0.00149802864,3.603,True,False,True,False,1.90786254,
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,CounterTop_Physics,0.989,0.9461,1.017,True,False,False,False,1.41931117,
+2,RangeStyle3_Range1 (1),1.807,0.907,0.075,True,False,False,False,1.80856586,
+3,RangeStyle3_Range1 (2),1.807,0.907,-0.3203,True,False,False,False,1.83517766,
+4,RangeStyle3_Range1 (3),1.5433,0.907,-0.3203,True,False,False,False,1.57619894,
+5,Chair5 (1),0.401,0.0,1.721,False,False,False,False,1.98354256,
+6,CounterTop_Physics,0.989,0.9467,-1.516,True,False,False,False,1.81065345,
+7,Chair5,1.091,0.0,1.738,False,False,False,False,2.2411437,
+8,Sink,1.1,0.906,-1.5999999,False,False,False,False,1.94165516,
+9,RangeStyle3_Range1,1.54872215,0.907,0.075,True,False,False,False,1.55054867,
+10,Cabinet,1.6588,2.3,1.31399989,True,False,True,False,2.53681231,
+11,Cabinet,1.6588,2.3,0.686000049,True,False,True,False,2.27583313,
+12,Cabinet,1.6588,2.05,0.6736002,True,False,True,False,2.12733579,
+13,Cabinet,1.6588,2.06,0.193200126,True,False,True,False,2.0327878,
+14,Cabinet,1.6588,2.06,-0.593600154,True,False,True,False,2.108853,
+15,Cabinet,1.6588,2.05,-0.60679996,True,False,True,False,2.107137,
+16,Cabinet,1.65879989,2.05,-1.20639992,True,False,True,False,2.35100412,
+17,Cabinet,1.65879989,2.05,-1.89320016,True,False,True,False,2.76695251,
+18,Toaster_14,0.132,0.9,-1.589,False,False,False,False,1.5944736,['CounterTop|+00.99|+00.95|-01.52']
+19,Plate_14,1.8029,1.64712727,-0.000500142458,True,False,False,True,1.95119333,['Cabinet|+01.66|+02.06|+00.19']
+20,Soap_Bottle_14,1.536,0.9,-1.695,False,False,False,True,2.287427,['CounterTop|+00.99|+00.95|-01.52']
+21,Cup_14,1.79149652,1.62641263,0.389498651,True,False,False,True,1.9716475,['Cabinet|+01.66|+02.05|+00.67']
+22,Egg_14,0.707,0.9378873,0.935,False,False,False,True,1.17278934,['CounterTop|+00.99|+00.95|+01.02']
+23,Fork_1,1.20552063,0.752441943,-1.72596681,False,False,False,True,2.110524,['Sink|+01.10|+00.91|-01.60|SinkBasin']
+24,Ladle_3,1.20112181,0.9267017,0.7436031,False,False,False,True,1.41290474,['CounterTop|+00.99|+00.95|+01.02']
+25,Apple14,0.2656,0.9686,1.168,False,False,False,True,1.19972372,"['CounterTop|+00.99|+00.95|+01.02', 'Bowl|+00.27|+00.90|+01.17']"
+26,Salt_Shaker_2,1.83949721,0.9,0.413981676,False,False,False,True,1.8855058,['CounterTop|+00.99|+00.95|+01.02']
+27,Pan_14,1.28159308,0.900000036,1.19070256,True,False,False,True,1.7493583,['CounterTop|+00.99|+00.95|+01.02']
+28,Tomato_14,0.508,0.963349164,0.837,False,False,False,True,0.9810813,['CounterTop|+00.99|+00.95|+01.02']
+29,Bowl_1,0.2652647,0.9,1.16862631,True,False,False,True,1.1983546,['CounterTop|+00.99|+00.95|+01.02']
+30,Window,-0.373,1.588,3.2701,False,False,False,False,3.36223936,
+31,Window (1),0.782,1.741,-1.8192,False,False,False,False,2.15095663,
+32,bin_14,1.77,0.0,1.685,True,False,False,False,2.60459661,
+33,Spatula_1,1.696,1.0807,0.0741453841,False,False,False,True,1.70710456,"['StoveBurner|+01.55|+00.91|+00.08', 'Pot|+01.53|+00.91|+00.06']"
+34,Potato_14,0.579,0.9,0.938,False,False,False,True,1.10230935,['CounterTop|+00.99|+00.95|+01.02']
+35,SinkBasin,1.0913,0.741,-1.5995,True,False,False,False,1.94291937,
+36,Knife_4,1.14008868,0.760822237,-1.58491075,False,False,False,True,1.95739472,['Sink|+01.10|+00.91|-01.60|SinkBasin']
+37,ButterKnife_1,0.296,0.9,-1.296,False,False,False,True,1.32937312,['CounterTop|+00.99|+00.95|-01.52']
+38,StoveKnob1_Range1,1.364747,0.8217356,0.087,False,False,False,False,1.36981249,
+39,StoveKnob1_Range3,1.364747,0.8217356,-0.181,False,False,False,False,1.37897718,
+40,StoveKnob1_Range2,1.364747,0.8217356,-0.317,False,False,False,False,1.40331972,
+41,StoveKnob1_Range4,1.364747,0.8217356,-0.054,False,False,False,False,1.368113,
+42,bread_14,1.615,0.9770397,0.761,False,False,False,True,1.78693259,['CounterTop|+00.99|+00.95|+01.02']
+43,Lettuce_14,0.85676,0.9893377,1.12111235,False,False,False,True,1.413766,['CounterTop|+00.99|+00.95|+01.02']
+44,Pepper_Shaker_2,1.92908752,0.9,0.2929448,False,False,False,True,1.95120382,['CounterTop|+00.99|+00.95|+01.02']
+45,Microwave_14,1.752,0.900000036,-0.844,True,False,True,False,1.94469559,
+46,Mug_3,1.57581055,0.900011539,0.4922267,True,False,False,True,1.65089881,['CounterTop|+00.99|+00.95|+01.02']
+47,Pot_14,1.5345701,0.9084982,0.05875536,True,False,False,True,1.53571272,['StoveBurner|+01.55|+00.91|+00.08']
+48,LightSwitch14,2.0,1.261,3.094,False,True,False,False,3.70168042,
+49,Dish_Sponge_1,1.5545,0.9332,-1.5531,False,False,False,True,2.19764113,['CounterTop|+00.99|+00.95|-01.52']
+50,coffee_machine_14,0.502,0.9,-1.6,True,False,False,False,1.67690337,['CounterTop|+00.99|+00.95|-01.52']
+51,Fridge_14,-0.534,0.0,-1.554,True,False,True,False,1.87399876,
+52,Spoon_1,1.165956,0.7509253,-1.4946897,False,False,False,True,1.9015975,['Sink|+01.10|+00.91|-01.60|SinkBasin']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,CounterTop_Physics,-3.3818,0.951,3.336,True,False,False,False,2.30810881,
+2,Drawer,-3.121674,0.775571,1.35766923,True,False,True,False,1.74981225,
+3,Drawer,-3.121737,0.7771707,2.91644764,True,False,True,False,1.86785734,
+4,Table,-1.345,0.0140518546,0.333,True,False,False,False,1.90119374,
+5,RangeStyle6_Range1 (3),-3.1481,0.959,2.3743,True,False,False,False,1.69064307,
+6,Blinds,-1.405,2.116,-0.293487638,False,False,False,False,2.59068012,
+7,Sink,-1.797,0.918,3.66,False,False,False,False,1.6863625,
+8,Cabinet (1),-1.4219,0.388845325,3.459206,True,False,True,False,1.55311668,
+9,RangeStyle6_Range1 (2),-3.4247,0.959,2.3743,True,False,False,False,1.96125233,
+10,Cabinet (2),-3.36553073,1.93173671,2.676,True,False,True,False,2.2295804,
+11,RangeStyle6_Range1 (1),-3.4247,0.959,1.9715,True,False,False,False,1.92541492,
+12,CounterTop_Physics,-3.3818,0.9513,1.357,True,False,False,False,1.98895478,
+13,Drawer,-3.121889,0.781012356,3.295686,True,False,True,False,2.0802083,
+14,Cabinet,-2.205542,0.388845325,3.459206,True,False,True,False,1.70407212,
+15,Cabinet,-2.9638474,0.388845325,3.45920658,True,False,True,False,2.13282037,
+16,Cabinet,-2.99268484,0.388845325,2.68399262,True,False,True,False,1.72416461,
+17,Cabinet,-3.352137,2.205711,1.71508741,True,False,True,False,2.27544332,
+18,Cabinet,-3.35213637,2.205711,2.65315366,True,False,True,False,2.350122,
+19,Cabinet,-2.18934035,0.388845325,3.466335,True,False,True,False,1.70356047,
+20,Cabinet,-3.36553,1.93173671,3.96335936,True,False,True,False,2.892893,
+21,Cabinet,-3.36553073,1.93173671,1.05686462,True,False,True,False,2.3245554,
+22,Cabinet,-2.992685,0.388845325,1.037658,True,False,True,False,1.852296,
+23,RangeStyle6_Range1,-3.1432,0.959,1.9715,True,False,False,False,1.64403725,
+24,Egg_15,-0.14779523,1.00864089,3.89722347,False,False,False,True,2.33167148,['Fridge|-00.44|+00.01|+04.00']
+25,Knife_5,-1.35799837,0.886017144,0.499998,False,False,False,True,1.50698638,['TableTop|-01.35|+00.01|+00.33']
+26,StoveKnob2_Range2,-3.6,1.11,2.01740026,False,False,False,False,2.10911,
+27,StoveKnob2_Range1,-3.6,1.11,1.86740136,False,False,False,False,2.11320257,
+28,StoveKnob2_Range3,-3.6,1.11,2.26740122,False,False,False,False,2.12592244,
+29,StoveKnob2_Range4,-3.6,1.111,2.42740059,False,False,False,False,2.15200019,
+30,Fork_1,-3.12440038,0.739135861,2.92970037,False,False,False,True,1.8798753,['Drawer|-03.12|+00.78|+02.92']
+31,bread_15,-1.522,0.984265149,0.277,False,False,False,True,1.72453392,['TableTop|-01.35|+00.01|+00.33']
+32,Potato_15,-1.80390453,0.9139,0.518760443,False,False,False,True,1.5120945,['TableTop|-01.35|+00.01|+00.33']
+33,Plate_15,-3.00600028,0.904580951,3.67700076,True,False,False,True,2.25399113,['CounterTop|-03.38|+00.95|+03.34']
+34,Pot_15,-3.144,0.9633135,2.374,True,False,False,True,1.6866982,"['StoveBurner|-03.15|+00.96|+02.37', 'StoveBurner|-03.42|+00.96|+02.37']"
+35,Toaster_15,-2.654,0.902500451,4.064,False,False,False,False,2.36473417,['CounterTop|-03.38|+00.95|+03.34']
+36,Kettle_1,-3.14494276,0.07403457,2.920793,False,False,False,True,2.06418037,['Cabinet|-02.99|+00.39|+02.68']
+37,Fridge_15,-0.44,0.0140517354,3.997,True,False,True,False,2.43376923,
+38,LightSwitch15,0.25,1.383,2.086,False,True,False,False,1.81355,
+39,Bowl_1,-3.24664974,0.905287862,1.35506344,True,False,False,True,1.86194038,['CounterTop|-03.38|+00.95|+01.36']
+40,Window,-1.431,0.757,-0.3186,False,False,False,False,2.32499814,
+41,Wine_Bottle_1,-3.559989,0.902603745,3.76551151,False,False,False,True,2.713068,['CounterTop|-03.38|+00.95|+03.34']
+42,Mug_1,-3.425327,0.945442855,3.27498221,True,False,False,True,2.30941415,"['CounterTop|-03.38|+00.95|+03.34', 'CoffeeMachine|-03.57|+00.90|+03.28']"
+43,Tomato_15,-2.295958,0.973827958,3.69181466,False,False,False,True,1.87062883,['CounterTop|-03.38|+00.95|+03.34']
+44,Cup_15,-3.488757,1.44648576,3.0833075,True,False,False,True,2.32620621,['Cabinet|-03.37|+01.93|+02.68']
+45,Spatula_1,-3.22557974,0.919,1.60875988,False,False,False,True,1.7693814,['CounterTop|-03.38|+00.95|+01.36']
+46,coffee_machine_15,-3.569,0.903,3.275,True,False,False,False,2.430335,['CounterTop|-03.38|+00.95|+03.34']
+47,Soap_Bottle_15,-2.041,0.9025875,3.949,False,False,False,True,2.0227294,['CounterTop|-03.38|+00.95|+03.34']
+48,Lettuce_15,-1.759,0.9749,0.085,False,False,False,True,1.93336487,['TableTop|-01.35|+00.01|+00.33']
+49,Pan_15,-2.61477637,0.902653933,3.62041235,True,False,False,True,1.96687913,['CounterTop|-03.38|+00.95|+03.34']
+50,Apple15,-3.24196362,0.9643472,2.84333324,False,False,False,True,1.935998,['CounterTop|-03.38|+00.95|+03.34']
+51,SinkBasin,-1.803,0.779,3.7,True,False,False,False,1.7321353,
+52,Salt_Shaker_1,-1.66366744,0.897802,0.5283835,False,False,False,True,1.48078907,['TableTop|-01.35|+00.01|+00.33']
+53,Pepper_Shaker_1,-1.72084045,0.897802,0.402979553,False,False,False,True,1.6123085,['TableTop|-01.35|+00.01|+00.33']
+54,ButterKnife_1,-1.84039223,0.779131055,3.67477179,False,False,False,True,1.71440232,['Sink|-01.80|+00.92|+03.66|SinkBasin']
+55,Microwave_15,-3.485,1.430846,2.183,True,False,True,False,2.05909181,
+56,Chair,-1.40653813,0.5454993,0.956512034,False,False,False,False,1.11089993,
+57,Dish_Sponge_1,-1.5307,0.902538836,3.9733,False,False,False,True,1.97357786,['CounterTop|-03.38|+00.95|+03.34']
+58,bin_15,-1.185,0.0139544755,3.794,True,False,False,False,2.03210735,
+59,Spoon_1,-3.117,0.737396955,2.8253,False,False,False,True,1.82409859,['Drawer|-03.12|+00.78|+02.92']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Sink,-0.716,1.023,1.334,False,False,False,False,2.37899065,
+2,RangeStyle3_Range3,1.836,1.01875615,-1.84,True,False,False,False,1.93464792,
+3,RangeStyle4_Range1,2.177,1.01875615,-1.59929013,True,False,False,False,1.85227549,
+4,CounterTop,2.813,0.993,0.675,True,False,False,False,1.7050097,
+5,RoundTable,2.447,0.668334246,3.976,True,False,False,False,4.158788,
+6,Drawer,-0.6436085,0.8284795,0.6169945,True,False,True,False,1.9929111,
+7,CounterTop,-0.81305,1.063,2.189,True,False,False,False,3.01233125,
+8,RangeStyle3_Range2,2.116,1.01875615,-1.84,True,False,False,False,2.037013,
+9,Drawer,-0.6437218,0.8318687,1.95313716,True,False,True,False,2.7213428,
+10,Drawer,-0.6437729,0.833396137,2.41835952,True,False,True,False,3.072362,
+11,Drawer,1.34741163,0.836832047,-1.539337,True,False,True,False,1.54375029,
+12,Drawer,2.693285,0.8333961,-1.13103652,True,False,True,False,1.83490741,
+13,Drawer,2.693285,0.8333961,-0.6992356,True,False,True,False,1.60517049,
+14,Drawer,2.693285,0.8333961,-0.2679671,True,False,True,False,1.46950614,
+15,Drawer,2.693285,0.8333961,0.163833812,True,False,True,False,1.45412636,
+16,Drawer,2.524759,0.833395958,0.72,True,False,True,False,1.46559918,
+17,Drawer,2.232004,0.8333961,1.036363,True,False,True,False,1.42931807,
+18,Drawer,1.9361,0.8333961,1.3545,True,False,True,False,1.51985979,
+19,Drawer,1.646855,0.833395958,1.670783,True,False,True,False,1.71859837,
+20,Cabinet,1.50494659,2.47544217,-1.71007586,True,False,True,False,2.338424,
+21,Cabinet,-0.823657036,2.220727,1.6213026,True,False,True,False,2.9445467,
+22,Cabinet,-0.823657036,2.220727,0.6159302,True,False,True,False,2.53398967,
+23,Cabinet,1.13673353,0.38816756,-1.355646,True,False,True,False,1.45382333,
+24,Cabinet,-0.356731951,0.383014023,2.62637758,True,False,True,False,3.12213969,
+25,Cabinet,2.745583,2.220727,-1.69091141,True,False,True,False,2.61488628,
+26,Cabinet,1.882366,0.383013934,1.01759,True,False,True,False,1.305253,
+27,Cabinet,1.30754387,0.4737026,1.64081311,True,False,True,False,1.69651461,
+28,Cabinet,1.8926934,0.383013934,1.006393,True,False,True,False,1.30161083,
+29,Cabinet,2.46751571,0.383013934,0.383170128,True,False,True,False,1.3774879,
+30,Cabinet,2.46667171,0.383013934,-0.4759851,True,False,True,False,1.40540421,
+31,Cabinet,2.46667171,0.4737026,0.371851832,True,False,True,False,1.34206808,
+32,Cabinet,2.386303,2.47544217,-1.71007586,True,False,True,False,2.58735633,
+33,Cabinet,-0.3567321,0.383014023,1.71298182,True,False,True,False,2.40503716,
+34,Cabinet,2.745583,2.220727,0.0199953318,True,False,True,False,1.9947052,
+35,Cabinet,-0.6630348,2.49672818,0.157841951,True,False,True,False,2.49619031,
+36,Cabinet,-0.663035,2.49672818,-0.86883235,True,False,True,False,2.638356,
+37,Cabinet,-0.356731951,0.383014023,0.269542217,True,False,True,False,1.70954657,
+38,Cabinet,-0.823657036,2.220727,1.60355878,True,False,True,False,2.93481421,
+39,Cabinet,-0.6629377,2.234231,0.586002231,True,False,True,False,2.404212,
+40,Cabinet,2.745583,2.220727,-0.843074262,True,False,True,False,2.1654613,
+41,Cabinet,2.745583,2.220727,-0.827841759,True,False,True,False,2.15957642,
+42,Cabinet,-0.823657036,2.220727,2.60893083,True,False,True,False,3.584446,
+43,Cabinet,2.73265,2.2262404,-1.70999229,True,False,True,False,2.62270617,
+44,Cabinet,1.13738918,2.22624063,-1.70999229,True,False,True,False,2.16633749,
+45,Cabinet,2.46667171,0.383013934,-0.491217822,True,False,True,False,1.41063607,
+46,Cabinet,2.46667171,0.383013934,-1.33905482,True,False,True,False,1.88193166,
+47,RangeStyle4_Range4,1.761,1.01875615,-1.59929013,True,False,False,False,1.68306756,
+48,Pan_16,2.04230833,1.017125,1.77973437,True,False,False,True,1.95158708,['CounterTop|+02.81|+00.99|+00.68']
+49,Bottle_1,-1.080933,1.01815915,2.514482,False,False,False,True,3.43068433,['CounterTop|-00.81|+01.06|+02.19']
+50,Knife_1,1.72186077,1.02434969,1.73287916,False,False,False,True,1.800205,['CounterTop|+02.81|+00.99|+00.68']
+51,Fridge_16,-0.909,0.0,-0.406,True,False,True,False,2.37443,
+52,Soap_Bottle_16,-0.784,1.018,1.797,False,False,False,True,2.71662545,['CounterTop|-00.81|+01.06|+02.19']
+53,Houseplant_30,2.517566,1.01649487,1.82223964,False,False,False,False,2.22275043,['CounterTop|+02.81|+00.99|+00.68']
+54,Microwave_16,1.9395,1.74560475,-1.8263,True,False,True,False,2.12700248,
+55,Egg_16,-0.8969,0.8208,-0.4059,False,False,False,True,2.18640471,['Fridge|-00.91|+00.00|-00.41']
+56,StoveKnob2_Range1,2.0173,1.0411,-1.51430619,False,False,False,False,1.70337915,
+57,StoveKnob2_Range4,1.9349,1.0411,-1.51430619,False,False,False,False,1.66788471,
+58,StoveKnob2_Range2,2.0173,1.0411,-1.5893,False,False,False,False,1.77038181,
+59,StoveKnob2_Range3,1.9349,1.0411,-1.5893,False,False,False,False,1.73625767,
+60,Fork_1,2.33808613,1.01944673,0.8878353,False,False,False,True,1.40933061,['CounterTop|+02.81|+00.99|+00.68']
+61,Potato_16,-0.5541783,1.0654,1.88118744,False,False,False,True,2.61169529,['CounterTop|-00.81|+01.06|+02.19']
+62,Ladle_2,2.61412168,1.04477239,-1.50018108,False,False,False,True,2.0327425,['CounterTop|+02.81|+00.99|+00.68']
+63,Mug_2,-0.8202177,0.8108946,1.60068238,True,False,False,True,2.61841631,['Sink|-00.72|+01.02|+01.33|SinkBasin']
+64,Tomato_16,1.9719162,1.0718118,1.37395966,False,False,False,True,1.56144321,['CounterTop|+02.81|+00.99|+00.68']
+65,Pot_16,1.3347,0.0235161781,-1.6704,True,False,False,True,1.88875294,['Cabinet|+01.14|+00.39|-01.36']
+66,Bowl_1,2.5162766,0.7519395,3.65986443,True,False,False,True,3.875601,['TableTop|+02.45|+00.67|+03.98']
+67,Window,1.757,1.609,4.693979,False,False,False,False,4.77407074,
+68,Wine_Bottle_1,2.84802437,1.018195,-1.65569973,False,False,False,True,2.30407429,['CounterTop|+02.81|+00.99|+00.68']
+69,Houseplant_19,2.17120481,1.01661468,2.091392,False,False,False,False,2.28821015,['CounterTop|+02.81|+00.99|+00.68']
+70,coffee_machine_16,-0.943,1.01815927,0.646,True,False,False,False,2.28916836,['CounterTop|-00.81|+01.06|+02.19']
+71,Plate_16,2.03199935,0.750213265,4.183,True,False,False,True,4.258139,['TableTop|+02.45|+00.67|+03.98']
+72,Spatula_1,2.72615266,1.028,-1.53053677,False,False,False,True,2.13018751,['CounterTop|+02.81|+00.99|+00.68']
+73,Paper_Towel_1,-1.09305573,1.12984514,1.833988,False,False,False,True,2.98425746,['CounterTop|-00.81|+01.06|+02.19']
+74,LightSwitch16,-0.09962825,1.41032338,-2.06675482,False,True,False,False,2.52039337,
+75,bin_16,-0.951262653,-0.0009768307,2.82615232,True,False,False,False,3.694084,
+76,Lettuce_16,2.86960959,1.0727284,-0.430126727,False,False,False,True,1.68452811,['CounterTop|+02.81|+00.99|+00.68']
+77,Toaster_16,-1.007,1.01815927,2.238,False,False,False,False,3.18063188,['CounterTop|-00.81|+01.06|+02.19']
+78,SinkBasin,-0.7144,0.806,1.3483,True,False,False,False,2.38449264,
+79,Apple16,2.016,0.80195874,3.745,False,False,False,True,3.82381868,['TableTop|+02.45|+00.67|+03.98']
+80,Salt_Shaker_1,1.46986413,1.01819491,-1.71222687,False,False,False,True,1.730259,['CounterTop|+02.81|+00.99|+00.68']
+81,Pepper_Shaker_1,1.3602643,1.01819491,-1.77272856,False,False,False,True,1.78001666,['CounterTop|+02.81|+00.99|+00.68']
+82,ButterKnife_1,2.253,1.01750767,0.785,False,False,False,True,1.27898717,['CounterTop|+02.81|+00.99|+00.68']
+83,Bread_16,2.74136,1.08556545,0.059546,False,False,False,True,1.5039165,['CounterTop|+02.81|+00.99|+00.68']
+84,Cup_16,-0.4600104,1.01889074,0.4222838,True,False,False,True,1.76532078,['CounterTop|-00.81|+01.06|+02.19']
+85,Dish_Sponge_1,-1.09203839,1.01815915,1.11538935,False,False,False,True,2.59672165,['CounterTop|-00.81|+01.06|+02.19']
+86,Chair1,1.696,0.0,4.347,False,False,False,False,4.46174049,
+87,Spoon_1,2.20389366,1.0177815,1.02446485,False,False,False,True,1.40466344,['CounterTop|+02.81|+00.99|+00.68']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,1.18499982,2.06,0.37500003,True,False,True,False,2.14933753,
+2,Cabinet,1.18499982,2.06,-0.63500005,True,False,True,False,2.90125,
+3,Cabinet,0.5915,2.31,-0.645000041,True,False,True,False,2.837023,
+4,Cabinet,-0.574999869,2.06,-0.645,True,False,True,False,2.71872258,
+5,Cabinet,-1.10300016,2.06,-0.645,True,False,True,False,2.8770535,
+6,Cabinet,-1.18500006,2.06,-0.331666678,True,False,True,False,2.65751076,
+7,Cabinet,-1.18500006,2.06,-0.281666726,True,False,True,False,2.61852956,
+8,Cabinet,-1.18500006,2.06,0.37500003,True,False,True,False,2.14933753,
+9,Cabinet,1.18499982,2.31,1.175,True,False,True,False,1.92292786,
+10,Cabinet,1.18499982,2.31,0.424999982,True,False,True,False,2.2633276,
+11,Cabinet,0.988750637,0.402500033,0.581599951,True,False,True,False,1.61224329,
+12,Cabinet,0.988750637,0.402500033,0.5316,True,False,True,False,1.6488384,
+13,Cabinet,0.988750637,0.402500033,-0.17840004,True,False,True,False,2.22551036,
+14,Cabinet,0.335000366,0.402500033,-0.34875,True,False,True,False,2.18483853,
+15,Cabinet,-0.3749998,0.402500033,-0.34875,True,False,True,False,2.191328,
+16,Cabinet,0.988750637,0.402500033,1.23159993,True,False,True,False,1.22593153,
+17,Cabinet,-1.18500006,2.31,1.37499964,True,False,True,False,1.87287283,
+18,Cabinet,-1.18500006,2.31,0.424999982,True,False,True,False,2.26332784,
+19,CounterTop_Physics,1.275,0.947,0.065,True,False,False,False,2.113361,
+20,TableTop_Physics (2),1.189,0.9218,2.477,True,False,False,False,1.39370513,
+21,Chair,0.984435141,0.5395454,2.52350473,False,False,False,False,1.30534232,
+22,Drawer (3),1.116251,0.792499959,-0.015400067,True,False,True,False,2.091943,
+23,Drawer (4),-1.1163,0.792499959,0.2107,True,False,True,False,1.90503073,
+24,Cabinet (1),-0.9905,0.402500033,0.3744,True,False,True,False,1.76915443,
+25,Drawer (5),-1.1163,0.792499959,-0.1705,True,False,True,False,2.224414,
+26,Cabinet (2),-0.9904958,0.402500033,-0.335600048,True,False,True,False,2.363758,
+27,CounterTop_Physics,-1.0019,0.9476,-0.669,True,False,False,False,2.61855984,
+28,RangeStyle1_Range1 (2),0.5029,0.9325,-0.7406,True,False,False,False,2.54097414,
+29,RangeStyle1_Range1,0.802,0.9325,-0.47308147,True,False,False,False,2.3634398,
+30,RangeStyle1_Range1 (1),0.802,0.9325,-0.7406,True,False,False,False,2.61664772,
+31,Drawer,1.116251,0.792499959,1.08160007,True,False,True,False,1.30627215,
+32,Sink,-0.0134,0.912,-0.615,False,False,False,False,2.36503983,
+33,Drawer (1),1.116251,0.792499959,0.732499957,True,False,True,False,1.514891,
+34,RangeStyle1_Range1 (3),0.5029,0.9325,-0.4699,True,False,False,False,2.27627277,
+35,Drawer (2),1.116251,0.792499959,0.367299944,True,False,True,False,1.780856,
+36,TableTop_Physics (3),-1.2112,0.7844,2.459,True,False,False,False,1.40897536,
+37,Bread_17,1.06902707,0.935938537,2.68390536,False,False,False,True,1.4197619,['TableTop|+01.19|+00.92|+02.48']
+38,StoveKnob3_Range3,0.551,1.0855,-0.9123,False,False,False,False,2.72444415,
+39,StoveKnob3_Range1,0.885,1.0855,-0.9123,False,False,False,False,2.81108856,
+40,StoveKnob3_Range4,0.433,1.0855,-0.9123,False,False,False,False,2.70305085,
+41,StoveKnob3_Range2,0.777,1.0855,-0.9123,False,False,False,False,2.77897882,
+42,Bottle_1,-1.2676959,0.7396263,2.09062028,False,False,False,True,1.32354164,['TableTop|-01.21|+00.78|+02.46']
+43,Fork_1,1.24529946,0.875914156,2.50589919,False,False,False,True,1.45713723,['TableTop|+01.19|+00.92|+02.48']
+44,coffee_machine_17,1.305,0.9,-0.741,True,False,False,False,2.81214976,['CounterTop|+01.28|+00.95|+00.07']
+45,Fridge_17,-1.301,0.008000001,0.988,True,False,True,False,1.75642967,
+46,Kettle_1,-1.356948,0.744005442,3.02400231,False,False,False,True,1.86858582,['TableTop|-01.21|+00.78|+02.46']
+47,Tomato_17,-0.513109267,0.9499565,-0.494029731,False,False,False,True,2.30230927,['CounterTop|-01.00|+00.95|-00.67']
+48,Plate_17,-1.093,0.9003853,-0.5110004,True,False,False,True,2.51134348,['CounterTop|-01.00|+00.95|-00.67']
+49,Cellphone_7,-1.05599988,0.740421534,2.971,False,False,False,True,1.623082,['TableTop|-01.21|+00.78|+02.46']
+50,Lettuce_17,1.238,0.9697,-0.16,False,False,False,True,2.27693415,['CounterTop|+01.28|+00.95|+00.07']
+51,Pot_17,0.5103,0.9363,-0.491572529,True,False,False,True,2.29908657,['StoveBurner|+00.50|+00.93|-00.47']
+52,Soap_Bottle_17,-0.416198015,0.9,-0.7251734,False,False,False,True,2.50993729,['CounterTop|-01.00|+00.95|-00.67']
+53,Bowl_1,1.15600121,0.901853,0.1739978,True,False,False,True,1.95452631,['CounterTop|+01.28|+00.95|+00.07']
+54,bin_17,1.29678607,0.008000001,1.46579885,True,False,False,False,1.604439,
+55,Window,-0.012,1.642,-0.92,False,False,False,False,2.76881456,
+56,Window (1),1.55,1.646,2.489,False,False,False,False,1.86863339,
+57,Wine_Bottle_1,-1.37939811,0.7396263,2.20062852,False,False,False,True,1.46099019,['TableTop|-01.21|+00.78|+02.46']
+58,Toaster_17,1.357,0.900000036,1.045,False,False,False,False,1.52923346,['CounterTop|+01.28|+00.95|+00.07']
+59,Spatula_1,1.122,0.915,1.137,False,False,False,True,1.27854955,['CounterTop|+01.28|+00.95|+00.07']
+60,Apple17,1.05198026,0.9369843,2.37653184,False,False,False,True,1.22473991,['TableTop|+01.19|+00.92|+02.48']
+61,LightSwitch17,0.118,1.354,3.8,False,True,False,False,2.101059,
+62,Cup_17,-0.8709947,0.9009223,-0.7260003,True,False,False,True,2.62474275,['CounterTop|-01.00|+00.95|-00.67']
+63,Knife_2,-0.73877126,0.9069404,-0.4966286,False,False,False,True,2.36497927,['CounterTop|-01.00|+00.95|-00.67']
+64,Microwave_17,-1.344,0.9,0.054,True,False,True,False,2.16398549,
+65,Egg_17,0.110946268,0.7857809,-0.624017537,False,False,False,True,2.37980056,['Sink|-00.01|+00.91|-00.62|SinkBasin']
+66,SinkBasin,-0.0293,0.748,-0.6125,True,False,False,False,2.36816072,
+67,Salt_Shaker_1,1.331682,0.9,0.7797156,False,False,False,True,1.64769828,['CounterTop|+01.28|+00.95|+00.07']
+68,Pepper_Shaker_1,1.20944142,0.9,0.8574441,False,False,False,True,1.50315845,['CounterTop|+01.28|+00.95|+00.07']
+69,Potato_17,-1.343,0.79,1.817,False,False,False,True,1.34992552,['TableTop|-01.21|+00.78|+02.46']
+70,ButterKnife_1,1.13,0.9,-0.305,False,False,False,True,2.34520912,['CounterTop|+01.28|+00.95|+00.07']
+71,Mug_3,-0.152884543,0.74866724,-0.6624937,True,False,False,True,2.42264438,['Sink|-00.01|+00.91|-00.62|SinkBasin']
+72,Dish_Sponge_1,-0.581,0.9,-0.759,False,False,False,True,2.57540751,['CounterTop|-01.00|+00.95|-00.67']
+73,Pan_17,-1.332,0.9,-0.699,True,False,False,True,2.78781366,['CounterTop|-01.00|+00.95|-00.67']
+74,Spoon_1,1.34319949,0.8742015,2.74922037,False,False,False,True,1.67446625,['TableTop|+01.19|+00.92|+02.48']
+75,Spray_Bottle_3,1.1272,0.105,1.0614,False,False,False,True,1.54633927,['Cabinet|+00.99|+00.40|+01.23']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Safe,2.047,-0.006,7.055,True,False,True,False,5.51342726,
+2,Cabinet,1.30764854,2.45585656,4.36086369,True,False,True,False,3.184481,
+3,Blinds,1.738,2.26959038,2.317,False,False,False,False,2.62415171,
+4,Cabinet (1),1.0544436,0.422679245,1.711,True,False,True,False,1.71336114,
+5,Drawer,1.2806,0.8085418,4.718573,True,False,True,False,3.0451498,
+6,Cabinet,1.30764854,2.45585632,3.60775137,True,False,True,False,2.74384046,
+7,Drawer,0.736837745,0.802754939,0.5212801,True,False,True,False,2.12788439,
+8,Drawer,1.276787,0.8026077,3.29109454,True,False,True,False,2.06168175,
+9,RangeStyle1_Range4 (1),1.562,0.983,3.848,True,False,False,False,2.610014,
+10,RoundTable,-0.156177968,0.668334246,6.474039,True,False,False,False,4.24439049,
+11,RangeStyle1_RangeBig,1.317894,0.983,4.2942,True,False,False,False,2.736826,
+12,Drawer,-0.482640952,0.802754939,0.5212801,True,False,True,False,1.73159635,
+13,Drawer,0.124910593,0.802754939,0.5212801,True,False,True,False,1.84082532,
+14,RangeStyle1_RangeBig (1),1.559894,0.983,4.2942,True,False,False,False,2.90321231,
+15,RangeStyle1_Range4,1.32,0.983,3.848,True,False,False,False,2.42337132,
+16,CounterTop_Physics,1.391,1.0282,0.897,True,False,False,False,2.32866263,
+17,CounterTop_Physics,1.391,1.0282,4.7165,True,False,False,False,3.110576,
+18,Cabinet,1.0544436,0.422679245,4.54859734,True,False,True,False,2.81578326,
+19,Cabinet,1.317236,2.13448477,0.517141461,True,False,True,False,2.79761147,
+20,Cabinet,1.31723642,2.13448477,4.889308,True,False,True,False,3.43362474,
+21,Cabinet,1.31723583,2.13448477,3.09571886,True,False,True,False,2.35352325,
+22,Cabinet,0.443900168,0.422679245,0.743624151,True,False,True,False,1.84089816,
+23,Cabinet,1.27007508,2.134485,0.434046865,True,False,True,False,2.819989,
+24,Cabinet,-0.775578439,0.422679245,0.743624151,True,False,True,False,1.60433853,
+25,Cabinet,-0.168026865,0.422679245,0.743624151,True,False,True,False,1.61498141,
+26,Cabinet,1.317236,2.13448477,1.53461266,True,False,True,False,2.309894,
+27,Cabinet,1.0544436,0.422679245,2.99063468,True,False,True,False,1.7870717,
+28,Cabinet,1.0544436,0.422679245,2.94411016,True,False,True,False,1.76829708,
+29,Cabinet,-0.2637578,2.134485,0.434047222,True,False,True,False,2.20793581,
+30,Cabinet,0.2526037,2.134485,0.434047222,True,False,True,False,2.32068586,
+31,Sink,1.3919,1.006,2.3269,False,False,False,False,1.89637125,
+32,Bread_18,1.09999549,1.04873371,0.434999615,False,False,False,True,2.424054,['CounterTop|+01.39|+01.03|+00.90']
+33,Egg_18,2.035039,1.54713929,5.73372936,False,False,False,True,4.35663748,['Fridge|+02.04|+00.00|+05.63']
+34,Knife_3,-0.4486,0.7624,0.4834,False,False,False,True,1.77277386,['Drawer|-00.48|+00.80|+00.52']
+35,Microwave_18,0.108737767,0.981693864,0.263,True,False,True,False,2.07972169,['CounterTop|+01.39|+01.03|+00.90']
+36,Fork_1,1.26900041,0.983434737,1.24000192,False,False,False,True,2.03868937,['CounterTop|+01.39|+01.03|+00.90']
+37,Apple18,1.35800207,1.05844843,3.229005,False,False,False,True,2.106042,['CounterTop|+01.39|+01.03|+00.90']
+38,Kettle_1,1.59304941,0.9860735,3.24999332,False,False,False,True,2.321224,['CounterTop|+01.39|+01.03|+00.90']
+39,Plate_18,-0.232999444,0.7522369,6.061,True,False,False,True,3.823237,['TableTop|-00.16|+00.67|+06.47']
+40,Houseplant_29,-0.165647924,0.7500884,6.44470739,False,False,False,False,4.21071672,['TableTop|-00.16|+00.67|+06.47']
+41,Salt_Shaker_2,1.62080908,0.9816944,3.497586,False,False,False,True,2.46187186,['CounterTop|+01.39|+01.03|+00.90']
+42,coffee_machine_18,1.552,0.981694,0.954,True,False,False,False,2.42833924,['CounterTop|+01.39|+01.03|+00.90']
+43,Toaster_18,1.474,0.9816947,4.715,False,False,False,False,3.159021,['CounterTop|+01.39|+01.03|+04.72']
+44,Lettuce_18,1.4499042,0.9321,2.05034876,False,False,False,True,1.96034539,['Sink|+01.39|+01.01|+02.33|SinkBasin']
+45,Bowl_1,-0.5342046,0.7519396,6.44217062,True,False,False,True,4.194959,['TableTop|-00.16|+00.67|+06.47']
+46,Window,-1.997,1.917,3.626,False,False,False,False,2.2730248,
+47,Mug_1,1.47795737,0.880273,2.60854745,True,False,False,True,2.01029873,['Sink|+01.39|+01.01|+02.33|SinkBasin']
+48,Soap_Bottle_18,1.478,0.981694341,2.912,False,False,False,True,2.0874002,['CounterTop|+01.39|+01.03|+00.90']
+49,Spatula_1,1.48,0.999,3.03,False,False,False,True,2.130353,['CounterTop|+01.39|+01.03|+00.90']
+50,Paper_Towel_1,-0.385869235,1.09334648,0.1784115,False,False,False,True,2.08362722,['CounterTop|+01.39|+01.03|+00.90']
+51,Fridge_18,2.035,0.0,5.626,True,False,True,False,4.316874,
+52,Pot_18,0.734,0.981694,0.38,True,False,False,True,2.24191165,['CounterTop|+01.39|+01.03|+00.90']
+53,Potato_18,-0.733283341,1.0159,0.606045842,False,False,False,True,1.66439426,['CounterTop|+01.39|+01.03|+00.90']
+54,SinkBasin,1.3873,0.8802292,2.339,True,False,False,False,1.88951159,
+55,bin_18,2.00114727,0.0,6.50317955,True,False,False,False,5.0156827,
+56,ButterKnife_1,1.28472257,0.981694043,1.33948648,False,False,False,True,2.00518847,['CounterTop|+01.39|+01.03|+00.90']
+57,StoveKnob1_Range3,1.14085567,0.9343939,3.98743963,False,False,False,False,2.390025,
+58,StoveKnob1_Range1,1.14085567,0.9343939,4.30968,False,False,False,False,2.63359165,
+59,StoveKnob1_Range2,1.14085567,0.9343939,4.14008,False,False,False,False,2.503183,
+60,StoveKnob1_Range4,1.14085567,0.9343939,3.82419968,False,False,False,False,2.274121,
+61,Pepper_Shaker_2,1.484,0.9816944,3.486,False,False,False,True,2.33890224,['CounterTop|+01.39|+01.03|+00.90']
+62,Pan_18,1.3131808,0.9855794,4.28467369,True,False,False,True,2.72666,['StoveBurner|+01.32|+00.98|+04.29']
+63,Tomato_18,2.0163,1.54848254,5.369308,False,False,False,True,4.05969,['Fridge|+02.04|+00.00|+05.63']
+64,Dish_Sponge_1,1.30540228,0.908,2.65438747,False,False,False,True,1.85015023,['Sink|+01.39|+01.01|+02.33|SinkBasin']
+65,Cup_18,1.17904842,0.980053,3.39156485,True,False,False,True,2.03190136,['CounterTop|+01.39|+01.03|+00.90']
+66,LightSwitch18,-2.0,1.55,6.045,False,True,False,False,4.131976,
+67,Chair1,0.291,0.015,6.143,False,False,False,False,4.07015038,
+68,Spoon_1,1.35680354,0.981694043,1.48680615,False,False,False,True,2.00915313,['CounterTop|+01.39|+01.03|+00.90']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,CounterTop_Physics (1),-1.79,0.9492,-3.804,True,False,False,False,1.883686,
+2,Cabinet,-0.5771188,0.3888447,-3.47667623,True,False,True,False,1.70186746,
+3,Cabinet,-0.6059557,0.388844758,-3.511626,True,False,True,False,1.72128356,
+4,Cabinet,-2.97659016,0.3888448,-3.2013216,True,False,True,False,2.165017,
+5,Cabinet,-0.5771185,0.388845116,-0.447433054,True,False,True,False,1.768119,
+6,Cabinet,-0.5771187,0.388845026,-1.72567511,True,False,True,False,0.889400959,
+7,Cabinet,-0.226479009,1.8037864,-1.74335456,True,False,True,False,1.38825023,
+8,Cabinet,-0.228205472,1.8,-0.447964728,True,False,True,False,2.06393719,
+9,Cabinet,-6.01,1.14,-6.02,True,False,True,False,6.23496532,
+10,Cabinet,-3.022012,2.09815764,-2.681253,True,False,True,False,2.24402881,
+11,Cabinet,-3.022012,2.098158,-1.743187,True,False,True,False,2.15348864,
+12,Cabinet,-0.5771186,0.3888448,-2.736412,True,False,True,False,1.12164307,
+13,Cabinet,-3.23252273,1.80378616,-3.3433547,True,False,True,False,2.55905724,
+14,Cabinet,-2.81131244,1.810158,-3.764433,True,False,True,False,2.52512026,
+15,Cabinet,-1.23304534,1.810158,-3.764433,True,False,True,False,1.984647,
+16,Cabinet,-1.36426079,0.388844758,-3.51162624,True,False,True,False,1.60033762,
+17,Cabinet,-1.38046241,0.388844758,-3.511626,True,False,True,False,1.60157573,
+18,Cabinet,-0.226479009,1.80378616,-2.72577882,True,False,True,False,1.54535627,
+19,Cabinet,-0.236735031,2.098158,-1.767507,True,False,True,False,1.58502138,
+20,Cabinet,-0.236735031,2.09815764,-2.70557332,True,False,True,False,1.7193234,
+21,Cabinet,-0.193,1.21,-4.24,True,False,True,False,2.4959774,
+22,Cabinet,-2.14871478,0.388844758,-3.51162624,True,False,True,False,1.83186054,
+23,Microwave_19,-0.144,0.903904557,-0.908,True,False,True,False,1.5542537,
+24,RoundTable,-2.869,0.677,-0.506,True,False,False,False,2.214426,
+25,Drawer,-3.104448,0.7977514,-2.96886683,True,False,True,False,2.09487081,
+26,Drawer,-0.449261,0.797751665,-1.41008842,True,False,True,False,0.99999094,
+27,Sink,-1.787,0.902,-3.7487,False,False,False,False,1.829295,
+28,GasBurner,-0.3767,0.9367,-2.4513,True,False,False,False,0.9836412,
+29,Drawer,-0.449261,0.7977517,-0.762128949,True,False,True,False,1.47794139,
+30,CounterTop_Physics,-0.269,0.9515,-1.0898,True,False,False,False,1.33914375,
+31,Drawer,-0.4492612,0.797751367,-3.34810519,True,False,True,False,1.57142413,
+32,GasBurner (2),-0.3767,0.9367,-2.0314,True,False,False,False,0.8745653,
+33,Drawer,-0.449261,0.7977514,-2.96886683,True,False,True,False,1.26122522,
+34,GasBurner (3),-0.1653,0.9367,-2.0309,True,False,False,False,1.08570468,
+35,GasBurner (1),-0.1653,0.9367,-2.4508,True,False,False,False,1.17516816,
+36,Pot_19,-2.836,0.9039041,-3.745,True,False,False,True,2.35805535,['CounterTop|-01.79|+00.95|-03.80']
+37,Egg_19,-3.07495666,1.03969967,-1.94158709,False,False,False,True,1.83109951,['Fridge|-03.19|+00.00|-02.19']
+38,Cup_19,-0.185003221,0.9043781,-1.47299433,True,False,False,True,1.18825936,['CounterTop|-00.27|+00.95|-01.09']
+39,StoveKnob3_Range3,-0.56864804,0.9038388,-2.31352,False,False,False,False,0.7500266,
+40,StoveKnob3_Range4,-0.56864804,0.9038388,-2.47060013,False,False,False,False,0.8280758,
+41,StoveKnob3_Range2,-0.56864804,0.9038388,-2.16664,False,False,False,False,0.7014371,
+42,StoveKnob3_Range1,-0.56864804,0.9038388,-2.00344014,False,False,False,False,0.681364059,
+43,Bread_19,-0.326999545,0.9481486,-3.681031,False,False,False,True,1.91832042,['CounterTop|-01.79|+00.95|-03.80']
+44,Fork_1,-1.74869573,0.7821254,-3.70185924,False,False,False,True,1.7774471,['Sink|-01.79|+00.90|-03.75|SinkBasin']
+45,Pan_19,-0.3946991,0.9731094,-2.41475344,True,False,False,True,0.953236938,"['StoveBurner|-00.38|+00.94|-02.45', 'StoveBurner|-00.17|+00.94|-02.45']"
+46,Potato_19,-2.51898623,0.756,-0.209034979,False,False,False,True,2.19979715,['TableTop|-02.87|+00.68|-00.51']
+47,Lettuce_19,-1.32185209,0.98849535,-3.759861,False,False,False,True,1.76346493,['CounterTop|-01.79|+00.95|-03.80']
+48,Tomato_19,-2.16239619,0.9546183,-3.709558,False,False,False,True,1.93851924,['CounterTop|-01.79|+00.95|-03.80']
+49,LightSwitch19,-1.109,1.457,0.338806272,False,True,False,False,2.40795827,
+50,Apple19,-3.095,0.9507978,-3.05701137,False,False,False,True,2.12690139,['CounterTop|-01.79|+00.95|-03.80']
+51,bin_19,-0.284,4.85484379e-05,-0.035,True,False,False,False,2.36798215,
+52,Bowl_1,-2.451256,0.9057566,-3.69241786,True,False,False,True,2.075406,['CounterTop|-01.79|+00.95|-03.80']
+53,Blinds,-1.742,1.616,-4.0968,False,False,False,False,2.26911259,
+54,Soap_Bottle_19,-1.436,0.904,-3.917,False,False,False,True,1.92600381,['CounterTop|-01.79|+00.95|-03.80']
+55,coffee_machine_19,-3.104,0.707,-0.185,True,False,False,False,2.601816,['TableTop|-02.87|+00.68|-00.51']
+56,Spatula_1,-0.2924,0.927,-2.7817,False,False,False,True,1.23640323,['CounterTop|-01.79|+00.95|-03.80']
+57,Fridge_19,-3.18889236,0.0,-2.185,True,False,True,False,2.14629316,
+58,SinkBasin,-1.7863,0.78,-3.7472,True,False,False,False,1.83170259,
+59,Toaster_19,-0.230999961,0.9039043,-3.40699983,False,False,False,False,1.73724329,['CounterTop|-01.79|+00.95|-03.80']
+60,Salt_Shaker_1,-0.2966546,0.9039045,-1.64026213,False,False,False,True,1.018962,['CounterTop|-00.27|+00.95|-01.09']
+61,Knife_4,-3.15600014,0.9108165,-3.23299956,False,False,False,True,2.27006769,['CounterTop|-01.79|+00.95|-03.80']
+62,Pepper_Shaker_1,-0.077,0.903904259,-2.772,False,False,False,True,1.40425,['CounterTop|-01.79|+00.95|-03.80']
+63,ButterKnife_1,-2.2414968,0.90390414,-3.59148455,False,False,False,True,1.87507176,['CounterTop|-01.79|+00.95|-03.80']
+64,Plate_19,-1.03231514,1.28592145,-3.92097664,True,False,False,True,1.97108376,['Cabinet|-01.23|+01.81|-03.76']
+65,Mug_3,-2.93075824,0.762428463,-0.3582404,True,False,False,True,2.35366035,"['TableTop|-02.87|+00.68|-00.51', 'CoffeeMachine|-03.10|+00.71|-00.19']"
+66,Dish_Sponge_1,-2.13885856,0.9039042,-3.90884686,False,False,False,True,2.105652,['CounterTop|-01.79|+00.95|-03.80']
+67,Chair1 (1),-2.383,0.019,-0.551,False,False,False,False,2.040204,
+68,Chair1,-3.164,0.009,-0.994,False,False,False,False,2.339301,
+69,Spoon_1,-1.72390974,0.7804006,-3.81646085,False,False,False,True,1.88117826,['Sink|-01.79|+00.90|-03.75|SinkBasin']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,RangeStyle7_Range1 (4),1.8451,0.941,-0.3554,True,False,False,False,1.06362748,
+2,RangeStyle7_Range1 (6),1.5675,0.941,-0.7576,True,False,False,False,0.6183964,
+3,Cabinet,-1.15,2.02,-1.9799999,True,False,True,False,2.61439538,
+4,Cabinet,-1.15,2.265,-0.8349998,True,False,True,False,2.55151415,
+5,Cabinet,-0.459999979,2.265,-2.0,True,False,True,False,2.23430061,
+6,Cabinet,-1.1,2.02,-2.0,True,False,True,False,2.58111644,
+7,Cabinet,1.71999991,2.02,-2.0,True,False,True,False,1.66450071,
+8,Cabinet,1.18,2.02,-2.0,True,False,True,False,1.511477,
+9,Cabinet,0.199999988,2.02,-2.0,True,False,True,False,1.700636,
+10,Cabinet,1.75,2.02,-1.4,True,False,True,False,1.405227,
+11,Cabinet,1.75,2.02,-1.03,True,False,True,False,1.3474282,
+12,Cabinet,1.38,0.47,-1.68999994,True,False,True,False,0.897919953,
+13,Cabinet,-0.82,0.47,-1.68999994,True,False,True,False,1.99355459,
+14,Cabinet,1.39,0.47,-1.06,True,False,True,False,0.584346056,
+15,Cabinet,-0.84,0.47,-1.66500008,True,False,True,False,2.00339341,
+16,RangeStyle7_Range1 (3),1.5675,0.941,-0.3554,True,False,False,False,0.85974735,
+17,RangeStyle7_Range1 (5),1.8451,0.941,-0.7576,True,False,False,False,0.8800863,
+18,Sink,-0.11,0.893,-2.01,False,False,False,False,1.50075448,
+19,IslandTable,0.415,0.013,0.678,True,False,False,False,1.98656774,
+20,Drawer,-0.82,0.75,-1.69,True,False,True,False,1.95225525,
+21,CounterTop_Physics,0.233,0.949,-2.002,True,False,False,False,1.26277363,
+22,Apple20,0.181581289,0.9928137,0.05774927,False,False,False,True,1.34054935,['TableTop|+00.42|+00.01|+00.68']
+23,bin_20,1.86752129,0.0,0.12819165,True,False,False,False,1.68440175,
+24,Potato_20,0.06316145,0.95,-0.0489424467,False,False,False,True,1.335881,['TableTop|+00.42|+00.01|+00.68']
+25,Soap_Bottle_20,0.32,0.9,-2.138,False,False,False,True,1.32568657,['CounterTop|+00.23|+00.95|-02.00']
+26,Toaster_20,0.7800744,0.8999999,-2.080882,False,False,False,False,1.10302961,['CounterTop|+00.23|+00.95|-02.00']
+27,Fork_1,0.4547691,0.901724458,-1.88692868,False,False,False,True,1.04111457,['CounterTop|+00.23|+00.95|-02.00']
+28,LightSwitch20,0.108,1.315,2.75,False,True,False,False,3.87679768,
+29,Shelf (2),1.552,0.8699999,2.4836,True,False,False,False,3.527199,
+30,Ladle_3,0.48165375,0.947545946,1.42037857,False,False,False,True,2.47569823,['TableTop|+00.42|+00.01|+00.68']
+31,Shelf (3),1.55160046,0.5420361,2.4829,True,False,False,False,3.5445323,
+32,Microwave_20,-1.234,0.9,-1.681,True,False,True,False,2.335491,
+33,Bread_20,0.39983052,0.964481056,0.111037686,False,False,False,True,1.26437259,['TableTop|+00.42|+00.01|+00.68']
+34,Fridge_20,-1.49556208,0.0,-0.703,True,False,True,False,2.66980124,
+35,Lettuce_20,-1.429,0.9252,-0.542,False,False,False,True,2.47192025,['Fridge|-01.50|+00.00|-00.70']
+36,Bowl_1,1.66271,0.901902735,-1.312703,True,False,False,True,0.732781351,['CounterTop|+00.23|+00.95|-02.00']
+37,Window,2.0665,1.495,1.073,False,False,False,False,2.40574074,
+38,Wine_Bottle_1,1.96160579,0.9,-1.65608239,False,False,False,True,1.16410089,['CounterTop|+00.23|+00.95|-02.00']
+39,Mug_1,-0.3109208,0.7507025,-2.09957814,True,False,False,True,1.71760726,['Sink|-00.11|+00.89|-02.01|SinkBasin']
+40,Spatula_1,-0.627,0.9,-2.177,False,False,False,True,2.00809836,['CounterTop|+00.23|+00.95|-02.00']
+41,Plate_20,0.481400579,0.923255265,1.07715642,True,False,False,True,2.14103246,['TableTop|+00.42|+00.01|+00.68']
+42,coffee_machine_20,1.374,0.9,-2.113,True,False,False,False,1.1741575,['CounterTop|+00.23|+00.95|-02.00']
+43,Shelf (1),1.55140007,0.161699474,2.4829,True,False,False,False,3.602943,
+44,SinkBasin,-0.1483,0.7539,-2.0264,True,False,False,False,1.54716778,
+45,Salt_Shaker_1,1.634,0.9,-1.847,False,False,False,True,1.05800092,['CounterTop|+00.23|+00.95|-02.00']
+46,Pot_20,-0.117,0.921,1.5,True,False,False,True,2.73826385,['TableTop|+00.42|+00.01|+00.68']
+47,Cup_20,-0.0649918243,0.920070648,0.09957427,True,False,False,True,1.53089356,['TableTop|+00.42|+00.01|+00.68']
+48,Pepper_Shaker_1,1.94650316,0.9,-1.22999072,False,False,False,True,0.9740457,['CounterTop|+00.23|+00.95|-02.00']
+49,Pan_20,1.82486081,0.9453135,-0.3461054,True,False,False,True,1.05353558,"['StoveBurner|+01.85|+00.94|-00.36', 'StoveBurner|+01.85|+00.94|-00.76']"
+50,ButterKnife_1,-0.791,0.9,-2.186,False,False,False,True,2.148087,['CounterTop|+00.23|+00.95|-02.00']
+51,StoveKnob1_Range2,2.0377,1.0893,-0.405,False,False,False,False,1.21091008,
+52,StoveKnob1_Range1,2.0377,1.0893,-0.2511,False,False,False,False,1.293495,
+53,StoveKnob1_Range3,2.0377,1.0893,-0.65,False,False,False,False,1.11120582,
+54,StoveKnob1_Range4,2.0377,1.0893,-0.815,False,False,False,False,1.07074893,
+55,Tomato_20,0.379612863,0.975897133,0.721894264,False,False,False,True,1.83177781,['TableTop|+00.42|+00.01|+00.68']
+56,Chair,-0.536752462,0.6091927,1.26214063,False,False,False,False,2.75028,
+57,Dish_Sponge_1,0.0290534347,0.750627637,-2.07039142,False,False,False,True,1.45295787,['Sink|-00.11|+00.89|-02.01|SinkBasin']
+58,Egg_20,-1.35430253,0.900048852,-0.8375452,False,False,False,True,2.359901,['Fridge|-01.50|+00.00|-00.70']
+59,Spoon_1,0.377509624,0.9,-1.968834,False,False,False,True,1.15157926,['CounterTop|+00.23|+00.95|-02.00']
+60,Knife_6,1.605,0.9069683,-1.583,False,False,False,True,0.840208054,['CounterTop|+00.23|+00.95|-02.00']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,0.7063415,0.766828537,-0.125426769,True,False,True,False,2.63468075,
+2,CounterTop_Physics,0.7928,0.9191,-0.108,True,False,False,False,2.65863442,
+3,Mirror,1.09368217,1.60262775,-0.6431062,False,False,False,False,2.30838656,
+4,GasBurner (3),-2.097,0.891,0.785,True,False,False,False,4.3864665,
+5,Blinds,-2.38655138,1.735,-2.427,False,False,False,False,3.03071928,
+6,Cabinet (1),0.5072291,0.3459115,-0.4265,True,False,True,False,2.38181758,
+7,GasBurner (2),-1.552,0.891,0.785,True,False,False,False,4.08746672,
+8,Table,-1.726,-0.0325319543,-0.960206151,True,False,False,False,2.99540544,
+9,Sink,0.7530225,0.8829,-0.6804,False,False,False,False,2.0850513,
+10,GasBurner (4),-2.097,0.891,1.049,True,False,False,False,4.60187626,
+11,TableTop,0.7731,0.7001,0.4481,True,False,False,False,3.214217,
+12,GasBurner (5),-1.555,0.891,1.049,True,False,False,False,4.31924534,
+13,Cabinet,0.5072291,0.3459115,0.156800747,True,False,True,False,2.95362377,
+14,Cabinet,0.717298031,1.8226366,-0.3983779,True,False,True,False,2.54665279,
+15,Cabinet,0.717128038,1.8226366,0.669599533,True,False,True,False,3.55652928,
+16,Table (1),-0.524,0.006,0.951,True,False,False,False,3.93598127,
+17,Table,-2.166,-0.03230245,-3.3718617,True,False,False,False,2.88233733,
+18,coffee_machine_21,0.875,0.864,-1.256,True,False,False,False,1.540355,
+19,Pot_21,-2.071,0.9274094,0.772,True,False,False,True,4.36094666,['StoveBurner|-02.10|+00.89|+00.79']
+20,Plate_21,-2.024001,0.69246465,-1.4470017,True,False,False,True,2.846014,['TableTop|-01.73|-00.03|-00.96']
+21,bin_21,-1.261,-0.03130285,-3.611,True,False,False,False,2.15736914,
+22,StoveKnob2_Range2,-1.89800012,0.867,0.52,False,False,False,False,4.055035,
+23,StoveKnob2_Range3,-1.75400007,0.867,0.52,False,False,False,False,3.971577,
+24,StoveKnob2_Range1,-2.058,0.867,0.52,False,False,False,False,4.151659,
+25,StoveKnob2_Range4,-1.6,0.867,0.52,False,False,False,False,3.886246,
+26,Fork_1,0.6470003,0.874315,-0.06900027,False,False,False,True,2.6850307,['CounterTop|+00.79|+00.92|-00.11']
+27,Soap_Bottle_21,0.66,-0.008,-0.11,False,False,False,True,2.78667378,['Cabinet|+00.51|+00.35|+00.16']
+28,Fridge_21,0.68,-0.0313030481,-1.958,True,False,True,False,1.213039,
+29,Mug_2,0.7940002,0.6553975,0.558000267,True,False,False,True,3.32794619,['TableTop|+00.77|+00.70|+00.45']
+30,Apple21,-1.81499588,0.747298837,-1.23193288,False,False,False,True,2.77104926,['TableTop|-01.73|-00.03|-00.96']
+31,Pan_21,0.7401087,-0.007886887,-0.596487045,True,False,False,True,2.33782434,['Cabinet|+00.51|+00.35|-00.43']
+32,Bowl_1,-1.99753118,0.6936405,-0.9830647,True,False,False,True,3.06442785,['TableTop|-01.73|-00.03|-00.96']
+33,Egg_21,0.7540826,0.79549104,-0.5622225,False,False,False,True,2.203732,['Sink|+00.75|+00.88|-00.68|SinkBasin']
+34,Spatula_1,0.779,0.885,-0.048,False,False,False,True,2.71640921,['CounterTop|+00.79|+00.92|-00.11']
+35,Potato_21,-1.82215929,0.7265,-0.840819955,False,False,False,True,3.009634,['TableTop|-01.73|-00.03|-00.96']
+36,Microwave_21,-2.013,0.690274954,-3.689,True,False,True,False,2.68869519,
+37,Cup_21,0.951017141,0.872046649,0.0190136749,True,False,False,True,2.805505,['CounterTop|+00.79|+00.92|-00.11']
+38,SinkBasin,0.7573,0.762,-0.6885,True,False,False,False,2.0802846,
+39,Salt_Shaker_1,0.88535887,0.6553963,0.348410249,False,False,False,True,3.129628,['TableTop|+00.77|+00.70|+00.45']
+40,Pepper_Shaker_1,0.8917375,0.6553962,0.272850126,False,False,False,True,3.05565119,['TableTop|+00.77|+00.70|+00.45']
+41,ButterKnife_1,0.754,0.7553387,-0.743,False,False,False,True,2.02623844,
+42,Dish_Sponge_1,1.03477979,0.8726028,-0.461523533,False,False,False,True,2.35013247,['CounterTop|+00.79|+00.92|-00.11']
+43,Bread_21,-0.873948157,0.931071937,0.978994548,False,False,False,True,3.97453141,['TableTop|-00.52|+00.01|+00.95']
+44,LightSwitch21,1.10244727,1.369,-3.738,False,True,False,False,1.26031375,
+45,Lettuce_21,-1.08334088,0.9732292,0.955427,False,False,False,True,4.03086567,['TableTop|-00.52|+00.01|+00.95']
+46,Chair1,-1.89557314,-0.0303156376,-1.87321293,False,False,False,False,2.70509672,
+47,Tomato_21,-1.64974558,0.74075824,-0.9758725,False,False,False,True,2.79026151,['TableTop|-01.73|-00.03|-00.96']
+48,Spoon_1,0.609867036,0.8726028,-0.1968292,False,False,False,True,2.555535,['CounterTop|+00.79|+00.92|-00.11']
+49,Knife_6,0.7407,0.7546,-0.1881,False,False,False,True,2.57575512,['Drawer|+00.71|+00.77|-00.13']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-2.6475,2.075,-0.875,True,False,True,False,1.86028469,
+2,Cabinet,-2.6475,2.075,-0.234999925,True,False,True,False,1.65839064,
+3,Cabinet,-0.8249998,0.47,-0.907,True,False,True,False,1.209973,
+4,Cabinet,-1.76499963,2.01,-1.1975,True,False,True,False,1.65351558,
+5,Cabinet,-1.8349998,2.01,-1.1975,True,False,True,False,1.6661675,
+6,Cabinet,-1.851,0.39,-0.8975,True,False,True,False,1.09079206,
+7,Cabinet,-1.8015,0.47,-0.907,True,False,True,False,1.04848063,
+8,Cabinet,1.11500013,2.01,-1.1975,True,False,True,False,3.08255,
+9,Cabinet,0.235000014,2.01,-1.1975,True,False,True,False,2.38204,
+10,Cabinet,1.12500024,0.470000029,-0.8975,True,False,True,False,2.8074708,
+11,Cabinet,-2.38749957,0.39,0.375999928,True,False,True,False,1.09094071,
+12,Cabinet,0.484999925,0.39,-0.8975,True,False,True,False,2.23759937,
+13,Cabinet,-2.625,2.01,-1.1975,True,False,True,False,1.98230016,
+14,Cabinet,-2.6475,2.01,-0.945000052,True,False,True,False,1.85463309,
+15,Cabinet,-2.6475,2.2,1.665,True,False,True,False,2.403411,
+16,Cabinet,-2.6475,2.01,0.36499995,True,False,True,False,1.637029,
+17,Cabinet,0.164999992,2.01,-1.1975,True,False,True,False,2.3315475,
+18,Cabinet,-0.765000045,2.01,-1.1975,True,False,True,False,1.7900039,
+19,Cabinet,-0.835,2.01,-1.1975,True,False,True,False,1.76241708,
+20,Cabinet,-2.6475,2.2,0.4349999,True,False,True,False,1.78700435,
+21,GasBurner (3),-2.6225,0.8861,-0.7111,True,False,False,False,1.32886839,
+22,CounterTop_Physics,-2.6994,0.9468,0.1061,True,False,False,False,1.20495439,
+23,CounterTop_Physics,0.909,1.1472,0.789,True,False,False,False,2.54684448,
+24,GasBurner (5),-2.6225,0.8861,-0.3964,True,False,False,False,1.1905297,
+25,DeactivatedDrawer,-2.026,0.78,-1.0825,True,False,True,False,1.20959628,
+26,Sink,-1.3286,0.917,-1.225,False,False,False,False,1.23703635,
+27,GasBurner (4),-2.823,0.8861,-0.7111,True,False,False,False,1.50207,
+28,Drawer,-2.572499,0.78,0.09999999,True,False,True,False,1.08392572,
+29,Chair2 (1),1.06699812,0.0109684765,1.55600774,False,False,False,False,3.13094139,
+30,GasBurner (6),-2.823,0.8861,-0.3964,True,False,False,False,1.38118935,
+31,CounterTop_Physics (2),0.071,0.9468,-1.199,True,False,False,False,1.97680032,
+32,Drawer,0.254999965,0.78,-1.0825,True,False,True,False,2.065544,
+33,Chair2,1.55899489,0.0109689236,1.35799587,False,False,False,False,3.4632,
+34,Pan_22,-2.59,0.9,-1.147,True,False,False,True,1.58231151,['CounterTop|+00.07|+00.95|-01.20']
+35,Microwave_23,0.227143168,0.9,-1.345,True,False,True,False,2.189075,['CounterTop|+00.07|+00.95|-01.20']
+36,Apple22,0.284412235,1.15439582,1.58049023,False,False,False,True,2.39714122,['CounterTop|+00.91|+01.15|+00.79']
+37,LightSwitch22,-1.168,1.307,3.0,False,True,False,False,3.04549837,
+38,coffee_machine_22,1.136,1.1,0.304,True,False,False,False,2.66092348,['CounterTop|+00.91|+01.15|+00.79']
+39,StoveKnob2_Range2,-2.4299,0.8639002,-0.622,False,False,False,False,1.11936331,
+40,StoveKnob2_Range3,-2.4299,0.8639002,-0.478,False,False,False,False,1.046219,
+41,StoveKnob2_Range1,-2.4299,0.8639002,-0.782,False,False,False,False,1.21557164,
+42,StoveKnob2_Range4,-2.4299,0.8639002,-0.324,False,False,False,False,0.9854269,
+43,Fork_1,-0.27649647,0.901713431,-1.11815751,False,False,False,True,1.65747929,['CounterTop|+00.07|+00.95|-01.20']
+44,Kettle_1,-2.62007165,0.9268885,-0.7242665,False,False,False,True,1.3340888,['StoveBurner|-02.62|+00.89|-00.71']
+45,CreditCard_1,0.997390866,0.9,-0.982281566,False,False,False,True,2.683624,['CounterTop|+00.07|+00.95|-01.20']
+46,Bread_22,-0.401600122,0.9483048,-1.29149938,False,False,False,True,1.696081,['CounterTop|+00.07|+00.95|-01.20']
+47,Plate_22,-1.45869863,0.8433394,-1.23509908,True,False,False,True,1.23713386,['Sink|-01.33|+00.92|-01.23|SinkBasin']
+48,Soap_Bottle_22,-0.748,0.8999999,-1.291,False,False,False,True,1.49405026,['CounterTop|+00.07|+00.95|-01.20']
+49,Bowl_1,-2.00657463,0.9018531,-1.11504769,True,False,False,True,1.22472441,['CounterTop|+00.07|+00.95|-01.20']
+50,Window,0.322,1.449,3.0649,False,False,False,False,3.607437,
+51,Mug_1,0.372599721,1.65406024,-1.35359907,True,False,False,True,2.43021822,['Cabinet|+00.24|+02.01|-01.20']
+52,Spatula_1,-2.55216455,0.922,0.0104080439,False,False,False,True,1.05242562,['CounterTop|-02.70|+00.95|+00.11']
+53,Lettuce_22,-2.6608,0.8744,0.9831,False,False,False,True,1.52139735,['Fridge|-02.86|+00.00|+00.85']
+54,Toaster_22,-2.823,0.900000334,0.245999828,False,False,False,False,1.34567666,['CounterTop|-02.70|+00.95|+00.11']
+55,SinkBasin,-1.3448,0.839,-1.25,True,False,False,False,1.261123,
+56,Salt_Shaker_1,-2.695,0.9,-0.132,False,False,False,True,1.2022686,['CounterTop|-02.70|+00.95|+00.11']
+57,Tomato_22,0.203787982,1.15205479,1.05698335,False,False,False,True,2.02067733,['CounterTop|+00.91|+01.15|+00.79']
+58,bin_22,-2.75755763,0.0,1.46684813,True,False,False,False,2.13187575,
+59,Pepper_Shaker_1,-2.830618,0.9,-0.112962961,False,False,False,True,1.33540463,['CounterTop|-02.70|+00.95|+00.11']
+60,ButterKnife_1,-2.22248077,0.9,-0.997339845,False,False,False,True,1.23153007,['CounterTop|+00.07|+00.95|-01.20']
+61,Pot_22,1.463,1.10000026,0.61,True,False,False,True,3.031678,['CounterTop|+00.91|+01.15|+00.79']
+62,Fridge_22,-2.856,0.0,0.852,True,False,True,False,1.837509,
+63,Potato_22,-0.598039,0.9335,-1.119659,False,False,False,True,1.43813288,['CounterTop|+00.07|+00.95|-01.20']
+64,Dish_Sponge_1,-1.221,0.8416841,-1.1264,False,False,False,True,1.16195369,['Sink|-01.33|+00.92|-01.23|SinkBasin']
+65,Egg_22,0.136268735,1.13652563,1.274665,False,False,False,True,2.087491,['CounterTop|+00.91|+01.15|+00.79']
+66,Spoon_1,-0.157054365,0.9,-1.01503634,False,False,False,True,1.68339026,['CounterTop|+00.07|+00.95|-01.20']
+67,Knife_6,0.0605277121,1.1069684,1.58733857,False,False,False,True,2.2354672,['CounterTop|+00.91|+01.15|+00.79']
+68,Cup_22,-1.11969578,0.8422905,-1.241146,True,False,False,True,1.29943109,['Sink|-01.33|+00.92|-01.23|SinkBasin']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-0.5827875,0.3888453,-1.80423987,True,False,True,False,2.79396844,
+2,RangeStyle1_Range1 (1),-1.5155,0.9282,-3.7523,True,False,False,False,3.57518339,
+3,RangeStyle1_Range1,-1.5155,0.9282,-3.4974,True,False,False,False,3.34497952,
+4,RangeStyle1_Range1 (3),-1.1294,0.9282,-3.4986,True,False,False,False,3.53432965,
+5,Drawer,-0.749236643,0.7795613,-3.551338,True,False,True,False,3.793593,
+6,CounterTop_Physics,-0.304,0.9513,-2.794,True,False,False,False,3.54025173,
+7,Cabinet,-0.8833177,2.14011526,-3.6875,True,False,True,False,4.02192831,
+8,Table,-2.43299818,0.8957,-1.69645357,True,False,False,False,1.32401669,
+9,Cabinet,-0.313,2.14011526,-1.543596,True,False,True,False,3.13759,
+10,Sink,-0.3494262,0.908,-2.014108,False,False,False,False,3.05255842,
+11,Cabinet,-0.877807438,0.388845354,-3.4223,True,False,True,False,3.64771724,
+12,Cabinet,-0.5827875,0.3888453,-2.197386,True,False,True,False,2.99772215,
+13,Blinds,-2.532,2.035,-3.9995,False,False,False,False,3.70829916,
+14,Cabinet,-0.5840244,0.388845325,-3.39686275,True,False,True,False,3.80671167,
+15,Cabinet,-0.313,2.14011526,-2.4816618,True,False,True,False,3.56123018,
+16,Cabinet,-0.33,1.92156088,-3.39,True,False,True,False,4.06479359,
+17,Cabinet,-1.76467407,2.14011526,-3.6875,True,False,True,False,3.636151,
+18,RangeStyle1_Range1 (2),-1.1294,0.9282,-3.7523,True,False,False,False,3.751978,
+19,Drawer,-0.4549862,0.7795613,-3.268292,True,False,True,False,3.7623508,
+20,Cabinet,-0.302743971,1.91672516,-2.501786,True,False,True,False,3.5091362,
+21,Apple23,-2.5433526,0.9686677,-1.19311118,False,False,False,True,0.832771838,"['TableTop|-02.43|+00.90|-01.70', 'Bowl|-02.51|+00.91|-01.19']"
+22,Lettuce_23,-2.562599,1.0021,-1.6777,False,False,False,True,1.26036441,['TableTop|-02.43|+00.90|-01.70']
+23,Egg_23,-0.460578769,1.39993942,-1.01174784,False,False,False,True,2.638084,['Fridge|-00.33|+00.00|-00.77']
+24,Pen_3,-2.16096354,0.9190386,-0.8298659,False,False,False,True,0.9017312,['TableTop|-02.43|+00.90|-01.70']
+25,Microwave_23,-1.321,1.521,-3.853,True,False,True,False,3.800796,
+26,coffee_machine_23,-0.118,0.903905034,-3.145,True,False,False,False,3.91177154,['CounterTop|-00.30|+00.95|-02.79']
+27,Fork_1,-0.295741856,0.788332,-1.85867691,False,False,False,True,3.028483,['Sink|-00.35|+00.91|-02.01|SinkBasin']
+28,LightSwitch23,-4.324,1.319,0.0,False,True,False,False,1.47570324,
+29,Soap_Bottle_23,-0.183,0.903905034,-2.458,False,False,False,True,3.43063545,['CounterTop|-00.30|+00.95|-02.79']
+30,bin_23,-1.94380212,0.0,-3.76336551,True,False,False,False,3.54639363,
+31,Fridge_23,-0.33,0.0,-0.77,True,False,True,False,2.83083034,
+32,Pencil_1,-2.114254,0.918121338,-0.8998696,False,False,False,True,0.97197473,['TableTop|-02.43|+00.90|-01.70']
+33,Bowl_1,-2.511523,0.9152425,-1.19295013,True,False,False,True,0.847934246,['TableTop|-02.43|+00.90|-01.70']
+34,Window,-2.537,1.157,-4.026,False,False,False,False,3.5654707,
+35,Wine_Bottle_1,-2.44392323,0.913393736,-2.14276242,False,False,False,True,1.73437119,['TableTop|-02.43|+00.90|-01.70']
+36,Spatula_1,-0.3,0.915,-2.544,False,False,False,True,3.38646317,['CounterTop|-00.30|+00.95|-02.79']
+37,Bread_23,-0.41500026,0.952924132,-3.62599921,False,False,False,True,4.056697,['CounterTop|-00.30|+00.95|-02.79']
+38,Spray_Bottle_6,-2.68183875,0.913393736,-0.8258753,False,False,False,True,0.4556039,['TableTop|-02.43|+00.90|-01.70']
+39,Tomato_23,-2.717,0.979360461,-1.924,False,False,False,True,1.453962,['TableTop|-02.43|+00.90|-01.70']
+40,Pan_23,-2.17488575,0.913393736,-1.09917152,True,False,False,True,1.019791,['TableTop|-02.43|+00.90|-01.70']
+41,Cup_23,-2.43699741,0.913985133,-2.361002,True,False,False,True,1.94434285,['TableTop|-02.43|+00.90|-01.70']
+42,SinkBasin,-0.3506,0.7866412,-2.0189,True,False,False,False,3.05605221,
+43,Pot_24,-2.2385025,0.913393736,-1.882062,True,False,False,True,1.57801378,['TableTop|-02.43|+00.90|-01.70']
+44,Salt_Shaker_1,-0.829,0.903905153,-3.767,False,False,False,True,3.92256784,['CounterTop|-00.30|+00.95|-02.79']
+45,Potato_23,-2.08232784,0.9482,-1.59557116,False,False,False,True,1.42990422,['TableTop|-02.43|+00.90|-01.70']
+46,Pepper_Shaker_1,-0.439,0.9039049,-3.347,False,False,False,True,3.82937813,['CounterTop|-00.30|+00.95|-02.79']
+47,ButterKnife_1,-0.371308923,0.9039049,-3.44393826,False,False,False,True,3.9467454,['CounterTop|-00.30|+00.95|-02.79']
+48,StoveKnob1_Range4,-1.582975,1.0828,-3.9581,False,False,False,False,3.74158621,
+49,StoveKnob1_Range2,-1.17707467,1.0825,-3.9581,False,False,False,False,3.9133687,
+50,StoveKnob1_Range3,-1.42457545,1.0827,-3.9581,False,False,False,False,3.80439663,
+51,StoveKnob1_Range1,-1.02857554,1.0824,-3.9581,False,False,False,False,3.98470521,
+52,Mug_3,-2.587883,0.913397,-2.30625033,True,False,False,True,1.85271,['TableTop|-02.43|+00.90|-01.70']
+53,Dish_Sponge_1,-0.0700756162,0.9039053,-1.68647051,False,False,False,True,3.16104054,['CounterTop|-00.30|+00.95|-02.79']
+54,Chair1,-3.264,0.0,-2.094,False,False,False,False,1.84995472,
+55,Chair1 (1),-3.24,0.0,-1.253,False,False,False,False,1.1985029,
+56,Spoon_1,-0.328,0.7866412,-2.125,False,False,False,True,3.12942266,['Sink|-00.35|+00.91|-02.01|SinkBasin']
+57,Plate_23,-0.342000157,0.904483259,-2.73100042,True,False,False,True,3.47020721,['CounterTop|-00.30|+00.95|-02.79']
+58,Knife_6,-2.26999617,0.920386434,-2.14300418,False,False,False,True,1.79798341,['TableTop|-02.43|+00.90|-01.70']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,0.7293116,0.7033848,2.199349,True,False,True,False,1.28087842,
+2,Cabinet,-1.96205759,1.92658269,3.734,True,False,True,False,2.17075777,
+3,Cabinet,-2.37789154,2.01455927,1.0580461,True,False,True,False,2.61643338,
+4,Drawer,0.7293116,0.7033848,2.53298831,True,False,True,False,1.24553072,
+5,Cabinet,-2.62201047,1.92551661,3.734,True,False,True,False,2.6599474,
+6,RangeStyle1_Range1 (1),0.9133,0.8438,1.3754,True,False,False,False,1.8070457,
+7,CounterTop_Physics (1),0.8646,0.8586,0.984,True,False,False,False,2.04014373,
+8,Cabinet,-1.97617459,1.77958679,3.73400021,True,False,True,False,2.11512733,
+9,Cabinet,0.580331445,0.385033637,0.819017649,True,False,True,False,2.06374359,
+10,Cabinet,-2.379893,1.40810084,1.67783415,True,False,True,False,2.113553,
+11,Cabinet,-0.419724345,1.7039938,3.73600173,True,False,True,False,1.47612488,
+12,CounterTop_Physics,0.8646,0.8586,2.3718,True,False,False,False,1.37126434,
+13,Sink,-1.703,0.727,3.828,False,False,False,False,1.8002969,
+14,Cabinet,0.580331445,0.385033637,2.69439149,True,False,True,False,1.21289921,
+15,Cabinet,-2.379893,0.6376505,1.67783415,True,False,True,False,2.06864858,
+16,Cabinet,-0.419724345,0.6747835,3.73600173,True,False,True,False,1.25909412,
+17,Cabinet,-2.377891,2.014559,2.55888033,True,False,True,False,2.18402314,
+18,Drawer,0.7293116,0.7033848,0.9804206,True,False,True,False,1.96453047,
+19,Drawer,-2.11484528,0.7061218,3.657953,True,False,True,False,1.99663663,
+20,Cabinet,-2.37789154,1.6916,2.57255077,True,False,True,False,2.03882074,
+21,Cabinet,-2.95117354,1.92551661,3.734,True,False,True,False,2.92927361,
+22,Cabinet,0.580331445,0.385033637,2.360752,True,False,True,False,1.205291,
+23,Cabinet,-2.42692375,0.4353611,3.42109561,True,False,True,False,2.18592572,
+24,RangeStyle1_Range1,0.6428,0.8438,1.3754,True,False,False,False,1.60436559,
+25,Cabinet,-2.377891,1.928,1.68673277,True,False,True,False,2.28967452,
+26,Cabinet,-2.377891,2.01344681,3.17724419,True,False,True,False,2.28531718,
+27,Table,-0.875,0.006,1.324,True,False,False,False,1.52467191,
+28,Cabinet,-1.13639462,0.385033637,3.51605725,True,False,True,False,1.30521679,
+29,RangeStyle1_Range1 (2),0.9133,0.8438,1.7688,True,False,False,False,1.59227574,
+30,Cabinet,-1.97476172,0.385033637,3.51605725,True,False,True,False,1.86373687,
+31,CounterTop_Physics (2),-2.081,0.8586,3.799,True,False,False,False,2.04664588,
+32,Cabinet,-2.42692375,0.4353611,3.1746,True,False,True,False,2.09402466,
+33,Cabinet,-2.37789154,2.01455927,1.69307828,True,False,True,False,2.327577,
+34,Cabinet,-1.98600686,0.3850336,3.51146746,True,False,True,False,1.87016129,
+35,RangeStyle1_Range1 (3),0.6424,0.8438,1.7688,True,False,False,False,1.35757244,
+36,Cabinet,-1.09809327,1.92658269,3.72904372,True,False,True,False,1.70882583,
+37,Microwave_24,-1.529,1.25028133,3.8822,True,False,True,False,1.75821388,
+38,Plate_24,0.860000134,0.812493145,0.97600013,True,False,False,True,2.044507,['CounterTop|+00.86|+00.86|+00.98']
+39,coffee_machine_25,-1.002,0.8897504,1.028,True,False,False,False,1.555286,['TableTop|-00.88|+00.01|+01.32']
+40,Fork_1,-0.5440549,0.8914631,1.05930471,False,False,False,True,1.44140017,['TableTop|-00.88|+00.01|+01.32']
+41,LightSwitch24,0.826,1.396,4.082455,False,True,False,False,2.12307954,
+42,Bread_24,0.8279998,0.861485362,2.45000052,False,False,False,True,1.32952809,['CounterTop|+00.86|+00.86|+02.37']
+43,Mug_2,-1.22359312,0.8897566,1.34260666,True,False,False,True,1.36501753,['TableTop|-00.88|+00.01|+01.32']
+44,Fridge_24,-2.643,0.0,2.134,True,False,True,False,2.353339,
+45,Bowl_1,-2.71801138,0.814062,3.38243771,True,False,False,True,2.38868761,['CounterTop|-02.08|+00.86|+03.80']
+46,Chair_4 (1),-0.8695586,0.486223668,1.50076818,False,False,False,False,1.14327443,
+47,Window,-1.131,1.67330956,0.8141356,False,False,False,False,1.95876575,
+48,Spatula_1,0.712,0.848,2.134,False,False,False,True,1.26716566,['CounterTop|+00.86|+00.86|+02.37']
+49,Paper_Towel_1,1.06643248,0.923873365,2.09354353,False,False,False,True,1.61846864,['CounterTop|+00.86|+00.86|+02.37']
+50,Potato_24,-0.7435784,0.929,1.40527129,False,False,False,True,1.12184906,['TableTop|-00.88|+00.01|+01.32']
+51,bin_24,0.9315196,0.0,2.91849279,True,False,False,False,1.742465,
+52,Soap_Bottle_24,-2.045,0.812210739,3.833,False,False,False,True,2.04249787,['CounterTop|-02.08|+00.86|+03.80']
+53,Egg_24,-2.47487688,1.21999109,2.21717453,False,False,False,True,2.02036762,['Fridge|-02.64|+00.00|+02.13']
+54,Cup_24,1.06198084,0.8128015,2.617998,True,False,False,True,1.56891251,['CounterTop|+00.86|+00.86|+02.37']
+55,SinkBasin,-1.6016,0.687,3.7747,True,False,False,False,1.69828677,
+56,Pot_24,0.619461536,0.8463794,1.39799774,True,False,False,True,1.57181,['StoveBurner|+00.64|+00.84|+01.38']
+57,Salt_Shaker_1,0.959,0.8122105,2.246,False,False,False,True,1.48360384,['CounterTop|+00.86|+00.86|+02.37']
+58,Pan_24,-2.667,0.812,3.74,True,False,False,True,2.49828148,['CounterTop|-02.08|+00.86|+03.80']
+59,Pepper_Shaker_1,1.029,0.8122849,2.17399979,False,False,False,True,1.56588233,['CounterTop|+00.86|+00.86|+02.37']
+60,ButterKnife_1,-2.17291617,0.812210739,3.55283928,False,False,False,True,1.9786365,['CounterTop|-02.08|+00.86|+03.80']
+61,StoveKnob1_Range1,1.1045,1.00251377,1.88642645,False,False,False,False,1.72081316,
+62,StoveKnob1_Range2,1.1045,1.00251377,1.7336,False,False,False,False,1.78103745,
+63,StoveKnob1_Range4,1.1045,1.00251377,1.3215,False,False,False,False,1.993386,
+64,StoveKnob1_Range3,1.1045,1.00251377,1.4814,False,False,False,False,1.90322661,
+65,Tomato_24,-0.913333952,0.9624752,1.48426461,False,False,False,True,1.09833622,['TableTop|-00.88|+00.01|+01.32']
+66,Dish_Sponge_1,-1.48239362,0.687152445,3.7753005,False,False,False,True,1.62395167,['Sink|-01.70|+00.73|+03.83|SinkBasin']
+67,Lettuce_24,-0.5807226,0.9566,1.3583,False,False,False,True,1.14589989,['TableTop|-00.88|+00.01|+01.32']
+68,Spoon_1,-0.505159855,0.890052736,0.942319453,False,False,False,True,1.55772758,['TableTop|-00.88|+00.01|+01.32']
+69,Apple24,-0.680406,0.955221534,0.9215589,False,False,False,True,1.58964229,['TableTop|-00.88|+00.01|+01.32']
+70,Knife_6,-2.29100513,0.819215,3.61599469,False,False,False,True,2.11183143,['CounterTop|-02.08|+00.86|+03.80']
+71,Toaster_24,-2.248,0.8122107,3.86300015,False,False,False,False,2.218368,['CounterTop|-02.08|+00.86|+03.80']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,-2.377891,2.015479,1.72065616,True,False,True,False,1.379932,
+2,RangeStyle4_Range1 (1),-0.2442,0.8201,2.0755,True,False,False,False,2.06060147,
+3,Drawer,-0.4020957,0.703990936,1.252484,True,False,True,False,1.62968051,
+4,RangeStyle4_Range1,-0.5182,0.8201,2.0755,True,False,False,False,1.832751,
+5,Sink,-1.8382,0.727,0.3439,False,False,False,False,0.697798133,
+6,Chair6,-0.905,0.008,2.124,False,False,False,False,1.80550516,
+7,RangeStyle4_Range1 (2),-0.2442,0.8201,1.684,True,False,False,False,1.88606322,
+8,CounterTop_Physics,-1.558,0.8591,0.278,True,False,False,False,0.8475869,
+9,RangeStyle4_Range1 (3),-0.5186,0.8201,1.684,True,False,False,False,1.63369119,
+10,Drawer,-0.4045246,0.7045355,0.912483931,True,False,True,False,1.60990655,
+11,Drawer,-0.8610518,0.7093489,0.4200614,True,False,True,False,1.292386,
+12,Drawer,-1.13348758,0.7061218,0.418565,True,False,True,False,1.06154954,
+13,Drawer,-2.59,0.703990936,1.511554,True,False,True,False,0.80535686,
+14,Cabinet,-2.77222013,1.80304551,0.508905768,True,False,True,False,1.28498447,
+15,Cabinet,-2.460731,1.80304575,0.2313,True,False,True,False,1.2715584,
+16,Cabinet,-2.7817874,1.79847789,0.825484157,True,False,True,False,1.20296109,
+17,Cabinet,-2.78178716,1.798478,0.8150829,True,False,True,False,1.20451391,
+18,Cabinet,-2.377891,2.009479,2.58165622,True,False,True,False,1.96803594,
+19,Cabinet,-2.44249344,0.385033637,1.67295706,True,False,True,False,0.956499934,
+20,Cabinet,-2.23828554,0.385033637,0.564749,True,False,True,False,0.715851843,
+21,Cabinet,-1.28635621,0.385033637,0.564749,True,False,True,False,0.9823194,
+22,Cabinet,-1.262326,0.3850336,0.56505,True,False,True,False,0.999782443,
+23,Cabinet,-0.7347645,0.3850336,0.56505,True,False,True,False,1.43395352,
+24,Cabinet,-0.5494206,0.3850336,0.7510813,True,False,True,False,1.559603,
+25,Cabinet,-0.549420655,0.3850336,1.41299665,True,False,True,False,1.59404111,
+26,Apple25,-1.538,0.7484,0.186,False,False,False,True,0.9483283,['Sink|-01.84|+00.73|+00.34|SinkBasin']
+27,Fridge_25,-2.782,0.0,2.2217,True,False,True,False,1.7075932,
+28,Microwave_25,-2.795,0.8122109,1.349,True,False,True,False,0.8727597,
+29,bin_25,-0.329300761,0.0,2.60685635,True,False,False,False,2.48697066,
+30,StoveKnob2_Range3,-0.0694,0.9983,1.7736,False,False,False,False,2.08210015,
+31,StoveKnob2_Range4,-0.0694,0.9983,1.6138,False,False,False,False,2.02816033,
+32,StoveKnob2_Range1,-0.0694,0.9983,2.1715,False,False,False,False,2.260331,
+33,StoveKnob2_Range2,-0.0694,0.9983,2.0242,False,False,False,False,2.1876173,
+34,Fork_1,-1.21490169,0.8139895,0.4980013,False,False,False,True,0.935923457,['CounterTop|-01.56|+00.86|+00.28']
+35,Ladle_3,-0.3711,0.7386,0.8791,False,False,False,True,1.64143407,['Drawer|-00.40|+00.70|+00.91']
+36,Pan_25,-0.391678721,0.8130789,1.10842025,True,False,False,True,1.61436749,['CounterTop|-01.56|+00.86|+00.28']
+37,Soap_Bottle_25,-2.254,0.8122108,0.204,False,False,False,True,0.8402472,['CounterTop|-01.56|+00.86|+00.28']
+38,Pot_25,-0.531748533,0.8226794,2.09645438,True,False,False,True,1.83415067,['StoveBurner|-00.52|+00.82|+02.08']
+39,Tomato_25,-2.66941452,1.18148112,2.373177,False,False,False,True,1.55319071,['Fridge|-02.78|+00.00|+02.22']
+40,Potato_25,-0.238357425,0.861,1.33212233,False,False,False,True,1.79312289,['CounterTop|-01.56|+00.86|+00.28']
+41,Salt_Shaker_2,-0.1152,0.812,0.9872,False,False,False,True,1.88694346,['CounterTop|-01.56|+00.86|+00.28']
+42,Plate_25,-2.58694386,0.8134272,0.309928179,True,False,False,True,0.9101489,['CounterTop|-01.56|+00.86|+00.28']
+43,Bowl_1,-0.387389868,0.117156222,0.9130077,True,False,False,True,1.79512918,['Cabinet|-00.55|+00.39|+00.75']
+44,Window,-1.72,1.342,-0.152,False,False,False,False,1.26490533,
+45,Mug_1,-0.347199619,0.115337804,1.25130033,True,False,False,True,1.84720457,['Cabinet|-00.55|+00.39|+01.41']
+46,Toaster_25,-0.171185836,0.8121539,0.7352572,False,False,False,False,1.85001171,['CounterTop|-01.56|+00.86|+00.28']
+47,Spatula_1,-0.341,0.696,1.194,False,False,False,True,1.68283749,['Drawer|-00.40|+00.70|+01.25']
+48,Knife_7,-2.6628108,0.8191597,0.5579961,False,False,False,True,0.8008641,['CounterTop|-01.56|+00.86|+00.28']
+49,Egg_25,-2.69696665,0.8383342,2.4110992,False,False,False,True,1.57508421,['Fridge|-02.78|+00.00|+02.22']
+50,Cup_25,-2.67566156,0.814835966,0.7729632,True,False,False,True,0.71797514,['CounterTop|-01.56|+00.86|+00.28']
+51,SinkBasin,-1.7455914,0.687046647,0.295923918,True,False,False,False,0.7786029,
+52,ButterKnife_1,-2.4939487,0.812210739,0.476511866,False,False,False,True,0.7251955,['CounterTop|-01.56|+00.86|+00.28']
+53,coffee_machine_26,-0.539,0.812210739,0.186,True,False,False,False,1.67481351,['CounterTop|-01.56|+00.86|+00.28']
+54,Lettuce_25,-1.8365,0.7415,0.238453716,False,False,False,True,0.79506284,['Sink|-01.84|+00.73|+00.34|SinkBasin']
+55,Pepper_Shaker_2,-0.1149,0.812,1.0833,False,False,False,True,1.88903725,['CounterTop|-01.56|+00.86|+00.28']
+56,LightSwitch25,-0.616,1.378,3.0,False,True,False,False,2.47850466,
+57,Dish_Sponge_1,-2.23406839,0.8366,0.341846079,False,False,False,True,0.7014997,['CounterTop|-01.56|+00.86|+00.28']
+58,Bread_25,-0.9799998,0.8554756,0.25,False,False,False,True,1.26687527,['CounterTop|-01.56|+00.86|+00.28']
+59,Spoon_1,-1.22,0.812210739,0.309,False,False,False,True,1.04583192,['CounterTop|-01.56|+00.86|+00.28']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer,-0.249731749,0.6963,0.413786,True,False,True,False,1.33600438,
+2,Cabinet,-0.5189891,0.4901084,0.648,True,False,True,False,1.061411,
+3,Cabinet,-0.479725748,0.4901084,0.6467461,True,False,True,False,1.08076155,
+4,Cabinet,-1.51491,0.4901084,0.6469161,True,False,True,False,1.0780549,
+5,Cabinet,-1.47875667,0.4901084,0.6467461,True,False,True,False,1.06139922,
+6,Cabinet,-2.47467756,0.4901084,0.6467461,True,False,True,False,1.75272191,
+7,Cabinet,-1.51491,2.046687,0.392291129,True,False,True,False,1.67433441,
+8,Cabinet,-2.47467756,2.046687,0.3921212,True,False,True,False,2.17101669,
+9,Cabinet,-1.47875667,2.046687,0.3921212,True,False,True,False,1.663685,
+10,Cabinet,-0.5189891,2.046687,0.392291129,True,False,True,False,1.664222,
+11,Cabinet,-0.479725748,2.046687,0.3921212,True,False,True,False,1.67610419,
+12,CounterTop_Physics (1),-1.29,0.952,0.349,True,False,False,False,1.18804121,
+13,Sink,-1.0329,0.9263662,0.340124846,False,False,False,False,1.16060615,
+14,RangeStyle7_Range4 (2),-0.2546,0.922828853,4.6725,True,False,False,False,3.25896144,
+15,Drawer (1),-1.7479,0.6963,0.413786,True,False,True,False,1.33467591,
+16,RangeStyle7_Range4,-0.5359,0.922828853,4.2742,True,False,False,False,2.81283236,
+17,Table,-2.764,0.006,2.356,True,False,False,False,2.15557766,
+18,Table (1),-0.465,0.006,3.003,True,False,False,False,1.82956755,
+19,RangeStyle7_Range4 (1),-0.2546,0.922828853,4.2742,True,False,False,False,2.87267423,
+20,RangeStyle7_Range4 (3),-0.536,0.922828853,4.6725,True,False,False,False,3.20632243,
+21,TableTop_Physics,-2.781,0.971,3.488,True,False,False,False,2.67000413,
+22,Drawer (2),-2.2473,0.6963,0.413786,True,False,True,False,1.6666621,
+23,Egg_26,-2.7468555,0.5503,4.35020447,False,False,False,True,3.36133528,['Fridge|-02.80|+00.00|+04.43']
+24,StoveKnob3_Range2,-0.0643,1.0907,4.63235044,False,False,False,False,3.27458644,
+25,StoveKnob3_Range1,-0.0643,1.0907,4.78235,False,False,False,False,3.41835022,
+26,StoveKnob3_Range3,-0.0643,1.0907,4.38234949,False,False,False,False,3.03631949,
+27,StoveKnob3_Range4,-0.0643,1.0907,4.2223506,False,False,False,False,2.88487267,
+28,Plate_26,-0.447000653,0.8900369,2.92800045,True,False,False,True,1.53138077,['TableTop|-00.47|+00.01|+03.00']
+29,bin_26,-2.798,0.0005915575,0.369,True,False,False,False,2.3073287,
+30,Fork_1,-1.774116,0.6532969,0.4551556,False,False,False,True,1.32386,['Drawer|-01.75|+00.70|+00.41']
+31,Bread_26,-2.86499834,0.9408251,1.98300028,False,False,False,True,1.926927,['TableTop|-02.76|+00.01|+02.36']
+32,Apple26,-1.6397723,0.974232733,0.427100927,False,False,False,True,1.25127852,['CounterTop|-01.29|+00.95|+00.35']
+33,Lettuce_26,-2.7971,0.5946,4.5767,False,False,False,True,3.57629633,['Fridge|-02.80|+00.00|+04.43']
+34,LightSwitch26,0.0,1.448,0.569,False,True,False,False,1.47150385,
+35,Bowl_1,-2.51011586,0.8916012,2.48395777,True,False,False,True,1.80242133,['TableTop|-02.76|+00.01|+02.36']
+36,Window,-3.05600023,1.593,1.362,False,False,False,False,2.173529,
+37,Spatula_1,-2.24378657,0.94,0.5520681,False,False,False,True,1.56430662,['CounterTop|-01.29|+00.95|+00.35']
+38,Knife_7,-0.3945576,0.896689,3.22716832,False,False,False,True,1.83021724,['TableTop|-00.47|+00.01|+03.00']
+39,Potato_26,-2.624,0.9577,3.337,False,False,False,True,2.45256853,['TableTop|-02.78|+00.97|+03.49']
+40,Tomato_26,-1.06350362,0.853271544,0.328506172,False,False,False,True,1.17420828,['Sink|-01.03|+00.93|+00.34|SinkBasin']
+41,Cup_26,-2.94133759,0.8903414,2.74279261,True,False,False,True,2.30509257,['TableTop|-02.76|+00.01|+02.36']
+42,Fridge_26,-2.802,0.0,4.427,True,False,True,False,3.55350518,
+43,SinkBasin,-1.0306,0.785338342,0.3371,True,False,False,False,1.16909683,
+44,Salt_Shaker_1,-1.835376,0.9169842,0.3129287,False,False,False,True,1.45162952,['CounterTop|-01.29|+00.95|+00.35']
+45,Pepper_Shaker_1,-1.92705965,0.9169842,0.399084955,False,False,False,True,1.4393369,['CounterTop|-01.29|+00.95|+00.35']
+46,ButterKnife_1,-2.21043229,0.9169842,0.619813263,False,False,False,True,1.49670041,['CounterTop|-01.29|+00.95|+00.35']
+47,Microwave_26,-0.359,0.9141089,0.224,True,False,True,False,1.42801046,
+48,coffee_machine_26,-2.96,0.925370336,3.606,True,False,False,False,2.8770473,['TableTop|-02.78|+00.97|+03.49']
+49,Soap_Bottle_26,-1.486,0.9169841,0.229,False,False,False,True,1.36083579,['CounterTop|-01.29|+00.95|+00.35']
+50,Pan_26,-0.250185,0.926930964,4.65182543,True,False,False,True,3.239887,"['StoveBurner|-00.25|+00.92|+04.67', 'StoveBurner|-00.25|+00.92|+04.27']"
+51,Mug_3,-0.218001261,0.889751136,2.299,True,False,False,True,1.11806226,['TableTop|-00.47|+00.01|+03.00']
+52,Dish_Sponge_1,-0.793,0.7856749,0.237,False,False,False,True,1.28508937,['Sink|-01.03|+00.93|+00.34|SinkBasin']
+53,Pot_26,-2.476408,0.8897501,2.05054617,True,False,False,True,1.57576072,['TableTop|-02.76|+00.01|+02.36']
+54,Spoon_1,-1.72543359,0.651584268,0.3378731,False,False,False,True,1.39258623,['Drawer|-01.75|+00.70|+00.41']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Cabinet,2.04144287,2.11345816,2.61836362,True,False,True,False,2.27458978,
+2,Cabinet,0.1264148,0.388845444,1.774107,True,False,True,False,1.27463531,
+3,RangeStyle7_Range4 (2),2.1402,0.9293,1.5045,True,False,False,False,1.24714756,
+4,Cabinet,1.76092839,0.388845354,2.34698844,True,False,True,False,1.62962949,
+5,Cabinet,1.76092839,0.388845354,0.8693893,True,False,True,False,0.9264845,
+6,Cabinet,2.04117012,1.81028879,0.283388257,True,False,True,False,1.55704,
+7,Drawer,-0.024,0.774892032,2.061043,True,False,True,False,1.47996342,
+8,CounterTop_Physics (1),1.066,0.9732,2.6664,True,False,False,False,1.66926861,
+9,Cabinet,1.96998143,2.11345816,2.61836362,True,False,True,False,2.24277043,
+10,RangeStyle7_Range4 (1),2.1402,0.9293,1.1061,True,False,False,False,1.14547539,
+11,Cabinet,2.04144287,2.11345816,1.80948353,True,False,True,False,1.79162538,
+12,RangeStyle7_Range4 (3),1.8662,0.9293,1.5045,True,False,False,False,1.00280786,
+13,Cabinet,2.04144287,2.11345816,1.76693583,True,False,True,False,1.77280807,
+14,Cabinet,1.514,0.388845444,2.36046958,True,False,True,False,1.54187417,
+15,Cabinet,0.351235181,0.388845444,2.36046958,True,False,True,False,1.591878,
+16,Cabinet,2.04117012,1.81028879,0.8727124,True,False,True,False,1.3881799,
+17,Drawer,2.167,0.774892032,0.5824535,True,False,True,False,1.24584806,
+18,Cabinet,2.04144287,2.11345816,0.892145634,True,False,True,False,1.60196459,
+19,CounterTop,2.0602,0.9738,0.5837,True,False,False,False,1.141328,
+20,Sink,0.935,0.9365,2.64600086,False,False,False,False,1.64766634,
+21,Curtains,0.965,2.061,2.9894,False,False,False,False,2.303158,
+22,Table,-0.212089524,0.0221638866,0.881,True,False,False,False,1.50189054,
+23,RangeStyle7_Range4,1.8632,0.9293,1.1061,True,False,False,False,0.870156467,
+24,Drawer,1.911343,0.774892032,2.06005239,True,False,True,False,1.403624,
+25,Egg_27,0.6937969,0.830262363,2.60685873,False,False,False,True,1.6373024,['Sink|+00.94|+00.94|+02.65|SinkBasin']
+26,StoveKnob3_Range1,2.32603931,1.092802,1.61084509,False,False,False,False,1.47251487,
+27,StoveKnob3_Range2,2.326039,1.092802,1.460846,False,False,False,False,1.41687918,
+28,StoveKnob3_Range3,2.32603931,1.09280229,1.210845,False,False,False,False,1.35632741,
+29,StoveKnob3_Range4,2.326039,1.092802,1.05084562,False,False,False,False,1.340803,
+30,Toaster_27,2.127,0.9265224,0.573,False,False,False,False,1.20544994,['CounterTop|+02.06|+00.97|+00.58']
+31,Lettuce_27,0.277,0.989,2.611,False,False,False,True,1.76799154,['CounterTop|+01.07|+00.97|+02.67']
+32,Fork_1,1.63958979,0.928235352,2.59875417,False,False,False,True,1.722159,['CounterTop|+01.07|+00.97|+02.67']
+33,Soap_Bottle_27,0.3249141,0.926522732,2.81750059,False,False,False,True,1.93899477,['CounterTop|+01.07|+00.97|+02.67']
+34,Fridge_27,2.104,0.0,-0.279,True,False,True,False,1.91479981,
+35,Ladle_3,2.01523018,0.9531724,0.815684438,False,False,False,True,1.033144,['CounterTop|+02.06|+00.97|+00.58']
+36,Ladle_3,-0.09656372,0.9428197,2.54614067,False,False,False,True,1.8959831,['CounterTop|+01.07|+00.97|+02.67']
+37,bin_27,-0.33,0.0,-0.802,True,False,False,False,2.41410565,
+38,Bread_27,-0.199941829,0.8239383,0.813938141,False,False,False,True,1.21672428,['TableTop|-00.21|+00.02|+00.88']
+39,Mug_2,2.19100046,0.926523745,2.13999915,True,False,False,True,1.64885771,['CounterTop|+01.07|+00.97|+02.67']
+40,Salt_Shaker_2,2.24188471,0.9265226,1.92281806,False,False,False,True,1.54742432,['CounterTop|+01.07|+00.97|+02.67']
+41,Potato_27,1.92192948,0.9683,2.19686723,False,False,False,True,1.51227462,['CounterTop|+01.07|+00.97|+02.67']
+42,Pan_27,1.9281,0.0706653,0.6402,True,False,False,True,1.29625678,['Cabinet|+01.76|+00.39|+00.87']
+43,LightSwitch27,0.355,1.518,-1.031,False,True,False,False,2.21848488,
+44,Bowl_1,-0.0219971612,0.7827366,1.3119967,True,False,False,True,1.07508445,['TableTop|-00.21|+00.02|+00.88']
+45,Wine_Bottle_1,-0.386300534,0.7809668,1.39017057,False,False,False,True,1.44515407,['TableTop|-00.21|+00.02|+00.88']
+46,Spatula_1,2.11866736,0.949,1.99348485,False,False,False,True,1.49690783,['CounterTop|+01.07|+00.97|+02.67']
+47,Knife_7,1.16920483,0.7937079,2.712506,False,False,False,True,1.72418642,['Sink|+00.94|+00.94|+02.65|SinkBasin']
+48,Tomato_27,0.588972867,0.8336824,2.635696,False,False,False,True,1.687891,['Sink|+00.94|+00.94|+02.65|SinkBasin']
+49,Apple27,2.0488,0.63366437,-0.405685961,False,False,False,True,1.77409208,['Fridge|+02.10|+00.00|-00.28']
+50,SinkBasin,0.904,0.7848543,2.64,True,False,False,False,1.646908,
+51,ButterKnife_1,1.6600523,0.9265227,2.473276,False,False,False,True,1.614578,['CounterTop|+01.07|+00.97|+02.67']
+52,Pot_27,1.85448289,0.9379,1.497,True,False,False,True,0.989197433,['StoveBurner|+01.87|+00.93|+01.50']
+53,Pepper_Shaker_2,2.04557347,0.926522553,1.86775076,False,False,False,True,1.35899472,['CounterTop|+01.07|+00.97|+02.67']
+54,Microwave_27,-0.311,0.9265226,2.078,True,False,True,False,1.69748533,['CounterTop|+01.07|+00.97|+02.67']
+55,Cup_27,-0.3269937,0.781558037,1.07600546,True,False,False,True,1.33452451,['TableTop|-00.21|+00.02|+00.88']
+56,Dish_Sponge_1,1.509751,0.926522732,2.83464718,False,False,False,True,1.90431821,['CounterTop|+01.07|+00.97|+02.67']
+57,Plate_27,-0.311999619,0.781055033,0.409001142,True,False,False,True,1.44395614,['TableTop|-00.21|+00.02|+00.88']
+58,Chair1,-0.209,0.0,0.111,False,False,False,False,1.75037229,
+59,Spoon_1,1.59262979,0.926522732,2.69475412,False,False,False,True,1.79556477,['CounterTop|+01.07|+00.97|+02.67']
+60,coffee_machine_27,2.116,0.927,2.668,True,False,False,False,2.00707626,['CounterTop|+01.07|+00.97|+02.67']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,CounterTop_Physics (1),-1.937,0.9778,-3.67361975,True,False,False,False,2.21844316,
+2,Table (1),-3.033,0.0,-0.441,True,False,False,False,2.06963,
+3,RoundTable,-3.616,0.668334246,-3.324,True,False,False,False,2.803313,
+4,GasBurner (3),-0.4374,0.9248,-1.8457,True,False,False,False,1.1176734,
+5,GasBurner (2),-0.2221,0.9248,-1.8457,True,False,False,False,1.324048,
+6,GasBurner (5),-0.4374,0.9248,-2.243,True,False,False,False,1.296817,
+7,Drawer,-0.5008438,0.7795613,-1.45077491,True,False,True,False,1.00771189,
+8,Drawer,-0.4819878,0.7776354,-2.73906875,True,False,True,False,1.60837138,
+9,Drawer,-1.1549,0.7825552,-3.4997,True,False,True,False,2.03271317,
+10,Cabinet,-0.3374645,2.11015034,-0.390895635,True,False,True,False,2.01088285,
+11,Cabinet,-0.3374645,2.11015034,-1.2722522,True,False,True,False,1.69275117,
+12,Cabinet,-0.3374645,2.11015034,-1.63180292,True,False,True,False,1.68253064,
+13,Cabinet,-0.3374645,2.11015034,-2.49760532,True,False,True,False,1.95160282,
+14,Cabinet,-0.3374645,1.89159608,-1.28656781,True,False,True,False,1.54218221,
+15,Cabinet,-0.3465439,1.89159608,-3.2933476,True,False,True,False,2.351136,
+16,Cabinet,-0.6298821,0.388845325,-2.5138638,True,False,True,False,1.43084788,
+17,Cabinet,-0.633017838,0.388845325,-3.00883436,True,False,True,False,1.81398451,
+18,Cabinet,-1.01078916,0.388845325,-3.36877871,True,False,True,False,1.99848986,
+19,Cabinet,-0.629882,0.388845325,-1.61498225,True,False,True,False,1.01618254,
+20,Cabinet,-0.327208459,1.88676023,-2.51386356,True,False,True,False,1.83714068,
+21,TableTop,-4.071,0.726,-0.309,True,False,False,False,2.83886361,
+22,CounterTop_Physics,-0.327,0.9768,-1.4505,True,False,False,False,1.17648852,
+23,GasBurner (4),-0.2221,0.9248,-2.243,True,False,False,False,1.47839236,
+24,Sink,-0.60041213,0.929,-3.38869524,False,False,False,False,2.09217882,
+25,Blinds,-1.388928,1.686,-3.975,False,False,False,False,2.59888244,
+26,Soap_Bottle_28,-0.841923535,0.9303702,-3.76082468,False,False,False,True,2.3548367,['CounterTop|-01.94|+00.98|-03.67']
+27,Pot_28,-0.606,0.8029107,-3.419,True,False,False,True,2.11929655,['Sink|-00.60|+00.93|-03.39|SinkBasin']
+28,StoveKnob2_Range1,-0.6177,0.8995,-1.8334,False,False,False,False,0.943192,
+29,StoveKnob2_Range3,-0.6177,0.8997,-2.1292,False,False,False,False,1.08367324,
+30,StoveKnob2_Range4,-0.618,0.9,-2.289,False,False,False,False,1.18340445,
+31,StoveKnob2_Range2,-0.6177,0.8996,-1.9754,False,False,False,False,1.00222778,
+32,Fork_1,-0.441209584,0.9318557,-1.32648242,False,False,False,True,1.07335818,['CounterTop|-00.33|+00.98|-01.45']
+33,Cup_28,-3.82000542,0.750220537,-3.10701156,True,False,False,True,2.82624221,['TableTop|-03.62|+00.67|-03.32']
+34,bin_28,-2.418992,0.0,-3.541296,True,False,False,False,2.41313767,
+35,Tomato_29,-2.29998064,0.9394893,-0.5079834,False,False,False,True,1.27496958,['TableTop|-03.03|+00.00|-00.44']
+36,coffee_machine_28,-2.514,0.9303702,-3.798,True,False,False,False,2.511944,['CounterTop|-01.94|+00.98|-03.67']
+37,Pan_28,-0.217,0.958,-2.215,True,False,False,True,1.46988535,"['StoveBurner|-00.44|+00.92|-02.24', 'StoveBurner|-00.22|+00.92|-02.24']"
+38,Bowl_1,-3.49099684,0.7519395,-3.59100151,True,False,False,True,2.89111972,['TableTop|-03.62|+00.67|-03.32']
+39,Plate_28,-0.196491852,0.942645,-1.46782207,True,False,False,True,1.3045702,['CounterTop|-00.33|+00.98|-01.45']
+40,LightSwitch28,-4.3724,1.493,-1.031,False,True,False,False,2.970035,
+41,Mug1,-2.514,0.971515834,-3.6494,True,False,False,True,2.3776226,"['CounterTop|-01.94|+00.98|-03.67', 'CoffeeMachine|-02.51|+00.93|-03.80']"
+42,Bread_28,-2.984,0.956136167,-0.311999977,False,False,False,True,1.90174663,['TableTop|-03.03|+00.00|-00.44']
+43,Spatula_1,-1.864,0.95,-3.501,False,False,False,True,2.03442812,['CounterTop|-01.94|+00.98|-03.67']
+44,Knife_7,-2.55800152,0.9373117,-3.467998,False,False,False,True,2.23465919,['CounterTop|-01.94|+00.98|-03.67']
+45,SinkBasin,-0.6141,0.8029107,-3.3846,True,False,False,False,2.084744,
+46,Salt_Shaker_1,-2.19661427,0.9303703,-3.51537418,False,False,False,True,2.132573,['CounterTop|-01.94|+00.98|-03.67']
+47,Pepper_Shaker_1,-1.64120328,0.9303702,-3.7100668,False,False,False,True,2.21476769,['CounterTop|-01.94|+00.98|-03.67']
+48,ButterKnife_1,-0.406771481,0.93037045,-2.52272773,False,False,False,True,1.49732542,['CounterTop|-01.94|+00.98|-03.67']
+49,Apple28,-0.4399579,0.995858669,-1.49760878,False,False,False,True,1.06428075,['CounterTop|-00.33|+00.98|-01.45']
+50,Fridge_28,-0.314911962,0.0,-0.646,True,False,True,False,1.71625972,
+51,Toaster_28,-1.97,0.930370152,-3.764,False,False,False,False,2.31245732,['CounterTop|-01.94|+00.98|-03.67']
+52,Dish_Sponge_1,-0.401169121,0.802910745,-3.28298235,False,False,False,True,2.09668231,['Sink|-00.60|+00.93|-03.39|SinkBasin']
+53,Potato_28,-0.415950179,1.2024,-1.08876157,False,False,False,True,1.19796658,
+54,Egg_28,-0.5234713,0.9750373,-1.511605,False,False,False,True,0.9794002,['CounterTop|-00.33|+00.98|-01.45']
+55,Microwave_28,-0.2169,1.47007012,-2.055,True,False,True,False,1.50937521,
+56,Spoon_1,-0.448350966,0.93037045,-2.57288766,False,False,False,True,1.50263655,['CounterTop|-01.94|+00.98|-03.67']
+57,Lettuce_28,-1.10039711,1.0171,-3.62348986,False,False,False,True,2.16387868,['CounterTop|-01.94|+00.98|-03.67']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,RangeStyle3_4 (4),0.3895,1.0437,-1.6302,True,False,False,False,1.42493725,
+2,RangeStyle1_Range1,0.0002,1.0481,-1.4,True,False,False,False,1.54455233,
+3,CounterTop_Physics,0.197,1.0824,-1.505,True,False,False,False,1.4634428,
+4,RangeStyle1_Range1 (2),0.5,1.0481,-1.4,True,False,False,False,1.1773454,
+5,CounterTop_Physics (1),0.969,1.0789,0.4151,True,False,False,False,0.9685838,
+6,Sink,0.932770848,1.0394,0.2860813,True,False,False,False,0.854543,
+7,RangeStyle3_4 (3),0.1202,1.0437,-1.6302,True,False,False,False,1.6020093,
+8,Cabinet,1.323,1.95574534,-1.31,True,False,True,False,1.30802,
+9,Cabinet,-0.867,1.95574534,-1.31,True,False,True,False,2.48742366,
+10,Cabinet,1.993,1.40334654,-1.11,True,False,True,False,1.07096994,
+11,Cabinet,-1.547,2.00148845,-1.11,True,False,True,False,3.05624151,
+12,Cabinet,-1.527,0.593851447,-1.11,True,False,True,False,2.86316276,
+13,Cabinet,-0.8523,0.5892619,-1.11,True,False,True,False,2.21557117,
+14,Cabinet,1.9901,0.593851447,-1.11,True,False,True,False,1.01672018,
+15,Cabinet,1.3363,0.5892619,-1.11,True,False,True,False,0.7046546,
+16,RangeStyle1_Range1 (1),0.2501,1.0481,-1.4,True,False,False,False,1.35034883,
+17,Soap_Bottle_29,1.016,1.03135026,0.506,False,False,False,True,1.03769076,['CounterTop|+00.97|+01.08|+00.42']
+18,Apple29,0.82546103,1.083528,0.294802517,False,False,False,True,0.913847744,['Sink|+00.93|+01.04|+00.29']
+19,Toaster_29,-0.5499855,1.03584647,-1.77718556,False,False,False,False,2.209543,['CounterTop|+00.20|+01.08|-01.51']
+20,Potato_29,0.282822251,1.0854,0.120851755,False,False,False,True,1.15958464,['CounterTop|+00.97|+01.08|+00.42']
+21,Microwave_29,-1.203,1.6138,-1.284,True,False,True,False,2.66414547,
+22,Fork_1,0.03133235,1.03306293,0.122093327,False,False,False,True,1.37204468,['CounterTop|+00.97|+01.08|+00.42']
+23,Fridge_29,-1.286,0.0202199928,1.833,True,False,True,False,3.56430244,
+24,bin_29,1.857,0.0293218568,2.387,True,False,False,False,3.08492851,
+25,Kettle_1,0.007360033,1.05505848,-1.400891,False,False,False,True,1.53982937,['StoveBurner|+00.00|+01.05|-01.40']
+26,Pan_29,0.965,1.03580177,-1.66,True,False,False,True,1.1990602,['CounterTop|+00.20|+01.08|-01.51']
+27,Tomato_29,-1.26069641,1.529331,2.23009181,False,False,False,True,3.75694537,['Fridge|-01.29|+00.02|+01.83']
+28,Salt_Shaker_2,-0.28018105,1.03580189,-1.74840367,False,False,False,True,1.977596,['CounterTop|+00.20|+01.08|-01.51']
+29,LightSwitch29,1.016,1.36,2.61984062,False,True,False,False,3.15783858,
+30,Bowl_1,0.995002031,0.193312988,-1.40189993,True,False,False,True,1.19292617,['Cabinet|+01.34|+00.59|-01.11']
+31,Egg_29,-1.12971222,1.272875,2.28039932,False,False,False,True,3.67563915,['Fridge|-01.29|+00.02|+01.83']
+32,Mug_1,1.10674179,1.035816,-1.346503,True,False,False,True,0.8648779,['CounterTop|+00.20|+01.08|-01.51']
+33,Cup_29,1.540817,1.0314585,0.660739064,True,False,False,True,1.2008003,['CounterTop|+00.97|+01.08|+00.42']
+34,Spatula_1,-0.2960621,1.053,-1.27796245,False,False,False,True,1.73503447,['CounterTop|+00.20|+01.08|-01.51']
+35,Knife_7,0.8770001,1.04274333,-1.36299992,False,False,False,True,0.9467403,['CounterTop|+00.20|+01.08|-01.51']
+36,coffee_machine_29,1.93,1.031,0.441,True,False,False,False,1.16525567,['CounterTop|+00.97|+01.08|+00.42']
+37,SinkBasin,1.2168,0.9321147,0.2298,True,False,False,False,0.7305552,
+38,Lettuce_29,0.8581975,1.1033,0.1359,False,False,False,True,0.7664606,['Sink|+00.93|+01.04|+00.29']
+39,ButterKnife_1,0.109,1.03135037,0.368,False,False,False,True,1.43712044,['CounterTop|+00.97|+01.08|+00.42']
+40,StoveKnob1_Range5,0.0,1.0461,-1.22,False,False,False,False,1.44709325,
+41,StoveKnob1_Range4,0.09,1.0461,-1.22,False,False,False,False,1.37010181,
+42,StoveKnob1_Range3,0.247,1.0461,-1.22,False,False,False,False,1.23999512,
+43,StoveKnob1_Range1,0.49,1.0461,-1.22,False,False,False,False,1.05317569,
+44,StoveKnob1_Range2,0.39,1.0461,-1.22,False,False,False,False,1.12746572,
+45,Pepper_Shaker_2,-0.327227235,1.035802,-1.60542238,False,False,False,True,1.92886627,['CounterTop|+00.20|+01.08|-01.51']
+46,Dish_Sponge_1,0.745779753,1.04075944,0.305152744,False,False,False,True,0.9562899,['Sink|+00.93|+01.04|+00.29']
+47,Plate_29,0.6311684,1.04613209,0.666609,True,False,False,True,1.32556236,['CounterTop|+00.97|+01.08|+00.42']
+48,Chair1 (1),1.62459457,0.04184538,0.8647446,False,False,False,False,1.67152011,
+49,Chair1,0.995848656,0.0775800347,0.8174204,False,False,False,False,1.59029186,
+50,Bread_29,0.406,1.1043036,0.352999955,False,False,False,True,1.212384,['CounterTop|+00.97|+01.08|+00.42']
+51,Spoon_1,0.07131696,1.03135026,0.2296822,False,False,False,True,1.38987041,['CounterTop|+00.97|+01.08|+00.42']
+52,Pot_29,-0.377,0.191,-1.313,True,False,False,True,1.96370637,['Cabinet|-00.85|+00.59|-01.11']
+id,name,x,y,z,receptacle,toggleable,openable,pickupable,distance,parentReceptacles
+1,Drawer (4),0.3765,0.5729,-1.51,True,False,True,False,1.07886827,
+2,Drawer (20),3.021,0.7692,-0.7838,True,False,True,False,2.79015946,
+3,Drawer (14),-0.86,0.5772,1.4298,True,False,True,False,2.2541132,
+4,RangeStyle4_Range1 (1),-0.6002,0.8975,-1.0901,True,False,False,False,1.03544438,
+5,Drawer (6),0.3765,0.1915,-1.51,True,False,True,False,1.2578454,
+6,Cabinet,1.40241611,1.87434757,-1.26,True,False,True,False,1.67229557,
+7,Cabinet,-0.202076912,1.963981,-1.32862508,True,False,True,False,1.399694,
+8,Drawer (15),-0.86,0.7657855,1.4298,True,False,True,False,2.23234153,
+9,Drawer,-0.6771,0.765785336,-0.701,True,False,True,False,0.9628269,
+10,RangeStyle4_Range1,-0.4203,0.8975,-0.9203,True,False,False,False,0.7918592,
+11,Drawer (19),3.021,0.7692,-0.4076,True,False,True,False,2.77722621,
+12,Drawer (10),-0.86,0.5772,0.6631,True,False,True,False,1.6461165,
+13,Cabinet,2.82,1.76886857,-1.85,True,False,True,False,3.02164125,
+14,CounterTop_Physics,3.111,0.9363,0.02,True,False,False,False,2.90787816,
+15,Mirror (1),-1.29500055,1.63020015,0.0456537,False,False,False,False,1.7816819,
+16,CounterTop_Physics,-1.0079217,0.9358,-0.0394,True,False,False,False,1.33960736,
+17,Drawer (12),-0.86,0.3856,0.6631,True,False,True,False,1.69758129,
+18,RangeStyle4_Range1 (2),-0.4198,0.8975,-1.2699,True,False,False,False,1.02101171,
+19,Drawer (1),-0.0475,0.5736,-1.3243,True,False,True,False,0.946219444,
+20,Drawer (11),-0.86,0.7657855,0.6631,True,False,True,False,1.616175,
+21,Drawer (8),-0.86,0.3856,-0.1,True,False,True,False,1.29960787,
+22,Drawer (5),0.3765,0.3808,-1.51,True,False,True,False,1.15682173,
+23,Drawer,-0.86,0.7657855,-0.1,True,False,True,False,1.19131029,
+24,Drawer,0.3765,0.765785336,-1.51,True,False,True,False,1.03112674,
+25,Cabinet,2.85,0.4199711,0.41,True,False,True,False,2.8015542,
+26,Drawer,-0.0475,0.765785336,-1.3243,True,False,True,False,0.891682148,
+27,Cabinet,2.85,0.41997093,-0.61,True,False,True,False,2.651925,
+28,Cabinet,2.85,0.41997087,-0.96,True,False,True,False,2.68927622,
+29,Cabinet,3.07,1.66616762,-0.71,True,False,True,False,2.92194343,
+30,Cabinet,2.82,1.76886857,-1.047,True,False,True,False,2.75808358,
+31,Cabinet,0.62,1.87434757,-1.26,True,False,True,False,1.26704764,
+32,Cabinet,0.14,1.66616738,-1.56,True,False,True,False,1.29497266,
+33,Cabinet,-0.19,1.66616738,-1.34,True,False,True,False,1.20018935,
+34,Cabinet,-0.71,1.963981,-0.82,True,False,True,False,1.44642675,
+35,Cabinet,-0.92,1.6655674,-0.62,True,False,True,False,1.386965,
+36,Drawer (9),-0.86,0.1901,-0.1,True,False,True,False,1.39292645,
+37,Drawer (18),3.021,0.7692,0.6955,True,False,True,False,3.02219582,
+38,Drawer (1),-0.6771,0.577,-0.701,True,False,True,False,1.012351,
+39,Drawer (17),-0.86,0.1901,1.4298,True,False,True,False,2.34614,
+40,Drawer (3),-0.0475,0.192,-1.3243,True,False,True,False,1.14599776,
+41,Drawer (3),-0.6771,0.193,-0.701,True,False,True,False,1.20157135,
+42,Drawer (7),-0.86,0.5772,-0.1,True,False,True,False,1.23162413,
+43,Sink,3.078,0.8879,0.087,False,False,False,False,2.88859224,
+44,RangeStyle4_Range1 (3),-0.2394,0.8975,-1.0895,True,False,False,False,0.766882956,
+45,Drawer (13),-0.86,0.1901,0.6631,True,False,True,False,1.77004111,
+46,CounterTop_Physics,1.211,0.9372,0.464,True,False,False,False,1.36119878,
+47,Drawer (2),-0.0475,0.3817,-1.3243,True,False,True,False,1.03398383,
+48,Drawer (2),-0.6771,0.3875,-0.701,True,False,True,False,1.09303665,
+49,Mirror,-1.29500055,1.63020015,0.0456537,False,False,False,False,1.7816819,
+50,Drawer (16),-0.86,0.3856,1.4298,True,False,True,False,2.2919662,
+51,Plate_30,-0.953875244,0.886868358,0.699227333,True,False,False,True,1.69981253,['CounterTop|-01.01|+00.94|-00.04']
+52,Bottle_1,-0.135684967,0.8731569,-1.57804632,False,False,False,True,1.14639485,['CounterTop|-01.01|+00.94|-00.04']
+53,Soap_Bottle_30,3.32756472,0.89022,0.328372717,False,False,False,True,3.187354,['CounterTop|+03.11|+00.94|+00.02']
+54,Potato_30,2.87656236,0.9317,-0.7525642,False,False,False,True,2.6386776,['CounterTop|+03.11|+00.94|+00.02']
+55,Houseplant_30,3.196,0.890219867,-0.368,False,False,False,False,2.94923067,['CounterTop|+03.11|+00.94|+00.02']
+56,StoveKnob2_Range1,-0.09,0.7908,-1.01,False,False,False,False,0.628654957,
+57,StoveKnob2_Range3,-0.28,0.7908,-0.82,False,False,False,False,0.634670734,
+58,StoveKnob2_Range2,-0.18,0.7908,-0.92,False,False,False,False,0.617095649,
+59,StoveKnob2_Range4,-0.37,0.7908,-0.72,False,False,False,False,0.672537744,
+60,Fork_1,3.122914,0.7385286,0.181555152,False,False,False,True,2.95888376,['Sink|+03.08|+00.89|+00.09|SinkBasin']
+61,bin_30,3.182,0.0294681117,1.6,True,False,False,False,3.717314,
+62,Ladle_1,0.755162,0.922918737,0.939225554,False,False,False,True,1.52532482,['CounterTop|+01.21|+00.94|+00.46']
+63,Pot_30,0.4232557,0.90096,0.869321465,True,False,False,True,1.38055408,['CounterTop|+01.21|+00.94|+00.46']
+64,Kettle_1,-0.237708971,0.904458463,-1.09930182,False,False,False,True,0.773110032,['StoveBurner|-00.24|+00.90|-01.09']
+65,Bowl_1,1.20659649,0.90263927,0.825303435,True,False,False,True,1.63471115,['CounterTop|+01.21|+00.94|+00.46']
+66,Window,3.453,1.676,0.047,False,False,False,False,3.33380222,
+67,Spatula_1,1.4,0.9089,0.189,False,False,False,True,1.34077811,['CounterTop|+01.21|+00.94|+00.46']
+68,Knife_7,1.368006,0.9070328,0.311013818,False,False,False,True,1.381387,['CounterTop|+01.21|+00.94|+00.46']
+69,Lettuce_30,0.8405,0.7653,-1.4229,False,False,False,True,1.10802293,['Fridge|+01.01|+00.03|-01.47']
+70,coffee_machine_30,3.215,0.89,0.698,True,False,False,False,3.198135,['CounterTop|+03.11|+00.94|+00.02']
+71,LightSwitch30,2.59212875,1.31,-1.88000035,False,True,False,False,2.74481559,
+72,Cup_30,-0.888450146,0.872994,0.1616742,True,False,False,True,1.318023,['CounterTop|-01.01|+00.94|-00.04']
+73,SinkBasin,3.07,0.7368015,0.1083,True,False,False,False,2.89135528,
+74,Salt_Shaker_1,-0.836,0.873156965,-0.869,False,False,False,True,1.14840817,['CounterTop|-01.01|+00.94|-00.04']
+75,Egg_30,0.8220346,1.118328,-1.4381274,False,False,False,True,1.11471891,['Fridge|+01.01|+00.03|-01.47']
+76,Pepper_Shaker_1,-0.7764282,0.873156965,-0.964247048,False,False,False,True,1.12799144,['CounterTop|-01.01|+00.94|-00.04']
+77,Fridge_30,1.008,0.0294676572,-1.4679,True,False,True,False,1.52420318,
+78,ButterKnife_1,1.587939,0.9000966,-0.0117800236,False,False,False,True,1.42455673,['CounterTop|+01.21|+00.94|+00.46']
+79,Apple30,1.30027854,0.9767344,0.0202123187,False,False,False,True,1.17296481,['CounterTop|+01.21|+00.94|+00.46']
+80,Pan_30,0.341,0.8731569,-1.649,True,False,False,True,1.154022,['CounterTop|-01.01|+00.94|-00.04']
+81,Bread_30,1.5342,0.9728931,0.4868329,False,False,False,True,1.62012613,['CounterTop|+01.21|+00.94|+00.46']
+82,Mug_3,1.10059917,0.9001099,0.108402044,True,False,False,True,1.04622829,['CounterTop|+01.21|+00.94|+00.46']
+83,Cellphone_6,1.6119287,0.90108645,0.830330133,False,False,False,True,1.90407228,['CounterTop|+01.21|+00.94|+00.46']
+84,Dish_Sponge_1,2.95286918,0.890219867,-0.289856344,False,False,False,True,2.71132469,['CounterTop|+03.11|+00.94|+00.02']
+85,Toaster_30,-1.036,0.873156369,-0.397000164,False,False,False,False,1.29139054,['CounterTop|-01.01|+00.94|-00.04']
+86,Tomato_30,0.9451241,0.915830553,-1.47224987,False,False,False,True,1.19527471,['Fridge|+01.01|+00.03|-01.47']
+87,Spoon_1,3.112617,0.7368015,-0.03772881,False,False,False,True,2.90616179,['Sink|+03.08|+00.89|+00.09|SinkBasin']
+88,Microwave_30,-1.034,0.8891927,1.429,True,False,True,False,2.31762838,
